@@ -1,0 +1,23 @@
+{
+	"name": "@markbattistella/exposure-vic-api",
+	"description": "Get the exposure sites and coordinates",
+	"version": "1.0.1",
+	"main": "bin/index.js",
+	"author": "Mark Battistella (https://twitter.com/markbattistella)",
+	"license": "MIT",
+	"homepage": "https://github.com/markbattistella/markdown-safe-link",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/markbattistella/exposure-vic-api.git"
+	},
+	"bugs": {
+		"url": "git+https://github.com/markbattistella/exposure-vic-api/issues"
+	},
+	"dependencies": {
+		"axios": "^0.21.1"
+	},
+	"scripts": {},
+	"bin": {
+		"api": "bin/index.js"
+	}
+}
