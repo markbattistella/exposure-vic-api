@@ -13,6 +13,12 @@
         "Site_state":"VIC",
         "Site_postcode":"3136"
       },
+	  {
+        "Suburb":"Croydon",
+        "Site_streetaddress":"Level 1, Shop 20 Croydon Central, 5 Kent Avenue\t",
+        "Site_state":"VIC",
+        "Site_postcode":"3136"
+      },
       {
         "Suburb":"TEST NULL",
         "Site_streetaddress":null,
