@@ -1,44 +1,44 @@
 [
   {
-    Suburb: 'Croydon',
-    Site_streetaddress: 'Shop 20 Croydon Central, 5 Kent Avenue\t',
-    Site_state: 'VIC',
-    Site_postcode: '3136'
+    "Suburb":"Croydon",
+    "Site_streetaddress":"Shop 20 Croydon Central, 5 Kent Avenue\t",
+    "Site_state":"VIC",
+    "Site_postcode":"3136"
   },
   {
-    Suburb: 'Croydon',
-    Site_streetaddress: 'Shop 20 Croydon Central, 5 Kent Avenue\t',
-    Site_state: 'VIC',
-    Site_postcode: '3136'
+    "Suburb":"Croydon",
+    "Site_streetaddress":"Shop 20 Croydon Central, 5 Kent Avenue\t",
+    "Site_state":"VIC",
+    "Site_postcode":"3136"
   },
   {
-    Suburb: 'TEST NULL',
-    Site_streetaddress: null,
-    Site_state: 'VIC',
-    Site_postcode: null
+    "Suburb":"TEST NULL",
+    "Site_streetaddress":null,
+    "Site_state":"VIC",
+    "Site_postcode":null
   },
   {
-    Suburb: 'Broadmeadows',
-    Site_streetaddress: '13 Nepean Street\t',
-    Site_state: 'VIC',
-    Site_postcode: '3047'
+    "Suburb":"Broadmeadows",
+    "Site_streetaddress":"13 Nepean Street\t",
+    "Site_state":"VIC",
+    "Site_postcode":"3047"
   },
   {
-    Suburb: 'Melbourne ',
-    Site_streetaddress: 'Level 3/1-11 Jane Bell Lane\t',
-    Site_state: 'VIC',
-    Site_postcode: '3000'
+    "Suburb":"Melbourne ",
+    "Site_streetaddress":"Level 3/1-11 Jane Bell Lane\t",
+    "Site_state":"VIC",
+    "Site_postcode":"3000"
   },
   {
-    Suburb: 'Melbourne ',
-    Site_streetaddress: '37 Swanston Street\t',
-    Site_state: 'VIC',
-    Site_postcode: '3000'
+    "Suburb":"Melbourne ",
+    "Site_streetaddress":"37 Swanston Street\t",
+    "Site_state":"VIC",
+    "Site_postcode":"3000"
   },
   {
-    Suburb: 'Lilydale',
-    Site_streetaddress: '331 Main Street',
-    Site_state: 'VIC',
-    Site_postcode: '3140'
+    "Suburb":"Lilydale",
+    "Site_streetaddress":"331 Main Street",
+    "Site_state":"VIC",
+    "Site_postcode":"3140"
   }
 ]
