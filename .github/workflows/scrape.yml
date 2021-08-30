@@ -1,0 +1,24 @@
+# title of workflow
+name: Scrape and goecode
+
+# when to trigger
+on:
+  schedule:
+    - cron: '0 * * * *'
+    workflow_dispatch:
+
+# what to run
+jobs:
+
+  # job #1
+  scrape-geocode:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - run: npm ci
+        run: node index.js --api=${{ secrets.GEOCODE_API }}
+    - name: Committing changes
+      uses: EndBug/add-and-commit@v7
+      with:
+        author_name: Github Actions
+        author_email: actions@github.com
