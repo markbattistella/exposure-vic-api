@@ -5563,5 +5563,35 @@
     "latitude": -37.977335,
     "longitude": 145.222747,
     "label": "82 Stud Road, Dandenong, VIC, Australia"
+  },
+  {
+    "Suburb": "Kialla",
+    "Site_streetaddress": "8010 Goulburn Valley Highway",
+    "Site_state": "VIC",
+    "Site_postcode": "3631",
+    "confidence": 1,
+    "latitude": -36.410029,
+    "longitude": 145.393633,
+    "label": "8010 Goulburn Valley Highway, Kialla, VIC, Australia"
+  },
+  {
+    "Suburb": "Mulgrave",
+    "Site_streetaddress": "441 Police Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3170",
+    "confidence": 1,
+    "latitude": -37.938249,
+    "longitude": 145.20339,
+    "label": "441 Police Road, Mulgrave, VIC, Australia"
+  },
+  {
+    "Suburb": "Shepparton",
+    "Site_streetaddress": "263 Maude Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3630",
+    "confidence": 1,
+    "latitude": -36.382096,
+    "longitude": 145.400871,
+    "label": "263 Maude Street, Shepparton, VIC, Australia"
   }
 ]
