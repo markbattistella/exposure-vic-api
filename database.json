@@ -5073,5 +5073,85 @@
     "latitude": -37.8312041,
     "longitude": 144.8464549,
     "label": "Altona North, VIC, Australia"
+  },
+  {
+    "Suburb": "Ardeer South",
+    "Site_streetaddress": "Western Ring Rd",
+    "Site_state": "VIC",
+    "Site_postcode": "3022",
+    "confidence": 0.6,
+    "latitude": -37.77583,
+    "longitude": 144.800645,
+    "label": "Ardeer, VIC, Australia"
+  },
+  {
+    "Suburb": "Burwood",
+    "Site_streetaddress": "Cnr Burwood Highway & Scott Grove",
+    "Site_state": "VIC",
+    "Site_postcode": "3125",
+    "confidence": 0.6,
+    "latitude": -37.850028,
+    "longitude": 145.107804,
+    "label": "Burwood, VIC, Australia"
+  },
+  {
+    "Suburb": "Dallas",
+    "Site_streetaddress": "23 Koroit Ave",
+    "Site_state": "VIC",
+    "Site_postcode": "3047",
+    "confidence": 1,
+    "latitude": -37.672357,
+    "longitude": 144.927066,
+    "label": "23 Koroit Avenue, Dallas, VIC, Australia"
+  },
+  {
+    "Suburb": "Williamstown",
+    "Site_streetaddress": "29 Douglas Parade",
+    "Site_state": "VIC",
+    "Site_postcode": "3016",
+    "confidence": 1,
+    "latitude": -37.857555,
+    "longitude": 144.897574,
+    "label": "29 Douglas Parade, Williamstown, VIC, Australia"
+  },
+  {
+    "Suburb": "St Albans",
+    "Site_streetaddress": "315/321 Main Rd E",
+    "Site_state": "VIC",
+    "Site_postcode": "3021",
+    "confidence": 1,
+    "latitude": -37.745321,
+    "longitude": 144.801865,
+    "label": "315-321 Main Road East, St Albans, VIC, Australia"
+  },
+  {
+    "Suburb": "St Albans",
+    "Site_streetaddress": "45 Conrad St",
+    "Site_state": "VIC",
+    "Site_postcode": "3021",
+    "confidence": 1,
+    "latitude": -37.73433,
+    "longitude": 144.805784,
+    "label": "45 Conrad Street, St Albans, VIC, Australia"
+  },
+  {
+    "Suburb": "Gladstone Park",
+    "Site_streetaddress": "8/34 Gladstone Park Drive",
+    "Site_state": "VIC",
+    "Site_postcode": "3043",
+    "confidence": 1,
+    "latitude": -37.689209,
+    "longitude": 144.884602,
+    "label": "34/8-34 Gladstone Park Drive, Gladstone Park, VIC, Australia"
+  },
+  {
+    "Suburb": "Shepparton",
+    "Site_streetaddress": "21 Benalla Rd",
+    "Site_state": "VIC",
+    "Site_postcode": "3630",
+    "confidence": 1,
+    "latitude": -36.383234,
+    "longitude": 145.414799,
+    "label": "21 Benalla Road, Shepparton, VIC, Australia"
   }
 ]
