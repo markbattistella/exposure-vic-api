@@ -5239,7 +5239,7 @@
     "Site_streetaddress": "Corner Blackshawâ€™s Road & Millers Road",
     "Site_state": "VIC",
     "Site_postcode": "3025",
-	"confidence": 1,
+    "confidence": 1,
     "latitude": -37.8312192,
     "longitude": 144.8460064,
     "label": "Altona North, VIC, Australia"
@@ -5593,5 +5593,15 @@
     "latitude": -36.382096,
     "longitude": 145.400871,
     "label": "263 Maude Street, Shepparton, VIC, Australia"
+  },
+  {
+    "Suburb": "Brunswick  ",
+    "Site_streetaddress": "37 - 43 Breese Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3056",
+    "confidence": 1,
+    "latitude": -37.762024,
+    "longitude": 144.961457,
+    "label": "37-43 Breese Street, Brunswick, VIC, Australia"
   }
 ]
