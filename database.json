@@ -5483,5 +5483,45 @@
     "latitude": -37.551129,
     "longitude": 143.819443,
     "label": "Ballarat Acquatic and Leisure Centre, Lake Gardens, VIC, Australia"
+  },
+  {
+    "Suburb": "Northcote",
+    "Site_streetaddress": "Separation Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3070",
+    "confidence": 0.6,
+    "latitude": -37.772845,
+    "longitude": 145.000646,
+    "label": "Northcote, VIC, Australia"
+  },
+  {
+    "Suburb": "Heidelberg West",
+    "Site_streetaddress": "21 Alamein Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3081",
+    "confidence": 1,
+    "latitude": -37.739231,
+    "longitude": 145.040721,
+    "label": "21 Alamein Road, Heidelberg West, VIC, Australia"
+  },
+  {
+    "Suburb": "Dandenong",
+    "Site_streetaddress": "135 Davide Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3175",
+    "confidence": 0.6,
+    "latitude": -38.020442,
+    "longitude": 145.221637,
+    "label": "Dandenong South, VIC, Australia"
+  },
+  {
+    "Suburb": "Tarneit",
+    "Site_streetaddress": "410 Derrimut Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3029",
+    "confidence": 1,
+    "latitude": -37.848287,
+    "longitude": 144.688566,
+    "label": "410 Derrimut Road, Tarneit, VIC, Australia"
   }
 ]
