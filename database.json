@@ -5413,5 +5413,35 @@
     "latitude": -37.74228,
     "longitude": 144.780822,
     "label": "263A Main Road W, St Albans, VIC, Australia"
+  },
+  {
+    "Suburb": "Melbourne",
+    "Site_streetaddress": "211 LaTrobe Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3000",
+    "confidence": 0.6,
+    "latitude": -37.825071,
+    "longitude": 144.978682,
+    "label": "Melbourne, VIC, Australia"
+  },
+  {
+    "Suburb": "Cairnlea",
+    "Site_streetaddress": "100 Furlong Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3023",
+    "confidence": 1,
+    "latitude": -37.757917,
+    "longitude": 144.789893,
+    "label": "100 Furlong Road, Cairnlea, VIC, Australia"
+  },
+  {
+    "Suburb": "Dandenong",
+    "Site_streetaddress": "63 Cleeland Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3175",
+    "confidence": 1,
+    "latitude": -37.981224,
+    "longitude": 145.215049,
+    "label": "63 Cleeland Street, Dandenong, VIC, Australia"
   }
 ]
