@@ -1,0 +1,5077 @@
+[
+  {
+    "Suburb": "Glen Waverley",
+    "Site_streetaddress": "615 - 621 Ferntree Gully Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3150",
+    "confidence": 1,
+    "latitude": -37.903223,
+    "longitude": 145.160916,
+    "label": "615-621 Ferntree Gully Road, Glen Waverley, VIC, Australia"
+  },
+  {
+    "Suburb": "Dandenong",
+    "Site_streetaddress": "135 David Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3175",
+    "confidence": 1,
+    "latitude": -37.977337,
+    "longitude": 145.220576,
+    "label": "135 David Street, Dandenong, VIC, Australia"
+  },
+  {
+    "Suburb": "Melbourne",
+    "Site_streetaddress": "Elizabeth Street & Flinders Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3000",
+    "confidence": 1,
+    "latitude": -37.8177038,
+    "longitude": 144.9628178,
+    "label": "Flinders Street Station, Elizabeth & Flinders Streets, Melbourne, VIC, Australia"
+  },
+  {
+    "Suburb": "Shepparton",
+    "Site_streetaddress": "425-429 Wyndham Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3630",
+    "confidence": 1,
+    "latitude": -36.383761,
+    "longitude": 145.399036,
+    "label": "425-429 Wyndham Street, Shepparton, VIC, Australia"
+  },
+  {
+    "Suburb": "Altona North",
+    "Site_streetaddress": "302-330 Millers Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3025",
+    "confidence": 1,
+    "latitude": -37.837353,
+    "longitude": 144.847153,
+    "label": "Altona North, VIC, Australia"
+  },
+  {
+    "Suburb": "Campbellfield",
+    "Site_streetaddress": "Corner Sydney and Boxforrest Roads",
+    "Site_state": "VIC",
+    "Site_postcode": "3060",
+    "confidence": 1,
+    "latitude": -37.704174,
+    "longitude": 144.959812,
+    "label": "Bakers & Sydney Roads, Coburg North, VIC, Australia"
+  },
+  {
+    "Suburb": "Ringwood",
+    "Site_streetaddress": "420 Maroondah Highway",
+    "Site_state": "VIC",
+    "Site_postcode": "3134",
+    "confidence": 1,
+    "latitude": -37.814845,
+    "longitude": 145.229604,
+    "label": "420/175 Maroondah Highway, Ringwood, VIC, Australia"
+  },
+  {
+    "Suburb": "Chirnside Park",
+    "Site_streetaddress": "Corner Maroondah Highway and Old Melbourne Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3116",
+    "confidence": 1,
+    "latitude": -37.764752,
+    "longitude": 145.304846,
+    "label": "Chirnside Park, VIC, Australia"
+  },
+  {
+    "Suburb": "Chadstone",
+    "Site_streetaddress": "1341 Dandenong Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3148",
+    "confidence": 1,
+    "latitude": -37.887682,
+    "longitude": 145.080605,
+    "label": "Chadstone, VIC, Australia"
+  },
+  {
+    "Suburb": "Shepparton",
+    "Site_streetaddress": "310 High Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3630",
+    "confidence": 1,
+    "latitude": -36.38329,
+    "longitude": 145.411692,
+    "label": "310 High Street, Shepparton, VIC, Australia"
+  },
+  {
+    "Suburb": "Altona North",
+    "Site_streetaddress": "1 Horsburgh Drive",
+    "Site_state": "VIC",
+    "Site_postcode": "3025",
+    "confidence": 1,
+    "latitude": -37.846491,
+    "longitude": 144.809276,
+    "label": "1 Horsburgh Drive, Altona North, VIC, Australia"
+  },
+  {
+    "Suburb": "North Melbourne",
+    "Site_streetaddress": "Vaughan Terrace & Canning Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3051",
+    "confidence": 1,
+    "latitude": -37.800611,
+    "longitude": 144.944264,
+    "label": "North Melbourne, VIC, Australia"
+  },
+  {
+    "Suburb": "Hillside",
+    "Site_streetaddress": "575 Melton Highway",
+    "Site_state": "VIC",
+    "Site_postcode": "3037",
+    "confidence": 1,
+    "latitude": -37.69374,
+    "longitude": 144.755858,
+    "label": "575 Melton Highway, Hillside, VIC, Australia"
+  },
+  {
+    "Suburb": "Melton",
+    "Site_streetaddress": "Unit 3, 533-555 High Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3337",
+    "confidence": 1,
+    "latitude": -37.687645,
+    "longitude": 144.565365,
+    "label": "Melton, VIC, Australia"
+  },
+  {
+    "Suburb": "Melbourne",
+    "Site_streetaddress": "565 Flinders Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3000",
+    "confidence": 1,
+    "latitude": -37.821068,
+    "longitude": 144.955899,
+    "label": "565 Flinders Street, Melbourne, VIC, Australia"
+  },
+  {
+    "Suburb": "Cremorne",
+    "Site_streetaddress": "98 Balmain Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3121",
+    "confidence": 1,
+    "latitude": -37.830372,
+    "longitude": 144.995491,
+    "label": "98A Balmain Street, Cremorne, VIC, Australia"
+  },
+  {
+    "Suburb": "Keilor Park",
+    "Site_streetaddress": "Shop 32a/40 Keilor Park Drive",
+    "Site_state": "VIC",
+    "Site_postcode": "3042",
+    "confidence": 1,
+    "latitude": -37.723466,
+    "longitude": 144.849587,
+    "label": "BP Shop, Keilor Park, VIC, Australia"
+  },
+  {
+    "Suburb": "Abbotsford",
+    "Site_streetaddress": "10/313 Victoria Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3067",
+    "confidence": 1,
+    "latitude": -37.809874,
+    "longitude": 144.995512,
+    "label": "313 Victoria Street, Abbotsford, VIC, Australia"
+  },
+  {
+    "Suburb": "North Melbourne",
+    "Site_streetaddress": "415 - 429 Flemington Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3051",
+    "confidence": 1,
+    "latitude": -37.7890705,
+    "longitude": 144.9389467,
+    "label": "North Melbourne, VIC, Australia"
+  },
+  {
+    "Suburb": "Abbotsford",
+    "Site_streetaddress": "501/509 Victoria Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3067",
+    "confidence": 1,
+    "latitude": -37.811123,
+    "longitude": 145.007942,
+    "label": "509/615 Victoria Street, Abbotsford, VIC, Australia"
+  },
+  {
+    "Suburb": "Abbotsford",
+    "Site_streetaddress": "313/325 Victoria Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3067",
+    "confidence": 1,
+    "latitude": -37.811123,
+    "longitude": 145.007942,
+    "label": "325/611 Victoria Street, Abbotsford, VIC, Australia"
+  },
+  {
+    "Suburb": "St Kilda",
+    "Site_streetaddress": "167B Fitzroy Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3182",
+    "confidence": 1,
+    "latitude": -37.858382,
+    "longitude": 144.980246,
+    "label": "167 Fitzroy Street, St Kilda, VIC, Australia"
+  },
+  {
+    "Suburb": "Windsor",
+    "Site_streetaddress": "128 Chapel Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3181",
+    "confidence": 1,
+    "latitude": -37.853673,
+    "longitude": 144.9932,
+    "label": "128 Chapel Street, Windsor, VIC, Australia"
+  },
+  {
+    "Suburb": "Tarneit",
+    "Site_streetaddress": "Derrimut Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3029",
+    "confidence": 1,
+    "latitude": -37.8372993,
+    "longitude": 144.6891492,
+    "label": "Tarneit, VIC, Australia"
+  },
+  {
+    "Suburb": "Altona North",
+    "Site_streetaddress": "302/330 Millers Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3025",
+    "confidence": 1,
+    "latitude": -37.83746,
+    "longitude": 144.847194,
+    "label": "300-330 Millers Road, Altona North, VIC, Australia"
+  },
+  {
+    "Suburb": "Richmond",
+    "Site_streetaddress": "354 Victoria Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3121",
+    "confidence": 1,
+    "latitude": -37.810984,
+    "longitude": 145.003251,
+    "label": "354 Victoria Street, Richmond, VIC, Australia"
+  },
+  {
+    "Suburb": "Richmond",
+    "Site_streetaddress": "200 Swan Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3121",
+    "confidence": 1,
+    "latitude": -37.825655,
+    "longitude": 144.996188,
+    "label": "200 Swan Street, Richmond, VIC, Australia"
+  },
+  {
+    "Suburb": "Traralgon",
+    "Site_streetaddress": "Grey Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3844",
+    "confidence": 1,
+    "latitude": -38.1942147,
+    "longitude": 146.5378402,
+    "label": "Traralgon, VIC, Australia"
+  },
+  {
+    "Suburb": "Traralgon",
+    "Site_streetaddress": "166-188 Franklin Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3844",
+    "confidence": 1,
+    "latitude": -38.1949535,
+    "longitude": 146.5376644,
+    "label": "Traralgon, VIC, Australia"
+  },
+  {
+    "Suburb": "Altona North",
+    "Site_streetaddress": "Millers Road & Duosa Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3025",
+    "confidence": 1,
+    "latitude": -37.8277061,
+    "longitude": 144.8455116,
+    "label": "Millers Civil Contractors & Plant Hire, Horsham, VIC, Australia"
+  },
+  {
+    "Suburb": "Laverton North",
+    "Site_streetaddress": "3/9/19 Leakes Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3026",
+    "confidence": 1,
+    "latitude": -37.8455352,
+    "longitude": 144.7763299,
+    "label": "Laverton North, VIC, Australia"
+  },
+  {
+    "Suburb": "Richmond",
+    "Site_streetaddress": "F1/620 Victoria Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3121",
+    "confidence": 1,
+    "latitude": -37.811805,
+    "longitude": 145.011393,
+    "label": "620 Victoria Street, Richmond, VIC, Australia"
+  },
+  {
+    "Suburb": "Altona North ",
+    "Site_streetaddress": "45 The Circle ",
+    "Site_state": "VIC",
+    "Site_postcode": "3025",
+    "confidence": 1,
+    "latitude": -37.836706,
+    "longitude": 144.863388,
+    "label": "45 The Circle, Altona North, VIC, Australia"
+  },
+  {
+    "Suburb": "Echuca",
+    "Site_streetaddress": "21 Hartshorn Drive",
+    "Site_state": "VIC",
+    "Site_postcode": "3564",
+    "confidence": 1,
+    "latitude": -36.131631,
+    "longitude": 144.721585,
+    "label": "21 Hartshorn Drive, Echuca-Moama, VIC, Australia"
+  },
+  {
+    "Suburb": "Melton",
+    "Site_streetaddress": "383-385 High street",
+    "Site_state": "VIC",
+    "Site_postcode": "3337",
+    "confidence": 1,
+    "latitude": -37.683987,
+    "longitude": 144.580994,
+    "label": "383-385 High Street, Melton, VIC, Australia"
+  },
+  {
+    "Suburb": "Docklands",
+    "Site_streetaddress": "201 Spencer Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3000",
+    "confidence": 1,
+    "latitude": -37.814798,
+    "longitude": 144.951804,
+    "label": "201 Spencer Street, Docklands, VIC, Australia"
+  },
+  {
+    "Suburb": "St Kilda",
+    "Site_streetaddress": "64 Fitzroy Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3182",
+    "confidence": 1,
+    "latitude": -37.859212,
+    "longitude": 144.977774,
+    "label": "64/64 Fitzroy Street, St Kilda, VIC, Australia"
+  },
+  {
+    "Suburb": "Oakleigh South",
+    "Site_streetaddress": "661-663 Warrigal Rd",
+    "Site_state": "VIC",
+    "Site_postcode": "3167",
+    "confidence": 1,
+    "latitude": -37.9235748,
+    "longitude": 145.0821123,
+    "label": "Oakleigh South, VIC, Australia"
+  },
+  {
+    "Suburb": "Richmond",
+    "Site_streetaddress": "620 Victoria St",
+    "Site_state": "VIC",
+    "Site_postcode": "3121",
+    "confidence": 1,
+    "latitude": -37.811805,
+    "longitude": 145.011393,
+    "label": "620 Victoria Street, Richmond, VIC, Australia"
+  },
+  {
+    "Suburb": "Burnley",
+    "Site_streetaddress": "518 Bridge Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3121",
+    "confidence": 1,
+    "latitude": -37.8198978,
+    "longitude": 145.00718,
+    "label": "Burnley, VIC, Australia"
+  },
+  {
+    "Suburb": "Preston",
+    "Site_streetaddress": "2/50 Murray Rd",
+    "Site_state": "VIC",
+    "Site_postcode": "3072",
+    "confidence": 1,
+    "latitude": -37.740502,
+    "longitude": 145.029989,
+    "label": "50 Murray Road, Preston, VIC, Australia"
+  },
+  {
+    "Suburb": "Epping",
+    "Site_streetaddress": "185 Cooper St",
+    "Site_state": "VIC",
+    "Site_postcode": "3076",
+    "confidence": 1,
+    "latitude": -37.65307,
+    "longitude": 145.014945,
+    "label": "185 Cooper Street, Epping, VIC, Australia"
+  },
+  {
+    "Suburb": "St Kilda",
+    "Site_streetaddress": "154-158 St Kilda Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3182",
+    "confidence": 1,
+    "latitude": -37.860911,
+    "longitude": 144.984862,
+    "label": "154-158 St Kilda Road, St Kilda, VIC, Australia"
+  },
+  {
+    "Suburb": "Windsor",
+    "Site_streetaddress": "29 Chapel Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3181",
+    "confidence": 1,
+    "latitude": -37.856775,
+    "longitude": 144.992263,
+    "label": "29 Chapel Street, Windsor, VIC, Australia"
+  },
+  {
+    "Suburb": "Sunshine",
+    "Site_streetaddress": "80 Harvester Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3020",
+    "confidence": 1,
+    "latitude": -37.781461,
+    "longitude": 144.832468,
+    "label": "80 Harvester Road, Sunshine, VIC, Australia"
+  },
+  {
+    "Suburb": "Port Melbourne",
+    "Site_streetaddress": "477-481 Plummer Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3207",
+    "confidence": 1,
+    "latitude": -37.8311524,
+    "longitude": 144.9285898,
+    "label": "Port Melbourne, VIC, Australia"
+  },
+  {
+    "Suburb": "Port Melbourne",
+    "Site_streetaddress": "477 Plummer Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3207",
+    "confidence": 1,
+    "latitude": -37.831407,
+    "longitude": 144.929956,
+    "label": "477 Plummer Street, Port Melbourne, VIC, Australia"
+  },
+  {
+    "Suburb": "Kialla",
+    "Site_streetaddress": "8025 Goulburn Valley Highway",
+    "Site_state": "VIC",
+    "Site_postcode": "3631",
+    "confidence": 1,
+    "latitude": -36.40837,
+    "longitude": 145.392181,
+    "label": "8025 Goulburn Valley Highway, Kialla, VIC, Australia"
+  },
+  {
+    "Suburb": "Coburg North",
+    "Site_streetaddress": "180-190 Gaffney Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3058",
+    "confidence": 1,
+    "latitude": -37.7314767,
+    "longitude": 144.9496908,
+    "label": "Coburg North, VIC, Australia"
+  },
+  {
+    "Suburb": "Coburg North",
+    "Site_streetaddress": "153-157 Elizabeth Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3058",
+    "confidence": 1,
+    "latitude": -37.7296003,
+    "longitude": 144.9813754,
+    "label": "Coburg North, VIC, Australia"
+  },
+  {
+    "Suburb": "Melbourne",
+    "Site_streetaddress": "Shop 2, 1-5 Elizabeth Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3000",
+    "confidence": 1,
+    "latitude": -37.8180848,
+    "longitude": 144.9625413,
+    "label": "Melbourne, VIC, Australia"
+  },
+  {
+    "Suburb": "Docklands",
+    "Site_streetaddress": "Shop C06, Concourse Level, 720 Bourke Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3008",
+    "confidence": 1,
+    "latitude": -37.818069,
+    "longitude": 144.949137,
+    "label": "720 Bourke Street, Docklands, VIC, Australia"
+  },
+  {
+    "Suburb": "Seabrook",
+    "Site_streetaddress": "Shop 1, 73-75 Point Cook Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3028",
+    "confidence": 1,
+    "latitude": -37.877111,
+    "longitude": 144.758477,
+    "label": "73-75 Point Cook Road, Seabrook, VIC, Australia"
+  },
+  {
+    "Suburb": "Newport",
+    "Site_streetaddress": "25 Mason Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3015",
+    "confidence": 1,
+    "latitude": -37.842576,
+    "longitude": 144.881408,
+    "label": "25 Mason Street, Newport, VIC, Australia"
+  },
+  {
+    "Suburb": "Newport",
+    "Site_streetaddress": "438 Melbourne Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3015",
+    "confidence": 1,
+    "latitude": -37.841076,
+    "longitude": 144.883134,
+    "label": "438 Melbourne Road, Newport, VIC, Australia"
+  },
+  {
+    "Suburb": "West Melbourne",
+    "Site_streetaddress": "65 Dudley Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3003",
+    "confidence": 1,
+    "latitude": -37.810335,
+    "longitude": 144.950391,
+    "label": "65 Dudley Street, West Melbourne, VIC, Australia"
+  },
+  {
+    "Suburb": "Tarneit",
+    "Site_streetaddress": "380 Sayers Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3029",
+    "confidence": 1,
+    "latitude": -37.849368,
+    "longitude": 144.706281,
+    "label": "380 Sayers Road, Tarneit, VIC, Australia"
+  },
+  {
+    "Suburb": "Dandenong",
+    "Site_streetaddress": "265 Lonsdale Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3175",
+    "confidence": 1,
+    "latitude": -37.987417,
+    "longitude": 145.213878,
+    "label": "265 Lonsdale Street, Dandenong, VIC, Australia"
+  },
+  {
+    "Suburb": "Hoppers Crossing",
+    "Site_streetaddress": "4/2-6 Deloraine Drive",
+    "Site_state": "VIC",
+    "Site_postcode": "3029",
+    "confidence": 1,
+    "latitude": -37.861423,
+    "longitude": 144.673989,
+    "label": "2-6 Deloraine Drive, Hoppers Crossing, VIC, Australia"
+  },
+  {
+    "Suburb": "Werribee",
+    "Site_streetaddress": "283 & 285 Tenancy 1 Ground Floor, Heaths Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3030",
+    "confidence": 1,
+    "latitude": -37.8771615,
+    "longitude": 144.6752475
+  },
+  {
+    "Suburb": "Hoppers Crossing",
+    "Site_streetaddress": "9-10/150 Hogans Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3029",
+    "confidence": 1,
+    "latitude": -37.862875,
+    "longitude": 144.687265,
+    "label": "150 Hogans Road, Hoppers Crossing, VIC, Australia"
+  },
+  {
+    "Suburb": "Tarneit",
+    "Site_streetaddress": "12/380 Sayers Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3029",
+    "confidence": 1,
+    "latitude": -37.849368,
+    "longitude": 144.706281,
+    "label": "380 Sayers Road, Tarneit, VIC, Australia"
+  },
+  {
+    "Suburb": "South Melbourne",
+    "Site_streetaddress": "94 York Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3205",
+    "confidence": 1,
+    "latitude": -37.830693,
+    "longitude": 144.959067,
+    "label": "94 York Street, South Melbourne, VIC, Australia"
+  },
+  {
+    "Suburb": "Hillside",
+    "Site_streetaddress": "585 Melton Highway",
+    "Site_state": "VIC",
+    "Site_postcode": "3037",
+    "confidence": 1,
+    "latitude": -37.693636,
+    "longitude": 144.755138,
+    "label": "585 Melton Highway, Hillside, VIC, Australia"
+  },
+  {
+    "Suburb": "Kialla",
+    "Site_streetaddress": "7950 Goulburn Valley Highway",
+    "Site_state": "VIC",
+    "Site_postcode": "3631",
+    "confidence": 1,
+    "latitude": -36.41497,
+    "longitude": 145.392607,
+    "label": "7950 Goulburn Valley Highway, Kialla, VIC, Australia"
+  },
+  {
+    "Suburb": "Broadmeadows",
+    "Site_streetaddress": "10-12 Olsen Place",
+    "Site_state": "VIC",
+    "Site_postcode": "3047",
+    "confidence": 1,
+    "latitude": -37.689532,
+    "longitude": 144.926844,
+    "label": "10-12 Olsen Place, Broadmeadows, VIC, Australia"
+  },
+  {
+    "Suburb": "Seabrook",
+    "Site_streetaddress": "144E/144F Point Cook Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3028",
+    "confidence": 1,
+    "latitude": -37.886334,
+    "longitude": 144.755545,
+    "label": "144e-144f Point Cook Road, Seabrook, VIC, Australia"
+  },
+  {
+    "Suburb": "Altona North",
+    "Site_streetaddress": "11 Stapley Crescent",
+    "Site_state": "VIC",
+    "Site_postcode": "3025",
+    "confidence": 1,
+    "latitude": -37.835617,
+    "longitude": 144.863825,
+    "label": "11 Stapley Crescent, Altona North, VIC, Australia"
+  },
+  {
+    "Suburb": "Port Melbourne",
+    "Site_streetaddress": "477-481 Plummer Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3206",
+    "confidence": 1,
+    "latitude": -37.8309236,
+    "longitude": 144.9278495,
+    "label": "Port Melbourne, VIC, Australia"
+  },
+  {
+    "Suburb": "Melton",
+    "Site_streetaddress": "585 High Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3337",
+    "confidence": 1,
+    "latitude": -37.6855448,
+    "longitude": 144.5571999,
+    "label": "Melton, VIC, Australia"
+  },
+  {
+    "Suburb": "Carlton",
+    "Site_streetaddress": "Shop 2/121 Grattan Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3053",
+    "confidence": 1,
+    "latitude": -37.800732,
+    "longitude": 144.965164,
+    "label": "121 Grattan Street, Carlton, VIC, Australia"
+  },
+  {
+    "Suburb": "Port Melbourne",
+    "Site_streetaddress": "78 Bay Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3207",
+    "confidence": 1,
+    "latitude": -37.841699,
+    "longitude": 144.939802,
+    "label": "78 Bay Street, Port Melbourne, VIC, Australia"
+  },
+  {
+    "Suburb": "Melton",
+    "Site_streetaddress": "Corner Keilor Melton Road and High Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3337",
+    "confidence": 1,
+    "latitude": -37.6905022,
+    "longitude": 144.604925,
+    "label": "Melton, VIC, Australia"
+  },
+  {
+    "Suburb": "Keilor Downs",
+    "Site_streetaddress": "80 Taylors Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3038",
+    "confidence": 1,
+    "latitude": -37.72845,
+    "longitude": 144.807219,
+    "label": "80B Taylors Road, Keilor Downs, VIC, Australia"
+  },
+  {
+    "Suburb": "St Albans",
+    "Site_streetaddress": "112-120 Main Road E",
+    "Site_state": "VIC",
+    "Site_postcode": "3021",
+    "confidence": 1,
+    "latitude": -37.746553,
+    "longitude": 144.820719,
+    "label": "112-120 Main Road E, St Albans, VIC, Australia"
+  },
+  {
+    "Suburb": "St Albans",
+    "Site_streetaddress": "1 Victoria Square",
+    "Site_state": "VIC",
+    "Site_postcode": "3021",
+    "confidence": 1,
+    "latitude": -37.7423,
+    "longitude": 144.799333,
+    "label": "1 Victoria Square, St Albans, VIC, Australia"
+  },
+  {
+    "Suburb": "Keilor East",
+    "Site_streetaddress": "3/233 Milleara Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3033",
+    "confidence": 1,
+    "latitude": -37.749156,
+    "longitude": 144.861967,
+    "label": "233A Milleara Road, Keilor East, VIC, Australia"
+  },
+  {
+    "Suburb": "Footscray",
+    "Site_streetaddress": "Corner Albert Street and Paisley Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3011",
+    "confidence": 1,
+    "latitude": -37.8010597,
+    "longitude": 144.8952569,
+    "label": "Footscray, VIC, Australia"
+  },
+  {
+    "Suburb": "Deer Park",
+    "Site_streetaddress": "Shop T13, Station Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3023",
+    "confidence": 1,
+    "latitude": -37.7504633,
+    "longitude": 144.7726329,
+    "label": "Deer Park, VIC, Australia"
+  },
+  {
+    "Suburb": "Glen Waverley",
+    "Site_streetaddress": "615-621 Ferntree Gully Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3150",
+    "confidence": 1,
+    "latitude": -37.903223,
+    "longitude": 145.160916,
+    "label": "615-621 Ferntree Gully Road, Glen Waverley, VIC, Australia"
+  },
+  {
+    "Suburb": "Mount Waverly",
+    "Site_streetaddress": "433 Blackburn Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3149",
+    "confidence": 1,
+    "latitude": -37.8913889,
+    "longitude": 145.1417002,
+    "label": "Victoria, Australia"
+  },
+  {
+    "Suburb": "Footscray",
+    "Site_streetaddress": "18 Albert Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3011",
+    "confidence": 1,
+    "latitude": -37.80126,
+    "longitude": 144.897705,
+    "label": "18 Albert Street, Footscray, VIC, Australia"
+  },
+  {
+    "Suburb": "West Melbourne",
+    "Site_streetaddress": "Ground Floor, Shop 3/420 Spencer Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3003",
+    "confidence": 1,
+    "latitude": -37.810335,
+    "longitude": 144.950391,
+    "label": "420 Spencer Street, West Melbourne, VIC, Australia"
+  },
+  {
+    "Suburb": "Altona North",
+    "Site_streetaddress": "Floor G, Altona Gate, Millers Road & Duosa Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3025",
+    "confidence": 1,
+    "latitude": -37.8282666,
+    "longitude": 144.8458606,
+    "label": "Altona North, VIC, Australia"
+  },
+  {
+    "Suburb": "Berwick",
+    "Site_streetaddress": "9/84 Bemersyde Drive",
+    "Site_state": "VIC",
+    "Site_postcode": "3806",
+    "confidence": 1,
+    "latitude": -38.055887,
+    "longitude": 145.3471,
+    "label": "84 Bemersyde Drive, Berwick, VIC, Australia"
+  },
+  {
+    "Suburb": "Berwick",
+    "Site_streetaddress": "8/84 Bemersyde Drive",
+    "Site_state": "VIC",
+    "Site_postcode": "3806",
+    "confidence": 1,
+    "latitude": -38.055887,
+    "longitude": 145.3471,
+    "label": "84 Bemersyde Drive, Berwick, VIC, Australia"
+  },
+  {
+    "Suburb": "Berwick",
+    "Site_streetaddress": "9/15 Enterprise Avenue",
+    "Site_state": "VIC",
+    "Site_postcode": "3806",
+    "confidence": 1,
+    "latitude": -38.037553,
+    "longitude": 145.340839,
+    "label": "15 Enterprise Avenue, Berwick, VIC, Australia"
+  },
+  {
+    "Suburb": "Berwick",
+    "Site_streetaddress": "11, 12/84 Bemersyde Drive",
+    "Site_state": "VIC",
+    "Site_postcode": "3806",
+    "confidence": 1,
+    "latitude": -38.055887,
+    "longitude": 145.3471,
+    "label": "84 Bemersyde Drive, Berwick, VIC, Australia"
+  },
+  {
+    "Suburb": "Williams Landing",
+    "Site_streetaddress": "100 Overton Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3027",
+    "confidence": 1,
+    "latitude": -37.867065,
+    "longitude": 144.744048,
+    "label": "100 Overton Road, Williams Landing, VIC, Australia"
+  },
+  {
+    "Suburb": "Williams Landing",
+    "Site_streetaddress": "100 Overton Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3037",
+    "confidence": 1,
+    "latitude": -37.867065,
+    "longitude": 144.744048,
+    "label": "100 Overton Road, Williams Landing, VIC, Australia"
+  },
+  {
+    "Suburb": "Sydenham",
+    "Site_streetaddress": "Unit 9 Hume Drive",
+    "Site_state": "VIC",
+    "Site_postcode": "3037",
+    "confidence": 1,
+    "latitude": -37.710063,
+    "longitude": 144.777202,
+    "label": "9/28A Hume Drive, Sydenham, VIC, Australia"
+  },
+  {
+    "Suburb": "Altona North",
+    "Site_streetaddress": "2/32 Borrack Square",
+    "Site_state": "VIC",
+    "Site_postcode": "3025",
+    "confidence": 1,
+    "latitude": -37.834783,
+    "longitude": 144.846418,
+    "label": "32 Borrack Square, Altona North, VIC, Australia"
+  },
+  {
+    "Suburb": "Port Melbourne",
+    "Site_streetaddress": "G02 1, 467 Plummer Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3207",
+    "confidence": 1,
+    "latitude": -37.831537,
+    "longitude": 144.929354,
+    "label": "467 Plummer Street, Port Melbourne, VIC, Australia"
+  },
+  {
+    "Suburb": "Williamstown ",
+    "Site_streetaddress": "19-21 Douglas Parade",
+    "Site_state": "VIC",
+    "Site_postcode": "3016",
+    "confidence": 1,
+    "latitude": -37.857969,
+    "longitude": 144.897644,
+    "label": "19-21 Douglas Parade, Williamstown, VIC, Australia"
+  },
+  {
+    "Suburb": "Truganina",
+    "Site_streetaddress": "228A Sayers Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3029",
+    "confidence": 1,
+    "latitude": -37.853575,
+    "longitude": 144.744378,
+    "label": "228A Sayers Road, Truganina, VIC, Australia"
+  },
+  {
+    "Suburb": "Croydon South ",
+    "Site_streetaddress": "17 The Mall ",
+    "Site_state": "VIC",
+    "Site_postcode": "3136",
+    "confidence": 1,
+    "latitude": -37.8114,
+    "longitude": 145.270401,
+    "label": "17 The Mall, Croydon South, VIC, Australia"
+  },
+  {
+    "Suburb": "Croydon South ",
+    "Site_streetaddress": "19 The Mall",
+    "Site_state": "VIC",
+    "Site_postcode": "3136",
+    "confidence": 1,
+    "latitude": -37.811435,
+    "longitude": 145.270377,
+    "label": "19 The Mall, Croydon South, VIC, Australia"
+  },
+  {
+    "Suburb": "Footscray ",
+    "Site_streetaddress": "Paisley Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3011",
+    "confidence": 1,
+    "latitude": -37.8013285,
+    "longitude": 144.8982044,
+    "label": "Footscray, VIC, Australia"
+  },
+  {
+    "Suburb": "Hoppers Crossing",
+    "Site_streetaddress": "24 and 25 / 428 Old Geelong Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3029",
+    "confidence": 1,
+    "latitude": -37.86923,
+    "longitude": 144.731557,
+    "label": "428 Old Geelong Road, Hoppers Crossing, VIC, Australia"
+  },
+  {
+    "Suburb": "Croydon",
+    "Site_streetaddress": "Kent Avenue",
+    "Site_state": "VIC",
+    "Site_postcode": "3136",
+    "confidence": 1,
+    "latitude": -37.7941993,
+    "longitude": 145.2775034,
+    "label": "Croydon, VIC, Australia"
+  },
+  {
+    "Suburb": "Croydon",
+    "Site_streetaddress": "99 Maroondah Highway ",
+    "Site_state": "VIC",
+    "Site_postcode": "3136",
+    "confidence": 1,
+    "latitude": -37.788911,
+    "longitude": 145.268258,
+    "label": "99 Maroondah Highway, Croydon, VIC, Australia"
+  },
+  {
+    "Suburb": "Croydon",
+    "Site_streetaddress": "25 Paul Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3136",
+    "confidence": 1,
+    "latitude": -37.789779,
+    "longitude": 145.307631,
+    "label": "25 Paul Street, Croydon, VIC, Australia"
+  },
+  {
+    "Suburb": "Lilydale ",
+    "Site_streetaddress": "199 Main Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3140",
+    "confidence": 1,
+    "latitude": -37.757319,
+    "longitude": 145.35022,
+    "label": "199 Main Street, Lilydale, VIC, Australia"
+  },
+  {
+    "Suburb": "Broadmeadows",
+    "Site_streetaddress": "E006 / 1099 - 1169 Pascoe Vale Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3047",
+    "confidence": 1,
+    "latitude": -37.678089,
+    "longitude": 144.921653,
+    "label": "1169 Pascoe Vale Road, Broadmeadows, VIC, Australia"
+  },
+  {
+    "Suburb": "Croydon",
+    "Site_streetaddress": "335 Dorset Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3136",
+    "confidence": 1,
+    "latitude": -37.802872,
+    "longitude": 145.289506,
+    "label": "335-341 Dorset Road, Croydon, VIC, Australia"
+  },
+  {
+    "Suburb": "Croydon",
+    "Site_streetaddress": "5-15 Kent Avenue",
+    "Site_state": "VIC",
+    "Site_postcode": "3136",
+    "confidence": 1,
+    "latitude": -37.793053,
+    "longitude": 145.27929,
+    "label": "5-15 Kent Avenue, Croydon, VIC, Australia"
+  },
+  {
+    "Suburb": "Port Melbourne ",
+    "Site_streetaddress": "467 Plummer Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3207",
+    "confidence": 1,
+    "latitude": -37.831537,
+    "longitude": 144.929354,
+    "label": "467 Plummer Street, Port Melbourne, VIC, Australia"
+  },
+  {
+    "Suburb": "Hoppers Crossing",
+    "Site_streetaddress": "12 Costas Drive",
+    "Site_state": "VIC",
+    "Site_postcode": "3029",
+    "confidence": 1,
+    "latitude": -37.874408,
+    "longitude": 144.718843,
+    "label": "12 Costas Drive, Hoppers Crossing, VIC, Australia"
+  },
+  {
+    "Suburb": "Altona North ",
+    "Site_streetaddress": "Unit 57 / 63 The Circle Altona",
+    "Site_state": "VIC",
+    "Site_postcode": "3025",
+    "confidence": 1,
+    "latitude": -37.7941993,
+    "longitude": 145.2775034,
+    "label": "Altona, VIC, Australia"
+  },
+  {
+    "Suburb": "North Melbourne",
+    "Site_streetaddress": "1/570-574 Queensberry Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3051",
+    "confidence": 1,
+    "latitude": -37.8027058,
+    "longitude": 144.9462459,
+    "label": "North Melbourne, VIC, Australia"
+  },
+  {
+    "Suburb": "Croydon",
+    "Site_streetaddress": "Shop 20 Croydon Central, 5 Kent Avenue",
+    "Site_state": "VIC",
+    "Site_postcode": "3136",
+    "confidence": 1,
+    "latitude": -37.793618,
+    "longitude": 145.278983,
+    "label": "5 Kent Avenue, Croydon, VIC, Australia"
+  },
+  {
+    "Suburb": "Broadmeadows",
+    "Site_streetaddress": "13 Nepean Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3047",
+    "confidence": 1,
+    "latitude": -37.689512,
+    "longitude": 144.927225,
+    "label": "13 Nepean Street, Broadmeadows, VIC, Australia"
+  },
+  {
+    "Suburb": "Melbourne ",
+    "Site_streetaddress": "Level 3/1-11 Jane Bell Lane",
+    "Site_state": "VIC",
+    "Site_postcode": "3000",
+    "confidence": 1,
+    "latitude": -37.810357,
+    "longitude": 144.965534,
+    "label": "1-11 Jane Bell Lane, Melbourne, VIC, Australia"
+  },
+  {
+    "Suburb": "Melbourne ",
+    "Site_streetaddress": "37 Swanston Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3000",
+    "confidence": 1,
+    "latitude": -37.816741,
+    "longitude": 144.966813,
+    "label": "37 Swanston Street, Melbourne, VIC, Australia"
+  },
+  {
+    "Suburb": "Croydon North",
+    "Site_streetaddress": "1/401 Maroondah Highway Service Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3136",
+    "confidence": 1,
+    "latitude": -37.7712198,
+    "longitude": 145.2915165,
+    "label": "Croydon North, VIC, Australia"
+  },
+  {
+    "Suburb": "Wheelers Hill",
+    "Site_streetaddress": "Springvale Road and Ferntree Gully Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3150",
+    "confidence": 1,
+    "latitude": -37.9034789,
+    "longitude": 145.1588454,
+    "label": "Ferntree Gully Noodle & Sushi Bar, Ferntree Gully, VIC, Australia"
+  },
+  {
+    "Suburb": "Laverton North",
+    "Site_streetaddress": "Shop 5/110-116 Fitzgerald Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3026",
+    "confidence": 1,
+    "latitude": -37.826278,
+    "longitude": 144.786441,
+    "label": "110-116 Fitzgerald Road, Laverton North, VIC, Australia"
+  },
+  {
+    "Suburb": "Laverton North",
+    "Site_streetaddress": "Shop 1/2 Little Boundary Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3026",
+    "confidence": 1,
+    "latitude": -37.823348,
+    "longitude": 144.82381,
+    "label": "2/2 Little Boundary Road, Laverton North, VIC, Australia"
+  },
+  {
+    "Suburb": "Hoppers Crossing",
+    "Site_streetaddress": "24 and 25/428 Old Geelong Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3029",
+    "confidence": 1,
+    "latitude": -37.86923,
+    "longitude": 144.731557,
+    "label": "428 Old Geelong Road, Hoppers Crossing, VIC, Australia"
+  },
+  {
+    "Suburb": "Preston South",
+    "Site_streetaddress": "50 Plenty Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3072",
+    "confidence": 1,
+    "latitude": -37.751146,
+    "longitude": 145.002727,
+    "label": "50 Plenty Road, Preston, VIC, Australia"
+  },
+  {
+    "Suburb": "Brunswick East",
+    "Site_streetaddress": "438-440 Lygon Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3057",
+    "confidence": 1,
+    "latitude": -37.7641144,
+    "longitude": 144.9710937,
+    "label": "Brunswick East, VIC, Australia"
+  },
+  {
+    "Suburb": "Melbourne",
+    "Site_streetaddress": "Shop 9-92, 513 Queens Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3000",
+    "confidence": 1,
+    "latitude": -37.8075711,
+    "longitude": 144.9561188,
+    "label": "Melbourne, VIC, Australia"
+  },
+  {
+    "Suburb": "East Geelong",
+    "Site_streetaddress": "57 Ormond Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3219",
+    "confidence": 1,
+    "latitude": -38.158722,
+    "longitude": 144.375491,
+    "label": "57 Ormond Road, East Geelong, VIC, Australia"
+  },
+  {
+    "Suburb": "Geelong",
+    "Site_streetaddress": "Corner Ryrie Street and Yarra Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3220",
+    "confidence": 1,
+    "latitude": -38.15019,
+    "longitude": 144.3595683,
+    "label": "Geelong, VIC, Australia"
+  },
+  {
+    "Suburb": "Geelong",
+    "Site_streetaddress": "39 Malop Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3220",
+    "confidence": 1,
+    "latitude": -38.146858,
+    "longitude": 144.360088,
+    "label": "39 Malop Street, Geelong, VIC, Australia"
+  },
+  {
+    "Suburb": "Newcomb",
+    "Site_streetaddress": "25 Bellarine Highway",
+    "Site_state": "VIC",
+    "Site_postcode": "3219",
+    "confidence": 1,
+    "latitude": -38.169312,
+    "longitude": 144.387729,
+    "label": "25 Bellarine Highway, Newcomb, VIC, Australia"
+  },
+  {
+    "Suburb": "Newcomb",
+    "Site_streetaddress": "120 Bellarine Highway",
+    "Site_state": "VIC",
+    "Site_postcode": "3219",
+    "confidence": 1,
+    "latitude": -38.1726913,
+    "longitude": 144.3955925,
+    "label": "Newcomb, VIC, Australia"
+  },
+  {
+    "Suburb": "Geelong",
+    "Site_streetaddress": "184 Ryrie Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3220",
+    "confidence": 1,
+    "latitude": -38.14983,
+    "longitude": 144.36067,
+    "label": "184 Ryrie Street, Geelong, VIC, Australia"
+  },
+  {
+    "Suburb": "Geelong",
+    "Site_streetaddress": "129 Pakington Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3220",
+    "confidence": 1,
+    "latitude": -38.1395959,
+    "longitude": 144.3478853,
+    "label": "Geelong, VIC, Australia"
+  },
+  {
+    "Suburb": "Geelong West",
+    "Site_streetaddress": "Pakington Strand, 95-113 Pakington Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3218",
+    "confidence": 1,
+    "latitude": -38.1370827,
+    "longitude": 144.3458923
+  },
+  {
+    "Suburb": "Geelong",
+    "Site_streetaddress": "452-460 Moorabool Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3220",
+    "confidence": 1,
+    "latitude": -38.1608727,
+    "longitude": 144.3519419,
+    "label": "Geelong, VIC, Australia"
+  },
+  {
+    "Suburb": "Little River",
+    "Site_streetaddress": "Corner Princess Highway and Pousties Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3211",
+    "confidence": 1,
+    "latitude": -38.0031391,
+    "longitude": 144.490753,
+    "label": "3211, Little River, VIC, Australia"
+  },
+  {
+    "Suburb": "Newcomb",
+    "Site_streetaddress": "27/41 Bellarine Highway",
+    "Site_state": "VIC",
+    "Site_postcode": "3219",
+    "confidence": 1,
+    "latitude": -38.1696899,
+    "longitude": 144.3870526,
+    "label": "Newcomb, VIC, Australia"
+  },
+  {
+    "Suburb": "Keilor Downs",
+    "Site_streetaddress": "Shop g-002/80 Taylors Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3038",
+    "confidence": 1,
+    "latitude": -37.72845,
+    "longitude": 144.807219,
+    "label": "80B Taylors Road, Keilor Downs, VIC, Australia"
+  },
+  {
+    "Suburb": "Keilor Downs",
+    "Site_streetaddress": "Shop G002/80 Taylors Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3038",
+    "confidence": 1,
+    "latitude": -37.7269928,
+    "longitude": 144.8051196,
+    "label": "3038, Taylors Lakes, VIC, Australia"
+  },
+  {
+    "Suburb": "South Geelong",
+    "Site_streetaddress": "1/40-50 Fyans Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3220",
+    "confidence": 1,
+    "latitude": -38.161946,
+    "longitude": 144.3506153,
+    "label": "South Geelong, VIC, Australia"
+  },
+  {
+    "Suburb": "Newcomb",
+    "Site_streetaddress": "3/151 Bellarine Highway",
+    "Site_state": "VIC",
+    "Site_postcode": "3219",
+    "confidence": 1,
+    "latitude": -38.1730687,
+    "longitude": 144.4016512,
+    "label": "Newcomb, VIC, Australia"
+  },
+  {
+    "Suburb": "Torquay",
+    "Site_streetaddress": "4/1 Loch Ard Drive",
+    "Site_state": "VIC",
+    "Site_postcode": "3228",
+    "confidence": 1,
+    "latitude": -38.316527,
+    "longitude": 144.32908,
+    "label": "1/1 Loch Ard Drive, Torquay, VIC, Australia"
+  },
+  {
+    "Suburb": "Taylors Hill",
+    "Site_streetaddress": "127 Gourlay Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3037",
+    "confidence": 1,
+    "latitude": -37.710447,
+    "longitude": 144.741702,
+    "label": "127 Gourlay Road, Taylors Hill, VIC, Australia"
+  },
+  {
+    "Suburb": "Williamstown",
+    "Site_streetaddress": "71 Kororoit Creek Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3016",
+    "confidence": 1,
+    "latitude": -37.857481,
+    "longitude": 144.882558,
+    "label": "71-79 Kororoit Creek Road, Williamstown, VIC, Australia"
+  },
+  {
+    "Suburb": "Lara",
+    "Site_streetaddress": "16A The Centreway",
+    "Site_state": "VIC",
+    "Site_postcode": "3212",
+    "confidence": 1,
+    "latitude": -38.022599,
+    "longitude": 144.407551,
+    "label": "16 The Centreway, Lara, VIC, Australia"
+  },
+  {
+    "Suburb": "Kialla",
+    "Site_streetaddress": "7958-7960 Goulburn Valley Highway",
+    "Site_state": "VIC",
+    "Site_postcode": "3631",
+    "confidence": 1,
+    "latitude": -36.414425,
+    "longitude": 145.392719,
+    "label": "7958-7960 Goulburn Valley Highway, Kialla, VIC, Australia"
+  },
+  {
+    "Suburb": "Shepparton",
+    "Site_streetaddress": "23 Benalla Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3630",
+    "confidence": 1,
+    "latitude": -36.383414,
+    "longitude": 145.415444,
+    "label": "23 Benalla Road, Shepparton, VIC, Australia"
+  },
+  {
+    "Suburb": "Hoppers Crossing",
+    "Site_streetaddress": "267 Heaths Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3029",
+    "confidence": 1,
+    "latitude": -37.876985,
+    "longitude": 144.680031,
+    "label": "267/250 Heaths Road, Hoppers Crossing, VIC, Australia"
+  },
+  {
+    "Suburb": "Port Melbourne",
+    "Site_streetaddress": "46-62 Cook Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3207",
+    "confidence": 1,
+    "latitude": -37.829687,
+    "longitude": 144.91683,
+    "label": "46-62 Cook Street, Port Melbourne, VIC, Australia"
+  },
+  {
+    "Suburb": "Coburg",
+    "Site_streetaddress": "488 Sydney Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3058",
+    "confidence": 1,
+    "latitude": -37.741859,
+    "longitude": 144.966696,
+    "label": "488 Sydney Road, Coburg, VIC, Australia"
+  },
+  {
+    "Suburb": "South Morang",
+    "Site_streetaddress": "415 McDonalds Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3752",
+    "confidence": 1,
+    "latitude": -37.6506982,
+    "longitude": 145.0671509,
+    "label": "South Morang, VIC, Australia"
+  },
+  {
+    "Suburb": "Port Melbourne",
+    "Site_streetaddress": "299 Bay Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3207",
+    "confidence": 1,
+    "latitude": -37.836646,
+    "longitude": 144.943858,
+    "label": "299 Bay Street, Port Melbourne, VIC, Australia"
+  },
+  {
+    "Suburb": "Kyabram",
+    "Site_streetaddress": "Union Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3620",
+    "confidence": 1,
+    "latitude": -36.3127632,
+    "longitude": 145.0444879,
+    "label": "Kyabram, VIC, Australia"
+  },
+  {
+    "Suburb": "Kyabram",
+    "Site_streetaddress": "7/171-173 Allan Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3620",
+    "confidence": 1,
+    "latitude": -36.313364,
+    "longitude": 145.046809,
+    "label": "171-173 Allan Street, Kyabram, VIC, Australia"
+  },
+  {
+    "Suburb": "Echuca",
+    "Site_streetaddress": "218/208- 222 Anstruther Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3564",
+    "confidence": 1,
+    "latitude": -36.1256473,
+    "longitude": 144.7486098,
+    "label": "Echuca, VIC, Australia"
+  },
+  {
+    "Suburb": "Hoppers Crossing",
+    "Site_streetaddress": "50 Old Geelong Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3030",
+    "confidence": 1,
+    "latitude": -37.880902,
+    "longitude": 144.703687,
+    "label": "50 Old Geelong Road, Hoppers Crossing, VIC, Australia"
+  },
+  {
+    "Suburb": "Kyabram",
+    "Site_streetaddress": "151 Allan Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3620",
+    "confidence": 1,
+    "latitude": -36.313364,
+    "longitude": 145.046292,
+    "label": "151 Allan Street, Kyabram, VIC, Australia"
+  },
+  {
+    "Suburb": "Yarraville",
+    "Site_streetaddress": "149 Somerville Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3013",
+    "confidence": 1,
+    "latitude": -37.813014,
+    "longitude": 144.8837,
+    "label": "149 Somerville Road, Yarraville, VIC, Australia"
+  },
+  {
+    "Suburb": "Geelong",
+    "Site_streetaddress": "10 Mercer Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3220",
+    "confidence": 1,
+    "latitude": -38.140059,
+    "longitude": 144.354545,
+    "label": "8-10 Mercer Street, Geelong, VIC, Australia"
+  },
+  {
+    "Suburb": "Tarneit",
+    "Site_streetaddress": "11 Royal Oaks Drive",
+    "Site_state": "VIC",
+    "Site_postcode": "3029",
+    "confidence": 1,
+    "latitude": -37.848275,
+    "longitude": 144.705152,
+    "label": "11 Royal Oaks Drive, Tarneit, VIC, Australia"
+  },
+  {
+    "Suburb": "Tarneit West",
+    "Site_streetaddress": "4/540 Tarneit Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3029",
+    "confidence": 1,
+    "latitude": -37.860219,
+    "longitude": 144.666765,
+    "label": "540 Tarneit Road, Tarneit, VIC, Australia"
+  },
+  {
+    "Suburb": "Sunshine",
+    "Site_streetaddress": "Shop 1, 487/489 Ballarat Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3020",
+    "confidence": 1,
+    "latitude": -37.778098,
+    "longitude": 144.833781,
+    "label": "487-489 Ballarat Road, Sunshine, VIC, Australia"
+  },
+  {
+    "Suburb": "Sunshine",
+    "Site_streetaddress": "4/5-9 Clarke Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3020",
+    "confidence": 1,
+    "latitude": -37.7859353,
+    "longitude": 144.8305365,
+    "label": "Sunshine, VIC, Australia"
+  },
+  {
+    "Suburb": "Sunshine",
+    "Site_streetaddress": "469 Ballarat Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3020",
+    "confidence": 1,
+    "latitude": -37.777979,
+    "longitude": 144.835217,
+    "label": "469C Ballarat Road, Sunshine, VIC, Australia"
+  },
+  {
+    "Suburb": "Vermont South",
+    "Site_streetaddress": "606-634 Burwood Highway",
+    "Site_state": "VIC",
+    "Site_postcode": "3133",
+    "confidence": 1,
+    "latitude": -37.858755,
+    "longitude": 145.195898,
+    "label": "606-634 Burwood Highway, Vermont South, VIC, Australia"
+  },
+  {
+    "Suburb": "Vermont South",
+    "Site_streetaddress": "495 Burwood Highway",
+    "Site_state": "VIC",
+    "Site_postcode": "3133",
+    "confidence": 1,
+    "latitude": -37.855332,
+    "longitude": 145.182277,
+    "label": "495 Burwood Highway, Vermont South, VIC, Australia"
+  },
+  {
+    "Suburb": "Mooroopna",
+    "Site_streetaddress": "Corner Echuca Road & McLennan Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3629",
+    "confidence": 1,
+    "latitude": -37.7859353,
+    "longitude": 144.8305365,
+    "label": "Shepparton, VIC, Australia"
+  },
+  {
+    "Suburb": "Yarraville",
+    "Site_streetaddress": "Williamstown Road & High Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3013",
+    "confidence": 1,
+    "latitude": -37.8169444,
+    "longitude": 144.8789224,
+    "label": "Williamstown Sofas and Chairs, Newport, VIC, Australia"
+  },
+  {
+    "Suburb": "Altona North",
+    "Site_streetaddress": "57/63 The Circle",
+    "Site_state": "VIC",
+    "Site_postcode": "3025",
+    "confidence": 1,
+    "latitude": -37.836283,
+    "longitude": 144.863272,
+    "label": "63 The Circle, Altona North, VIC, Australia"
+  },
+  {
+    "Suburb": "South Kingsville",
+    "Site_streetaddress": "17B Vernon Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3015",
+    "confidence": 1,
+    "latitude": -37.8290563,
+    "longitude": 144.8699491,
+    "label": "Kingsville, VIC, Australia"
+  },
+  {
+    "Suburb": "Wheelers Hill",
+    "Site_streetaddress": "602-606 Ferntree Gully & Springvale Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3150",
+    "confidence": 1,
+    "latitude": -37.9038982,
+    "longitude": 145.1596857,
+    "label": "Wheelers Hill, VIC, Australia"
+  },
+  {
+    "Suburb": "Altona North",
+    "Site_streetaddress": "53 The Circle",
+    "Site_state": "VIC",
+    "Site_postcode": "3025",
+    "confidence": 1,
+    "latitude": -37.836569,
+    "longitude": 144.863272,
+    "label": "53 The Circle, Altona North, VIC, Australia"
+  },
+  {
+    "Suburb": "Newport",
+    "Site_streetaddress": "29 Mason Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3015",
+    "confidence": 1,
+    "latitude": -37.842519,
+    "longitude": 144.881262,
+    "label": "29 Mason Street, Newport, VIC, Australia"
+  },
+  {
+    "Suburb": "Taylors Hill",
+    "Site_streetaddress": "Gourlay Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3037",
+    "confidence": 1,
+    "latitude": -37.7114251,
+    "longitude": 144.7394711,
+    "label": "Taylors Hill, VIC, Australia"
+  },
+  {
+    "Suburb": "Brunswick",
+    "Site_streetaddress": "808 Sydney Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3056",
+    "confidence": 1,
+    "latitude": -37.757914,
+    "longitude": 144.963911,
+    "label": "808 Sydney Road, Brunswick, VIC, Australia"
+  },
+  {
+    "Suburb": "Boronia",
+    "Site_streetaddress": "260 Dorset Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3155",
+    "confidence": 1,
+    "latitude": -37.860282,
+    "longitude": 145.286249,
+    "label": "260 Dorset Road, Boronia, VIC, Australia"
+  },
+  {
+    "Suburb": "Kilsyth",
+    "Site_streetaddress": "518/520 Mt Dandenong Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3137",
+    "confidence": 1,
+    "latitude": -37.8028388,
+    "longitude": 145.3075187,
+    "label": "Kilsyth, VIC, Australia"
+  },
+  {
+    "Suburb": "Altona",
+    "Site_streetaddress": "31-33 Slough Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3018",
+    "confidence": 1,
+    "latitude": -37.859489,
+    "longitude": 144.805111,
+    "label": "31-33 Slough Road, Altona, VIC, Australia"
+  },
+  {
+    "Suburb": "Hoppers Crossing",
+    "Site_streetaddress": "5/377 Sayers Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3029",
+    "confidence": 1,
+    "latitude": -37.851023,
+    "longitude": 144.70758,
+    "label": "377 Sayers Road, Hoppers Crossing, VIC, Australia"
+  },
+  {
+    "Suburb": "Glen Waverley",
+    "Site_streetaddress": "235 Springvale Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3150",
+    "confidence": 1,
+    "latitude": -37.874516,
+    "longitude": 145.165578,
+    "label": "235 Springvale Road, Glen Waverley, VIC, Australia"
+  },
+  {
+    "Suburb": "Port Melbourne",
+    "Site_streetaddress": "477/481 Plummer Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3207",
+    "confidence": 1,
+    "latitude": -37.831099,
+    "longitude": 144.93144,
+    "label": "481 Plummer Street, Port Melbourne, VIC, Australia"
+  },
+  {
+    "Suburb": "Shepparton",
+    "Site_streetaddress": "290 High Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3630",
+    "confidence": 1,
+    "latitude": -36.382697,
+    "longitude": 145.409671,
+    "label": "290 High Street, Shepparton, VIC, Australia"
+  },
+  {
+    "Suburb": "Kilsyth",
+    "Site_streetaddress": "520-526 Mt Dandenong Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3137",
+    "confidence": 1,
+    "latitude": -37.8028295,
+    "longitude": 145.3078697,
+    "label": "Kilsyth, VIC, Australia"
+  },
+  {
+    "Suburb": "Truganina",
+    "Site_streetaddress": "1 Saintly Drive",
+    "Site_state": "VIC",
+    "Site_postcode": "3029",
+    "confidence": 1,
+    "latitude": -37.8076383,
+    "longitude": 144.7442977,
+    "label": "Truganina, VIC, Australia"
+  },
+  {
+    "Suburb": "Wheelers Hill",
+    "Site_streetaddress": "Ferntree Gully Road & Springvale Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3150",
+    "confidence": 1,
+    "latitude": -37.9037414,
+    "longitude": 145.159509,
+    "label": "Ferntree Gully Noodle & Sushi Bar, Ferntree Gully, VIC, Australia"
+  },
+  {
+    "Suburb": "Kilsyth",
+    "Site_streetaddress": "509-511 Mount Dandenong Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3137",
+    "confidence": 1,
+    "latitude": -37.801629,
+    "longitude": 145.3072503,
+    "label": "Kilsyth, VIC, Australia"
+  },
+  {
+    "Suburb": "Shepparton East",
+    "Site_streetaddress": "485-507 Channel Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3631",
+    "confidence": 1,
+    "latitude": -36.4087467,
+    "longitude": 145.4533629,
+    "label": "Shepparton East, VIC, Australia"
+  },
+  {
+    "Suburb": "Mooroopna",
+    "Site_streetaddress": "16-18 O'Brien Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3629",
+    "confidence": 1,
+    "latitude": -36.391808,
+    "longitude": 145.360778,
+    "label": "16-18 Obrien Street, Mooroopna, VIC, Australia"
+  },
+  {
+    "Suburb": "Coburg",
+    "Site_streetaddress": "411-413 Sydney Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3058",
+    "confidence": 1,
+    "latitude": -37.7437548,
+    "longitude": 144.9638302,
+    "label": "Coburg, VIC, Australia"
+  },
+  {
+    "Suburb": "Melbourne",
+    "Site_streetaddress": "71 Queens Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3004",
+    "confidence": 1,
+    "latitude": -37.851501,
+    "longitude": 144.978916,
+    "label": "71 Queens Road, Melbourne, VIC, Australia"
+  },
+  {
+    "Suburb": "Shepparton",
+    "Site_streetaddress": "Balaclava Road and Bourchier Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3630",
+    "confidence": 1,
+    "latitude": -36.3676006,
+    "longitude": 145.4107772,
+    "label": "Balaclava Station, Nelson & Carlisle Streets, Balaclava, VIC, Australia"
+  },
+  {
+    "Suburb": "Northcote",
+    "Site_streetaddress": "42-44 Henry Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3070",
+    "confidence": 1,
+    "latitude": -37.7718357,
+    "longitude": 144.9955863,
+    "label": "Northcote, VIC, Australia"
+  },
+  {
+    "Suburb": "Melbourne",
+    "Site_streetaddress": "71 Queens Road ",
+    "Site_state": "VIC",
+    "Site_postcode": "3004",
+    "confidence": 1,
+    "latitude": -37.851501,
+    "longitude": 144.978916,
+    "label": "71 Queens Road, Melbourne, VIC, Australia"
+  },
+  {
+    "Suburb": "Melbourne ",
+    "Site_streetaddress": "71 Queens Road ",
+    "Site_state": "VIC",
+    "Site_postcode": "3004",
+    "confidence": 1,
+    "latitude": -37.851501,
+    "longitude": 144.978916,
+    "label": "71 Queens Road, Melbourne, VIC, Australia"
+  },
+  {
+    "Suburb": "Fitzroy",
+    "Site_streetaddress": "111 Moor Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3065",
+    "confidence": 1,
+    "latitude": -37.801544,
+    "longitude": 144.978678,
+    "label": "111 Moor Street, Fitzroy, VIC, Australia"
+  },
+  {
+    "Suburb": "Clayton",
+    "Site_streetaddress": "246 Clayton Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3168",
+    "confidence": 1,
+    "latitude": -37.920863,
+    "longitude": 145.120837,
+    "label": "246 Clayton Road, Clayton, VIC, Australia"
+  },
+  {
+    "Suburb": "Tullamarine",
+    "Site_streetaddress": "Corner Airport Drive and Link Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3045",
+    "confidence": 1,
+    "latitude": -37.6931448,
+    "longitude": 144.8587062,
+    "label": "Tullamarine, VIC, Australia"
+  },
+  {
+    "Suburb": "Hoppers Crossing",
+    "Site_streetaddress": "24-48 Old Geelong Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3029",
+    "confidence": 1,
+    "latitude": -37.880936,
+    "longitude": 144.703522,
+    "label": "24-48 Old Geelong Road, Hoppers Crossing, VIC, Australia"
+  },
+  {
+    "Suburb": "Hoppers Crossing",
+    "Site_streetaddress": "Shop 17, 50 Old Geelong Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3029",
+    "confidence": 1,
+    "latitude": -37.880902,
+    "longitude": 144.703687,
+    "label": "50 Old Geelong Road, Hoppers Crossing, VIC, Australia"
+  },
+  {
+    "Suburb": "Hoppers Crossing",
+    "Site_streetaddress": "Kiosk 3, 50 Old Geelong Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3029",
+    "confidence": 1,
+    "latitude": -37.880902,
+    "longitude": 144.703687,
+    "label": "50 Old Geelong Road, Hoppers Crossing, VIC, Australia"
+  },
+  {
+    "Suburb": "Brighton",
+    "Site_streetaddress": "363 Bay Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3186",
+    "confidence": 1,
+    "latitude": -37.905575,
+    "longitude": 145.00424,
+    "label": "363 Bay Street, Brighton, VIC, Australia"
+  },
+  {
+    "Suburb": "Brunswick East",
+    "Site_streetaddress": "1-9 Lygon Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3054",
+    "confidence": 1,
+    "latitude": -37.7784197,
+    "longitude": 144.9660403,
+    "label": "Brunswick East, VIC, Australia"
+  },
+  {
+    "Suburb": "Shepparton",
+    "Site_streetaddress": "102 St Georges Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3630",
+    "confidence": 1,
+    "latitude": -36.388654,
+    "longitude": 145.406533,
+    "label": "102 St Georges Road, Shepparton, VIC, Australia"
+  },
+  {
+    "Suburb": "Shepparton",
+    "Site_streetaddress": "Benalla Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3630",
+    "confidence": 1,
+    "latitude": -36.3830919,
+    "longitude": 145.4128986,
+    "label": "Shepparton, VIC, Australia"
+  },
+  {
+    "Suburb": "Shepparton",
+    "Site_streetaddress": "86 St Georges Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3630",
+    "confidence": 1,
+    "latitude": -36.388224,
+    "longitude": 145.406622,
+    "label": "86 St Georges Road, Shepparton, VIC, Australia"
+  },
+  {
+    "Suburb": "Carlton North",
+    "Site_streetaddress": "815 Nicholson Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3054",
+    "confidence": 1,
+    "latitude": -37.7799039,
+    "longitude": 144.9750341,
+    "label": "Carlton North, VIC, Australia"
+  },
+  {
+    "Suburb": "Flemington",
+    "Site_streetaddress": "44 Pin Oaks Crescent",
+    "Site_state": "VIC",
+    "Site_postcode": "3031",
+    "confidence": 1,
+    "latitude": -37.787032,
+    "longitude": 144.9271293,
+    "label": "Flemington, VIC, Australia"
+  },
+  {
+    "Suburb": "Footscray",
+    "Site_streetaddress": "Albert Street & Corner Paisley Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3011",
+    "confidence": 1,
+    "latitude": -37.8010597,
+    "longitude": 144.8952569,
+    "label": "Footscray, VIC, Australia"
+  },
+  {
+    "Suburb": "Footscray",
+    "Site_streetaddress": "Chemist Warhouse Footscray",
+    "Site_state": "VIC",
+    "Site_postcode": "3011",
+    "confidence": 1,
+    "latitude": -37.7992425,
+    "longitude": 144.8957295,
+    "label": "Victoria Place Footscray, Footscray, VIC, Australia"
+  },
+  {
+    "Suburb": "West Footscray",
+    "Site_streetaddress": "7-Eleven West Footscray",
+    "Site_state": "VIC",
+    "Site_postcode": "3012",
+    "confidence": 1,
+    "latitude": -37.811239,
+    "longitude": 144.8653348
+  },
+  {
+    "Suburb": "St Albans",
+    "Site_streetaddress": "70 Kings Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3012",
+    "confidence": 1,
+    "latitude": -37.734499,
+    "longitude": 144.781229,
+    "label": "70 Kings Road, St Albans, VIC, Australia"
+  },
+  {
+    "Suburb": "Hoppers Crossing",
+    "Site_streetaddress": "1 Barber Drive",
+    "Site_state": "VIC",
+    "Site_postcode": "3029",
+    "confidence": 1,
+    "latitude": -37.870274,
+    "longitude": 144.683726,
+    "label": "1 Barber Drive, Hoppers Crossing, VIC, Australia"
+  },
+  {
+    "Suburb": "Ardeer South",
+    "Site_streetaddress": "Western Ring Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3022",
+    "confidence": 1,
+    "latitude": -37.8045822,
+    "longitude": 144.805801,
+    "label": "Ardeer, VIC, Australia"
+  },
+  {
+    "Suburb": "Brighton",
+    "Site_streetaddress": "380 Bay Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3186",
+    "confidence": 1,
+    "latitude": -37.906022,
+    "longitude": 145.005146,
+    "label": "380 Bay Street, Brighton, VIC, Australia"
+  },
+  {
+    "Suburb": "Clayton",
+    "Site_streetaddress": "359-365 Clayton Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3168",
+    "confidence": 1,
+    "latitude": -37.926273,
+    "longitude": 145.119275,
+    "label": "359-365 Clayton Road, Clayton, VIC, Australia"
+  },
+  {
+    "Suburb": "Preston",
+    "Site_streetaddress": "205 Bell Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3072",
+    "confidence": 1,
+    "latitude": -37.746729,
+    "longitude": 145.00898,
+    "label": "205 Bell Street, Preston, VIC, Australia"
+  },
+  {
+    "Suburb": "Footscray",
+    "Site_streetaddress": "11 Napier Street & Moreland Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3011",
+    "confidence": 1,
+    "latitude": -37.8056459,
+    "longitude": 144.9028955,
+    "label": "Moreland Station, Cameron Street & Moreland Road, Coburg, VIC, Australia"
+  },
+  {
+    "Suburb": "West Melbourne",
+    "Site_streetaddress": "461 Dynon Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3003",
+    "confidence": 1,
+    "latitude": -37.8018327,
+    "longitude": 144.9102987,
+    "label": "Melbourne, VIC, Australia"
+  },
+  {
+    "Suburb": "Maribyrnong",
+    "Site_streetaddress": "Shop G1/30 Edgewater Boulevard",
+    "Site_state": "VIC",
+    "Site_postcode": "3032",
+    "confidence": 1,
+    "latitude": -37.78531,
+    "longitude": 144.891972,
+    "label": "30 Edgewater Boulevard, Maribyrnong, VIC, Australia"
+  },
+  {
+    "Suburb": "Moonee Ponds",
+    "Site_streetaddress": "783-795 Mt Alexander Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3039",
+    "confidence": 1,
+    "latitude": -37.759909,
+    "longitude": 144.920128,
+    "label": "783-795 Mt Alexander Road, Moonee Ponds, VIC, Australia"
+  },
+  {
+    "Suburb": "Fitzroy",
+    "Site_streetaddress": "140 Brunswick Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3065",
+    "confidence": 1,
+    "latitude": -37.803564,
+    "longitude": 144.977887,
+    "label": "140/140 Brunswick Street, Fitzroy, VIC, Australia"
+  },
+  {
+    "Suburb": "Brighton",
+    "Site_streetaddress": "209-211 Bay Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3186",
+    "confidence": 1,
+    "latitude": -37.904896,
+    "longitude": 144.999014,
+    "label": "209-211 Bay Street, Brighton, VIC, Australia"
+  },
+  {
+    "Suburb": "Altona North",
+    "Site_streetaddress": "310 Blackshaws Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3025",
+    "confidence": 1,
+    "latitude": -37.831715,
+    "longitude": 144.854927,
+    "label": "310A Blackshaws Road, Altona North, VIC, Australia"
+  },
+  {
+    "Suburb": "Cranbourne",
+    "Site_streetaddress": "50 Grant Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3977",
+    "confidence": 1,
+    "latitude": -38.117621,
+    "longitude": 145.27916,
+    "label": "50 Grant Street, Cranbourne, VIC, Australia"
+  },
+  {
+    "Suburb": "Shepparton",
+    "Site_streetaddress": "125 Welsford Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3630",
+    "confidence": 1,
+    "latitude": -36.380175,
+    "longitude": 145.398283,
+    "label": "125 Welsford Street, Shepparton, VIC, Australia"
+  },
+  {
+    "Suburb": "Shepparton",
+    "Site_streetaddress": "15 Mitchell Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3630",
+    "confidence": 1,
+    "latitude": -36.379139,
+    "longitude": 145.422028,
+    "label": "15 Mitchell Street, Shepparton, VIC, Australia"
+  },
+  {
+    "Suburb": "Shepparton",
+    "Site_streetaddress": "465 Wyndham Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3630",
+    "confidence": 1,
+    "latitude": -36.385511,
+    "longitude": 145.398679,
+    "label": "465 Wyndham Street, Shepparton, VIC, Australia"
+  },
+  {
+    "Suburb": "Oakleigh",
+    "Site_streetaddress": "1525 Dandenong Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3148",
+    "confidence": 1,
+    "latitude": -37.892893,
+    "longitude": 145.090513,
+    "label": "1525 Dandenong Road, Oakleigh, VIC, Australia"
+  },
+  {
+    "Suburb": "Shepparton",
+    "Site_streetaddress": "110 Benalla Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3148",
+    "confidence": 1,
+    "latitude": -36.386532,
+    "longitude": 145.424029,
+    "label": "110 Benalla Road, Shepparton, VIC, Australia"
+  },
+  {
+    "Suburb": "Docklands",
+    "Site_streetaddress": "MM2/201 Spencer Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3008",
+    "confidence": 1,
+    "latitude": -37.816395,
+    "longitude": 144.952607,
+    "label": "201 Spencer Street, Docklands, VIC, Australia"
+  },
+  {
+    "Suburb": "Mooroopna",
+    "Site_streetaddress": "Lot 2 Morrell Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3167",
+    "confidence": 1,
+    "latitude": -36.3938816,
+    "longitude": 145.3572974,
+    "label": "Mooroopna, VIC, Australia"
+  },
+  {
+    "Suburb": "Williamstown",
+    "Site_streetaddress": "7 Orange Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3016",
+    "confidence": 1,
+    "latitude": -37.8545406,
+    "longitude": 144.8617689,
+    "label": "Williamstown, VIC, Australia"
+  },
+  {
+    "Suburb": "Shepparton",
+    "Site_streetaddress": "1/110 Benalla Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3630",
+    "confidence": 1,
+    "latitude": -36.386532,
+    "longitude": 145.424029,
+    "label": "110 Benalla Road, Shepparton, VIC, Australia"
+  },
+  {
+    "Suburb": "Tarneit",
+    "Site_streetaddress": "Wyndham Village Shopping Centre, 380 Sayers Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3029",
+    "confidence": 1,
+    "latitude": -37.8495515,
+    "longitude": 144.7024614,
+    "label": "3029, Tarneit, VIC, Australia"
+  },
+  {
+    "Suburb": "Shepparton",
+    "Site_streetaddress": "143 Maude Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3630",
+    "confidence": 1,
+    "latitude": -36.378102,
+    "longitude": 145.401681,
+    "label": "143 Maude Street, Shepparton, VIC, Australia"
+  },
+  {
+    "Suburb": "Shepparton",
+    "Site_streetaddress": "289 Maude Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3630",
+    "confidence": 1,
+    "latitude": -36.383692,
+    "longitude": 145.400537,
+    "label": "289 Maude Street, Shepparton, VIC, Australia"
+  },
+  {
+    "Suburb": "Tottenham",
+    "Site_streetaddress": "Unit 1C/427-451 Somerville Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3012",
+    "confidence": 1,
+    "latitude": -37.809924,
+    "longitude": 144.856394,
+    "label": "427-451 Somerville Road, Tottenham, VIC, Australia"
+  },
+  {
+    "Suburb": "Sunshine",
+    "Site_streetaddress": "S45, Sunshine Marketplace, 80 Harvester Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3020",
+    "confidence": 1,
+    "latitude": -37.7821917,
+    "longitude": 144.8294928,
+    "label": "80 Harvester Road, Sunshine, VIC, Australia"
+  },
+  {
+    "Suburb": "Maribyrnong",
+    "Site_streetaddress": "2/169 Rosamond Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3032",
+    "confidence": 1,
+    "latitude": -37.772763,
+    "longitude": 144.885806,
+    "label": "169 Rosamond Road, Maribyrnong, VIC, Australia"
+  },
+  {
+    "Suburb": "Deer Park",
+    "Site_streetaddress": "10/8 Hatchlands Drive",
+    "Site_state": "VIC",
+    "Site_postcode": "3023",
+    "confidence": 1,
+    "latitude": -37.777204,
+    "longitude": 144.755828,
+    "label": "8/8 Hatchlands Drive, Deer Park, VIC, Australia"
+  },
+  {
+    "Suburb": "Hoppers Crossing",
+    "Site_streetaddress": "Morris Road & Old Geelong Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3030",
+    "confidence": 1,
+    "latitude": -37.8821128,
+    "longitude": 144.7002176,
+    "label": "Hoppers Crossing, VIC, Australia"
+  },
+  {
+    "Suburb": "Hoppers Crossing",
+    "Site_streetaddress": "Shop 1 Hoppers Crossing Shopping Centre, 24-48 Old Geelong Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3030",
+    "confidence": 1,
+    "latitude": -37.880936,
+    "longitude": 144.703522,
+    "label": "24-48 Old Geelong Road, Hoppers Crossing, VIC, Australia"
+  },
+  {
+    "Suburb": "Hoppers Crossing",
+    "Site_streetaddress": "160 Old Geelong Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3030",
+    "confidence": 1,
+    "latitude": -37.877178,
+    "longitude": 144.713762,
+    "label": "160 Old Geelong Road, Hoppers Crossing, VIC, Australia"
+  },
+  {
+    "Suburb": "Shepparton",
+    "Site_streetaddress": "431-451 Wyndham Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3630",
+    "confidence": 1,
+    "latitude": -36.3839243,
+    "longitude": 145.3969648,
+    "label": "Shepparton, VIC, Australia"
+  },
+  {
+    "Suburb": "Carlton",
+    "Site_streetaddress": "67 Bouverie Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3053",
+    "confidence": 1,
+    "latitude": -37.804955,
+    "longitude": 144.96142,
+    "label": "67 Bouverie Street, Carlton, VIC, Australia"
+  },
+  {
+    "Suburb": "Coburg North",
+    "Site_streetaddress": "1011 Sydney Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3058",
+    "confidence": 1,
+    "latitude": -37.722889,
+    "longitude": 144.963304,
+    "label": "1011 Sydney Road, Coburg North, VIC, Australia"
+  },
+  {
+    "Suburb": "Oakleigh",
+    "Site_streetaddress": "28 Eaton Mall",
+    "Site_state": "VIC",
+    "Site_postcode": "3166",
+    "confidence": 1,
+    "latitude": -37.899823,
+    "longitude": 145.090152,
+    "label": "28 Eaton Mall, Oakleigh, VIC, Australia"
+  },
+  {
+    "Suburb": "Newport",
+    "Site_streetaddress": "70 Maddox Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3015",
+    "confidence": 1,
+    "latitude": -37.846506,
+    "longitude": 144.868955,
+    "label": "70 Maddox Road, Newport, VIC, Australia"
+  },
+  {
+    "Suburb": "Truganina",
+    "Site_streetaddress": "471 Leakes Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3029",
+    "confidence": 1,
+    "latitude": -37.838005,
+    "longitude": 144.728058,
+    "label": "471 Leakes Road, Truganina, VIC, Australia"
+  },
+  {
+    "Suburb": "Truganina",
+    "Site_streetaddress": "1/475 Leakes Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3029",
+    "confidence": 1,
+    "latitude": -37.838005,
+    "longitude": 144.728058,
+    "label": "475 Leakes Road, Truganina, VIC, Australia"
+  },
+  {
+    "Suburb": "Tarneit",
+    "Site_streetaddress": "Shop M02, 540 Derrimut Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3029",
+    "confidence": 1,
+    "latitude": -37.835415,
+    "longitude": 144.695197,
+    "label": "540 Derrimut Road, Tarneit, VIC, Australia"
+  },
+  {
+    "Suburb": "Tarneit",
+    "Site_streetaddress": "Shop T08, 540 Derrimut Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3029",
+    "confidence": 1,
+    "latitude": -37.835415,
+    "longitude": 144.695197,
+    "label": "540 Derrimut Road, Tarneit, VIC, Australia"
+  },
+  {
+    "Suburb": "Tarneit",
+    "Site_streetaddress": "Shop T32, 540 Derrimut Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3029",
+    "confidence": 1,
+    "latitude": -37.835415,
+    "longitude": 144.695197,
+    "label": "540 Derrimut Road, Tarneit, VIC, Australia"
+  },
+  {
+    "Suburb": "Tarneit",
+    "Site_streetaddress": "540 Derrimut Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3029",
+    "confidence": 1,
+    "latitude": -37.835415,
+    "longitude": 144.695197,
+    "label": "540 Derrimut Road, Tarneit, VIC, Australia"
+  },
+  {
+    "Suburb": "Altona North",
+    "Site_streetaddress": "2/32, Borrack Square",
+    "Site_state": "VIC",
+    "Site_postcode": "3025",
+    "confidence": 1,
+    "latitude": -37.834783,
+    "longitude": 144.846418,
+    "label": "32 Borrack Square, Altona North, VIC, Australia"
+  },
+  {
+    "Suburb": "Altona North",
+    "Site_streetaddress": "124-134 Millers Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3025",
+    "confidence": 1,
+    "latitude": -37.82865,
+    "longitude": 144.847455,
+    "label": "124-134 Millers Road, Altona North, VIC, Australia"
+  },
+  {
+    "Suburb": "Altona North",
+    "Site_streetaddress": "290/298 Millers Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3025",
+    "confidence": 1,
+    "latitude": -37.843117,
+    "longitude": 144.845966,
+    "label": "298 Millers Road, Altona North, VIC, Australia"
+  },
+  {
+    "Suburb": "Epping",
+    "Site_streetaddress": "Warehouse 4.1, 55 Produce Drive",
+    "Site_state": "VIC",
+    "Site_postcode": "3076",
+    "confidence": 1,
+    "latitude": -37.6529014,
+    "longitude": 144.9952857,
+    "label": "3076, Epping, VIC, Australia"
+  },
+  {
+    "Suburb": "Glen Waverley",
+    "Site_streetaddress": "676 High Street Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3150",
+    "confidence": 1,
+    "latitude": -37.873621,
+    "longitude": 145.158388,
+    "label": "676 High Street Road, Glen Waverley, VIC, Australia"
+  },
+  {
+    "Suburb": "Roxburgh Park",
+    "Site_streetaddress": "250 Somerton Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3064",
+    "confidence": 1,
+    "latitude": -37.640663,
+    "longitude": 144.931374,
+    "label": "250 Somerton Road, Roxburgh Park, VIC, Australia"
+  },
+  {
+    "Suburb": "West Melbourne",
+    "Site_streetaddress": "33 Jeffcott Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3003",
+    "confidence": 1,
+    "latitude": -37.811808,
+    "longitude": 144.952598,
+    "label": "33/33 Jeffcott Street, West Melbourne, VIC, Australia"
+  },
+  {
+    "Suburb": "Carlton",
+    "Site_streetaddress": "368-380 Lygon Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3053",
+    "confidence": 1,
+    "latitude": -37.7982545,
+    "longitude": 144.9664378,
+    "label": "Carlton, VIC, Australia"
+  },
+  {
+    "Suburb": "Truganina",
+    "Site_streetaddress": "Mainview Boulevard",
+    "Site_state": "VIC",
+    "Site_postcode": "3029",
+    "confidence": 1,
+    "latitude": -37.8410081,
+    "longitude": 144.731616,
+    "label": "Truganina, VIC, Australia"
+  },
+  {
+    "Suburb": "Altona North",
+    "Site_streetaddress": "Level 2, 124-134 Millers Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3025",
+    "confidence": 1,
+    "latitude": -37.8281315,
+    "longitude": 144.8449796
+  },
+  {
+    "Suburb": "Altona North",
+    "Site_streetaddress": "Shop L6, 124 –134 Millers Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3025",
+    "confidence": 1,
+    "latitude": -37.82865,
+    "longitude": 144.847455,
+    "label": "124-134 Millers Road, Altona North, VIC, Australia"
+  },
+  {
+    "Suburb": "Shepparton",
+    "Site_streetaddress": "25 Tom Collins Drive",
+    "Site_state": "VIC",
+    "Site_postcode": "3630",
+    "confidence": 1,
+    "latitude": -36.386844,
+    "longitude": 145.3942255,
+    "label": "Shepparton, VIC, Australia"
+  },
+  {
+    "Suburb": "Shepparton",
+    "Site_streetaddress": "Shop 38A 110 Benalla Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3630",
+    "confidence": 1,
+    "latitude": -36.386532,
+    "longitude": 145.424029,
+    "label": "110 Benalla Road, Shepparton, VIC, Australia"
+  },
+  {
+    "Suburb": "Altona North",
+    "Site_streetaddress": "300/330 Millers Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3025",
+    "confidence": 1,
+    "latitude": -37.83746,
+    "longitude": 144.847194,
+    "label": "300-330 Millers Road, Altona North, VIC, Australia"
+  },
+  {
+    "Suburb": "North Melbourne",
+    "Site_streetaddress": "75 Flemington Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3051",
+    "confidence": 1,
+    "latitude": -37.798901,
+    "longitude": 144.95348,
+    "label": "75 Flemington Road, North Melbourne, VIC, Australia"
+  },
+  {
+    "Suburb": "Shepparton",
+    "Site_streetaddress": "20-28 Florence Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3630",
+    "confidence": 1,
+    "latitude": -36.383772,
+    "longitude": 145.42463,
+    "label": "20-28 Florence Street, Shepparton, VIC, Australia"
+  },
+  {
+    "Suburb": "Shepparton",
+    "Site_streetaddress": "197-205 Corio Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3630",
+    "confidence": 1,
+    "latitude": -36.3831195,
+    "longitude": 145.4035719,
+    "label": "Shepparton, VIC, Australia"
+  },
+  {
+    "Suburb": "Mooroopna",
+    "Site_streetaddress": "107/123 Echuca Rd",
+    "Site_state": "VIC",
+    "Site_postcode": "3629",
+    "confidence": 1,
+    "latitude": -36.383656,
+    "longitude": 145.353526,
+    "label": "123 Echuca Road, Mooroopna, VIC, Australia"
+  },
+  {
+    "Suburb": "Shepparton",
+    "Site_streetaddress": "440/452 Wyndham Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3630",
+    "confidence": 1,
+    "latitude": -36.3839454,
+    "longitude": 145.3962488,
+    "label": "Shepparton, VIC, Australia"
+  },
+  {
+    "Suburb": "Shepparton",
+    "Site_streetaddress": "177-193 Numurkah Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3630",
+    "confidence": 1,
+    "latitude": -36.353327,
+    "longitude": 145.402479,
+    "label": "177-193 Numurkah Road, Shepparton, VIC, Australia"
+  },
+  {
+    "Suburb": "Shepparton",
+    "Site_streetaddress": "Corner High & Archer Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3630",
+    "confidence": 1,
+    "latitude": -36.3834572,
+    "longitude": 145.409646,
+    "label": "Somers & Gilmour Streets, & Burwood Highway, Burwood, VIC, Australia"
+  },
+  {
+    "Suburb": "Carlton",
+    "Site_streetaddress": "Level 1/272 Lygon Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3053",
+    "confidence": 1,
+    "latitude": -37.800447,
+    "longitude": 144.96726,
+    "label": "272 Lygon Street, Carlton, VIC, Australia"
+  },
+  {
+    "Suburb": "Shepparton",
+    "Site_streetaddress": "Vauaghan Central, 214-216 Corio Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3630",
+    "confidence": 1,
+    "latitude": -36.3840172,
+    "longitude": 145.399958,
+    "label": "214-216 Corio Street, Shepparton, VIC, Australia"
+  },
+  {
+    "Suburb": "North Melbourne",
+    "Site_streetaddress": "23 Blackwood Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3051",
+    "confidence": 1,
+    "latitude": -37.800448,
+    "longitude": 144.955421,
+    "label": "23/23 Blackwood Street, North Melbourne, VIC, Australia"
+  },
+  {
+    "Suburb": "Shepparton",
+    "Site_streetaddress": "Vaughan & Maude Street ",
+    "Site_state": "VIC",
+    "Site_postcode": "3630",
+    "confidence": 1,
+    "latitude": -36.3831421,
+    "longitude": 145.4003489,
+    "label": "Shepparton Station, Vaughan & Purcell Streets, Shepparton, VIC, Australia"
+  },
+  {
+    "Suburb": "Altona North",
+    "Site_streetaddress": "Corner Blackshaw’s Road & Millers Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3025",
+    "confidence": 1,
+    "latitude": -37.8312192,
+    "longitude": 144.8460064,
+    "label": "S4/290 Millers Road, Altona North, VIC, Australia"
+  },
+  {
+    "Suburb": "Brighton East",
+    "Site_streetaddress": "765B Hawthorn Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3187",
+    "confidence": 1,
+    "latitude": -37.913702,
+    "longitude": 145.017254,
+    "label": "765B Hawthorn Road, Brighton East, VIC, Australia"
+  },
+  {
+    "Suburb": "Altona North",
+    "Site_streetaddress": "124/134 Millers Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3025",
+    "confidence": 1,
+    "latitude": -37.82865,
+    "longitude": 144.847455,
+    "label": "134 Millers Road, Altona North, VIC, Australia"
+  },
+  {
+    "Suburb": "Oakleigh",
+    "Site_streetaddress": "Hanover Street and Pirtman Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3166",
+    "confidence": 1,
+    "latitude": -37.9003798,
+    "longitude": 145.0888411,
+    "label": "Vermont South Shopping Centre, Hanover & Hartland Roads, & Burwood Highway, Vermont South, VIC, Australia"
+  },
+  {
+    "Suburb": "Melbourne",
+    "Site_streetaddress": "Queen Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3000",
+    "confidence": 1,
+    "latitude": -37.8075798,
+    "longitude": 144.9545963,
+    "label": "Melbourne, VIC, Australia"
+  },
+  {
+    "Suburb": "Lara",
+    "Site_streetaddress": "1 Forest Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3212",
+    "confidence": 1,
+    "latitude": -38.022157,
+    "longitude": 144.396286,
+    "label": "1 Forest Road North, Lara, VIC, Australia"
+  },
+  {
+    "Suburb": "Point Cook",
+    "Site_streetaddress": "Murnong Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3030",
+    "confidence": 1,
+    "latitude": -37.8833691,
+    "longitude": 144.7331992,
+    "label": "Point Cook, VIC, Australia"
+  },
+  {
+    "Suburb": "Hoppers Crossing",
+    "Site_streetaddress": "2/220 Old Geelong Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3029",
+    "confidence": 1,
+    "latitude": -37.875296,
+    "longitude": 144.718458,
+    "label": "220-226 Old Geelong Road, Hoppers Crossing, VIC, Australia"
+  },
+  {
+    "Suburb": "Lara",
+    "Site_streetaddress": "46 Patullos Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3212",
+    "confidence": 1,
+    "latitude": -38.022714,
+    "longitude": 144.392783,
+    "label": "46 Patullos Road, Lara, VIC, Australia"
+  },
+  {
+    "Suburb": "Docklands",
+    "Site_streetaddress": "Tower 5 - 727 Collins Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3008",
+    "confidence": 1,
+    "latitude": -37.8210155,
+    "longitude": 144.9477178,
+    "label": "727 Collins Street, Docklands, VIC, Australia"
+  },
+  {
+    "Suburb": "Shepparton",
+    "Site_streetaddress": "7900 Goulburn Valley Highway",
+    "Site_state": "VIC",
+    "Site_postcode": "3630",
+    "confidence": 1,
+    "latitude": -36.4197036,
+    "longitude": 145.3900046,
+    "label": "Shepparton, VIC, Australia"
+  },
+  {
+    "Suburb": "Corio",
+    "Site_streetaddress": "Corio Village Shopping Centre, Bacchus Marsh Rd and Purnell Rd",
+    "Site_state": "VIC",
+    "Site_postcode": "3214",
+    "confidence": 1,
+    "latitude": -38.0755728,
+    "longitude": 144.3537117,
+    "label": "3214, Corio, VIC, Australia"
+  },
+  {
+    "Suburb": "Lara",
+    "Site_streetaddress": "Waverley Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3212",
+    "confidence": 1,
+    "latitude": -38.0235576,
+    "longitude": 144.4083165,
+    "label": "62 Waverley Road, Lara, VIC, Australia"
+  },
+  {
+    "Suburb": "Norlane",
+    "Site_streetaddress": "5-19 Princes Highway",
+    "Site_state": "VIC",
+    "Site_postcode": "3214",
+    "confidence": 1,
+    "latitude": -38.097678,
+    "longitude": 144.35488,
+    "label": "5-19 Princes Highway, Norlane, VIC, Australia"
+  },
+  {
+    "Suburb": "Point Cook",
+    "Site_streetaddress": "Point Cook Town Centre, Shop 121/5 Main Street ",
+    "Site_state": "VIC",
+    "Site_postcode": "3030",
+    "confidence": 1,
+    "latitude": -37.8830487,
+    "longitude": 144.7329983,
+    "label": "Point Cook, VIC, Australia"
+  },
+  {
+    "Suburb": "Shepparton",
+    "Site_streetaddress": "644 Wyndham Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3630",
+    "confidence": 1,
+    "latitude": -36.400697,
+    "longitude": 145.394679,
+    "label": "644 Wyndham Street, Shepparton, VIC, Australia"
+  },
+  {
+    "Suburb": "North Melbourne",
+    "Site_streetaddress": "Shop 1/5-17 Flemington Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3051",
+    "confidence": 1,
+    "latitude": -37.801001,
+    "longitude": 144.956091,
+    "label": "5-17 Flemington Road, North Melbourne, VIC, Australia"
+  },
+  {
+    "Suburb": "Altona North",
+    "Site_streetaddress": "202 Millers Rd",
+    "Site_state": "VIC",
+    "Site_postcode": "3025",
+    "confidence": 1,
+    "latitude": -37.834966,
+    "longitude": 144.847357,
+    "label": "202 Millers Road, Altona North, VIC, Australia"
+  },
+  {
+    "Suburb": "North Melbourne",
+    "Site_streetaddress": "58 Villiers Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3051",
+    "confidence": 1,
+    "latitude": -37.799279,
+    "longitude": 144.953752,
+    "label": "58 Villiers Street, North Melbourne, VIC, Australia"
+  },
+  {
+    "Suburb": "Yarraville",
+    "Site_streetaddress": "175 Somerville Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3013",
+    "confidence": 1,
+    "latitude": -37.812844,
+    "longitude": 144.882236,
+    "label": "175 Somerville Road, Yarraville, VIC, Australia"
+  },
+  {
+    "Suburb": "Docklands",
+    "Site_streetaddress": "201 Spencer Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3008",
+    "confidence": 1,
+    "latitude": -37.816395,
+    "longitude": 144.952607,
+    "label": "201 Spencer Street, Docklands, VIC, Australia"
+  },
+  {
+    "Suburb": "Shepparton North",
+    "Site_streetaddress": "15 Grace Road Shepparton North",
+    "Site_state": "VIC",
+    "Site_postcode": "3631",
+    "confidence": 1,
+    "latitude": -36.323379,
+    "longitude": 145.405469,
+    "label": "15 Grace Road, Shepparton North, VIC, Australia"
+  },
+  {
+    "Suburb": "Corio",
+    "Site_streetaddress": "Shop G021 Corner Bacchus Marsh Road and Purnell Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3214",
+    "confidence": 1,
+    "latitude": -38.07427,
+    "longitude": 44.3556423,
+    "label": "3214, Corio, VIC, Australia"
+  },
+  {
+    "Suburb": "Docklands",
+    "Site_streetaddress": "381 Footscray Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3008",
+    "confidence": 1,
+    "latitude": -37.810559,
+    "longitude": 144.937916,
+    "label": "381 Footscray Road, Docklands, VIC, Australia"
+  },
+  {
+    "Suburb": "Tarneit ",
+    "Site_streetaddress": "540 Derrimut Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3029",
+    "confidence": 1,
+    "latitude": -37.835415,
+    "longitude": 144.695197,
+    "label": "540 Derrimut Road, Tarneit, VIC, Australia"
+  },
+  {
+    "Suburb": "North Melbourne",
+    "Site_streetaddress": "372 Victoria Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3051",
+    "confidence": 1,
+    "latitude": -37.805446,
+    "longitude": 144.953955,
+    "label": "372 Victoria Street, North Melbourne, VIC, Australia"
+  },
+  {
+    "Suburb": "Shepparton",
+    "Site_streetaddress": "35 Hamilton Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3630",
+    "confidence": 1,
+    "latitude": -36.392674,
+    "longitude": 145.40982,
+    "label": "35 Hamilton Street, Shepparton, VIC, Australia"
+  },
+  {
+    "Suburb": "Altona North",
+    "Site_streetaddress": "Corner Millers Road and Kororoit Creek Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3018",
+    "confidence": 1,
+    "latitude": -37.8534842,
+    "longitude": 144.8488398,
+    "label": "Altona North, VIC, Australia"
+  },
+  {
+    "Suburb": "Corio",
+    "Site_streetaddress": "Bacchus Marsh Road and Purnell Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3214",
+    "confidence": 1,
+    "latitude": -38.0754686,
+    "longitude": 144.3549665,
+    "label": "Bacchus Marsh & Melton Regional Hospital, Bacchus Marsh, VIC, Australia"
+  },
+  {
+    "Suburb": "Somerton",
+    "Site_streetaddress": "2/85 Hume Highway",
+    "Site_state": "VIC",
+    "Site_postcode": "3062",
+    "confidence": 1,
+    "latitude": -37.636501,
+    "longitude": 144.949592,
+    "label": "85 Hume Highway, Somerton, VIC, Australia"
+  },
+  {
+    "Suburb": "Fitzroy",
+    "Site_streetaddress": "206-210 Brunswick Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3065",
+    "confidence": 1,
+    "latitude": -37.801275,
+    "longitude": 144.978219,
+    "label": "206-210 Brunswick Street, Fitzroy, VIC, Australia"
+  },
+  {
+    "Suburb": "Shepparton",
+    "Site_streetaddress": "Shop 3/465-471 Wyndham Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3630",
+    "confidence": 1,
+    "latitude": -36.385511,
+    "longitude": 145.398679,
+    "label": "465-471 Wyndham Street, Shepparton, VIC, Australia"
+  },
+  {
+    "Suburb": "Shepparton",
+    "Site_streetaddress": "33 Vaughan Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3630",
+    "confidence": 1,
+    "latitude": -36.383354,
+    "longitude": 145.401946,
+    "label": "33 Vaughan Street, Shepparton, VIC, Australia"
+  },
+  {
+    "Suburb": "Shepparton",
+    "Site_streetaddress": "120 Numurkah Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3630",
+    "confidence": 1,
+    "latitude": -36.357445,
+    "longitude": 145.401634,
+    "label": "120 Numurkah Road, Shepparton, VIC, Australia"
+  },
+  {
+    "Suburb": "Shepparton",
+    "Site_streetaddress": "169 Fryers Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3630",
+    "confidence": 1,
+    "latitude": -36.379444,
+    "longitude": 145.404443,
+    "label": "163-169 Fryers Street, Shepparton, VIC, Australia"
+  },
+  {
+    "Suburb": "Corio",
+    "Site_streetaddress": "Corner Bacchus Marsh & Purnell Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3214",
+    "confidence": 1,
+    "latitude": -38.075357,
+    "longitude": 144.3560969,
+    "label": "Marshall Road & Matthews Avenue, Airport West, VIC, Australia"
+  },
+  {
+    "Suburb": "Shepparton",
+    "Site_streetaddress": "252-264 Wyndham Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3630",
+    "confidence": 1,
+    "latitude": -36.378529,
+    "longitude": 145.399586,
+    "label": "252-264 Wyndham Street, Shepparton, VIC, Australia"
+  },
+  {
+    "Suburb": "Dandenong North",
+    "Site_streetaddress": "19 Brady Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3175",
+    "confidence": 1,
+    "latitude": -37.953602,
+    "longitude": 145.2103,
+    "label": "19 Brady Road, Dandenong North, VIC, Australia"
+  },
+  {
+    "Suburb": "Brunswick East",
+    "Site_streetaddress": "155 Weston Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3057",
+    "confidence": 1,
+    "latitude": -37.77576,
+    "longitude": 144.971274,
+    "label": "155 Weston Street, Brunswick East, VIC, Australia"
+  },
+  {
+    "Suburb": "Braybrook ",
+    "Site_streetaddress": "160 Churchill Avenue",
+    "Site_state": "VIC",
+    "Site_postcode": "3019",
+    "confidence": 1,
+    "latitude": -37.785746,
+    "longitude": 144.853388,
+    "label": "158-160N Churchill Avenue, Braybrook, VIC, Australia"
+  },
+  {
+    "Suburb": "Altona North",
+    "Site_streetaddress": "21 Lobelia Drive",
+    "Site_state": "VIC",
+    "Site_postcode": "3025",
+    "confidence": 1,
+    "latitude": -37.843966,
+    "longitude": 144.841935,
+    "label": "21 Lobelia Drive, Altona North, VIC, Australia"
+  },
+  {
+    "Suburb": "Hoppers Crossing ",
+    "Site_streetaddress": "57-69 Forsyth Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3029",
+    "confidence": 1,
+    "latitude": -37.8651185,
+    "longitude": 144.7307881,
+    "label": "Hoppers Crossing, VIC, Australia"
+  },
+  {
+    "Suburb": "Altona North",
+    "Site_streetaddress": "28 Borrack Square",
+    "Site_state": "VIC",
+    "Site_postcode": "3025",
+    "confidence": 1,
+    "latitude": -37.834733,
+    "longitude": 144.845967,
+    "label": "28 Borrack Square, Altona North, VIC, Australia"
+  },
+  {
+    "Suburb": "Broadmeadows",
+    "Site_streetaddress": "Broadmeadows Central, 1099-1169 Pascoe Vale Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3047",
+    "confidence": 1,
+    "latitude": -37.6794692,
+    "longitude": 144.9163654,
+    "label": "1099-1169 Pascoe Vale Road, Broadmeadows, VIC, Australia"
+  },
+  {
+    "Suburb": "Altona North",
+    "Site_streetaddress": "41 The Cir",
+    "Site_state": "VIC",
+    "Site_postcode": "3025",
+    "confidence": 1,
+    "latitude": -37.836823,
+    "longitude": 144.863257,
+    "label": "41 The Circle, Altona North, VIC, Australia"
+  },
+  {
+    "Suburb": "Werribee",
+    "Site_streetaddress": "2/57 Synnot Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3030",
+    "confidence": 1,
+    "latitude": -37.903724,
+    "longitude": 144.660068,
+    "label": "57 Synnot Street, Werribee, VIC, Australia"
+  },
+  {
+    "Suburb": "Hoppers Crossing",
+    "Site_streetaddress": "Floor G Pacific Werribee, 250 Heaths Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3030",
+    "confidence": 1,
+    "latitude": -37.8750467,
+    "longitude": 144.6802332,
+    "label": "3030, Werribee South, VIC, Australia"
+  },
+  {
+    "Suburb": "Shepparton",
+    "Site_streetaddress": "143/149 Knight Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3630",
+    "confidence": 1,
+    "latitude": -36.374842,
+    "longitude": 145.408118,
+    "label": "143-149 Knight Street, Shepparton, VIC, Australia"
+  },
+  {
+    "Suburb": "Mooroopna",
+    "Site_streetaddress": "91-101 McLennan Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3629",
+    "confidence": 1,
+    "latitude": -36.3953742,
+    "longitude": 145.3559198,
+    "label": "Shepparton, VIC, Australia"
+  },
+  {
+    "Suburb": "Shepparton",
+    "Site_streetaddress": "Corner of Numurkah Road and Brauman Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3630",
+    "confidence": 1,
+    "latitude": -36.3568945,
+    "longitude": 145.4009795,
+    "label": "Shepparton, VIC, Australia"
+  },
+  {
+    "Suburb": "Corio",
+    "Site_streetaddress": "Bacchus Marsh Rd and Purnell Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3214",
+    "confidence": 1,
+    "latitude": -38.0760629,
+    "longitude": 144.3534509,
+    "label": "Bacchus Marsh & Melton Regional Hospital, Bacchus Marsh, VIC, Australia"
+  },
+  {
+    "Suburb": "Coolaroo",
+    "Site_streetaddress": "1350 Pascoe Vale Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3048",
+    "confidence": 1,
+    "latitude": -37.663607,
+    "longitude": 144.922869,
+    "label": "1350 Pascoe Vale Road, Coolaroo, VIC, Australia"
+  },
+  {
+    "Suburb": "Shepparton",
+    "Site_streetaddress": "135-141 Knight Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3630",
+    "confidence": 1,
+    "latitude": -36.374776,
+    "longitude": 145.40762,
+    "label": "135-141 Knight Street, Shepparton, VIC, Australia"
+  },
+  {
+    "Suburb": "Broadmeadows",
+    "Site_streetaddress": "1-23 Lilliput Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3047",
+    "confidence": 1,
+    "latitude": -37.671371,
+    "longitude": 144.922218,
+    "label": "1-23 Lilliput Street, Broadmeadows, VIC, Australia"
+  },
+  {
+    "Suburb": "South Yarra",
+    "Site_streetaddress": "114 Toorak Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3141",
+    "confidence": 1,
+    "latitude": -37.838968,
+    "longitude": 144.990122,
+    "label": "114 Toorak Road, South Yarra, VIC, Australia"
+  },
+  {
+    "Suburb": "Southbank",
+    "Site_streetaddress": "93-113 Kavanagh Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3006",
+    "confidence": 1,
+    "latitude": -37.8256232,
+    "longitude": 144.9623313,
+    "label": "Southbank, VIC, Australia"
+  },
+  {
+    "Suburb": "Shepparton",
+    "Site_streetaddress": "40 Vaughan Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3630",
+    "confidence": 1,
+    "latitude": -36.383847,
+    "longitude": 145.402406,
+    "label": "40 Vaughan Street, Shepparton, VIC, Australia"
+  },
+  {
+    "Suburb": "Brunswick East",
+    "Site_streetaddress": "127-137 Nicholson Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3057",
+    "confidence": 1,
+    "latitude": -37.772247,
+    "longitude": 144.978258,
+    "label": "127-137 Nicholson Street, Brunswick East, VIC, Australia"
+  },
+  {
+    "Suburb": "Footscray",
+    "Site_streetaddress": "78 Paisley Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3011",
+    "confidence": 1,
+    "latitude": -37.800164,
+    "longitude": 144.894643,
+    "label": "78 Paisley Street, Footscray, VIC, Australia"
+  },
+  {
+    "Suburb": "Reservoir",
+    "Site_streetaddress": "192-202 Broadway Street and Whitelaw Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3073",
+    "confidence": 1,
+    "latitude": -37.7170737,
+    "longitude": 145.0103251,
+    "label": "Reservoir, VIC, Australia"
+  },
+  {
+    "Suburb": "Shepparton",
+    "Site_streetaddress": "110 Benalla Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3630",
+    "confidence": 1,
+    "latitude": -36.386532,
+    "longitude": 145.424029,
+    "label": "110 Benalla Road, Shepparton, VIC, Australia"
+  },
+  {
+    "Suburb": "Shepparton",
+    "Site_streetaddress": "428 Wyndham Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3630",
+    "confidence": 1,
+    "latitude": -36.3837232,
+    "longitude": 145.3960622,
+    "label": "Shepparton, VIC, Australia"
+  },
+  {
+    "Suburb": "Southbank",
+    "Site_streetaddress": "268-270 City Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3006",
+    "confidence": 1,
+    "latitude": -37.826158,
+    "longitude": 144.959453,
+    "label": "268-270 City Road, Southbank, VIC, Australia"
+  },
+  {
+    "Suburb": "Altona",
+    "Site_streetaddress": "Corner of Millers Road & Ross Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3018",
+    "confidence": 1,
+    "latitude": -37.8456117,
+    "longitude": 144.8416641,
+    "label": "Altona, VIC, Australia"
+  },
+  {
+    "Suburb": "South Melbourne",
+    "Site_streetaddress": "265 Clarendon Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3205",
+    "confidence": 1,
+    "latitude": -37.832704,
+    "longitude": 144.960716,
+    "label": "265 Clarendon Street, South Melbourne, VIC, Australia"
+  },
+  {
+    "Suburb": "Mansfield",
+    "Site_streetaddress": "Mt Buller Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3722",
+    "confidence": 1,
+    "latitude": -37.8456117,
+    "longitude": 144.8416641,
+    "label": "Mansfield, VIC, Australia"
+  },
+  {
+    "Suburb": "Shepparton",
+    "Site_streetaddress": "Shop 4/290 Benalla Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3630",
+    "confidence": 1,
+    "latitude": -36.388224,
+    "longitude": 145.430086,
+    "label": "290 Benalla Road, Shepparton, VIC, Australia"
+  },
+  {
+    "Suburb": "Pascoe Vale",
+    "Site_streetaddress": "242 Sussex Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3044",
+    "confidence": 1,
+    "latitude": -37.722037,
+    "longitude": 144.9491433,
+    "label": "Pascoe Vale, VIC, Australia"
+  },
+  {
+    "Suburb": "Craigieburn",
+    "Site_streetaddress": "SHOP BOO B34, 340 Craigieburn Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3064",
+    "confidence": 1,
+    "latitude": -37.5932294,
+    "longitude": 144.9117437,
+    "label": "3064, Mickleham, VIC, Australia"
+  },
+  {
+    "Suburb": "Keilor East",
+    "Site_streetaddress": "2/26 Cemetery Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3033",
+    "confidence": 1,
+    "latitude": -37.728837,
+    "longitude": 144.851124,
+    "label": "26 Cemetery Road, Keilor East, VIC, Australia"
+  },
+  {
+    "Suburb": "Collingwood",
+    "Site_streetaddress": "172 Smith Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3066",
+    "confidence": 1,
+    "latitude": -37.80356,
+    "longitude": 144.983745,
+    "label": "172 Smith Street, Collingwood, VIC, Australia"
+  },
+  {
+    "Suburb": "Brunswick East",
+    "Site_streetaddress": "167 Lygon Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3057",
+    "confidence": 1,
+    "latitude": -37.7730219,
+    "longitude": 144.9690016,
+    "label": "Brunswick East, VIC, Australia"
+  },
+  {
+    "Suburb": "Moonee Ponds",
+    "Site_streetaddress": "156 State Route 35",
+    "Site_state": "VIC",
+    "Site_postcode": "3039",
+    "confidence": 1,
+    "latitude": -37.7941184,
+    "longitude": 144.8352181,
+    "label": "Moonee Ponds, VIC, Australia"
+  },
+  {
+    "Suburb": "Moonee Ponds",
+    "Site_streetaddress": "88/92 Puckle Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3039",
+    "confidence": 1,
+    "latitude": -37.766455,
+    "longitude": 144.921819,
+    "label": "88-92 Puckle Street, Moonee Ponds, VIC, Australia"
+  },
+  {
+    "Suburb": "Flemington",
+    "Site_streetaddress": "3/390 Racecourse Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3031",
+    "confidence": 1,
+    "latitude": -37.7881327,
+    "longitude": 144.9278147,
+    "label": "Flemington, VIC, Australia"
+  },
+  {
+    "Suburb": "Shepparton",
+    "Site_streetaddress": "174 Corio Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3630",
+    "confidence": 1,
+    "latitude": -36.381164,
+    "longitude": 145.403154,
+    "label": "174 Corio Street, Shepparton, VIC, Australia"
+  },
+  {
+    "Suburb": "Parkville",
+    "Site_streetaddress": "50 Flemington Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3052",
+    "confidence": 1,
+    "latitude": -37.794586,
+    "longitude": 144.949284,
+    "label": "50 Flemington Road, Parkville, VIC, Australia"
+  },
+  {
+    "Suburb": "Spotswood",
+    "Site_streetaddress": "132 Hudsons Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3015",
+    "confidence": 1,
+    "latitude": -37.82916,
+    "longitude": 144.88187,
+    "label": "132 Hudsons Road, Spotswood, VIC, Australia"
+  },
+  {
+    "Suburb": "Altona North",
+    "Site_streetaddress": "300-330 Millers Road ",
+    "Site_state": "VIC",
+    "Site_postcode": "3025",
+    "confidence": 1,
+    "latitude": -37.83746,
+    "longitude": 144.847194,
+    "label": "300-330 Millers Road, Altona North, VIC, Australia"
+  },
+  {
+    "Suburb": "St Albans",
+    "Site_streetaddress": "53 St Albans Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3021",
+    "confidence": 1,
+    "latitude": -37.752118,
+    "longitude": 144.806155,
+    "label": "53 St Albans Road, St Albans, VIC, Australia"
+  },
+  {
+    "Suburb": "Bentleigh",
+    "Site_streetaddress": "795 Nepean Highway",
+    "Site_state": "VIC",
+    "Site_postcode": "3204",
+    "confidence": 1,
+    "latitude": -37.922107,
+    "longitude": 145.024489,
+    "label": "795 Nepean Highway, Bentleigh, VIC, Australia"
+  },
+  {
+    "Suburb": "Shepparton",
+    "Site_streetaddress": "94 Fryers Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3630",
+    "confidence": 1,
+    "latitude": -36.379518,
+    "longitude": 145.401869,
+    "label": "94 Fryers Street, Shepparton, VIC, Australia"
+  },
+  {
+    "Suburb": "Braybrook",
+    "Site_streetaddress": "160 Churchill Avenue ",
+    "Site_state": "VIC",
+    "Site_postcode": "3019",
+    "confidence": 1,
+    "latitude": -37.785746,
+    "longitude": 144.853388,
+    "label": "158-160N Churchill Avenue, Braybrook, VIC, Australia"
+  },
+  {
+    "Suburb": "Braybrook",
+    "Site_streetaddress": "T3, 67 Ashley Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3019",
+    "confidence": 1,
+    "latitude": -37.793742,
+    "longitude": 144.86279,
+    "label": "67 Ashley Street, Braybrook, VIC, Australia"
+  },
+  {
+    "Suburb": "Cheltenham",
+    "Site_streetaddress": "1239 Nepean Highway",
+    "Site_state": "VIC",
+    "Site_postcode": "3192",
+    "confidence": 1,
+    "latitude": -37.957856,
+    "longitude": 145.051726,
+    "label": "1239 Nepean Highway, Cheltenham, VIC, Australia"
+  },
+  {
+    "Suburb": "Ascot Vale",
+    "Site_streetaddress": "327-357 Mount Alexander Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3032",
+    "confidence": 1,
+    "latitude": -37.7757911,
+    "longitude": 144.9280568,
+    "label": "Ascot Vale, VIC, Australia"
+  },
+  {
+    "Suburb": "Moonee Ponds",
+    "Site_streetaddress": "294-296 Ascot Vale Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3039",
+    "confidence": 1,
+    "latitude": -37.771239,
+    "longitude": 144.924363,
+    "label": "294-296 Ascot Vale Road, Moonee Ponds, VIC, Australia"
+  },
+  {
+    "Suburb": "Essendon",
+    "Site_streetaddress": "1001 Mount Alexander Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3040",
+    "confidence": 1,
+    "latitude": -37.748024,
+    "longitude": 144.912062,
+    "label": "1001 Mt Alexander Road, Essendon, VIC, Australia"
+  },
+  {
+    "Suburb": "Airport West",
+    "Site_streetaddress": "29/35 Louis Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3042",
+    "confidence": 1,
+    "latitude": -37.712873,
+    "longitude": 144.889386,
+    "label": "29-35 Louis Street, Airport West, VIC, Australia"
+  },
+  {
+    "Suburb": "Dallas",
+    "Site_streetaddress": "1 Dobell Place",
+    "Site_state": "VIC",
+    "Site_postcode": "3047",
+    "confidence": 1,
+    "latitude": -37.673447,
+    "longitude": 144.930204,
+    "label": "1 Dobell Place, Dallas, VIC, Australia"
+  },
+  {
+    "Suburb": "Broadmeadows",
+    "Site_streetaddress": "Shankland Boulevard & Somerton Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3047",
+    "confidence": 1,
+    "latitude": -37.6496863,
+    "longitude": 144.9165833,
+    "label": "Broadmeadows, VIC, Australia"
+  },
+  {
+    "Suburb": "Braybrook",
+    "Site_streetaddress": "59 Ashley Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3019",
+    "confidence": 1,
+    "latitude": -37.793742,
+    "longitude": 144.86279,
+    "label": "59 Ashley Street, Braybrook, VIC, Australia"
+  },
+  {
+    "Suburb": "Braybrook",
+    "Site_streetaddress": "T1, 67 Ashley Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3019",
+    "confidence": 1,
+    "latitude": -37.793742,
+    "longitude": 144.86279,
+    "label": "67 Ashley Street, Braybrook, VIC, Australia"
+  },
+  {
+    "Suburb": "Braybrook",
+    "Site_streetaddress": "T14, 67 Ashley Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3019",
+    "confidence": 1,
+    "latitude": -37.793742,
+    "longitude": 144.86279,
+    "label": "67 Ashley Street, Braybrook, VIC, Australia"
+  },
+  {
+    "Suburb": "Braybrook",
+    "Site_streetaddress": "Kiosk 1, South Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3019",
+    "confidence": 1,
+    "latitude": -37.7939404,
+    "longitude": 144.8606205,
+    "label": "111 South Road, Braybrook, VIC, Australia"
+  },
+  {
+    "Suburb": "West Footscray",
+    "Site_streetaddress": "3/576 Barkly Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3012",
+    "confidence": 1,
+    "latitude": -37.797267,
+    "longitude": 144.877502,
+    "label": "576 Barkly Street, West Footscray, VIC, Australia"
+  },
+  {
+    "Suburb": "Truganina",
+    "Site_streetaddress": "1593 Western Highway & Derrimut Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3029",
+    "confidence": 1,
+    "latitude": -37.7468629,
+    "longitude": 144.7007668,
+    "label": "Truganina, VIC, Australia"
+  },
+  {
+    "Suburb": "Moonee Ponds",
+    "Site_streetaddress": "876 Mount Alexander Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3039",
+    "confidence": 1,
+    "latitude": -37.7576178,
+    "longitude": 144.9175766,
+    "label": "Moonee Ponds, VIC, Australia"
+  },
+  {
+    "Suburb": "Richmond",
+    "Site_streetaddress": "1 Kennedy Avenue ",
+    "Site_state": "VIC",
+    "Site_postcode": "3121",
+    "confidence": 1,
+    "latitude": -37.824697,
+    "longitude": 145.011819,
+    "label": "1/1 Kennedy Avenue, Richmond, VIC, Australia"
+  },
+  {
+    "Suburb": "Altona North",
+    "Site_streetaddress": "2/32 Borrack Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3025",
+    "confidence": 1,
+    "latitude": -37.8356463,
+    "longitude": 144.8461037,
+    "label": "Altona North, VIC, Australia"
+  },
+  {
+    "Suburb": "Coolaroo",
+    "Site_streetaddress": "1350-1380 Pascoe Vale Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3048",
+    "confidence": 1,
+    "latitude": -37.6636274,
+    "longitude": 144.9208108,
+    "label": "Coolaroo, VIC, Australia"
+  },
+  {
+    "Suburb": "Newport",
+    "Site_streetaddress": "113 Blackshaws Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3015",
+    "confidence": 1,
+    "latitude": -37.834225,
+    "longitude": 144.874034,
+    "label": "113 Blackshaws Road, Newport, VIC, Australia"
+  },
+  {
+    "Suburb": "Richmond",
+    "Site_streetaddress": "630 Victoria Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3121",
+    "confidence": 1,
+    "latitude": -37.811805,
+    "longitude": 145.011393,
+    "label": "630 Victoria Street, Richmond, VIC, Australia"
+  },
+  {
+    "Suburb": "Newport",
+    "Site_streetaddress": "19 North Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3015",
+    "confidence": 1,
+    "latitude": -37.845288,
+    "longitude": 144.892422,
+    "label": "19 North Road, Newport, VIC, Australia"
+  },
+  {
+    "Suburb": "Altona North",
+    "Site_streetaddress": "2 Duke Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3025",
+    "confidence": 1,
+    "latitude": -37.834525,
+    "longitude": 144.847427,
+    "label": "2A Duke Street, Altona North, VIC, Australia"
+  },
+  {
+    "Suburb": "Seddon",
+    "Site_streetaddress": "97 Victoria Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3011",
+    "confidence": 1,
+    "latitude": -37.805787,
+    "longitude": 144.892186,
+    "label": "97-99 Victoria Street, Seddon, VIC, Australia"
+  },
+  {
+    "Suburb": "Seddon",
+    "Site_streetaddress": "176-178 Victoria Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3011",
+    "confidence": 1,
+    "latitude": -37.806092,
+    "longitude": 144.891761,
+    "label": "176 - 178 Victoria Street, Seddon, VIC, Australia"
+  },
+  {
+    "Suburb": "Fitzroy",
+    "Site_streetaddress": "30-32 Gertrude Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3065",
+    "confidence": 1,
+    "latitude": -37.805689,
+    "longitude": 144.975186,
+    "label": "30-32 Gertrude Street, Fitzroy, VIC, Australia"
+  },
+  {
+    "Suburb": "Springvale South",
+    "Site_streetaddress": "26 Darren Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3172",
+    "confidence": 1,
+    "latitude": -37.9794799,
+    "longitude": 145.1554251,
+    "label": "Springvale South, VIC, Australia"
+  },
+  {
+    "Suburb": "Clayton",
+    "Site_streetaddress": "17 Garden Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3168",
+    "confidence": 1,
+    "latitude": -37.918701,
+    "longitude": 145.146623,
+    "label": "17 Garden Road, Clayton, VIC, Australia"
+  },
+  {
+    "Suburb": "Bonnie Doon",
+    "Site_streetaddress": "10 Bon Crescent",
+    "Site_state": "VIC",
+    "Site_postcode": "3720",
+    "confidence": 1,
+    "latitude": -37.025945,
+    "longitude": 145.854095,
+    "label": "10 Bon Crescent, Bonnie Doon, VIC, Australia"
+  },
+  {
+    "Suburb": "Shepparton",
+    "Site_streetaddress": "298 High Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3630",
+    "confidence": 1,
+    "latitude": -36.382846,
+    "longitude": 145.410777,
+    "label": "298 High Street, Shepparton, VIC, Australia"
+  },
+  {
+    "Suburb": "Brunswick East",
+    "Site_streetaddress": "32-34 Lygon Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3057",
+    "confidence": 1,
+    "latitude": -37.7777139,
+    "longitude": 144.9687828,
+    "label": "Brunswick East, VIC, Australia"
+  },
+  {
+    "Suburb": "Dandenong",
+    "Site_streetaddress": "23-26 Princes Highway",
+    "Site_state": "VIC",
+    "Site_postcode": "3175",
+    "confidence": 1,
+    "latitude": -37.9829444,
+    "longitude": 145.2113885,
+    "label": "Dandenong South, VIC, Australia"
+  },
+  {
+    "Suburb": "Shepparton",
+    "Site_streetaddress": "Kiosk 3/110 Benalla Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3630",
+    "confidence": 1,
+    "latitude": -36.386532,
+    "longitude": 145.424029,
+    "label": "110 Benalla Road, Shepparton, VIC, Australia"
+  },
+  {
+    "Suburb": "Hoppers Crossing",
+    "Site_streetaddress": "1/3 Alexandra Avenue",
+    "Site_state": "VIC",
+    "Site_postcode": "3029",
+    "confidence": 1,
+    "latitude": -37.851404,
+    "longitude": 144.707067,
+    "label": "3/1-3 Alexandra Avenue, Hoppers Crossing, VIC, Australia"
+  },
+  {
+    "Suburb": "Altona North",
+    "Site_streetaddress": "2-32 Borrack Square",
+    "Site_state": "VIC",
+    "Site_postcode": "3025",
+    "confidence": 1,
+    "latitude": -37.8351923,
+    "longitude": 144.8444607,
+    "label": "Altona North, VIC, Australia"
+  },
+  {
+    "Suburb": "Hoppers Crossing",
+    "Site_streetaddress": "2/1-3 Alexandra Avenue",
+    "Site_state": "VIC",
+    "Site_postcode": "3029",
+    "confidence": 1,
+    "latitude": -37.851404,
+    "longitude": 144.707067,
+    "label": "1-3 Alexandra Avenue, Hoppers Crossing, VIC, Australia"
+  },
+  {
+    "Suburb": "Melbourne",
+    "Site_streetaddress": "Shop 2 - G07 Southern Cross Building Corner Bourke & Exhibition St",
+    "Site_state": "VIC",
+    "Site_postcode": "3000",
+    "confidence": 1,
+    "latitude": -37.8127326,
+    "longitude": 144.9682193
+  },
+  {
+    "Suburb": "Shepparton",
+    "Site_streetaddress": "72 High Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3630",
+    "confidence": 1,
+    "latitude": -36.38147,
+    "longitude": 145.400518,
+    "label": "72 High Street, Shepparton, VIC, Australia"
+  },
+  {
+    "Suburb": "Shepparton",
+    "Site_streetaddress": "425 Wyndham Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3630",
+    "confidence": 1,
+    "latitude": -36.383761,
+    "longitude": 145.399036,
+    "label": "425-429 Wyndham Street, Shepparton, VIC, Australia"
+  },
+  {
+    "Suburb": "Shepparton",
+    "Site_streetaddress": "49 Graham Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3630",
+    "confidence": 1,
+    "latitude": -36.362313,
+    "longitude": 145.406326,
+    "label": "35-49 Graham Street, Shepparton, VIC, Australia"
+  },
+  {
+    "Suburb": "Shepparton",
+    "Site_streetaddress": "302A High Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3630",
+    "confidence": 1,
+    "latitude": -36.383209,
+    "longitude": 145.411082,
+    "label": "302 High Street, Shepparton, VIC, Australia"
+  },
+  {
+    "Suburb": "Altona North",
+    "Site_streetaddress": "Shop L6, Altona Gate Shopping Centre 124-134 Millers Rd",
+    "Site_state": "VIC",
+    "Site_postcode": "3025",
+    "confidence": 1,
+    "latitude": -37.8281315,
+    "longitude": 144.8449796,
+    "label": "Altona North, VIC, Australia"
+  },
+  {
+    "Suburb": "Altona North",
+    "Site_streetaddress": "Lower Ground, Altona Gate Shopping Centre 124-134 Millers Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3025",
+    "confidence": 1,
+    "latitude": -37.8280879,
+    "longitude": 144.8452306,
+    "label": "Altona North, VIC, Australia"
+  },
+  {
+    "Suburb": "Collingwood",
+    "Site_streetaddress": "115-117 Rupert Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3066",
+    "confidence": 1,
+    "latitude": -37.804097,
+    "longitude": 144.989341,
+    "label": "115-117 Rupert Street, Collingwood, VIC, Australia"
+  },
+  {
+    "Suburb": "North Melbourne",
+    "Site_streetaddress": "33 Alfred Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3051",
+    "confidence": 1,
+    "latitude": -37.791594,
+    "longitude": 144.940841,
+    "label": "33/33 Alfred Street, North Melbourne, VIC, Australia"
+  },
+  {
+    "Suburb": "Invergordon",
+    "Site_streetaddress": "1292 Invergordon Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3636",
+    "confidence": 1,
+    "latitude": -36.145474,
+    "longitude": 145.610906,
+    "label": "1292 Invergordon Road, Invergordon, VIC, Australia"
+  },
+  {
+    "Suburb": "Keysborough ",
+    "Site_streetaddress": "48 Beau Vorno Avenue",
+    "Site_state": "VIC",
+    "Site_postcode": "3173",
+    "confidence": 1,
+    "latitude": -37.991192,
+    "longitude": 145.163018,
+    "label": "48 Beau Vorno Avenue, Keysborough, VIC, Australia"
+  },
+  {
+    "Suburb": "Keysborough ",
+    "Site_streetaddress": "511 Cheltenham Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3173",
+    "confidence": 1,
+    "latitude": -37.99113,
+    "longitude": 145.149286,
+    "label": "511 Cheltenham Road, Keysborough, VIC, Australia"
+  },
+  {
+    "Suburb": "Dandenong North",
+    "Site_streetaddress": "Shop 1/11 Dunearn Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3175",
+    "confidence": 1,
+    "latitude": -37.968125,
+    "longitude": 145.202633,
+    "label": "11 Dunearn Road, Dandenong North, VIC, Australia"
+  },
+  {
+    "Suburb": "Moorabbin",
+    "Site_streetaddress": "127-129 Keys Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3189",
+    "confidence": 1,
+    "latitude": -37.949099,
+    "longitude": 145.072465,
+    "label": "127-129 Keys Road, Moorabbin, VIC, Australia"
+  },
+  {
+    "Suburb": "Blackburn",
+    "Site_streetaddress": "64-104 Springfield Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3130",
+    "confidence": 1,
+    "latitude": -37.810555,
+    "longitude": 145.151942,
+    "label": "64-104 Springfield Road, Blackburn, VIC, Australia"
+  },
+  {
+    "Suburb": "Mulgrave",
+    "Site_streetaddress": "271 Police Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3170",
+    "confidence": 1,
+    "latitude": -37.936925,
+    "longitude": 145.189939,
+    "label": "271 Police Road, Mulgrave, VIC, Australia"
+  },
+  {
+    "Suburb": "Fawkner",
+    "Site_streetaddress": "Baird Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3060",
+    "confidence": 1,
+    "latitude": -37.7053375,
+    "longitude": 144.9688806,
+    "label": "Fawkner, VIC, Australia"
+  },
+  {
+    "Suburb": "Epping",
+    "Site_streetaddress": "60 Deveny Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3076",
+    "confidence": 1,
+    "latitude": -37.658702,
+    "longitude": 145.012653,
+    "label": "60B Deveny Road, Epping, VIC, Australia"
+  },
+  {
+    "Suburb": "Altona North",
+    "Site_streetaddress": "202 Millers Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3025",
+    "confidence": 1,
+    "latitude": -37.834966,
+    "longitude": 144.847357,
+    "label": "202 Millers Road, Altona North, VIC, Australia"
+  },
+  {
+    "Suburb": "Fawkner",
+    "Site_streetaddress": "1274 Sydney Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3060",
+    "confidence": 1,
+    "latitude": -37.700627,
+    "longitude": 144.960247,
+    "label": "1274 Sydney Road, Fawkner, VIC, Australia"
+  },
+  {
+    "Suburb": "Narre Warren",
+    "Site_streetaddress": "25-55 Overland Drive",
+    "Site_state": "VIC",
+    "Site_postcode": "3805",
+    "confidence": 1,
+    "latitude": -38.021683,
+    "longitude": 145.301036,
+    "label": "25-55 Overland Drive, Narre Warren, VIC, Australia"
+  },
+  {
+    "Suburb": "Dandenong",
+    "Site_streetaddress": "18 Kitchen Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3175",
+    "confidence": 1,
+    "latitude": -38.022599,
+    "longitude": 145.224674,
+    "label": "18 Kitchen Road, Dandenong South, VIC, Australia"
+  },
+  {
+    "Suburb": "Altona North",
+    "Site_streetaddress": "Floor G, Millers Road and Duosa Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3025",
+    "confidence": 1,
+    "latitude": -37.8282666,
+    "longitude": 144.8458606,
+    "label": "Millers Civil Contractors & Plant Hire, Horsham, VIC, Australia"
+  },
+  {
+    "Suburb": "Shepparton",
+    "Site_streetaddress": "310-312 Wyndham Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3630",
+    "confidence": 1,
+    "latitude": -36.380065,
+    "longitude": 145.399279,
+    "label": "310-312 Wyndham Street, Shepparton, VIC, Australia"
+  },
+  {
+    "Suburb": "Vermont",
+    "Site_streetaddress": "612-626 Canterbury Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3133",
+    "confidence": 1,
+    "latitude": -37.836213,
+    "longitude": 145.196108,
+    "label": "612-626 Canterbury Road, Vermont, VIC, Australia"
+  },
+  {
+    "Suburb": "Cremorne",
+    "Site_streetaddress": "232 Swan Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3121",
+    "confidence": 1,
+    "latitude": -37.8258943,
+    "longitude": 144.9953343,
+    "label": "Cremorne, VIC, Australia"
+  },
+  {
+    "Suburb": "Bayswater",
+    "Site_streetaddress": "719-721 Mountain Highway",
+    "Site_state": "VIC",
+    "Site_postcode": "3153",
+    "confidence": 1,
+    "latitude": -37.8408931,
+    "longitude": 145.2630803,
+    "label": "Bayswater, VIC, Australia"
+  },
+  {
+    "Suburb": "Pakenham",
+    "Site_streetaddress": "Cardinia Road & Village Way",
+    "Site_state": "VIC",
+    "Site_postcode": "3810",
+    "confidence": 1,
+    "latitude": -38.0725779,
+    "longitude": 145.4353247,
+    "label": "Pakenham, VIC, Australia"
+  },
+  {
+    "Suburb": "Shepparton",
+    "Site_streetaddress": "31 McGill Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3630",
+    "confidence": 1,
+    "latitude": -36.362623,
+    "longitude": 145.430106,
+    "label": "31 Mcgill Street, Shepparton, VIC, Australia"
+  },
+  {
+    "Suburb": "Coburg",
+    "Site_streetaddress": "365 Sydney Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3058",
+    "confidence": 1,
+    "latitude": -37.745168,
+    "longitude": 144.965714,
+    "label": "355-365 Sydney Road, Coburg, VIC, Australia"
+  },
+  {
+    "Suburb": "Coburg",
+    "Site_streetaddress": "451-459 Sydney Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3058",
+    "confidence": 1,
+    "latitude": -37.742469,
+    "longitude": 144.9636953,
+    "label": "Coburg, VIC, Australia"
+  },
+  {
+    "Suburb": "Coburg",
+    "Site_streetaddress": "64 Gaffney Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3058",
+    "confidence": 1,
+    "latitude": -37.732272,
+    "longitude": 144.957011,
+    "label": "Coburg, VIC, Australia"
+  },
+  {
+    "Suburb": "Coburg",
+    "Site_streetaddress": "451 Sydney Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3058",
+    "confidence": 1,
+    "latitude": -37.742572,
+    "longitude": 144.966188,
+    "label": "451B Sydney Road, Coburg, VIC, Australia"
+  },
+  {
+    "Suburb": "Coburg",
+    "Site_streetaddress": "22 Sydney Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3058",
+    "confidence": 1,
+    "latitude": -37.754924,
+    "longitude": 144.964442,
+    "label": "22 Sydney Road, Coburg, VIC, Australia"
+  },
+  {
+    "Suburb": "Docklands",
+    "Site_streetaddress": "Shop T302 Ground Floor, Spencer Outlet Centre, 201 Spencer Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3058",
+    "confidence": 1,
+    "latitude": -37.8149039,
+    "longitude": 144.9498086,
+    "label": "201 Spencer Street, Docklands, VIC, Australia"
+  },
+  {
+    "Suburb": "Melbourne",
+    "Site_streetaddress": "380 Elizabeth Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3000",
+    "confidence": 1,
+    "latitude": -37.809871,
+    "longitude": 144.961435,
+    "label": "380 Elizabeth Street, Melbourne, VIC, Australia"
+  },
+  {
+    "Suburb": "Shepparton",
+    "Site_streetaddress": "92-100 Wilmot Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3630",
+    "confidence": 1,
+    "latitude": -36.3986597,
+    "longitude": 145.4059049,
+    "label": "Shepparton, VIC, Australia"
+  },
+  {
+    "Suburb": "Shepparton",
+    "Site_streetaddress": "Parkside Drive",
+    "Site_state": "VIC",
+    "Site_postcode": "3630",
+    "confidence": 1,
+    "latitude": -36.3565582,
+    "longitude": 145.3892203,
+    "label": "Shepparton, VIC, Australia"
+  },
+  {
+    "Suburb": "Mooroopna",
+    "Site_streetaddress": "141-179 Echuca Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3629",
+    "confidence": 1,
+    "latitude": -36.380653,
+    "longitude": 145.35131,
+    "label": "141-179 Echuca Road, Mooroopna, VIC, Australia"
+  },
+  {
+    "Suburb": "Orrvale",
+    "Site_streetaddress": "300 Channel Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3631",
+    "confidence": 1,
+    "latitude": -36.409903,
+    "longitude": 145.439487,
+    "label": "300 Channel Road, Orrvale, VIC, Australia"
+  },
+  {
+    "Suburb": "Melbourne",
+    "Site_streetaddress": "201 Spencer Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3000",
+    "confidence": 1,
+    "latitude": -37.815584,
+    "longitude": 144.953074,
+    "label": "201/220 Spencer Street, Melbourne, VIC, Australia"
+  },
+  {
+    "Suburb": "West Footscray",
+    "Site_streetaddress": "Corner of Geelong Road and Geelong Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3012",
+    "confidence": 1,
+    "latitude": -37.802879,
+    "longitude": 144.8807553,
+    "label": "West Footscray, VIC, Australia"
+  },
+  {
+    "Suburb": "Port Melbourne",
+    "Site_streetaddress": "501 Williamstown Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3207",
+    "confidence": 1,
+    "latitude": -37.830656,
+    "longitude": 144.939366,
+    "label": "501 Williamstown Road, Port Melbourne, VIC, Australia"
+  },
+  {
+    "Suburb": "Melbourne",
+    "Site_streetaddress": "Elizabeth Street and Flinders Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3000",
+    "confidence": 1,
+    "latitude": -37.8177038,
+    "longitude": 144.9606291,
+    "label": "Flinders Street Station, Elizabeth & Flinders Streets, Melbourne, VIC, Australia"
+  },
+  {
+    "Suburb": "West Footscray",
+    "Site_streetaddress": "Corner of Geelong Road and Somerville Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3012",
+    "confidence": 1,
+    "latitude": -37.8112347,
+    "longitude": 144.8653348,
+    "label": "West Footscray, VIC, Australia"
+  },
+  {
+    "Suburb": "Kensington",
+    "Site_streetaddress": "301 Racecourse Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3031",
+    "confidence": 1,
+    "latitude": -37.788514,
+    "longitude": 144.930868,
+    "label": "301 Racecourse Road, Kensington, VIC, Australia"
+  },
+  {
+    "Suburb": "Shepparton",
+    "Site_streetaddress": "298 Maude Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3630",
+    "confidence": 1,
+    "latitude": -36.384982,
+    "longitude": 145.399743,
+    "label": "298 Maude Street, Shepparton, VIC, Australia"
+  },
+  {
+    "Suburb": "Moonee Ponds",
+    "Site_streetaddress": "124 Maribyrnong Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3039",
+    "confidence": 1,
+    "latitude": -37.7715,
+    "longitude": 144.915521,
+    "label": "124 Maribyrnong Road, Moonee Ponds, VIC, Australia"
+  },
+  {
+    "Suburb": "Flemington",
+    "Site_streetaddress": "320 Epsom Road Showgrounds Village",
+    "Site_state": "VIC",
+    "Site_postcode": "3031",
+    "confidence": 1,
+    "latitude": -37.7822222,
+    "longitude": 144.9129005,
+    "label": "Flemington, VIC, Australia"
+  },
+  {
+    "Suburb": "Southbank",
+    "Site_streetaddress": "Shop 1/10 Hoff Boulevard",
+    "Site_state": "VIC",
+    "Site_postcode": "3006",
+    "confidence": 1,
+    "latitude": -37.825843,
+    "longitude": 144.963832,
+    "label": "10 Hoff Boulevard, Southbank, VIC, Australia"
+  },
+  {
+    "Suburb": "Frankston",
+    "Site_streetaddress": "Level 1, Shannon Street Mall",
+    "Site_state": "VIC",
+    "Site_postcode": "3199",
+    "confidence": 1,
+    "latitude": -38.14309,
+    "longitude": 145.123392,
+    "label": "1A Shannon Street Mall, Frankston, VIC, Australia"
+  },
+  {
+    "Suburb": "Coburg",
+    "Site_streetaddress": "1/3 Louisa Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3058",
+    "confidence": 1,
+    "latitude": -37.743813,
+    "longitude": 144.964722,
+    "label": "3 Louisa Street, Coburg, VIC, Australia"
+  },
+  {
+    "Suburb": "Werribee",
+    "Site_streetaddress": "300 Princes Highway",
+    "Site_state": "VIC",
+    "Site_postcode": "3030",
+    "confidence": 1,
+    "latitude": -37.885669,
+    "longitude": 144.698951,
+    "label": "300-310 Princes Highway, Werribee, VIC, Australia"
+  },
+  {
+    "Suburb": "Moonee Ponds",
+    "Site_streetaddress": "100-102 Eglinton Street Apartment Complex",
+    "Site_state": "VIC",
+    "Site_postcode": "3039",
+    "confidence": 1,
+    "latitude": -37.768289,
+    "longitude": 144.911958,
+    "label": "100-102 Eglinton Street, Moonee Ponds, VIC, Australia"
+  },
+  {
+    "Suburb": "Melbourne",
+    "Site_streetaddress": "300 Spencer Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3000",
+    "confidence": 1,
+    "latitude": -37.813827,
+    "longitude": 144.952021,
+    "label": "300 Spencer Street, Melbourne, VIC, Australia"
+  },
+  {
+    "Suburb": "Frankston",
+    "Site_streetaddress": "Golf Links Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3199",
+    "confidence": 1,
+    "latitude": -38.1633328,
+    "longitude": 145.1353626,
+    "label": "Frankston, VIC, Australia"
+  },
+  {
+    "Suburb": "Dallas",
+    "Site_streetaddress": "26-36 King Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3047",
+    "confidence": 1,
+    "latitude": -37.670414,
+    "longitude": 144.941804,
+    "label": "26-36 King Street, Dallas, VIC, Australia"
+  },
+  {
+    "Suburb": "Brunswick East",
+    "Site_streetaddress": "92 Lygon Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3057",
+    "confidence": 1,
+    "latitude": -37.775687,
+    "longitude": 144.971185,
+    "label": "92 Lygon Street, Brunswick East, VIC, Australia"
+  },
+  {
+    "Suburb": "Shepparton",
+    "Site_streetaddress": "Corner of Vaughan and Maude Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3131",
+    "confidence": 1,
+    "latitude": -36.3948206,
+    "longitude": 145.3712913,
+    "label": "Shepparton Station, Vaughan & Purcell Streets, Shepparton, VIC, Australia"
+  },
+  {
+    "Suburb": "Kialla",
+    "Site_streetaddress": "Waranga Drive",
+    "Site_state": "VIC",
+    "Site_postcode": "3631",
+    "confidence": 1,
+    "latitude": -36.4204714,
+    "longitude": 145.3987288,
+    "label": "Kialla, VIC, Australia"
+  },
+  {
+    "Suburb": "Broadmeadows",
+    "Site_streetaddress": "37 Kraft Court",
+    "Site_state": "VIC",
+    "Site_postcode": "3047",
+    "confidence": 1,
+    "latitude": -37.67712,
+    "longitude": 144.924016,
+    "label": "27-37 Kraft Court, Broadmeadows, VIC, Australia"
+  },
+  {
+    "Suburb": "Elwood",
+    "Site_streetaddress": "138-140 Ormond Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3184",
+    "confidence": 1,
+    "latitude": -37.886244,
+    "longitude": 144.988671,
+    "label": "138-140 Ormond Road, Elwood, VIC, Australia"
+  },
+  {
+    "Suburb": "Elwood",
+    "Site_streetaddress": "130-132 Ormond Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3184",
+    "confidence": 1,
+    "latitude": -36.4204714,
+    "longitude": 145.3987288,
+    "label": "Elwood, VIC, Australia"
+  },
+  {
+    "Suburb": "Newport",
+    "Site_streetaddress": "17 Hall Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3013",
+    "confidence": 1,
+    "latitude": -37.843073,
+    "longitude": 144.883995,
+    "label": "17 Hall Street, Newport, VIC, Australia"
+  },
+  {
+    "Suburb": "Melbourne Airport",
+    "Site_streetaddress": "16-20 Gowrie Park Drive",
+    "Site_state": "VIC",
+    "Site_postcode": "3045",
+    "confidence": 1,
+    "latitude": -37.67287,
+    "longitude": 144.854997,
+    "label": "16-20 Gowrie Park Drive, Melbourne Airport, VIC, Australia"
+  },
+  {
+    "Suburb": "Seaford",
+    "Site_streetaddress": "1/25 Hartnett Drive",
+    "Site_state": "VIC",
+    "Site_postcode": "3198",
+    "confidence": 1,
+    "latitude": -38.113461,
+    "longitude": 145.141878,
+    "label": "25 Hartnett Drive, Seaford, VIC, Australia"
+  },
+  {
+    "Suburb": "Richmond",
+    "Site_streetaddress": "139 Highett Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3121",
+    "confidence": 1,
+    "latitude": -37.81478,
+    "longitude": 144.996647,
+    "label": "139/139 Highett Street, Richmond, VIC, Australia"
+  },
+  {
+    "Suburb": "Shepparton",
+    "Site_streetaddress": "Shop 3/39 Vaughan Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3630",
+    "confidence": 1,
+    "latitude": -36.383445,
+    "longitude": 145.402619,
+    "label": "39 Vaughan Street, Shepparton, VIC, Australia"
+  },
+  {
+    "Suburb": "Shepparton",
+    "Site_streetaddress": "1st Floor, 296 Wyndham Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3630",
+    "confidence": 1,
+    "latitude": -36.379695,
+    "longitude": 145.399342,
+    "label": "296 Wyndham Street, Shepparton, VIC, Australia"
+  },
+  {
+    "Suburb": "Kensington",
+    "Site_streetaddress": "338 Racecourse Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3031",
+    "confidence": 1,
+    "latitude": -37.7873371,
+    "longitude": 144.9261025,
+    "label": "Kensington, VIC, Australia"
+  },
+  {
+    "Suburb": "Airport West",
+    "Site_streetaddress": "29-35 Louis Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3042",
+    "confidence": 1,
+    "latitude": -37.712873,
+    "longitude": 144.889386,
+    "label": "29-35 Louis Street, Airport West, VIC, Australia"
+  },
+  {
+    "Suburb": "Flemington",
+    "Site_streetaddress": "6-12 Pin Oak Crescent",
+    "Site_state": "VIC",
+    "Site_postcode": "3031",
+    "confidence": 1,
+    "latitude": -37.787885,
+    "longitude": 144.929552,
+    "label": "6-12 Pin Oak Crescent, Flemington, VIC, Australia"
+  },
+  {
+    "Suburb": "Gladstone Park",
+    "Site_streetaddress": "8-34 Gladstone Park Drive",
+    "Site_state": "VIC",
+    "Site_postcode": "3043",
+    "confidence": 1,
+    "latitude": -37.689209,
+    "longitude": 144.884602,
+    "label": "8-34 Gladstone Park Drive, Gladstone Park, VIC, Australia"
+  },
+  {
+    "Suburb": "Tullamarine",
+    "Site_streetaddress": "7 Carrick Drive",
+    "Site_state": "VIC",
+    "Site_postcode": "3043",
+    "confidence": 1,
+    "latitude": -37.702205,
+    "longitude": 144.883144,
+    "label": "7 Carrick Drive, Tullamarine, VIC, Australia"
+  },
+  {
+    "Suburb": "Broadmeadows",
+    "Site_streetaddress": "Broadmeadows Central Shopping Centre, 1099-1169 Pascoe Vale Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3047",
+    "confidence": 1,
+    "latitude": -37.6794692,
+    "longitude": 144.9163654,
+    "label": "1099-1169 Pascoe Vale Road, Broadmeadows, VIC, Australia"
+  },
+  {
+    "Suburb": "Moonee Ponds",
+    "Site_streetaddress": "108 Puckle Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3039",
+    "confidence": 1,
+    "latitude": -37.766577,
+    "longitude": 144.921175,
+    "label": "108 Puckle Street, Moonee Ponds, VIC, Australia"
+  },
+  {
+    "Suburb": "Hoppers Crossing",
+    "Site_streetaddress": "Cnr Derrimut Road and Heaths Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3029",
+    "confidence": 1,
+    "latitude": -37.874,
+    "longitude": 144.680571,
+    "label": "Hoppers Crossing, VIC, Australia"
+  },
+  {
+    "Suburb": "Ashburton",
+    "Site_streetaddress": "237 High Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3147",
+    "confidence": 1,
+    "latitude": -37.863101,
+    "longitude": 145.078585,
+    "label": "237 High Street, Ashburton, VIC, Australia"
+  },
+  {
+    "Suburb": "Ashburton",
+    "Site_streetaddress": "178 High Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3147",
+    "confidence": 1,
+    "latitude": -37.86339,
+    "longitude": 145.078043,
+    "label": "178 High Street, Ashburton, VIC, Australia"
+  },
+  {
+    "Suburb": "Glen Iris",
+    "Site_streetaddress": "350-354 Tooronga Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3146",
+    "confidence": 1,
+    "latitude": -37.8463783,
+    "longitude": 145.0451744,
+    "label": "Glen Iris, VIC, Australia"
+  },
+  {
+    "Suburb": "Tarneit",
+    "Site_streetaddress": "Tarneit Road and Hogans Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3029",
+    "confidence": 1,
+    "latitude": -37.8597222,
+    "longitude": 144.6642002,
+    "label": "Tarneit, VIC, Australia"
+  },
+  {
+    "Suburb": "Hawthorn East",
+    "Site_streetaddress": "742 Toorak Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3123",
+    "confidence": 1,
+    "latitude": -37.845194,
+    "longitude": 145.041378,
+    "label": "742 Toorak Road, Hawthorn East, VIC, Australia"
+  },
+  {
+    "Suburb": "Ashwood",
+    "Site_streetaddress": "551-557 Warrigal Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3147",
+    "confidence": 1,
+    "latitude": -37.8663605,
+    "longitude": 145.0929862,
+    "label": "Ashwood, VIC, Australia"
+  },
+  {
+    "Suburb": "Werribee",
+    "Site_streetaddress": "Shop RE05, Pacific Werribee, Corner Derrimut Road and Heaths Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3030",
+    "confidence": 1,
+    "latitude": -37.8754483,
+    "longitude": 144.6794104,
+    "label": "3030, Werribee South, VIC, Australia"
+  },
+  {
+    "Suburb": "Cairnlea",
+    "Site_streetaddress": "93 Furlong Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3023",
+    "confidence": 1,
+    "latitude": -37.757524,
+    "longitude": 144.790482,
+    "label": "93 Furlong Road, Cairnlea, VIC, Australia"
+  },
+  {
+    "Suburb": "Malvern East",
+    "Site_streetaddress": "140 Burke Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3145",
+    "confidence": 1,
+    "latitude": -37.865449,
+    "longitude": 145.050378,
+    "label": "140 Burke Road, Malvern East, VIC, Australia"
+  },
+  {
+    "Suburb": "North Melbourne",
+    "Site_streetaddress": "Vaughan Terrace and Canning Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3051",
+    "confidence": 1,
+    "latitude": -37.795595,
+    "longitude": 144.9379466,
+    "label": "North Melbourne, VIC, Australia"
+  },
+  {
+    "Suburb": "Ashburton",
+    "Site_streetaddress": "219 High Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3147",
+    "confidence": 1,
+    "latitude": -37.863007,
+    "longitude": 145.077802,
+    "label": "219 High Street, Ashburton, VIC, Australia"
+  },
+  {
+    "Suburb": "Malvern East",
+    "Site_streetaddress": "360 Wattletree Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3145",
+    "confidence": 1,
+    "latitude": -37.865301,
+    "longitude": 145.050799,
+    "label": "360 Wattletree Road, Malvern East, VIC, Australia"
+  },
+  {
+    "Suburb": "Hawthorn East",
+    "Site_streetaddress": "Tenancy T5, 740-742 Toorak Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3123",
+    "confidence": 1,
+    "latitude": -37.845194,
+    "longitude": 145.041378,
+    "label": "740-742 Toorak Road, Hawthorn East, VIC, Australia"
+  },
+  {
+    "Suburb": "Malvern",
+    "Site_streetaddress": "66 Milton Parade",
+    "Site_state": "VIC",
+    "Site_postcode": "3144",
+    "confidence": 1,
+    "latitude": -37.849339,
+    "longitude": 145.040832,
+    "label": "66 Milton Parade, Malvern, VIC, Australia"
+  },
+  {
+    "Suburb": "Glen Iris",
+    "Site_streetaddress": "2 Summerhill Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3144",
+    "confidence": 1,
+    "latitude": -37.848855,
+    "longitude": 145.07684,
+    "label": "2 Summerhill Road, Glen Iris, VIC, Australia"
+  },
+  {
+    "Suburb": "Ascot Vale",
+    "Site_streetaddress": "327-357 Mt Alexander Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3032",
+    "confidence": 1,
+    "latitude": -37.7758827,
+    "longitude": 144.9262323,
+    "label": "Ascot Vale, VIC, Australia"
+  },
+  {
+    "Suburb": "Melbourne",
+    "Site_streetaddress": "Corner of Bourke Street and Westwood Place",
+    "Site_state": "VIC",
+    "Site_postcode": "3000",
+    "confidence": 1,
+    "latitude": -37.8124411,
+    "longitude": 144.9715846,
+    "label": "Melbourne, VIC, Australia"
+  },
+  {
+    "Suburb": "Ascot Vale",
+    "Site_streetaddress": "11 Wingate Avenue",
+    "Site_state": "VIC",
+    "Site_postcode": "3031",
+    "confidence": 1,
+    "latitude": -37.779509,
+    "longitude": 144.920873,
+    "label": "11/11 Wingate Avenue, Ascot Vale, VIC, Australia"
+  },
+  {
+    "Suburb": "Melbourne",
+    "Site_streetaddress": "233 Collins Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3000",
+    "confidence": 1,
+    "latitude": -37.815889,
+    "longitude": 144.965984,
+    "label": "233 Collins Street, Melbourne, VIC, Australia"
+  },
+  {
+    "Suburb": "Broadmeadows",
+    "Site_streetaddress": "Lahinch Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3047",
+    "confidence": 1,
+    "latitude": -37.6923353,
+    "longitude": 144.9206189,
+    "label": "Broadmeadows, VIC, Australia"
+  },
+  {
+    "Suburb": "Coburg",
+    "Site_streetaddress": "14/20 Nicholson Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3058",
+    "confidence": 1,
+    "latitude": -37.755069,
+    "longitude": 144.975659,
+    "label": "14-20 Nicholson Street, Coburg, VIC, Australia"
+  },
+  {
+    "Suburb": "St Kilda",
+    "Site_streetaddress": "87 Grey Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3182",
+    "confidence": 1,
+    "latitude": -37.862755,
+    "longitude": 144.980049,
+    "label": "87 Grey Street, St Kilda, VIC, Australia"
+  },
+  {
+    "Suburb": "Melbourne",
+    "Site_streetaddress": "Tenancy 12, 1/519-539 St Kilda Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3000",
+    "confidence": 1,
+    "latitude": -37.8451641,
+    "longitude": 144.9795776,
+    "label": "Melbourne, VIC, Australia"
+  },
+  {
+    "Suburb": "Carlton",
+    "Site_streetaddress": "510 Lygon Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3053",
+    "confidence": 1,
+    "latitude": -37.794612,
+    "longitude": 144.968333,
+    "label": "510 Lygon Street, Carlton, VIC, Australia"
+  },
+  {
+    "Suburb": "North Melbourne",
+    "Site_streetaddress": "45 Flemington Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3031",
+    "confidence": 1,
+    "latitude": -37.799974,
+    "longitude": 144.954955,
+    "label": "45 Flemington Road, North Melbourne, VIC, Australia"
+  },
+  {
+    "Suburb": "Altona North",
+    "Site_streetaddress": "Corner Blackshaws Road &, Millers Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3025",
+    "confidence": 1,
+    "latitude": -37.831166,
+    "longitude": 144.8473946,
+    "label": "Altona North, VIC, Australia"
+  },
+  {
+    "Suburb": "Brunswick East",
+    "Site_streetaddress": "92 Lygon St",
+    "Site_state": "VIC",
+    "Site_postcode": "3057",
+    "confidence": 1,
+    "latitude": -37.775687,
+    "longitude": 144.971185,
+    "label": "92 Lygon Street, Brunswick East, VIC, Australia"
+  },
+  {
+    "Suburb": "Roxburgh Park",
+    "Site_streetaddress": "7-9/101 Ravenhill Blvd",
+    "Site_state": "VIC",
+    "Site_postcode": "3064",
+    "confidence": 1,
+    "latitude": -37.632613,
+    "longitude": 144.918626,
+    "label": "101 Ravenhill Boulevard, Roxburgh Park, VIC, Australia"
+  },
+  {
+    "Suburb": "Kialla",
+    "Site_streetaddress": "14/8025 Goulburn Valley Hwy",
+    "Site_state": "VIC",
+    "Site_postcode": "3631",
+    "confidence": 1,
+    "latitude": -36.40837,
+    "longitude": 145.392181,
+    "label": "8025 Goulburn Valley Highway, Kialla, VIC, Australia"
+  },
+  {
+    "Suburb": "St Albans",
+    "Site_streetaddress": "173 Main Road W",
+    "Site_state": "VIC",
+    "Site_postcode": "3021",
+    "confidence": 1,
+    "latitude": -37.743626,
+    "longitude": 144.792981,
+    "label": "173A Main Road West, St Albans, VIC, Australia"
+  },
+  {
+    "Suburb": "Coburg",
+    "Site_streetaddress": "153-157 Elizabeth Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3058",
+    "confidence": 1,
+    "latitude": -37.7296003,
+    "longitude": 144.9829917,
+    "label": "Coburg, VIC, Australia"
+  },
+  {
+    "Suburb": "Windsor",
+    "Site_streetaddress": "29 Chapel St",
+    "Site_state": "VIC",
+    "Site_postcode": "3181",
+    "confidence": 1,
+    "latitude": -37.856775,
+    "longitude": 144.992263,
+    "label": "29 Chapel Street, Windsor, VIC, Australia"
+  },
+  {
+    "Suburb": "Edithvale",
+    "Site_streetaddress": "264 Nepean Hwy",
+    "Site_state": "VIC",
+    "Site_postcode": "3196",
+    "confidence": 1,
+    "latitude": -38.038593,
+    "longitude": 145.108302,
+    "label": "264 Nepean Highway, Edithvale, VIC, Australia"
+  },
+  {
+    "Suburb": "Altona North",
+    "Site_streetaddress": "13 Borrack Square",
+    "Site_state": "VIC",
+    "Site_postcode": "3025",
+    "confidence": 1,
+    "latitude": -37.835192,
+    "longitude": 144.84543,
+    "label": "13 Borrack Square, Altona North, VIC, Australia"
+  },
+  {
+    "Suburb": "Traralgon",
+    "Site_streetaddress": "Cnr Breed and Hotham Streets",
+    "Site_state": "VIC",
+    "Site_postcode": "3844",
+    "confidence": 1,
+    "latitude": -38.1971011,
+    "longitude": 146.533039,
+    "label": "Traralgon, VIC, Australia"
+  },
+  {
+    "Suburb": "Kilsyth",
+    "Site_streetaddress": "509-511 Mount DandenongRoad",
+    "Site_state": "VIC",
+    "Site_postcode": "3137",
+    "confidence": 1,
+    "latitude": -37.801629,
+    "longitude": 145.3072503,
+    "label": "Kilsyth, VIC, Australia"
+  },
+  {
+    "Suburb": "Altona North",
+    "Site_streetaddress": "Shop L6, 124 134 Millers Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3025",
+    "confidence": 1,
+    "latitude": -37.82865,
+    "longitude": 144.847455,
+    "label": "134 Millers Road, Altona North, VIC, Australia"
+  },
+  {
+    "Suburb": "Altona North",
+    "Site_streetaddress": "Corner Blackshaws Road & Millers Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3025",
+    "confidence": 1,
+    "latitude": -37.8312041,
+    "longitude": 144.8464549,
+    "label": "Altona North, VIC, Australia"
+  }
+]
