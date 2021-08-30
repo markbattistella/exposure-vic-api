@@ -5243,5 +5243,45 @@
     "latitude": -37.837835,
     "longitude": 144.834706,
     "label": "Altona North, VIC, Australia"
+  },
+  {
+    "Suburb": "Melton",
+    "Site_streetaddress": "Floor G, 533 High St",
+    "Site_state": "VIC",
+    "Site_postcode": "3337",
+    "confidence": 0.6,
+    "latitude": -37.684986,
+    "longitude": 144.588885,
+    "label": "Melton, VIC, Australia"
+  },
+  {
+    "Suburb": "Melton",
+    "Site_streetaddress": "Coburns Rd",
+    "Site_state": "VIC",
+    "Site_postcode": "3337",
+    "confidence": 0.6,
+    "latitude": -37.684986,
+    "longitude": 144.588885,
+    "label": "Melton, VIC, Australia"
+  },
+  {
+    "Suburb": "Melton",
+    "Site_streetaddress": "308-312 High St",
+    "Site_state": "VIC",
+    "Site_postcode": "3337",
+    "confidence": 1,
+    "latitude": -37.682823,
+    "longitude": 144.583571,
+    "label": "308-312 High Street, Melton, VIC, Australia"
+  },
+  {
+    "Suburb": "Melton",
+    "Site_streetaddress": "77 High St",
+    "Site_state": "VIC",
+    "Site_postcode": "3337",
+    "confidence": 1,
+    "latitude": -37.690787,
+    "longitude": 144.603594,
+    "label": "77 High Street, Melton, VIC, Australia"
   }
 ]
