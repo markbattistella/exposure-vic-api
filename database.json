@@ -5523,5 +5523,45 @@
     "latitude": -37.848287,
     "longitude": 144.688566,
     "label": "410 Derrimut Road, Tarneit, VIC, Australia"
+  },
+  {
+    "Suburb": "Dandenong",
+    "Site_streetaddress": "4/82 Stud Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3175",
+    "confidence": 1,
+    "latitude": -37.977335,
+    "longitude": 145.222747,
+    "label": "82 Stud Road, Dandenong, VIC, Australia"
+  },
+  {
+    "Suburb": "Melton",
+    "Site_streetaddress": "267 High Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3337",
+    "confidence": 1,
+    "latitude": -37.683552,
+    "longitude": 144.584812,
+    "label": "267 High Street, Melton, VIC, Australia"
+  },
+  {
+    "Suburb": "Altona North",
+    "Site_streetaddress": "276 Blackshaws Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3025",
+    "confidence": 1,
+    "latitude": -37.832107,
+    "longitude": 144.858121,
+    "label": "276 Blackshaws Road, Altona North, VIC, Australia"
+  },
+  {
+    "Suburb": "Dandenong",
+    "Site_streetaddress": "5/82 Stud Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3175",
+    "confidence": 1,
+    "latitude": -37.977335,
+    "longitude": 145.222747,
+    "label": "82 Stud Road, Dandenong, VIC, Australia"
   }
 ]
