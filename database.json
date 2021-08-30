@@ -5443,5 +5443,45 @@
     "latitude": -37.981224,
     "longitude": 145.215049,
     "label": "63 Cleeland Street, Dandenong, VIC, Australia"
+  },
+  {
+    "Suburb": "Westmeadows",
+    "Site_streetaddress": "34 Fawkner Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3049",
+    "confidence": 1,
+    "latitude": -37.677093,
+    "longitude": 144.886942,
+    "label": "34B Fawkner Street, Westmeadows, VIC, Australia"
+  },
+  {
+    "Suburb": "Kilsyth",
+    "Site_streetaddress": "2/520 - 528 Mt Dandenong Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3137",
+    "confidence": 0.6,
+    "latitude": -37.806843,
+    "longitude": 145.316837,
+    "label": "Kilsyth, VIC, Australia"
+  },
+  {
+    "Suburb": "Rosebud",
+    "Site_streetaddress": "1149 Corner Nepean Highway & Sixth Avenue",
+    "Site_state": "VIC",
+    "Site_postcode": "3939",
+    "confidence": 0.6,
+    "latitude": -38.370137,
+    "longitude": 144.904081,
+    "label": "Rosebud, VIC, Australia"
+  },
+  {
+    "Suburb": "Sunshine",
+    "Site_streetaddress": "Corner Ballarat & Hampshire Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3020",
+    "confidence": 0.8,
+    "latitude": -37.551129,
+    "longitude": 143.819443,
+    "label": "Ballarat Acquatic and Leisure Centre, Lake Gardens, VIC, Australia"
   }
 ]
