@@ -5153,5 +5153,95 @@
     "latitude": -36.383234,
     "longitude": 145.414799,
     "label": "21 Benalla Road, Shepparton, VIC, Australia"
+  },
+  {
+    "Suburb": "Shepparton",
+    "Site_streetaddress": "Shop 14/310 High Street ",
+    "Site_state": "VIC",
+    "Site_postcode": "3630",
+    "confidence": 0.8,
+    "latitude": -36.38329,
+    "longitude": 145.411692,
+    "label": "310 High Street, Shepparton, VIC, Australia"
+  },
+  {
+    "Suburb": "Abbotsford",
+    "Site_streetaddress": "20 Shamrock Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3067",
+    "confidence": 1,
+    "latitude": -37.810154,
+    "longitude": 145.008213,
+    "label": "20 Shamrock Street, Abbotsford, VIC, Australia"
+  },
+  {
+    "Suburb": "Campbellfield",
+    "Site_streetaddress": "540 Mahoneys Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3061",
+    "confidence": 1,
+    "latitude": -37.689522,
+    "longitude": 144.961175,
+    "label": "540 Mahoneys Road, Campbellfield, VIC, Australia"
+  },
+  {
+    "Suburb": "Essendon",
+    "Site_streetaddress": "15a/82 Keilor Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3040",
+    "confidence": 0.6,
+    "latitude": -37.7512,
+    "longitude": 144.91246,
+    "label": "Essendon, VIC, Australia"
+  },
+  {
+    "Suburb": "Campbellfield",
+    "Site_streetaddress": "1b/1434 Sydney Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3061",
+    "confidence": 1,
+    "latitude": -37.6885,
+    "longitude": 144.958402,
+    "label": "1434-1468 Sydney Road, Campbellfield, VIC, Australia"
+  },
+  {
+    "Suburb": "Melton",
+    "Site_streetaddress": "533-555 High St",
+    "Site_state": "VIC",
+    "Site_postcode": "3337",
+    "confidence": 0.6,
+    "latitude": -37.684986,
+    "longitude": 144.588885,
+    "label": "Melton, VIC, Australia"
+  },
+  {
+    "Suburb": "Kilsyth",
+    "Site_streetaddress": "509-511 Mount Dandenongâ€¯Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3137",
+    "confidence": 0.6,
+    "latitude": -37.806843,
+    "longitude": 145.316837,
+    "label": "Kilsyth, VIC, Australia"
+  },
+  {
+    "Suburb": "Altona North",
+    "Site_streetaddress": "Shop L6, 124 â€“134 Millers Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3025",
+    "confidence": 1,
+    "latitude": -37.82865,
+    "longitude": 144.847455,
+    "label": "134 Millers Road, Altona North, VIC, Australia"
+  },
+  {
+    "Suburb": "Altona North",
+    "Site_streetaddress": "Corner Blackshawâ€™s Road & Millers Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3025",
+    "confidence": 0.6,
+    "latitude": -37.837835,
+    "longitude": 144.834706,
+    "label": "Altona North, VIC, Australia"
   }
 ]
