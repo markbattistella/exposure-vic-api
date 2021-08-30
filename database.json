@@ -5299,9 +5299,9 @@
     "Site_streetaddress": "Dunnings Road & Main Street",
     "Site_state": "VIC",
     "Site_postcode": "3030",
-    "confidence": 0.8,
-    "latitude": -37.952406,
-    "longitude": 145.550711,
+    "confidence": 1,
+    "latitude": -37.8837982,
+    "longitude": 144.7335528,
     "label": "Main Street Fish & Chips, Gembrook, VIC, Australia"
   },
   {
@@ -5419,9 +5419,9 @@
     "Site_streetaddress": "211 LaTrobe Street",
     "Site_state": "VIC",
     "Site_postcode": "3000",
-    "confidence": 0.6,
-    "latitude": -37.825071,
-    "longitude": 144.978682,
+    "confidence": 1,
+    "latitude": -37.8103595,
+    "longitude": 144.9626878,
     "label": "Melbourne, VIC, Australia"
   },
   {
@@ -5459,9 +5459,9 @@
     "Site_streetaddress": "2/520 - 528 Mt Dandenong Road",
     "Site_state": "VIC",
     "Site_postcode": "3137",
-    "confidence": 0.6,
-    "latitude": -37.806843,
-    "longitude": 145.316837,
+    "confidence": 1,
+    "latitude": -37.8020619,
+    "longitude": 145.3071126,
     "label": "Kilsyth, VIC, Australia"
   },
   {
@@ -5469,9 +5469,9 @@
     "Site_streetaddress": "1149 Corner Nepean Highway & Sixth Avenue",
     "Site_state": "VIC",
     "Site_postcode": "3939",
-    "confidence": 0.6,
-    "latitude": -38.370137,
-    "longitude": 144.904081,
+    "confidence": 1,
+    "latitude": -38.3568897,
+    "longitude": 144.8987071,
     "label": "Rosebud, VIC, Australia"
   },
   {
@@ -5479,9 +5479,9 @@
     "Site_streetaddress": "Corner Ballarat & Hampshire Road",
     "Site_state": "VIC",
     "Site_postcode": "3020",
-    "confidence": 0.8,
-    "latitude": -37.551129,
-    "longitude": 143.819443,
+    "confidence": 1,
+    "latitude": -37.7848217,
+    "longitude": 144.8237858,
     "label": "Ballarat Acquatic and Leisure Centre, Lake Gardens, VIC, Australia"
   },
   {
@@ -5489,9 +5489,9 @@
     "Site_streetaddress": "Separation Street",
     "Site_state": "VIC",
     "Site_postcode": "3070",
-    "confidence": 0.6,
-    "latitude": -37.772845,
-    "longitude": 145.000646,
+    "confidence": 1,
+    "latitude": -37.7690546,
+    "longitude": 144.9995669,
     "label": "Northcote, VIC, Australia"
   },
   {
@@ -5509,9 +5509,9 @@
     "Site_streetaddress": "135 Davide Street",
     "Site_state": "VIC",
     "Site_postcode": "3175",
-    "confidence": 0.6,
-    "latitude": -38.020442,
-    "longitude": 145.221637,
+    "confidence": 1,
+    "latitude": -37.976833,
+    "longitude": 145.2172411,
     "label": "Dandenong South, VIC, Australia"
   },
   {
