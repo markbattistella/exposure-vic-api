@@ -5383,5 +5383,35 @@
     "latitude": -37.834922,
     "longitude": 144.845484,
     "label": "18 Borrack Square, Altona North, VIC, Australia"
+  },
+  {
+    "Suburb": "Brooklyn",
+    "Site_streetaddress": "41 Buchanan Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3012",
+    "confidence": 1,
+    "latitude": -37.824861,
+    "longitude": 144.830688,
+    "label": "41 Buchanan Road, Brooklyn, VIC, Australia"
+  },
+  {
+    "Suburb": "Deer Park",
+    "Site_streetaddress": "Neale Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3021",
+    "confidence": 0.6,
+    "latitude": -37.770374,
+    "longitude": 144.766901,
+    "label": "Deer Park, VIC, Australia"
+  },
+  {
+    "Suburb": "St Albans",
+    "Site_streetaddress": "263 Main Road West",
+    "Site_state": "VIC",
+    "Site_postcode": "3021",
+    "confidence": 1,
+    "latitude": -37.74228,
+    "longitude": 144.780822,
+    "label": "263A Main Road W, St Albans, VIC, Australia"
   }
 ]
