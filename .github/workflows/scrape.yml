@@ -9,8 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
-    - run: npm ci
-      run: node index.js --api=${{ secrets.GEOCODE_API }}
+    - run: npm ci && node index.js --api=${{ secrets.GEOCODE_API }}
     - name: Committing changes
       uses: EndBug/add-and-commit@v7
       with:
