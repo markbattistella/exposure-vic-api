@@ -5283,5 +5283,105 @@
     "latitude": -37.690787,
     "longitude": 144.603594,
     "label": "77 High Street, Melton, VIC, Australia"
+  },
+  {
+    "Suburb": "St Kilda",
+    "Site_streetaddress": "201 Fitzroy Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3182",
+    "confidence": 1,
+    "latitude": -37.857272,
+    "longitude": 144.982126,
+    "label": "201 Fitzroy Street, St Kilda, VIC, Australia"
+  },
+  {
+    "Suburb": "Point Cook",
+    "Site_streetaddress": "Dunnings Road & Main Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3030",
+    "confidence": 0.8,
+    "latitude": -37.952406,
+    "longitude": 145.550711,
+    "label": "Main Street Fish & Chips, Gembrook, VIC, Australia"
+  },
+  {
+    "Suburb": "Reservoir",
+    "Site_streetaddress": "18/830 Plenty Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3073",
+    "confidence": 1,
+    "latitude": -37.72504,
+    "longitude": 145.026334,
+    "label": "830 Plenty Road, Reservoir, VIC, Australia"
+  },
+  {
+    "Suburb": "Coburg",
+    "Site_streetaddress": "104A Reynard Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3058",
+    "confidence": 1,
+    "latitude": -37.747961,
+    "longitude": 144.959424,
+    "label": "104A Reynard Street, Coburg, VIC, Australia"
+  },
+  {
+    "Suburb": "Rosebud",
+    "Site_streetaddress": "1/5 Suffolk Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3939",
+    "confidence": 0.6,
+    "latitude": -38.370137,
+    "longitude": 144.904081,
+    "label": "Rosebud, VIC, Australia"
+  },
+  {
+    "Suburb": "Reservoir",
+    "Site_streetaddress": "151 Edwardes Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3073",
+    "confidence": 1,
+    "latitude": -37.715738,
+    "longitude": 144.999016,
+    "label": "151 Edwardes Street, Reservoir, VIC, Australia"
+  },
+  {
+    "Suburb": "Broadmeadows",
+    "Site_streetaddress": "1099-1169 Pascoe Vale Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3047",
+    "confidence": 1,
+    "latitude": -37.678089,
+    "longitude": 144.921653,
+    "label": "1099-1169 Pascoe Vale Road, Broadmeadows, VIC, Australia"
+  },
+  {
+    "Suburb": "Tarneit",
+    "Site_streetaddress": "83 Leakes Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3029",
+    "confidence": 0.6,
+    "latitude": -37.825233,
+    "longitude": 144.678391,
+    "label": "Tarneit, VIC, Australia"
+  },
+  {
+    "Suburb": "Melton",
+    "Site_streetaddress": "Corner of Keilor Melton Road and High St",
+    "Site_state": "VIC",
+    "Site_postcode": "3337",
+    "confidence": 0.6,
+    "latitude": -37.684986,
+    "longitude": 144.588885,
+    "label": "Melton, VIC, Australia"
+  },
+  {
+    "Suburb": "Altona North",
+    "Site_streetaddress": "18 Borrack Square",
+    "Site_state": "VIC",
+    "Site_postcode": "3025",
+    "confidence": 1,
+    "latitude": -37.834922,
+    "longitude": 144.845484,
+    "label": "18 Borrack Square, Altona North, VIC, Australia"
   }
 ]
