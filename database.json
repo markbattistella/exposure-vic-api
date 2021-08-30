@@ -5079,9 +5079,9 @@
     "Site_streetaddress": "Western Ring Rd",
     "Site_state": "VIC",
     "Site_postcode": "3022",
-    "confidence": 0.6,
-    "latitude": -37.77583,
-    "longitude": 144.800645,
+    "confidence": 1,
+    "latitude": -37.8050766,
+    "longitude": 144.8068378,
     "label": "Ardeer, VIC, Australia"
   },
   {
@@ -5089,9 +5089,9 @@
     "Site_streetaddress": "Cnr Burwood Highway & Scott Grove",
     "Site_state": "VIC",
     "Site_postcode": "3125",
-    "confidence": 0.6,
-    "latitude": -37.850028,
-    "longitude": 145.107804,
+    "confidence": 1,
+    "latitude": -37.8508936,
+    "longitude": 145.0955882,
     "label": "Burwood, VIC, Australia"
   },
   {
@@ -5159,9 +5159,9 @@
     "Site_streetaddress": "Shop 14/310 High Street ",
     "Site_state": "VIC",
     "Site_postcode": "3630",
-    "confidence": 0.8,
-    "latitude": -36.38329,
-    "longitude": 145.411692,
+    "confidence": 1,
+    "latitude": -36.3833833,
+    "longitude": 145.4029611,
     "label": "310 High Street, Shepparton, VIC, Australia"
   },
   {
@@ -5189,9 +5189,9 @@
     "Site_streetaddress": "15a/82 Keilor Road",
     "Site_state": "VIC",
     "Site_postcode": "3040",
-    "confidence": 0.6,
-    "latitude": -37.7512,
-    "longitude": 144.91246,
+    "confidence": 1,
+    "latitude": -37.742109,
+    "longitude": 144.9048932,
     "label": "Essendon, VIC, Australia"
   },
   {
@@ -5209,9 +5209,9 @@
     "Site_streetaddress": "533-555 High St",
     "Site_state": "VIC",
     "Site_postcode": "3337",
-    "confidence": 0.6,
-    "latitude": -37.684986,
-    "longitude": 144.588885,
+    "confidence": 1,
+    "latitude": -37.6860481,
+    "longitude": 144.561784,
     "label": "Melton, VIC, Australia"
   },
   {
@@ -5219,9 +5219,9 @@
     "Site_streetaddress": "509-511 Mount Dandenongâ€¯Road",
     "Site_state": "VIC",
     "Site_postcode": "3137",
-    "confidence": 0.6,
-    "latitude": -37.806843,
-    "longitude": 145.316837,
+    "confidence": 1,
+    "latitude": -37.801629,
+    "longitude": 145.3072503,
     "label": "Kilsyth, VIC, Australia"
   },
   {
@@ -5239,9 +5239,9 @@
     "Site_streetaddress": "Corner Blackshawâ€™s Road & Millers Road",
     "Site_state": "VIC",
     "Site_postcode": "3025",
-    "confidence": 0.6,
-    "latitude": -37.837835,
-    "longitude": 144.834706,
+	"confidence": 1,
+    "latitude": -37.8312192,
+    "longitude": 144.8460064,
     "label": "Altona North, VIC, Australia"
   },
   {
@@ -5249,9 +5249,9 @@
     "Site_streetaddress": "Floor G, 533 High St",
     "Site_state": "VIC",
     "Site_postcode": "3337",
-    "confidence": 0.6,
-    "latitude": -37.684986,
-    "longitude": 144.588885,
+    "confidence": 1,
+    "latitude": -37.6856818,
+    "longitude": 144.5632536,
     "label": "Melton, VIC, Australia"
   },
   {
@@ -5259,9 +5259,9 @@
     "Site_streetaddress": "Coburns Rd",
     "Site_state": "VIC",
     "Site_postcode": "3337",
-    "confidence": 0.6,
-    "latitude": -37.684986,
-    "longitude": 144.588885,
+    "confidence": 1,
+    "latitude": -37.6856986,
+    "longitude": 144.5636582,
     "label": "Melton, VIC, Australia"
   },
   {
@@ -5329,9 +5329,9 @@
     "Site_streetaddress": "1/5 Suffolk Street",
     "Site_state": "VIC",
     "Site_postcode": "3939",
-    "confidence": 0.6,
-    "latitude": -38.370137,
-    "longitude": 144.904081,
+    "confidence": 1,
+    "latitude": -38.3845504,
+    "longitude": 144.8827727,
     "label": "Rosebud, VIC, Australia"
   },
   {
@@ -5359,9 +5359,9 @@
     "Site_streetaddress": "83 Leakes Road",
     "Site_state": "VIC",
     "Site_postcode": "3029",
-    "confidence": 0.6,
-    "latitude": -37.825233,
-    "longitude": 144.678391,
+    "confidence": 1,
+    "latitude": -37.8335685,
+    "longitude": 144.6954889,
     "label": "Tarneit, VIC, Australia"
   },
   {
@@ -5369,9 +5369,9 @@
     "Site_streetaddress": "Corner of Keilor Melton Road and High St",
     "Site_state": "VIC",
     "Site_postcode": "3337",
-    "confidence": 0.6,
-    "latitude": -37.684986,
-    "longitude": 144.588885,
+    "confidence": 1,
+    "latitude": -37.6905022,
+    "longitude": 144.604925,
     "label": "Melton, VIC, Australia"
   },
   {
@@ -5399,9 +5399,9 @@
     "Site_streetaddress": "Neale Road",
     "Site_state": "VIC",
     "Site_postcode": "3021",
-    "confidence": 0.6,
-    "latitude": -37.770374,
-    "longitude": 144.766901,
+    "confidence": 1,
+    "latitude": -37.7515487,
+    "longitude": 144.773446,
     "label": "Deer Park, VIC, Australia"
   },
   {
