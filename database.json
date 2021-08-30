@@ -5639,9 +5639,9 @@
     "Site_streetaddress": "176 Blair Street",
     "Site_state": "VIC",
     "Site_postcode": "3047",
-    "confidence": 0.6,
-    "latitude": -37.684973,
-    "longitude": 144.928208,
+    "confidence": 1,
+    "latitude": -37.669986,
+    "longitude": 144.9301574,
     "label": "Broadmeadows, VIC, Australia"
   },
   {
