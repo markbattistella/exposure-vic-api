@@ -5653,5 +5653,25 @@
     "latitude": -37.832077,
     "longitude": 144.932032,
     "label": "477 Graham Street, Port Melbourne, VIC, Australia"
+  },
+  {
+    "Suburb": "Shepparton",
+    "Site_streetaddress": "5 Wheeler Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3630",
+    "confidence": 1,
+    "latitude": -36.372591,
+    "longitude": 145.419874,
+    "label": "5 Wheeler Street, Shepparton, VIC, Australia"
+  },
+  {
+    "Suburb": "Glenroy",
+    "Site_streetaddress": "Corner of Newton Street and Farview Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3046",
+    "confidence": 0.6,
+    "latitude": -37.703471,
+    "longitude": 144.925,
+    "label": "Glenroy, VIC, Australia"
   }
 ]
