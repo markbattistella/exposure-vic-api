@@ -5787,5 +5787,65 @@
     "latitude": -37.740721,
     "longitude": 145.030202,
     "label": "2-50 Murray Road, Preston, VIC, Australia"
+  },
+  {
+    "Suburb": "Epping",
+    "Site_streetaddress": "571-583 High Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3076",
+    "confidence": 1,
+    "latitude": -37.653755,
+    "longitude": 145.022085,
+    "label": "571-583 High Street, Epping, VIC, Australia"
+  },
+  {
+    "Suburb": "Richmond",
+    "Site_streetaddress": "building 8, 658 Church Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3121",
+    "confidence": 0.8,
+    "latitude": -37.822907,
+    "longitude": 145.004046,
+    "label": "3121, Richmond, VIC, Australia"
+  },
+  {
+    "Suburb": "Caroline Springs",
+    "Site_streetaddress": "2513 Caroline Springs Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3023",
+    "confidence": 0.6,
+    "latitude": -37.73406,
+    "longitude": 144.738097,
+    "label": "Caroline Springs, VIC, Australia"
+  },
+  {
+    "Suburb": "Shepparton",
+    "Site_streetaddress": "428- 438 Wyndham Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3630",
+    "confidence": 0.6,
+    "latitude": -36.36548,
+    "longitude": 145.406836,
+    "label": "Shepparton, VIC, Australia"
+  },
+  {
+    "Suburb": "Shepparton",
+    "Site_streetaddress": "231 Corio Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3630",
+    "confidence": 1,
+    "latitude": -36.385807,
+    "longitude": 145.402758,
+    "label": "231-239 Corio Street, Shepparton, VIC, Australia"
+  },
+  {
+    "Suburb": "Epping",
+    "Site_streetaddress": "571- 583 High Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3076",
+    "confidence": 1,
+    "latitude": -37.653755,
+    "longitude": 145.022085,
+    "label": "571-583 High Street, Epping, VIC, Australia"
   }
 ]
