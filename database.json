@@ -5740,5 +5740,52 @@
     "latitude": -38.103109,
     "longitude": 144.362508,
     "label": "105 Corio Quay Road, North Geelong, VIC, Australia"
+  },
+  {
+    "Suburb": "Hoppers Crossing",
+    "Site_streetaddress": "1/266 - 274 Derrimut Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3029",
+    "skip": true
+  },
+  {
+    "Suburb": "Wyndham Vale",
+    "Site_streetaddress": "455 Ballan Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3024",
+    "confidence": 1,
+    "latitude": -37.875715,
+    "longitude": 144.615415,
+    "label": "455 Ballan Road, Wyndham Vale, VIC, Australia"
+  },
+  {
+    "Suburb": "Hoppers Crossing",
+    "Site_streetaddress": "Hogans Road & Derrimut Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3029",
+    "confidence": 0.6,
+    "latitude": -37.867074,
+    "longitude": 144.697711,
+    "label": "Hoppers Crossing, VIC, Australia"
+  },
+  {
+    "Suburb": "East Geelong",
+    "Site_streetaddress": "Boundary Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3219",
+    "confidence": 0.6,
+    "latitude": -38.156327,
+    "longitude": 144.377633,
+    "label": "East Geelong, VIC, Australia"
+  },
+  {
+    "Suburb": "Preston",
+    "Site_streetaddress": "2 - 50 Murray Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3072",
+    "confidence": 1,
+    "latitude": -37.740721,
+    "longitude": 145.030202,
+    "label": "2-50 Murray Road, Preston, VIC, Australia"
   }
 ]
