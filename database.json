@@ -5683,5 +5683,25 @@
     "latitude": -37.803173,
     "longitude": 144.98375,
     "label": "186-188 Smith Street, Collingwood, VIC, Australia"
+  },
+  {
+    "Suburb": "Shepparton",
+    "Site_streetaddress": "96 St Georges Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3630",
+    "confidence": 1,
+    "latitude": -36.388452,
+    "longitude": 145.406575,
+    "label": "96A St Georges Road, Shepparton, VIC, Australia"
+  },
+  {
+    "Suburb": "Laverton North",
+    "Site_streetaddress": "17-19 Pipe Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3026",
+    "confidence": 1,
+    "latitude": -37.820542,
+    "longitude": 144.816597,
+    "label": "17 - 19 Pipe Road, Laverton North, VIC, Australia"
   }
 ]
