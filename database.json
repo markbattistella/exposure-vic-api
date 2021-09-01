@@ -5941,5 +5941,45 @@
     "latitude": -37.772247,
     "longitude": 144.978258,
     "label": "127-137 Nicholson Street, Brunswick East, VIC, Australia"
+  },
+  {
+    "Suburb": "Heidelberg",
+    "Site_streetaddress": "145 Studley Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3084",
+    "confidence": 1,
+    "latitude": -37.756676,
+    "longitude": 145.059249,
+    "label": "145 Studley Road, Heidelberg, VIC, Australia"
+  },
+  {
+    "Suburb": "Coburg North",
+    "Site_streetaddress": "4 Peterson Avenue",
+    "Site_state": "VIC",
+    "Site_postcode": "3058",
+    "confidence": 1,
+    "latitude": -37.735313,
+    "longitude": 144.977918,
+    "label": "4/4 Peterson Avenue, Coburg North, VIC, Australia"
+  },
+  {
+    "Suburb": "Coburg North",
+    "Site_streetaddress": "2, 6 and 8 Peterson Avenue",
+    "Site_state": "VIC",
+    "Site_postcode": "3058",
+    "confidence": 0.6,
+    "latitude": -37.726946,
+    "longitude": 144.967452,
+    "label": "Coburg North, VIC, Australia"
+  },
+  {
+    "Suburb": "Coburg North",
+    "Site_streetaddress": "2, 6 and 8 Peterson Avenue Apartment Complex",
+    "Site_state": "VIC",
+    "Site_postcode": "3058",
+    "confidence": 0.6,
+    "latitude": -37.726946,
+    "longitude": 144.967452,
+    "label": "Coburg North, VIC, Australia"
   }
 ]
