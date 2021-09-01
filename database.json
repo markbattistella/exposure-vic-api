@@ -6001,5 +6001,25 @@
     "latitude": -37.822907,
     "longitude": 145.004046,
     "label": "3121, Richmond, VIC, Australia"
+  },
+  {
+    "Suburb": "Hoppers Crossing",
+    "Site_streetaddress": "2/266-274 Derrimut Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3030",
+    "confidence": 0.6,
+    "latitude": -37.867074,
+    "longitude": 144.697711,
+    "label": "Hoppers Crossing, VIC, Australia"
+  },
+  {
+    "Suburb": "Brunswick East ",
+    "Site_streetaddress": "127-137 Nicholson Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3057",
+    "confidence": 1,
+    "latitude": -37.772247,
+    "longitude": 144.978258,
+    "label": "127-137 Nicholson Street, Brunswick East, VIC, Australia"
   }
 ]
