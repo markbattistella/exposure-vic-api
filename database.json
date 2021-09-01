@@ -5981,5 +5981,25 @@
     "latitude": -37.726946,
     "longitude": 144.967452,
     "label": "Coburg North, VIC, Australia"
+  },
+  {
+    "Suburb": "Richmond",
+    "Site_streetaddress": "Building 8, 658 Church Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3121",
+    "confidence": 0.8,
+    "latitude": -37.822907,
+    "longitude": 145.004046,
+    "label": "3121, Richmond, VIC, Australia"
+  },
+  {
+    "Suburb": "Richmond",
+    "Site_streetaddress": "Buidling 8, 658 Church Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3121",
+    "confidence": 0.8,
+    "latitude": -37.822907,
+    "longitude": 145.004046,
+    "label": "3121, Richmond, VIC, Australia"
   }
 ]
