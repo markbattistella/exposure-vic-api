@@ -6091,5 +6091,115 @@
     "latitude": -37.802805,
     "longitude": 145.3092816,
     "label": "Kilsyth, VIC, Australia"
+  },
+  {
+    "Suburb": "Geelong West",
+    "Site_streetaddress": "208 Pakington Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3218",
+    "confidence": 1,
+    "latitude": -38.142055,
+    "longitude": 144.348258,
+    "label": "208A Pakington Street, Geelong West, VIC, Australia"
+  },
+  {
+    "Suburb": "Geelong West",
+    "Site_streetaddress": "111 Pakington Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3218",
+    "confidence": 0.6,
+    "latitude": -38.138976,
+    "longitude": 144.34493,
+    "label": "Geelong West, VIC, Australia"
+  },
+  {
+    "Suburb": "Broadmeadows",
+    "Site_streetaddress": "357 Camp Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3047",
+    "confidence": 1,
+    "latitude": -37.686313,
+    "longitude": 144.927039,
+    "label": "357 Camp Road, Broadmeadows, VIC, Australia"
+  },
+  {
+    "Suburb": "Southbank",
+    "Site_streetaddress": "1 Freshwater Place",
+    "Site_state": "VIC",
+    "Site_postcode": "3006",
+    "confidence": 1,
+    "latitude": -37.821534,
+    "longitude": 144.962471,
+    "label": "1 Freshwater Place, Southbank, VIC, Australia"
+  },
+  {
+    "Suburb": "Southbank",
+    "Site_streetaddress": "1/10 Hoff Boulevard",
+    "Site_state": "VIC",
+    "Site_postcode": "3006",
+    "confidence": 1,
+    "latitude": -37.825843,
+    "longitude": 144.963832,
+    "label": "10 Hoff Boulevard, Southbank, VIC, Australia"
+  },
+  {
+    "Suburb": "Sunshine",
+    "Site_streetaddress": "5/9 Clarke Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3020",
+    "confidence": 1,
+    "latitude": -37.785935,
+    "longitude": 144.832725,
+    "label": "9 Clarke Street, Sunshine, VIC, Australia"
+  },
+  {
+    "Suburb": "Elsternwick",
+    "Site_streetaddress": "475 Glen Huntly Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3185",
+    "confidence": 1,
+    "latitude": -37.885019,
+    "longitude": 145.007813,
+    "label": "475 Glen Huntly Road, Elsternwick, VIC, Australia"
+  },
+  {
+    "Suburb": "Geelong West",
+    "Site_streetaddress": "166-188 Shannon Avenue",
+    "Site_state": "VIC",
+    "Site_postcode": "3218",
+    "confidence": 1,
+    "latitude": -38.138982,
+    "longitude": 144.336926,
+    "label": "166-188 Shannon Avenue, Geelong West, VIC, Australia"
+  },
+  {
+    "Suburb": "Hadfield",
+    "Site_streetaddress": "132 West Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3046",
+    "confidence": 1,
+    "latitude": -37.707612,
+    "longitude": 144.93856,
+    "label": "132 West Street, Hadfield, VIC, Australia"
+  },
+  {
+    "Suburb": "Hadfield",
+    "Site_streetaddress": "114 West Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3046",
+    "confidence": 1,
+    "latitude": -37.708313,
+    "longitude": 144.938427,
+    "label": "114 West Street, Hadfield, VIC, Australia"
+  },
+  {
+    "Suburb": "Albion",
+    "Site_streetaddress": "592 Ballarat Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3020",
+    "confidence": 1,
+    "latitude": -37.77408,
+    "longitude": 144.807864,
+    "label": "592 Ballarat Road, Albion, VIC, Australia"
   }
 ]
