@@ -5967,9 +5967,9 @@
     "Site_streetaddress": "2, 6 and 8 Peterson Avenue",
     "Site_state": "VIC",
     "Site_postcode": "3058",
-    "confidence": 0.6,
-    "latitude": -37.726946,
-    "longitude": 144.967452,
+    "confidence": 1,
+    "latitude": -37.7352268,
+    "longitude": 144.9778118,
     "label": "Coburg North, VIC, Australia"
   },
   {
@@ -5977,9 +5977,9 @@
     "Site_streetaddress": "2, 6 and 8 Peterson Avenue Apartment Complex",
     "Site_state": "VIC",
     "Site_postcode": "3058",
-    "confidence": 0.6,
-    "latitude": -37.726946,
-    "longitude": 144.967452,
+    "confidence": 1,
+    "latitude": -37.7352268,
+    "longitude": 144.9778118,
     "label": "Coburg North, VIC, Australia"
   },
   {
@@ -5987,9 +5987,9 @@
     "Site_streetaddress": "Building 8, 658 Church Street",
     "Site_state": "VIC",
     "Site_postcode": "3121",
-    "confidence": 0.8,
-    "latitude": -37.822907,
-    "longitude": 145.004046,
+    "confidence": 1,
+    "latitude": -37.8330948,
+    "longitude": 144.9940216,
     "label": "3121, Richmond, VIC, Australia"
   },
   {
@@ -5997,9 +5997,9 @@
     "Site_streetaddress": "Buidling 8, 658 Church Street",
     "Site_state": "VIC",
     "Site_postcode": "3121",
-    "confidence": 0.8,
-    "latitude": -37.822907,
-    "longitude": 145.004046,
+    "confidence": 1,
+    "latitude": -37.8330948,
+    "longitude": 144.9940216,
     "label": "3121, Richmond, VIC, Australia"
   },
   {
@@ -6007,9 +6007,9 @@
     "Site_streetaddress": "2/266-274 Derrimut Road",
     "Site_state": "VIC",
     "Site_postcode": "3030",
-    "confidence": 0.6,
-    "latitude": -37.867074,
-    "longitude": 144.697711,
+    "confidence": 1,
+    "latitude": -37.8612148,
+    "longitude": 144.6839612,
     "label": "Hoppers Crossing, VIC, Australia"
   },
   {
@@ -6037,9 +6037,9 @@
     "Site_streetaddress": "509-511 Mount Dandenong Road",
     "Site_state": "VIC",
     "Site_postcode": "3137",
-    "confidence": 0.6,
-    "latitude": -37.806843,
-    "longitude": 145.316837,
+    "confidence": 1,
+    "latitude": -37.801629,
+    "longitude": 145.3072503,
     "label": "Kilsyth, VIC, Australia"
   },
   {
@@ -6047,9 +6047,9 @@
     "Site_streetaddress": "428-438 Wyndham Street",
     "Site_state": "VIC",
     "Site_postcode": "3630",
-    "confidence": 0.6,
-    "latitude": -36.36548,
-    "longitude": 145.406836,
+    "confidence": 1,
+    "latitude": -36.3837232,
+    "longitude": 145.3960622,
     "label": "Shepparton, VIC, Australia"
   },
   {
@@ -6087,9 +6087,9 @@
     "Site_streetaddress": "2/520-528 Mt Dandenong Road",
     "Site_state": "VIC",
     "Site_postcode": "3137",
-    "confidence": 0.6,
-    "latitude": -37.806843,
-    "longitude": 145.316837,
+    "confidence": 1,
+    "latitude": -37.802805,
+    "longitude": 145.3092816,
     "label": "Kilsyth, VIC, Australia"
   }
 ]
