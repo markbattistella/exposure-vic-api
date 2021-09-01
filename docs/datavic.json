@@ -779,7 +779,7 @@
   {
     "_id": 37,
     "Suburb": "Parkville",
-    "Site_title": "Quality Hotel - Carlton",
+    "Site_title": "Quality Hotel Carlton",
     "Site_streetaddress": "441 Royal Parade",
     "Site_state": "VIC",
     "Site_postcode": "3052",
@@ -800,7 +800,7 @@
   {
     "_id": 38,
     "Suburb": "Parkville",
-    "Site_title": "Quality Hotel - Carlton",
+    "Site_title": "Quality Hotel Carlton",
     "Site_streetaddress": "441 Royal Parade",
     "Site_state": "VIC",
     "Site_postcode": "3052",
@@ -926,7 +926,7 @@
   {
     "_id": 44,
     "Suburb": "Caroline Springs",
-    "Site_title": "Subway - Caroline Springs",
+    "Site_title": "Subway Caroline Springs",
     "Site_streetaddress": "2513 Caroline Springs Road",
     "Site_state": "VIC",
     "Site_postcode": "3023",
@@ -1136,7 +1136,7 @@
   {
     "_id": 54,
     "Suburb": "Wyndham Vale",
-    "Site_title": "Big Daddys Fresh Market- Manor Lakes Shopping Centre",
+    "Site_title": "Big Daddys Fresh Market - Manor Lakes Shopping Centre",
     "Site_streetaddress": "455 Ballan Road",
     "Site_state": "VIC",
     "Site_postcode": "3024",
