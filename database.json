@@ -6271,5 +6271,45 @@
     "latitude": -37.651601,
     "longitude": 145.066383,
     "label": "415 Mcdonalds Road, Mill Park, VIC, Australia"
+  },
+  {
+    "Suburb": "Bundoora",
+    "Site_streetaddress": "25 The Concord",
+    "Site_state": "VIC",
+    "Site_postcode": "3083",
+    "confidence": 1,
+    "latitude": -37.703935,
+    "longitude": 145.068388,
+    "label": "25 The Concord, Bundoora, VIC, Australia"
+  },
+  {
+    "Suburb": "Williamstown",
+    "Site_streetaddress": "219 Kororoit Creek Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3016",
+    "confidence": 0.6,
+    "latitude": -37.861823,
+    "longitude": 144.896111,
+    "label": "Williamstown, VIC, Australia"
+  },
+  {
+    "Suburb": "Essendon Fields",
+    "Site_streetaddress": "355 Wirraway Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3041",
+    "confidence": 1,
+    "latitude": -37.717294,
+    "longitude": 144.894376,
+    "label": "355 Wirraway Road, Essendon Fields, VIC, Australia"
+  },
+  {
+    "Suburb": "Richmond",
+    "Site_streetaddress": "55 Yarra Boulevard",
+    "Site_state": "VIC",
+    "Site_postcode": "3121",
+    "confidence": 1,
+    "latitude": -37.822359,
+    "longitude": 145.015418,
+    "label": "55 Yarra Boulevard, Richmond, VIC, Australia"
   }
 ]
