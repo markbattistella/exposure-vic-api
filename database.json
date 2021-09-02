@@ -6911,5 +6911,111 @@
     "latitude": -37.62614,
     "longitude": 144.926767,
     "label": "Roxburgh Park, VIC, Australia"
+  },
+  {
+    "Suburb": "Niddrie",
+    "Site_streetaddress": "358 Keilor Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3042"
+  },
+  {
+    "Suburb": "Footscray",
+    "Site_streetaddress": "116 Hopskins Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3011",
+    "confidence": 0.6,
+    "latitude": -37.79613,
+    "longitude": 144.897046,
+    "label": "Footscray, VIC, Australia"
+  },
+  {
+    "Suburb": "Campbellfiled",
+    "Site_streetaddress": "1434 Sydney Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3061",
+    "confidence": 0.3,
+    "latitude": -37.014348,
+    "longitude": 143.480452,
+    "label": "Victoria, Australia"
+  },
+  {
+    "Suburb": "West Footscray",
+    "Site_streetaddress": "67 Ashley Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3012",
+    "confidence": 0.6,
+    "latitude": -37.800414,
+    "longitude": 144.870774,
+    "label": "West Footscray, VIC, Australia"
+  },
+  {
+    "Suburb": "Moonee Ponds",
+    "Site_streetaddress": "22 Pratt Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3039",
+    "confidence": 1,
+    "latitude": -37.767554,
+    "longitude": 144.922059,
+    "label": "22 Pratt Street, Moonee Ponds, VIC, Australia"
+  },
+  {
+    "Suburb": "Moonee Ponds",
+    "Site_streetaddress": "13 Pratt Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3039",
+    "confidence": 1,
+    "latitude": -37.768501,
+    "longitude": 144.921886,
+    "label": "13 Pratt Street, Moonee Ponds, VIC, Australia"
+  },
+  {
+    "Suburb": "Hillside",
+    "Site_streetaddress": "821- 899 Melton Highway",
+    "Site_state": "VIC",
+    "Site_postcode": "3037",
+    "confidence": 1,
+    "latitude": -37.690929,
+    "longitude": 144.731461,
+    "label": "821-899 Melton Highway, Hillside, VIC, Australia"
+  },
+  {
+    "Suburb": "Craigieburn",
+    "Site_streetaddress": "1 N Shore Drive",
+    "Site_state": "VIC",
+    "Site_postcode": "3064",
+    "confidence": 1,
+    "latitude": -37.591568,
+    "longitude": 144.904726,
+    "label": "1-17 North Shore Drive, Craigieburn, VIC, Australia"
+  },
+  {
+    "Suburb": "Werribee",
+    "Site_streetaddress": "143 Watton Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3030",
+    "confidence": 1,
+    "latitude": -37.902899,
+    "longitude": 144.658964,
+    "label": "143-163 Watton Street, Werribee, VIC, Australia"
+  },
+  {
+    "Suburb": "Tarneit",
+    "Site_streetaddress": "Corner of Leakes Road & Derrimut Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3029",
+    "confidence": 0.6,
+    "latitude": -37.825233,
+    "longitude": 144.678391,
+    "label": "Tarneit, VIC, Australia"
+  },
+  {
+    "Suburb": "Hawthorn East",
+    "Site_streetaddress": "Level 1, 789 Toorak Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3123",
+    "confidence": 1,
+    "latitude": -37.845117,
+    "longitude": 145.044014,
+    "label": "789 Toorak Road, Hawthorn East, VIC, Australia"
   }
 ]
