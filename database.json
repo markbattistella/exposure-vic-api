@@ -6916,7 +6916,11 @@
     "Suburb": "Niddrie",
     "Site_streetaddress": "358 Keilor Road",
     "Site_state": "VIC",
-    "Site_postcode": "3042"
+    "Site_postcode": "3042",
+    "confidence": 1,
+    "latitude": -37.73627,
+    "longitude": 144.890219,
+    "label": "358 Keilor Road, Niddrie, VIC, Australia"
   },
   {
     "Suburb": "Footscray",
