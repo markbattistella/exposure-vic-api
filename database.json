@@ -7031,5 +7031,55 @@
     "latitude": -37.593356,
     "longitude": 144.909011,
     "label": "420-440 Craigieburn Road, Craigieburn, VIC, Australia"
+  },
+  {
+    "Suburb": "Melbourne",
+    "Site_streetaddress": "Level 1/1 Collins Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3000",
+    "confidence": 0.6,
+    "latitude": -37.825071,
+    "longitude": 144.978682,
+    "label": "Melbourne, VIC, Australia"
+  },
+  {
+    "Suburb": "Coburg",
+    "Site_streetaddress": "32 The Avenue",
+    "Site_state": "VIC",
+    "Site_postcode": "3058",
+    "confidence": 0.6,
+    "latitude": -37.744675,
+    "longitude": 144.964201,
+    "label": "Coburg, VIC, Australia"
+  },
+  {
+    "Suburb": "Glenroy",
+    "Site_streetaddress": "769G Pascoe Vale Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3046",
+    "confidence": 1,
+    "latitude": -37.705562,
+    "longitude": 144.915773,
+    "label": "767-769 Pascoe Vale Road, Glenroy, VIC, Australia"
+  },
+  {
+    "Suburb": "Tullamarine",
+    "Site_streetaddress": "127-139 Link Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3043",
+    "confidence": 0.6,
+    "latitude": -37.702605,
+    "longitude": 144.879115,
+    "label": "Tullamarine, VIC, Australia"
+  },
+  {
+    "Suburb": "Shepparton",
+    "Site_streetaddress": "132 High Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3620",
+    "confidence": 1,
+    "latitude": -36.381743,
+    "longitude": 145.402556,
+    "label": "132 High Street, Shepparton, VIC, Australia"
   }
 ]
