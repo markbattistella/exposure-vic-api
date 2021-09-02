@@ -6311,5 +6311,65 @@
     "latitude": -37.822359,
     "longitude": 145.015418,
     "label": "55 Yarra Boulevard, Richmond, VIC, Australia"
+  },
+  {
+    "Suburb": "Rockbank",
+    "Site_streetaddress": "2540 Western Freeway",
+    "Site_state": "VIC",
+    "Site_postcode": "3335",
+    "confidence": 1,
+    "latitude": -37.707322,
+    "longitude": 144.628827,
+    "label": "2540 Western Freeway, Rockbank, VIC, Australia"
+  },
+  {
+    "Suburb": "Mickleham",
+    "Site_streetaddress": "270 Donnybrook Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3064",
+    "confidence": 1,
+    "latitude": -37.537349,
+    "longitude": 144.921456,
+    "label": "270 Donnybrook Road, Mickleham, VIC, Australia"
+  },
+  {
+    "Suburb": "Southbank",
+    "Site_streetaddress": "320 St Kilda Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3006",
+    "confidence": 1,
+    "latitude": -37.829429,
+    "longitude": 144.970872,
+    "label": "320/320 St Kilda Road, Southbank, VIC, Australia"
+  },
+  {
+    "Suburb": "Altona North",
+    "Site_streetaddress": "45 The Circle",
+    "Site_state": "VIC",
+    "Site_postcode": "3025",
+    "confidence": 1,
+    "latitude": -37.836706,
+    "longitude": 144.863388,
+    "label": "45 The Circle, Altona North, VIC, Australia"
+  },
+  {
+    "Suburb": "Tullamarine",
+    "Site_streetaddress": "Sharps Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3043",
+    "confidence": 0.6,
+    "latitude": -37.702605,
+    "longitude": 144.879115,
+    "label": "Tullamarine, VIC, Australia"
+  },
+  {
+    "Suburb": "Mernda",
+    "Site_streetaddress": "Mernda Village Drive & Galloway Drive",
+    "Site_state": "VIC",
+    "Site_postcode": "3754",
+    "confidence": 0.6,
+    "latitude": -37.592875,
+    "longitude": 145.105213,
+    "label": "Mernda, VIC, Australia"
   }
 ]
