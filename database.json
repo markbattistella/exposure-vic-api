@@ -6381,5 +6381,35 @@
     "latitude": -37.811381,
     "longitude": 144.996989,
     "label": "127 Elizabeth Street, Richmond, VIC, Australia"
+  },
+  {
+    "Suburb": "Brunswick East",
+    "Site_streetaddress": "153 Barkly Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3057",
+    "confidence": 0.6,
+    "latitude": -37.76783,
+    "longitude": 144.978224,
+    "label": "Brunswick East, VIC, Australia"
+  },
+  {
+    "Suburb": "Richmond",
+    "Site_streetaddress": "45-49 Hoddle Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3121",
+    "confidence": 1,
+    "latitude": -37.811673,
+    "longitude": 144.991251,
+    "label": "45-49 Hoddle Street, Richmond, VIC, Australia"
+  },
+  {
+    "Suburb": "Richmond",
+    "Site_streetaddress": "94 Church Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3121",
+    "confidence": 1,
+    "latitude": -37.813895,
+    "longitude": 144.999819,
+    "label": "94 Church Street, Richmond, VIC, Australia"
   }
 ]
