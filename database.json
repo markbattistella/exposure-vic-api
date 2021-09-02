@@ -6831,5 +6831,85 @@
     "latitude": -37.753232,
     "longitude": 144.943955,
     "label": "444-446 Moreland Road, Brunswick West, VIC, Australia"
+  },
+  {
+    "Suburb": "Campbellfield",
+    "Site_streetaddress": "1434 Sydney Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3061",
+    "confidence": 1,
+    "latitude": -37.6885,
+    "longitude": 144.958402,
+    "label": "1434-1468 Sydney Road, Campbellfield, VIC, Australia"
+  },
+  {
+    "Suburb": "Broadmeadows",
+    "Site_streetaddress": "2-6 Maygar Boulevard",
+    "Site_state": "VIC",
+    "Site_postcode": "3047",
+    "confidence": 1,
+    "latitude": -37.687681,
+    "longitude": 144.941518,
+    "label": "2-6 Maygar Boulevard, Broadmeadows, VIC, Australia"
+  },
+  {
+    "Suburb": "Fawkner",
+    "Site_streetaddress": "1410 Sydney Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3060",
+    "confidence": 0.6,
+    "latitude": -37.705493,
+    "longitude": 144.969607,
+    "label": "Fawkner, VIC, Australia"
+  },
+  {
+    "Suburb": "Fawkner",
+    "Site_streetaddress": "1410 Syndey Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3060",
+    "confidence": 0.6,
+    "latitude": -37.705493,
+    "longitude": 144.969607,
+    "label": "Fawkner, VIC, Australia"
+  },
+  {
+    "Suburb": "Malvern East",
+    "Site_streetaddress": "472-486 Waverley Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3145",
+    "confidence": 1,
+    "latitude": -37.878791,
+    "longitude": 145.068036,
+    "label": "472-486 Waverley Road, Malvern East, VIC, Australia"
+  },
+  {
+    "Suburb": "Keilor Park",
+    "Site_streetaddress": "89 Keilor Park Drive",
+    "Site_state": "VIC",
+    "Site_postcode": "3042",
+    "confidence": 1,
+    "latitude": -37.718617,
+    "longitude": 144.853055,
+    "label": "89 Keilor Park Drive, Keilor Park, VIC, Australia"
+  },
+  {
+    "Suburb": "Mickleham",
+    "Site_streetaddress": "470 Donnybrook Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3064",
+    "confidence": 1,
+    "latitude": -37.534599,
+    "longitude": 144.897941,
+    "label": "470 Donnybrook Road, Mickleham, VIC, Australia"
+  },
+  {
+    "Suburb": "Roxburgh Park",
+    "Site_streetaddress": "230 Somerton Road Corner Quinton Street & Bowen Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3064",
+    "confidence": 0.6,
+    "latitude": -37.62614,
+    "longitude": 144.926767,
+    "label": "Roxburgh Park, VIC, Australia"
   }
 ]
