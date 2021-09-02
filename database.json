@@ -7021,5 +7021,15 @@
     "latitude": -37.845117,
     "longitude": 145.044014,
     "label": "789 Toorak Road, Hawthorn East, VIC, Australia"
+  },
+  {
+    "Suburb": "Craigieburn",
+    "Site_streetaddress": "420-440 Craigieburn Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3064",
+    "confidence": 1,
+    "latitude": -37.593356,
+    "longitude": 144.909011,
+    "label": "420-440 Craigieburn Road, Craigieburn, VIC, Australia"
   }
 ]
