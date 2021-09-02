@@ -7081,5 +7081,21 @@
     "latitude": -36.381743,
     "longitude": 145.402556,
     "label": "132 High Street, Shepparton, VIC, Australia"
+  },
+  {
+    "Suburb": "Altona North",
+    "Site_streetaddress": "430 Blackshaws Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3025"
+  },
+  {
+    "Suburb": "Coolaroo",
+    "Site_streetaddress": "4/195 Somerton Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3048",
+    "confidence": 1,
+    "latitude": -37.641419,
+    "longitude": 144.93151,
+    "label": "195 Somerton Road, Coolaroo, VIC, Australia"
   }
 ]
