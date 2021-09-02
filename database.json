@@ -6561,5 +6561,155 @@
     "latitude": -37.715027,
     "longitude": 144.752839,
     "label": "Taylors Hill, VIC, Australia"
+  },
+  {
+    "Suburb": "Sydenham",
+    "Site_streetaddress": "399 Melton Highway",
+    "Site_state": "VIC",
+    "Site_postcode": "3037",
+    "confidence": 0.6,
+    "latitude": -37.6999,
+    "longitude": 144.764008,
+    "label": "Sydenham, VIC, Australia"
+  },
+  {
+    "Suburb": "Frankston",
+    "Site_streetaddress": "1/19 Shaxton Circle",
+    "Site_state": "VIC",
+    "Site_postcode": "3199",
+    "confidence": 1,
+    "latitude": -38.170881,
+    "longitude": 145.1576,
+    "label": "19 Shaxton Circle, Frankston, VIC, Australia"
+  },
+  {
+    "Suburb": "Frankston",
+    "Site_streetaddress": "332-332 Cranbourne Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3199",
+    "confidence": 0.6,
+    "latitude": -38.148005,
+    "longitude": 145.146311,
+    "label": "Frankston, VIC, Australia"
+  },
+  {
+    "Suburb": "Southbank",
+    "Site_streetaddress": "41 Coventry Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3006",
+    "confidence": 1,
+    "latitude": -37.829469,
+    "longitude": 144.969181,
+    "label": "41 Coventry Street, Southbank, VIC, Australia"
+  },
+  {
+    "Suburb": "Campbellfield",
+    "Site_streetaddress": "347 Barry Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3061",
+    "confidence": 1,
+    "latitude": -37.666836,
+    "longitude": 144.948033,
+    "label": "347 Barry Road, Campbellfield, VIC, Australia"
+  },
+  {
+    "Suburb": "Wyndham Vale",
+    "Site_streetaddress": "1/5 Buffalo Crescent",
+    "Site_state": "VIC",
+    "Site_postcode": "3024",
+    "confidence": 1,
+    "latitude": -37.87384,
+    "longitude": 144.607582,
+    "label": "1-5 Buffalo Crescent, Wyndham Vale, VIC, Australia"
+  },
+  {
+    "Suburb": "Hoppers Crossing",
+    "Site_streetaddress": "50 Old Geelong Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3029",
+    "confidence": 1,
+    "latitude": -37.880902,
+    "longitude": 144.703687,
+    "label": "50 Old Geelong Road, Hoppers Crossing, VIC, Australia"
+  },
+  {
+    "Suburb": "Hoppers Crossing",
+    "Site_streetaddress": "13/24-48 Old Geelong Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3029",
+    "confidence": 1,
+    "latitude": -37.880936,
+    "longitude": 144.703522,
+    "label": "24-48 Old Geelong Road, Hoppers Crossing, VIC, Australia"
+  },
+  {
+    "Suburb": "Melbourne",
+    "Site_streetaddress": "Birdwood Avenue",
+    "Site_state": "VIC",
+    "Site_postcode": "3000",
+    "confidence": 0.6,
+    "latitude": -37.825071,
+    "longitude": 144.978682,
+    "label": "Melbourne, VIC, Australia"
+  },
+  {
+    "Suburb": "Southbank",
+    "Site_streetaddress": "8B Dorcas Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3006",
+    "confidence": 1,
+    "latitude": -37.829989,
+    "longitude": 144.970235,
+    "label": "8 Dorcas Street, Southbank, VIC, Australia"
+  },
+  {
+    "Suburb": "St Kilda",
+    "Site_streetaddress": "166 St Kilda Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3182",
+    "confidence": 1,
+    "latitude": -37.861084,
+    "longitude": 144.98494,
+    "label": "166 St Kilda Road, St Kilda, VIC, Australia"
+  },
+  {
+    "Suburb": "Moonee Ponds",
+    "Site_streetaddress": "Corner or Lethbridge Road & Pascoe Vale Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3039",
+    "confidence": 0.6,
+    "latitude": -37.765075,
+    "longitude": 144.922941,
+    "label": "Moonee Ponds, VIC, Australia"
+  },
+  {
+    "Suburb": "Chirnside Park",
+    "Site_streetaddress": "268-288 Maroondah Highway",
+    "Site_state": "VIC",
+    "Site_postcode": "3116",
+    "confidence": 1,
+    "latitude": -37.766368,
+    "longitude": 145.30378,
+    "label": "268-288 Maroondah Highway, Chirnside Park, VIC, Australia"
+  },
+  {
+    "Suburb": "Thornbury",
+    "Site_streetaddress": "316 St Georges Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3071",
+    "confidence": 1,
+    "latitude": -37.76,
+    "longitude": 144.993487,
+    "label": "316 St Georges Road, Thornbury, VIC, Australia"
+  },
+  {
+    "Suburb": "Altona North",
+    "Site_streetaddress": "45-49 The Circle",
+    "Site_state": "VIC",
+    "Site_postcode": "3025",
+    "confidence": 0.6,
+    "latitude": -37.837835,
+    "longitude": 144.834706,
+    "label": "Altona North, VIC, Australia"
   }
 ]
