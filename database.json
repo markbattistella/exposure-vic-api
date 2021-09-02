@@ -6711,5 +6711,125 @@
     "latitude": -37.837835,
     "longitude": 144.834706,
     "label": "Altona North, VIC, Australia"
+  },
+  {
+    "Suburb": "Coburg",
+    "Site_streetaddress": "221/19 Pentridge Boulevard",
+    "Site_state": "VIC",
+    "Site_postcode": "3058",
+    "confidence": 1,
+    "latitude": -37.737855,
+    "longitude": 144.968345,
+    "label": "19 Pentridge Boulevard, Coburg, VIC, Australia"
+  },
+  {
+    "Suburb": "Tullamarine",
+    "Site_streetaddress": "127- 139 Link Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3043",
+    "confidence": 0.6,
+    "latitude": -37.702605,
+    "longitude": 144.879115,
+    "label": "Tullamarine, VIC, Australia"
+  },
+  {
+    "Suburb": "Endeavour Hills",
+    "Site_streetaddress": "37B Heatherton Road & Hallam N Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3802",
+    "confidence": 0.6,
+    "latitude": -37.97358,
+    "longitude": 145.258675,
+    "label": "Endeavour Hills, VIC, Australia"
+  },
+  {
+    "Suburb": "Keilor East",
+    "Site_streetaddress": "59 Wyong Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3033",
+    "confidence": 1,
+    "latitude": -37.732465,
+    "longitude": 144.866068,
+    "label": "59 Wyong Street, Keilor East, VIC, Australia"
+  },
+  {
+    "Suburb": "Box Hill",
+    "Site_streetaddress": "1 Main Street Centro",
+    "Site_state": "VIC",
+    "Site_postcode": "3128",
+    "confidence": 1,
+    "latitude": -37.819104,
+    "longitude": 145.1221,
+    "label": "MM1/1 Main Street, Box Hill, VIC, Australia"
+  },
+  {
+    "Suburb": "Tullamarine",
+    "Site_streetaddress": "25 Flight Drive",
+    "Site_state": "VIC",
+    "Site_postcode": "3043",
+    "confidence": 1,
+    "latitude": -37.709973,
+    "longitude": 144.853839,
+    "label": "25 Flight Drive, Tullamarine, VIC, Australia"
+  },
+  {
+    "Suburb": "Broadmeadows",
+    "Site_streetaddress": "217 Camp Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3047",
+    "confidence": 1,
+    "latitude": -37.692483,
+    "longitude": 144.938865,
+    "label": "217 Camp Road, Broadmeadows, VIC, Australia"
+  },
+  {
+    "Suburb": "Yaraville",
+    "Site_streetaddress": "499 Geelong Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3013",
+    "confidence": 0.3,
+    "latitude": -37.014348,
+    "longitude": 143.480452,
+    "label": "Victoria, Australia"
+  },
+  {
+    "Suburb": "Sunshine West",
+    "Site_streetaddress": "The Avenue & Corella Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3023",
+    "confidence": 0.8,
+    "latitude": -37.85857,
+    "longitude": 144.997658,
+    "label": "The Avenue, Westbury Street & Dandenong Road, St Kilda East, VIC, Australia"
+  },
+  {
+    "Suburb": "Campbellfield",
+    "Site_streetaddress": "32 Somerton Park Drive",
+    "Site_state": "VIC",
+    "Site_postcode": "3061",
+    "confidence": 1,
+    "latitude": -37.648014,
+    "longitude": 144.946239,
+    "label": "32 Somerton Park Drive, Campbellfield, VIC, Australia"
+  },
+  {
+    "Suburb": "Coburg",
+    "Site_streetaddress": "177 Moreland Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3058",
+    "confidence": 1,
+    "latitude": -37.755445,
+    "longitude": 144.965393,
+    "label": "177 Moreland Road, Coburg, VIC, Australia"
+  },
+  {
+    "Suburb": "Brunswick West",
+    "Site_streetaddress": "444-446 Moreland Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3055",
+    "confidence": 1,
+    "latitude": -37.753232,
+    "longitude": 144.943955,
+    "label": "444-446 Moreland Road, Brunswick West, VIC, Australia"
   }
 ]
