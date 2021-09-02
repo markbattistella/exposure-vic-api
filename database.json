@@ -7086,7 +7086,11 @@
     "Suburb": "Altona North",
     "Site_streetaddress": "430 Blackshaws Road",
     "Site_state": "VIC",
-    "Site_postcode": "3025"
+    "Site_postcode": "3025",
+    "confidence": 1,
+    "latitude": -37.828169,
+    "longitude": 144.840916,
+    "label": "430 Blackshaws Road, Altona North, VIC, Australia"
   },
   {
     "Suburb": "Coolaroo",
