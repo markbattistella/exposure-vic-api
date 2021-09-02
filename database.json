@@ -6261,5 +6261,15 @@
     "latitude": -37.867164,
     "longitude": 144.979975,
     "label": "17 Carlisle Street, St Kilda, VIC, Australia"
+  },
+  {
+    "Suburb": "Mill Park",
+    "Site_streetaddress": "415 McDonalds Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3082",
+    "confidence": 1,
+    "latitude": -37.651601,
+    "longitude": 145.066383,
+    "label": "415 Mcdonalds Road, Mill Park, VIC, Australia"
   }
 ]
