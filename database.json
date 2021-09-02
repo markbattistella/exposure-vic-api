@@ -6371,5 +6371,15 @@
     "latitude": -37.592875,
     "longitude": 145.105213,
     "label": "Mernda, VIC, Australia"
+  },
+  {
+    "Suburb": "Richmond",
+    "Site_streetaddress": "127 Elizabeth Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3121",
+    "confidence": 1,
+    "latitude": -37.811381,
+    "longitude": 144.996989,
+    "label": "127 Elizabeth Street, Richmond, VIC, Australia"
   }
 ]
