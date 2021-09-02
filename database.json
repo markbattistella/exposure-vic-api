@@ -6411,5 +6411,155 @@
     "latitude": -37.813895,
     "longitude": 144.999819,
     "label": "94 Church Street, Richmond, VIC, Australia"
+  },
+  {
+    "Suburb": "Richmond",
+    "Site_streetaddress": "150/160 Swan Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3121",
+    "confidence": 0.6,
+    "latitude": -37.819635,
+    "longitude": 145.003879,
+    "label": "Richmond, VIC, Australia"
+  },
+  {
+    "Suburb": "Brighton",
+    "Site_streetaddress": "380 Bay Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3168",
+    "confidence": 1,
+    "latitude": -37.906022,
+    "longitude": 145.005146,
+    "label": "380 Bay Street, Brighton, VIC, Australia"
+  },
+  {
+    "Suburb": "St Kilda",
+    "Site_streetaddress": "436 St Kilda Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3182",
+    "confidence": 0.6,
+    "latitude": -37.864302,
+    "longitude": 144.982798,
+    "label": "St Kilda, VIC, Australia"
+  },
+  {
+    "Suburb": "St Kilda",
+    "Site_streetaddress": "183-187 Barkly Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3182",
+    "confidence": 0.6,
+    "latitude": -37.864302,
+    "longitude": 144.982798,
+    "label": "St Kilda, VIC, Australia"
+  },
+  {
+    "Suburb": "St Kilda",
+    "Site_streetaddress": "92A Acland Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3182",
+    "confidence": 1,
+    "latitude": -37.867599,
+    "longitude": 144.979079,
+    "label": "92A Acland Street, St Kilda, VIC, Australia"
+  },
+  {
+    "Suburb": "St Kilda",
+    "Site_streetaddress": "320 St Kilda Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3182",
+    "confidence": 1,
+    "latitude": -37.865146,
+    "longitude": 144.986232,
+    "label": "316-320 St Kilda Road, St Kilda, VIC, Australia"
+  },
+  {
+    "Suburb": "Southbank",
+    "Site_streetaddress": "20 Dorcas Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3006",
+    "confidence": 1,
+    "latitude": -37.830148,
+    "longitude": 144.969674,
+    "label": "20 Dorcas Street, Southbank, VIC, Australia"
+  },
+  {
+    "Suburb": "Balaclava",
+    "Site_streetaddress": "305 Inkerman Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3183",
+    "confidence": 1,
+    "latitude": -37.865913,
+    "longitude": 144.994334,
+    "label": "305 Inkerman Street, Balaclava, VIC, Australia"
+  },
+  {
+    "Suburb": "Essendon",
+    "Site_streetaddress": "13/21 Russell Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3040",
+    "confidence": 1,
+    "latitude": -37.756464,
+    "longitude": 144.916772,
+    "label": "21 Russell Street, Essendon, VIC, Australia"
+  },
+  {
+    "Suburb": "Niddrie",
+    "Site_streetaddress": "Corner Hoffmans & Keilor Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3042",
+    "confidence": 0.8,
+    "latitude": -37.737437,
+    "longitude": 144.892649,
+    "label": "Hoffmans Road/Keilor Road, Essendon North, VIC, Australia"
+  },
+  {
+    "Suburb": "Campbellfield",
+    "Site_streetaddress": "Mahoney's Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3061",
+    "confidence": 0.6,
+    "latitude": -37.662653,
+    "longitude": 144.959231,
+    "label": "Campbellfield, VIC, Australia"
+  },
+  {
+    "Suburb": "Hoppers Crossing",
+    "Site_streetaddress": "Shop 24 & 25, 428 Old Geelong Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3029",
+    "confidence": 1,
+    "latitude": -37.86923,
+    "longitude": 144.731557,
+    "label": "428 Old Geelong Road, Hoppers Crossing, VIC, Australia"
+  },
+  {
+    "Suburb": "Hoppers Crossing",
+    "Site_streetaddress": "221/231 Old Geelong Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3029",
+    "confidence": 1,
+    "latitude": -37.87629,
+    "longitude": 144.714033,
+    "label": "231 Old Geelong Road, Hoppers Crossing, VIC, Australia"
+  },
+  {
+    "Suburb": "Box Hill",
+    "Site_streetaddress": "826 Whitehorse Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3128",
+    "confidence": 1,
+    "latitude": -37.817348,
+    "longitude": 145.117097,
+    "label": "826-828 Whitehorse Road, Box Hill, VIC, Australia"
+  },
+  {
+    "Suburb": "Taylors Hill",
+    "Site_streetaddress": "Corner Taylors & Calder Park Drive",
+    "Site_state": "VIC",
+    "Site_postcode": "3037",
+    "confidence": 0.6,
+    "latitude": -37.715027,
+    "longitude": 144.752839,
+    "label": "Taylors Hill, VIC, Australia"
   }
 ]
