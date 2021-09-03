@@ -7371,5 +7371,15 @@
     "latitude": -37.799752,
     "longitude": 144.901441,
     "label": "116 Hopkins Street, Footscray, VIC, Australia"
+  },
+  {
+    "Suburb": "Niddrie",
+    "Site_streetaddress": "Corner of Hoffmans Road & Keilor Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3042",
+    "confidence": 0.6,
+    "latitude": -37.739487,
+    "longitude": 144.886433,
+    "label": "Niddrie, VIC, Australia"
   }
 ]
