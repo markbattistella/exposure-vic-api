@@ -6107,9 +6107,9 @@
     "Site_streetaddress": "111 Pakington Street",
     "Site_state": "VIC",
     "Site_postcode": "3218",
-    "confidence": 0.6,
-    "latitude": -38.138976,
-    "longitude": 144.34493,
+    "confidence": 1,
+    "latitude": -38.1384145,
+    "longitude": 144.3471338,
     "label": "Geelong West, VIC, Australia"
   },
   {
@@ -6227,9 +6227,9 @@
     "Site_streetaddress": "15 Vaughen Street",
     "Site_state": "VIC",
     "Site_postcode": "3041",
-    "confidence": 0.6,
-    "latitude": -37.727516,
-    "longitude": 144.899019,
+    "confidence": 1,
+    "latitude": -37.7236993,
+    "longitude": 144.8918702,
     "label": "Essendon Fields, VIC, Australia"
   },
   {
@@ -6247,9 +6247,9 @@
     "Site_streetaddress": "Shop G052/1099-1169 Pascoe Vale Road",
     "Site_state": "VIC",
     "Site_postcode": "3047",
-    "confidence": 0.8,
-    "latitude": -37.678089,
-    "longitude": 144.921653,
+    "confidence": 1,
+    "latitude": -37.680194,
+    "longitude": 144.9173343,
     "label": "1099-1169 Pascoe Vale Road, Broadmeadows, VIC, Australia"
   },
   {
@@ -6287,9 +6287,9 @@
     "Site_streetaddress": "219 Kororoit Creek Road",
     "Site_state": "VIC",
     "Site_postcode": "3016",
-    "confidence": 0.6,
-    "latitude": -37.861823,
-    "longitude": 144.896111,
+    "confidence": 1,
+    "latitude": -37.8539452,
+    "longitude": 144.857219,
     "label": "Williamstown, VIC, Australia"
   },
   {
@@ -6357,9 +6357,9 @@
     "Site_streetaddress": "Sharps Road",
     "Site_state": "VIC",
     "Site_postcode": "3043",
-    "confidence": 0.6,
-    "latitude": -37.702605,
-    "longitude": 144.879115,
+    "confidence": 1,
+    "latitude": -37.7072323,
+    "longitude": 144.8643841,
     "label": "Tullamarine, VIC, Australia"
   },
   {
@@ -6367,9 +6367,9 @@
     "Site_streetaddress": "Mernda Village Drive & Galloway Drive",
     "Site_state": "VIC",
     "Site_postcode": "3754",
-    "confidence": 0.6,
-    "latitude": -37.592875,
-    "longitude": 145.105213,
+    "confidence": 1,
+    "latitude": -37.5937145,
+    "longitude": 145.0874798,
     "label": "Mernda, VIC, Australia"
   },
   {
@@ -6707,9 +6707,9 @@
     "Site_streetaddress": "45-49 The Circle",
     "Site_state": "VIC",
     "Site_postcode": "3025",
-    "confidence": 0.6,
-    "latitude": -37.837835,
-    "longitude": 144.834706,
+    "confidence": 1,
+    "latitude": -37.836694,
+    "longitude": 144.8611503,
     "label": "Altona North, VIC, Australia"
   },
   {
@@ -6727,9 +6727,9 @@
     "Site_streetaddress": "127- 139 Link Road",
     "Site_state": "VIC",
     "Site_postcode": "3043",
-    "confidence": 0.6,
-    "latitude": -37.702605,
-    "longitude": 144.879115,
+    "confidence": 1,
+    "latitude": -37.7186413,
+    "longitude": 144.8695225,
     "label": "Tullamarine, VIC, Australia"
   },
   {
@@ -6737,9 +6737,9 @@
     "Site_streetaddress": "37B Heatherton Road & Hallam N Road",
     "Site_state": "VIC",
     "Site_postcode": "3802",
-    "confidence": 0.6,
-    "latitude": -37.97358,
-    "longitude": 145.258675,
+    "confidence": 1,
+    "latitude": -37.9768248,
+    "longitude": 145.275468,
     "label": "Endeavour Hills, VIC, Australia"
   },
   {
@@ -6787,9 +6787,9 @@
     "Site_streetaddress": "499 Geelong Road",
     "Site_state": "VIC",
     "Site_postcode": "3013",
-    "confidence": 0.3,
-    "latitude": -37.014348,
-    "longitude": 143.480452,
+    "confidence": 1,
+    "latitude": -37.813434,
+    "longitude": 144.8610063,
     "label": "Victoria, Australia"
   },
   {
@@ -6797,9 +6797,9 @@
     "Site_streetaddress": "The Avenue & Corella Road",
     "Site_state": "VIC",
     "Site_postcode": "3023",
-    "confidence": 0.8,
-    "latitude": -37.85857,
-    "longitude": 144.997658,
+    "confidence": 1,
+    "latitude": -37.7976871,
+    "longitude": 144.8038339,
     "label": "The Avenue, Westbury Street & Dandenong Road, St Kilda East, VIC, Australia"
   },
   {
@@ -6857,9 +6857,9 @@
     "Site_streetaddress": "1410 Sydney Road",
     "Site_state": "VIC",
     "Site_postcode": "3060",
-    "confidence": 0.6,
-    "latitude": -37.705493,
-    "longitude": 144.969607,
+    "confidence": 1,
+    "latitude": -37.6903352,
+    "longitude": 144.9590144,
     "label": "Fawkner, VIC, Australia"
   },
   {
