@@ -7151,5 +7151,15 @@
     "latitude": -37.853775,
     "longitude": 145.150419,
     "label": "Burwood East, VIC, Australia"
+  },
+  {
+    "Suburb": "Yarraville",
+    "Site_streetaddress": "499 Geelong Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3013",
+    "confidence": 1,
+    "latitude": -37.813274,
+    "longitude": 144.86307,
+    "label": "499 Geelong Road, Yarraville, VIC, Australia"
   }
 ]

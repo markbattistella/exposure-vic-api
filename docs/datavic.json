@@ -1681,7 +1681,7 @@
   },
   {
     "_id": 81,
-    "Suburb": "Yaraville",
+    "Suburb": "Yarraville",
     "Site_title": "Apartment Complex",
     "Site_streetaddress": "499 Geelong Road",
     "Site_state": "VIC",
@@ -1697,12 +1697,12 @@
     "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
     "Exposure_time_start_24": "00:00:00",
     "Exposure_time_end_24": "23:59:00",
-    "latitude": -37.014348,
-    "longitude": 143.480452
+    "latitude": -37.813274,
+    "longitude": 144.86307
   },
   {
     "_id": 82,
-    "Suburb": "Yaraville",
+    "Suburb": "Yarraville",
     "Site_title": "Apartment Complex",
     "Site_streetaddress": "499 Geelong Road",
     "Site_state": "VIC",
@@ -1718,8 +1718,8 @@
     "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
     "Exposure_time_start_24": "00:00:00",
     "Exposure_time_end_24": "23:59:00",
-    "latitude": -37.014348,
-    "longitude": 143.480452
+    "latitude": -37.813274,
+    "longitude": 144.86307
   },
   {
     "_id": 83,
