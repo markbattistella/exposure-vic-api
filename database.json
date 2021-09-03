@@ -7281,5 +7281,35 @@
     "latitude": -37.673559,
     "longitude": 145.016999,
     "label": "33 May Road, Lalor, VIC, Australia"
+  },
+  {
+    "Suburb": "Campbellfield",
+    "Site_streetaddress": "343 Barry Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3061",
+    "confidence": 1,
+    "latitude": -37.666847,
+    "longitude": 144.948112,
+    "label": "343 Barry Road, Campbellfield, VIC, Australia"
+  },
+  {
+    "Suburb": "Campbellfield",
+    "Site_streetaddress": "548 Mahoneys Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3061",
+    "confidence": 1,
+    "latitude": -37.6895,
+    "longitude": 144.960926,
+    "label": "548 Mahoneys Road, Campbellfield, VIC, Australia"
+  },
+  {
+    "Suburb": "Box Hill",
+    "Site_streetaddress": "Clisby Court",
+    "Site_state": "VIC",
+    "Site_postcode": "3128",
+    "confidence": 0.6,
+    "latitude": -37.821529,
+    "longitude": 145.126096,
+    "label": "Box Hill, VIC, Australia"
   }
 ]
