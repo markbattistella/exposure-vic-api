@@ -7161,5 +7161,35 @@
     "latitude": -37.813274,
     "longitude": 144.86307,
     "label": "499 Geelong Road, Yarraville, VIC, Australia"
+  },
+  {
+    "Suburb": "Coburg",
+    "Site_streetaddress": "19 Pentridge Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3058",
+    "confidence": 0.6,
+    "latitude": -37.744675,
+    "longitude": 144.964201,
+    "label": "Coburg, VIC, Australia"
+  },
+  {
+    "Suburb": "Melbourne",
+    "Site_streetaddress": "436 St Kilda Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3004",
+    "confidence": 1,
+    "latitude": -37.83791,
+    "longitude": 144.975685,
+    "label": "436 St Kilda Road, Melbourne, VIC, Australia"
+  },
+  {
+    "Suburb": "Footscray",
+    "Site_streetaddress": "116 Hopkins Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3004",
+    "confidence": 1,
+    "latitude": -37.799752,
+    "longitude": 144.901441,
+    "label": "116 Hopkins Street, Footscray, VIC, Australia"
   }
 ]
