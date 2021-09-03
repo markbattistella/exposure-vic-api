@@ -7191,5 +7191,15 @@
     "latitude": -37.799752,
     "longitude": 144.901441,
     "label": "116 Hopkins Street, Footscray, VIC, Australia"
+  },
+  {
+    "Suburb": "Southbank",
+    "Site_streetaddress": "324 St Kilda Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3006",
+    "confidence": 1,
+    "latitude": -37.829608,
+    "longitude": 144.970845,
+    "label": "324 St Kilda Road, Southbank, VIC, Australia"
   }
 ]
