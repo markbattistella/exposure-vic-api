@@ -227,8 +227,8 @@
     "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
     "Exposure_time_start_24": "00:00:00",
     "Exposure_time_end_24": "23:59:00",
-    "latitude": -37.853775,
-    "longitude": 145.150419
+    "latitude": -37.8513915,
+    "longitude": 145.1299568
   },
   {
     "_id": 12,
@@ -248,8 +248,8 @@
     "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
     "Exposure_time_start_24": "00:00:00",
     "Exposure_time_end_24": "23:59:00",
-    "latitude": -37.853775,
-    "longitude": 145.150419
+    "latitude": -37.8513915,
+    "longitude": 145.1299568
   },
   {
     "_id": 13,
@@ -269,8 +269,8 @@
     "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
     "Exposure_time_start_24": "00:00:00",
     "Exposure_time_end_24": "23:59:00",
-    "latitude": -37.853775,
-    "longitude": 145.150419
+    "latitude": -37.8513915,
+    "longitude": 145.1299568
   },
   {
     "_id": 14,
@@ -290,8 +290,8 @@
     "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
     "Exposure_time_start_24": "00:00:00",
     "Exposure_time_end_24": "23:59:00",
-    "latitude": -37.853775,
-    "longitude": 145.150419
+    "latitude": -37.8513915,
+    "longitude": 145.1299568
   },
   {
     "_id": 15,
@@ -311,8 +311,8 @@
     "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
     "Exposure_time_start_24": "00:00:00",
     "Exposure_time_end_24": "23:59:00",
-    "latitude": -37.853775,
-    "longitude": 145.150419
+    "latitude": -37.8513915,
+    "longitude": 145.1299568
   },
   {
     "_id": 16,
@@ -332,8 +332,8 @@
     "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
     "Exposure_time_start_24": "00:00:00",
     "Exposure_time_end_24": "23:59:00",
-    "latitude": -37.853775,
-    "longitude": 145.150419
+    "latitude": -37.8513915,
+    "longitude": 145.1299568
   },
   {
     "_id": 17,
@@ -353,8 +353,8 @@
     "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
     "Exposure_time_start_24": "00:00:00",
     "Exposure_time_end_24": "23:59:00",
-    "latitude": -37.853775,
-    "longitude": 145.150419
+    "latitude": -37.8513915,
+    "longitude": 145.1299568
   },
   {
     "_id": 18,
@@ -899,8 +899,8 @@
     "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
     "Exposure_time_start_24": "00:00:00",
     "Exposure_time_end_24": "23:59:00",
-    "latitude": -37.76783,
-    "longitude": 144.978224
+    "latitude": -37.7771603,
+    "longitude": 144.9702944
   },
   {
     "_id": 44,
@@ -1277,8 +1277,8 @@
     "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
     "Exposure_time_start_24": "17:30:00",
     "Exposure_time_end_24": "21:34:00",
-    "latitude": -37.705493,
-    "longitude": 144.969607
+    "latitude": -37.6903352,
+    "longitude": 144.9590144
   },
   {
     "_id": 62,
@@ -1550,8 +1550,8 @@
     "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
     "Exposure_time_start_24": "08:00:00",
     "Exposure_time_end_24": "16:40:00",
-    "latitude": -37.727516,
-    "longitude": 144.899019
+    "latitude": -37.7236993,
+    "longitude": 144.8918702
   },
   {
     "_id": 75,
@@ -1571,8 +1571,8 @@
     "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
     "Exposure_time_start_24": "15:00:00",
     "Exposure_time_end_24": "00:15:00",
-    "latitude": -37.702605,
-    "longitude": 144.879115
+    "latitude": -37.7186413,
+    "longitude": 144.8695225
   },
   {
     "_id": 76,
@@ -1592,8 +1592,8 @@
     "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
     "Exposure_time_start_24": "18:00:00",
     "Exposure_time_end_24": "18:20:00",
-    "latitude": -37.97358,
-    "longitude": 145.258675
+    "latitude": -37.9768248,
+    "longitude": 145.275468
   },
   {
     "_id": 77,
@@ -1739,8 +1739,8 @@
     "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
     "Exposure_time_start_24": "19:00:00",
     "Exposure_time_end_24": "20:20:00",
-    "latitude": -37.85857,
-    "longitude": 144.997658
+    "latitude": -37.7976871,
+    "longitude": 144.8038339
   },
   {
     "_id": 84,
@@ -1865,8 +1865,8 @@
     "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
     "Exposure_time_start_24": "09:00:00",
     "Exposure_time_end_24": "10:30:00",
-    "latitude": -37.6999,
-    "longitude": 144.764008
+    "latitude": -37.7022414,
+    "longitude": 144.7751804
   },
   {
     "_id": 90,
@@ -1886,8 +1886,8 @@
     "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
     "Exposure_time_start_24": "09:00:00",
     "Exposure_time_end_24": "10:00:00",
-    "latitude": -37.6999,
-    "longitude": 144.764008
+    "latitude": -37.7022414,
+    "longitude": 144.7751804
   },
   {
     "_id": 91,
@@ -1907,8 +1907,8 @@
     "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
     "Exposure_time_start_24": "09:00:00",
     "Exposure_time_end_24": "10:30:00",
-    "latitude": -37.6999,
-    "longitude": 144.764008
+    "latitude": -37.7022414,
+    "longitude": 144.7751804
   },
   {
     "_id": 92,
@@ -1970,8 +1970,8 @@
     "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
     "Exposure_time_start_24": "15:59:00",
     "Exposure_time_end_24": "16:30:00",
-    "latitude": -38.148005,
-    "longitude": 145.146311
+    "latitude": -38.1545082,
+    "longitude": 145.1659963
   },
   {
     "_id": 95,
@@ -2117,8 +2117,8 @@
     "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
     "Exposure_time_start_24": "09:00:00",
     "Exposure_time_end_24": "10:00:00",
-    "latitude": -37.825071,
-    "longitude": 144.978682
+    "latitude": -37.9416529,
+    "longitude": 144.7328656
   },
   {
     "_id": 104,
@@ -2138,8 +2138,8 @@
     "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
     "Exposure_time_start_24": "07:30:00",
     "Exposure_time_end_24": "16:30:00",
-    "latitude": -37.765075,
-    "longitude": 144.922941
+    "latitude": -37.758827,
+    "longitude": 144.92626
   },
   {
     "_id": 105,
@@ -2159,8 +2159,8 @@
     "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
     "Exposure_time_start_24": "07:30:00",
     "Exposure_time_end_24": "16:30:00",
-    "latitude": -37.765075,
-    "longitude": 144.922941
+    "latitude": -37.758827,
+    "longitude": 144.92626
   },
   {
     "_id": 106,
@@ -2264,8 +2264,8 @@
     "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
     "Exposure_time_start_24": "13:00:00",
     "Exposure_time_end_24": "14:15:00",
-    "latitude": -37.837835,
-    "longitude": 144.834706
+    "latitude": -37.836694,
+    "longitude": 144.8611503
   },
   {
     "_id": 111,
@@ -2285,8 +2285,8 @@
     "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
     "Exposure_time_start_24": "12:17:00",
     "Exposure_time_end_24": "12:32:00",
-    "latitude": -37.819635,
-    "longitude": 145.003879
+    "latitude": -37.8257279,
+    "longitude": 144.9925484
   },
   {
     "_id": 112,
@@ -2369,8 +2369,8 @@
     "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
     "Exposure_time_start_24": "11:07:00",
     "Exposure_time_end_24": "11:25:00",
-    "latitude": -37.864302,
-    "longitude": 144.982798
+    "latitude": -37.8379446,
+    "longitude": 144.9750695
   },
   {
     "_id": 115,
@@ -2390,8 +2390,8 @@
     "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
     "Exposure_time_start_24": "13:35:00",
     "Exposure_time_end_24": "13:55:00",
-    "latitude": -37.864302,
-    "longitude": 144.982798
+    "latitude": -37.8379446,
+    "longitude": 144.9750695
   },
   {
     "_id": 116,
@@ -2411,8 +2411,8 @@
     "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
     "Exposure_time_start_24": "16:58:00",
     "Exposure_time_end_24": "17:30:00",
-    "latitude": -37.864302,
-    "longitude": 144.982798
+    "latitude": -37.8688568,
+    "longitude": 144.9806371
   },
   {
     "_id": 117,
@@ -2558,8 +2558,8 @@
     "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
     "Exposure_time_start_24": "15:00:00",
     "Exposure_time_end_24": "16:30:00",
-    "latitude": -37.737437,
-    "longitude": 144.892649
+    "latitude": -37.7381246,
+    "longitude": 144.8908318
   },
   {
     "_id": 124,
@@ -2747,8 +2747,8 @@
     "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
     "Exposure_time_start_24": "17:30:00",
     "Exposure_time_end_24": "18:30:00",
-    "latitude": -37.715027,
-    "longitude": 144.752839
+    "latitude": -37.7229076,
+    "longitude": 144.7492315
   },
   {
     "_id": 133,
@@ -2768,8 +2768,8 @@
     "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
     "Exposure_time_start_24": "00:00:00",
     "Exposure_time_end_24": "23:59:00",
-    "latitude": -37.76783,
-    "longitude": 144.978224
+    "latitude": -37.7771603,
+    "longitude": 144.9702944
   },
   {
     "_id": 134,
@@ -2789,8 +2789,8 @@
     "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
     "Exposure_time_start_24": "00:00:00",
     "Exposure_time_end_24": "23:59:00",
-    "latitude": -37.76783,
-    "longitude": 144.978224
+    "latitude": -37.7771603,
+    "longitude": 144.9702944
   },
   {
     "_id": 135,
@@ -2810,8 +2810,8 @@
     "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
     "Exposure_time_start_24": "00:00:00",
     "Exposure_time_end_24": "23:59:00",
-    "latitude": -37.76783,
-    "longitude": 144.978224
+    "latitude": -37.7771603,
+    "longitude": 144.9702944
   },
   {
     "_id": 136,
@@ -2831,8 +2831,8 @@
     "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
     "Exposure_time_start_24": "00:00:00",
     "Exposure_time_end_24": "23:59:00",
-    "latitude": -37.76783,
-    "longitude": 144.978224
+    "latitude": -37.7771603,
+    "longitude": 144.9702944
   },
   {
     "_id": 137,
@@ -3125,8 +3125,8 @@
     "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
     "Exposure_time_start_24": "19:15:00",
     "Exposure_time_end_24": "19:55:00",
-    "latitude": -37.702605,
-    "longitude": 144.879115
+    "latitude": -37.7072323,
+    "longitude": 144.8643841
   },
   {
     "_id": 149,
@@ -3146,8 +3146,8 @@
     "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
     "Exposure_time_start_24": "13:10:00",
     "Exposure_time_end_24": "13:50:00",
-    "latitude": -37.702605,
-    "longitude": 144.879115
+    "latitude": -37.7072323,
+    "longitude": 144.8643841
   },
   {
     "_id": 150,
@@ -3167,8 +3167,8 @@
     "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
     "Exposure_time_start_24": "20:00:00",
     "Exposure_time_end_24": "20:45:00",
-    "latitude": -37.592875,
-    "longitude": 145.105213
+    "latitude": -37.5937145,
+    "longitude": 145.0874798
   },
   {
     "_id": 152,
@@ -3209,8 +3209,8 @@
     "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
     "Exposure_time_start_24": "10:00:00",
     "Exposure_time_end_24": "13:30:00",
-    "latitude": -37.861823,
-    "longitude": 144.896111
+    "latitude": -37.8539452,
+    "longitude": 144.857219
   },
   {
     "_id": 154,
@@ -3440,8 +3440,8 @@
     "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
     "Exposure_time_start_24": "10:40:00",
     "Exposure_time_end_24": "11:40:00",
-    "latitude": -37.678089,
-    "longitude": 144.921653
+    "latitude": -37.680194,
+    "longitude": 144.9173343
   },
   {
     "_id": 168,
@@ -3734,8 +3734,8 @@
     "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
     "Exposure_time_start_24": "08:00:00",
     "Exposure_time_end_24": "16:40:00",
-    "latitude": -37.727516,
-    "longitude": 144.899019
+    "latitude": -37.7236993,
+    "longitude": 144.8918702
   },
   {
     "_id": 181,
@@ -3818,8 +3818,8 @@
     "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
     "Exposure_time_start_24": "11:00:00",
     "Exposure_time_end_24": "12:10:00",
-    "latitude": -38.138976,
-    "longitude": 144.34493
+    "latitude": -38.1384145,
+    "longitude": 144.3471338
   },
   {
     "_id": 187,
