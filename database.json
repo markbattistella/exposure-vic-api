@@ -6867,9 +6867,9 @@
     "Site_streetaddress": "1410 Syndey Road",
     "Site_state": "VIC",
     "Site_postcode": "3060",
-    "confidence": 0.6,
-    "latitude": -37.705493,
-    "longitude": 144.969607,
+    "confidence": 1,
+    "latitude": -37.6903352,
+    "longitude": 144.9590144,
     "label": "Fawkner, VIC, Australia"
   },
   {
@@ -6907,9 +6907,9 @@
     "Site_streetaddress": "230 Somerton Road Corner Quinton Street & Bowen Street",
     "Site_state": "VIC",
     "Site_postcode": "3064",
-    "confidence": 0.6,
-    "latitude": -37.62614,
-    "longitude": 144.926767,
+    "confidence": 1,
+    "latitude": -37.6405369,
+    "longitude": 144.9290047,
     "label": "Roxburgh Park, VIC, Australia"
   },
   {
@@ -6927,9 +6927,9 @@
     "Site_streetaddress": "116 Hopskins Street",
     "Site_state": "VIC",
     "Site_postcode": "3011",
-    "confidence": 0.6,
-    "latitude": -37.79613,
-    "longitude": 144.897046,
+    "confidence": 1,
+    "latitude": -37.799766,
+    "longitude": 144.9008898,
     "label": "Footscray, VIC, Australia"
   },
   {
@@ -6937,9 +6937,9 @@
     "Site_streetaddress": "1434 Sydney Road",
     "Site_state": "VIC",
     "Site_postcode": "3061",
-    "confidence": 0.3,
-    "latitude": -37.014348,
-    "longitude": 143.480452,
+    "confidence": 1,
+    "latitude": -37.6880788,
+    "longitude": 144.9576516,
     "label": "Victoria, Australia"
   },
   {
@@ -6947,9 +6947,9 @@
     "Site_streetaddress": "67 Ashley Street",
     "Site_state": "VIC",
     "Site_postcode": "3012",
-    "confidence": 0.6,
-    "latitude": -37.800414,
-    "longitude": 144.870774,
+    "confidence": 1,
+    "latitude": -37.7936571,
+    "longitude": 144.8593175,
     "label": "West Footscray, VIC, Australia"
   },
   {
@@ -7007,9 +7007,9 @@
     "Site_streetaddress": "Corner of Leakes Road & Derrimut Road",
     "Site_state": "VIC",
     "Site_postcode": "3029",
-    "confidence": 0.6,
-    "latitude": -37.825233,
-    "longitude": 144.678391,
+    "confidence": 1,
+    "latitude": -37.8369812,
+    "longitude": 144.6891759,
     "label": "Tarneit, VIC, Australia"
   },
   {
@@ -7037,9 +7037,9 @@
     "Site_streetaddress": "Level 1/1 Collins Street",
     "Site_state": "VIC",
     "Site_postcode": "3000",
-    "confidence": 0.6,
-    "latitude": -37.825071,
-    "longitude": 144.978682,
+    "confidence": 1,
+    "latitude": -37.8138267,
+    "longitude": 144.9715393,
     "label": "Melbourne, VIC, Australia"
   },
   {
@@ -7047,9 +7047,9 @@
     "Site_streetaddress": "32 The Avenue",
     "Site_state": "VIC",
     "Site_postcode": "3058",
-    "confidence": 0.6,
-    "latitude": -37.744675,
-    "longitude": 144.964201,
+    "confidence": 1,
+    "latitude": -37.75275,
+    "longitude": 144.9635984,
     "label": "Coburg, VIC, Australia"
   },
   {
@@ -7067,9 +7067,9 @@
     "Site_streetaddress": "127-139 Link Road",
     "Site_state": "VIC",
     "Site_postcode": "3043",
-    "confidence": 0.6,
-    "latitude": -37.702605,
-    "longitude": 144.879115,
+    "confidence": 1,
+    "latitude": -37.6937251,
+    "longitude": 144.8483259,
     "label": "Tullamarine, VIC, Australia"
   },
   {
