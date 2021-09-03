@@ -2374,7 +2374,7 @@
   },
   {
     "_id": 114,
-    "Suburb": "Brunswick East",
+    "Suburb": "Brunswick",
     "Site_title": "Apartment Complex",
     "Site_streetaddress": "153 Barkly Street",
     "Site_state": "VIC",
@@ -2390,8 +2390,8 @@
     "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
     "Exposure_time_start_24": "00:00:00",
     "Exposure_time_end_24": "23:59:00",
-    "latitude": -37.7771603,
-    "longitude": 144.9702944
+    "latitude": -37.777011,
+    "longitude": 144.970316
   },
   {
     "_id": 115,
@@ -4243,7 +4243,7 @@
   },
   {
     "_id": 204,
-    "Suburb": "Brunswick East",
+    "Suburb": "Brunswick",
     "Site_title": "Apartment Complex",
     "Site_streetaddress": "153 Barkly Street",
     "Site_state": "VIC",
@@ -4259,12 +4259,12 @@
     "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
     "Exposure_time_start_24": "00:00:00",
     "Exposure_time_end_24": "23:59:00",
-    "latitude": -37.7771603,
-    "longitude": 144.9702944
+    "latitude": -37.777011,
+    "longitude": 144.970316
   },
   {
     "_id": 205,
-    "Suburb": "Brunswick East",
+    "Suburb": "Brunswick",
     "Site_title": "Apartment Complex",
     "Site_streetaddress": "153 Barkly Street",
     "Site_state": "VIC",
@@ -4280,12 +4280,12 @@
     "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
     "Exposure_time_start_24": "00:00:00",
     "Exposure_time_end_24": "23:59:00",
-    "latitude": -37.7771603,
-    "longitude": 144.9702944
+    "latitude": -37.777011,
+    "longitude": 144.970316
   },
   {
     "_id": 206,
-    "Suburb": "Brunswick East",
+    "Suburb": "Brunswick",
     "Site_title": "Apartment Complex",
     "Site_streetaddress": "153 Barkly Street",
     "Site_state": "VIC",
@@ -4301,12 +4301,12 @@
     "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
     "Exposure_time_start_24": "00:00:00",
     "Exposure_time_end_24": "23:59:00",
-    "latitude": -37.7771603,
-    "longitude": 144.9702944
+    "latitude": -37.777011,
+    "longitude": 144.970316
   },
   {
     "_id": 207,
-    "Suburb": "Brunswick East",
+    "Suburb": "Brunswick",
     "Site_title": "Apartment Complex",
     "Site_streetaddress": "153 Barkly Street",
     "Site_state": "VIC",
@@ -4322,8 +4322,8 @@
     "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
     "Exposure_time_start_24": "00:00:00",
     "Exposure_time_end_24": "23:59:00",
-    "latitude": -37.7771603,
-    "longitude": 144.9702944
+    "latitude": -37.777011,
+    "longitude": 144.970316
   },
   {
     "_id": 208,

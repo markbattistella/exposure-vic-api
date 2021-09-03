@@ -7331,5 +7331,15 @@
     "latitude": -37.772524,
     "longitude": 145.112154,
     "label": "13 Macedon Road, Templestowe Lower, VIC, Australia"
+  },
+  {
+    "Suburb": "Brunswick",
+    "Site_streetaddress": "153 Barkly Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3057",
+    "confidence": 1,
+    "latitude": -37.777011,
+    "longitude": 144.970316,
+    "label": "153 Barkly Street, Brunswick, VIC, Australia"
   }
 ]
