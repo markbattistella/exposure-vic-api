@@ -7201,5 +7201,55 @@
     "latitude": -37.829608,
     "longitude": 144.970845,
     "label": "324 St Kilda Road, Southbank, VIC, Australia"
+  },
+  {
+    "Suburb": "Melbourne",
+    "Site_streetaddress": "1 Collins Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3000",
+    "confidence": 1,
+    "latitude": -37.81365,
+    "longitude": 144.973611,
+    "label": "1 Collins Street, Melbourne, VIC, Australia"
+  },
+  {
+    "Suburb": "Rowville",
+    "Site_streetaddress": "Stud Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3178",
+    "confidence": 0.6,
+    "latitude": -37.923302,
+    "longitude": 145.244171,
+    "label": "Rowville, VIC, Australia"
+  },
+  {
+    "Suburb": "Rowville",
+    "Site_streetaddress": "1091 Stud Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3178",
+    "confidence": 1,
+    "latitude": -37.919517,
+    "longitude": 145.235067,
+    "label": "1091 Stud Road, Rowville, VIC, Australia"
+  },
+  {
+    "Suburb": "Melbourne",
+    "Site_streetaddress": "10 Queens Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3004",
+    "confidence": 1,
+    "latitude": -37.83826,
+    "longitude": 144.974084,
+    "label": "10 Queens Road, Melbourne, VIC, Australia"
+  },
+  {
+    "Suburb": "Canterbury",
+    "Site_streetaddress": "15-17 Shierlaw Avenue",
+    "Site_state": "VIC",
+    "Site_postcode": "3126",
+    "confidence": 0.6,
+    "latitude": -37.824641,
+    "longitude": 145.078192,
+    "label": "Canterbury, VIC, Australia"
   }
 ]
