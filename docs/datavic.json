@@ -589,7 +589,7 @@
   },
   {
     "_id": 28,
-    "Suburb": "Campbellfiled",
+    "Suburb": "Campbellfield",
     "Site_title": "Coles Campbellfield Plaza",
     "Site_streetaddress": "1434 Sydney Road",
     "Site_state": "VIC",
@@ -605,8 +605,8 @@
     "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
     "Exposure_time_start_24": "10:00:00",
     "Exposure_time_end_24": "11:30:00",
-    "latitude": -37.014348,
-    "longitude": 143.480452
+    "latitude": -37.6885,
+    "longitude": 144.958402
   },
   {
     "_id": 29,
@@ -1851,7 +1851,7 @@
     "_id": 89,
     "Suburb": "Moonee Ponds",
     "Site_title": "Lethbridge Apartments Construction Site",
-    "Site_streetaddress": "Corner or Lethbridge Road & Pascoe Vale Road",
+    "Site_streetaddress": "Corner of Lethbridge Road & Pascoe Vale Road",
     "Site_state": "VIC",
     "Site_postcode": "3039",
     "Exposure_date_dtm": "2021-08-26",
@@ -1872,7 +1872,7 @@
     "_id": 90,
     "Suburb": "Moonee Ponds",
     "Site_title": "Lethbridge Apartments Construction Site",
-    "Site_streetaddress": "Corner or Lethbridge Road & Pascoe Vale Road",
+    "Site_streetaddress": "Corner of Lethbridge Road & Pascoe Vale Road",
     "Site_state": "VIC",
     "Site_postcode": "3039",
     "Exposure_date_dtm": "2021-08-27",
@@ -2144,7 +2144,7 @@
   {
     "_id": 102,
     "Suburb": "St Kilda",
-    "Site_title": "Pink Flake Cafe",
+    "Site_title": "Pink Flake",
     "Site_streetaddress": "92A Acland Street",
     "Site_state": "VIC",
     "Site_postcode": "3182",

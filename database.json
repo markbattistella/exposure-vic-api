@@ -7101,5 +7101,15 @@
     "latitude": -37.641419,
     "longitude": 144.93151,
     "label": "195 Somerton Road, Coolaroo, VIC, Australia"
+  },
+  {
+    "Suburb": "Moonee Ponds",
+    "Site_streetaddress": "Corner of Lethbridge Road & Pascoe Vale Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3039",
+    "confidence": 0.6,
+    "latitude": -37.765075,
+    "longitude": 144.922941,
+    "label": "Moonee Ponds, VIC, Australia"
   }
 ]
