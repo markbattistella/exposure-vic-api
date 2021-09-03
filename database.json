@@ -7341,5 +7341,25 @@
     "latitude": -37.777011,
     "longitude": 144.970316,
     "label": "153 Barkly Street, Brunswick, VIC, Australia"
+  },
+  {
+    "Suburb": "Melton",
+    "Site_streetaddress": "Coburns Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3337",
+    "confidence": 0.6,
+    "latitude": -37.684986,
+    "longitude": 144.588885,
+    "label": "Melton, VIC, Australia"
+  },
+  {
+    "Suburb": "Footscray",
+    "Site_streetaddress": "16-20 Leeds Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3011",
+    "confidence": 1,
+    "latitude": -37.798169,
+    "longitude": 144.901086,
+    "label": "16-20 Leeds Street, Footscray, VIC, Australia"
   }
 ]
