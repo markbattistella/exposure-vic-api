@@ -7111,5 +7111,45 @@
     "latitude": -37.765075,
     "longitude": 144.922941,
     "label": "Moonee Ponds, VIC, Australia"
+  },
+  {
+    "Suburb": "Coburg",
+    "Site_streetaddress": "16 Harding Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3058",
+    "confidence": 1,
+    "latitude": -37.745354,
+    "longitude": 144.967655,
+    "label": "16 Harding Street, Coburg, VIC, Australia"
+  },
+  {
+    "Suburb": "Southbank",
+    "Site_streetaddress": "35 Hancock Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3006",
+    "confidence": 1,
+    "latitude": -37.827925,
+    "longitude": 144.959018,
+    "label": "35 Hancock Street, Southbank, VIC, Australia"
+  },
+  {
+    "Suburb": "Collingwood",
+    "Site_streetaddress": "470 Smith Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3066",
+    "confidence": 1,
+    "latitude": -37.794525,
+    "longitude": 144.985236,
+    "label": "470 Smith Street, Collingwood, VIC, Australia"
+  },
+  {
+    "Suburb": "Burwood East",
+    "Site_streetaddress": "57 Middleborough Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3151",
+    "confidence": 0.6,
+    "latitude": -37.853775,
+    "longitude": 145.150419,
+    "label": "Burwood East, VIC, Australia"
   }
 ]
