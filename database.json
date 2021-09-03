@@ -7261,5 +7261,25 @@
     "latitude": -37.737855,
     "longitude": 144.968345,
     "label": "19 Pentridge Boulevard, Coburg, VIC, Australia"
+  },
+  {
+    "Suburb": "Lalor",
+    "Site_streetaddress": "37 May Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3075",
+    "confidence": 1,
+    "latitude": -37.673218,
+    "longitude": 145.017036,
+    "label": "37-45 May Road, Lalor, VIC, Australia"
+  },
+  {
+    "Suburb": "Lalor",
+    "Site_streetaddress": "33 May Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3075",
+    "confidence": 1,
+    "latitude": -37.673559,
+    "longitude": 145.016999,
+    "label": "33 May Road, Lalor, VIC, Australia"
   }
 ]
