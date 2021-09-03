@@ -7251,5 +7251,15 @@
     "latitude": -37.824641,
     "longitude": 145.078192,
     "label": "Canterbury, VIC, Australia"
+  },
+  {
+    "Suburb": "Coburg",
+    "Site_streetaddress": "1/19 Pentridge Boulevard",
+    "Site_state": "VIC",
+    "Site_postcode": "3058",
+    "confidence": 1,
+    "latitude": -37.737855,
+    "longitude": 144.968345,
+    "label": "19 Pentridge Boulevard, Coburg, VIC, Australia"
   }
 ]
