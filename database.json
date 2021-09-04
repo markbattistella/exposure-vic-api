@@ -7701,5 +7701,45 @@
     "latitude": -37.857378,
     "longitude": 144.774018,
     "label": "Laverton, VIC, Australia"
+  },
+  {
+    "Suburb": "Altona North",
+    "Site_streetaddress": "Shop T01A, 290-330 Millers Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3025",
+    "confidence": 1,
+    "latitude": -37.843831,
+    "longitude": 144.842954,
+    "label": "290-330 Millers Road, Altona North, VIC, Australia"
+  },
+  {
+    "Suburb": "Williamstown",
+    "Site_streetaddress": "70 Douglas Parade",
+    "Site_state": "VIC",
+    "Site_postcode": "3016",
+    "confidence": 1,
+    "latitude": -37.856776,
+    "longitude": 144.897824,
+    "label": "70B Douglas Parade, Williamstown, VIC, Australia"
+  },
+  {
+    "Suburb": "Werribee",
+    "Site_streetaddress": "53 Alfred Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3030",
+    "confidence": 0.6,
+    "latitude": -37.89479,
+    "longitude": 144.661343,
+    "label": "Werribee, VIC, Australia"
+  },
+  {
+    "Suburb": "Altona North",
+    "Site_streetaddress": "Shop 3A-3C, 302-330 Millers Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3025",
+    "confidence": 0.6,
+    "latitude": -37.837835,
+    "longitude": 144.834706,
+    "label": "Altona North, VIC, Australia"
   }
 ]
