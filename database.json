@@ -7661,5 +7661,45 @@
     "latitude": -37.616441,
     "longitude": 144.951972,
     "label": "25 Gasoline Way, Craigieburn, VIC, Australia"
+  },
+  {
+    "Suburb": "Hadfield",
+    "Site_streetaddress": "11 West Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3046",
+    "confidence": 0.6,
+    "latitude": -37.709373,
+    "longitude": 144.949997,
+    "label": "Hadfield, VIC, Australia"
+  },
+  {
+    "Suburb": "Reservoir",
+    "Site_streetaddress": "613 Gilbert Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3073",
+    "confidence": 1,
+    "latitude": -37.728698,
+    "longitude": 144.991407,
+    "label": "613 Gilbert Road, Reservoir, VIC, Australia"
+  },
+  {
+    "Suburb": "Thomastown",
+    "Site_streetaddress": "14/11 Brand Drive",
+    "Site_state": "VIC",
+    "Site_postcode": "3075",
+    "confidence": 0.6,
+    "latitude": -37.683292,
+    "longitude": 145.00751,
+    "label": "Thomastown, VIC, Australia"
+  },
+  {
+    "Suburb": "Laverton",
+    "Site_streetaddress": "3/28 Aviation Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3028",
+    "confidence": 0.6,
+    "latitude": -37.857378,
+    "longitude": 144.774018,
+    "label": "Laverton, VIC, Australia"
   }
 ]
