@@ -7441,5 +7441,35 @@
     "latitude": -37.632613,
     "longitude": 144.918626,
     "label": "101 Ravenhill Boulevard, Roxburgh Park, VIC, Australia"
+  },
+  {
+    "Suburb": "Niddrie",
+    "Site_streetaddress": "364 Keilor Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3042",
+    "confidence": 1,
+    "latitude": -37.736157,
+    "longitude": 144.889951,
+    "label": "364 Keilor Road, Niddrie, VIC, Australia"
+  },
+  {
+    "Suburb": "Werribee",
+    "Site_streetaddress": "1/86 Cottrell Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3030",
+    "confidence": 1,
+    "latitude": -37.902316,
+    "longitude": 144.652289,
+    "label": "86 Cottrell Street, Werribee, VIC, Australia"
+  },
+  {
+    "Suburb": "Broadmeadows",
+    "Site_streetaddress": "1099- 1169 Pascoe Vale Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3047",
+    "confidence": 0.6,
+    "latitude": -37.684973,
+    "longitude": 144.928208,
+    "label": "Broadmeadows, VIC, Australia"
   }
 ]
