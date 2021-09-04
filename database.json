@@ -7761,5 +7761,25 @@
     "latitude": -37.85405,
     "longitude": 144.70597,
     "label": "348 Morris Road, Hoppers Crossing, VIC, Australia"
+  },
+  {
+    "Suburb": "Craigieburn",
+    "Site_streetaddress": "Shop 27, 32/38 Craigieburn Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3064",
+    "confidence": 0.6,
+    "latitude": -37.590804,
+    "longitude": 144.933042,
+    "label": "Craigieburn, VIC, Australia"
+  },
+  {
+    "Suburb": "Mount Waverley",
+    "Site_streetaddress": "433 Blackburn Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3149",
+    "confidence": 1,
+    "latitude": -37.890728,
+    "longitude": 145.144629,
+    "label": "433 Blackburn Road, Mount Waverley, VIC, Australia"
   }
 ]
