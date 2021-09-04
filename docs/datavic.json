@@ -3676,7 +3676,7 @@
   },
   {
     "_id": 176,
-    "Suburb": "Campbellfiled",
+    "Suburb": "Campbellfield",
     "Site_title": "ALDI - Campbellfield Plaza",
     "Site_streetaddress": "1434 Sydney Road",
     "Site_state": "VIC",
@@ -3692,8 +3692,8 @@
     "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
     "Exposure_time_start_24": "11:00:00",
     "Exposure_time_end_24": "12:00:00",
-    "latitude": -37.6880788,
-    "longitude": 144.9576516
+    "latitude": -37.6885,
+    "longitude": 144.958402
   },
   {
     "_id": 177,
