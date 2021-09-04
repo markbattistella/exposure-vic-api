@@ -7741,5 +7741,25 @@
     "latitude": -37.837835,
     "longitude": 144.834706,
     "label": "Altona North, VIC, Australia"
+  },
+  {
+    "Suburb": "Lake Wendouree",
+    "Site_streetaddress": "1200 Mair Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3350",
+    "confidence": 1,
+    "latitude": -37.557886,
+    "longitude": 143.843827,
+    "label": "1200 Mair Street, Lake Wendouree, VIC, Australia"
+  },
+  {
+    "Suburb": "Hoppers Crossing",
+    "Site_streetaddress": "348 Morris Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3029",
+    "confidence": 1,
+    "latitude": -37.85405,
+    "longitude": 144.70597,
+    "label": "348 Morris Road, Hoppers Crossing, VIC, Australia"
   }
 ]
