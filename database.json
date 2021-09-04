@@ -7471,5 +7471,35 @@
     "latitude": -37.684973,
     "longitude": 144.928208,
     "label": "Broadmeadows, VIC, Australia"
+  },
+  {
+    "Suburb": "Caldermeade",
+    "Site_streetaddress": "4465 South Gippsland Highway",
+    "Site_state": "VIC",
+    "Site_postcode": "3984",
+    "confidence": 1,
+    "latitude": -38.245598,
+    "longitude": 145.536988,
+    "label": "4465 South Gippsland Highway, Caldermeade, VIC, Australia"
+  },
+  {
+    "Suburb": "Windsor",
+    "Site_streetaddress": "259 Dandenong Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3181",
+    "confidence": 0.6,
+    "latitude": -37.8549,
+    "longitude": 144.99348,
+    "label": "Windsor, VIC, Australia"
+  },
+  {
+    "Suburb": "Niddrie",
+    "Site_streetaddress": "Corner of Hoffmans & Keilor Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3042",
+    "confidence": 0.8,
+    "latitude": -37.737437,
+    "longitude": 144.892649,
+    "label": "Hoffmans Road/Keilor Road, Essendon North, VIC, Australia"
   }
 ]
