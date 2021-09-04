@@ -7551,5 +7551,45 @@
     "latitude": -37.911324,
     "longitude": 145.18951,
     "label": "202/202 Jells Road, Wheelers Hill, VIC, Australia"
+  },
+  {
+    "Suburb": "Lilydale",
+    "Site_streetaddress": "47 Edinburgh Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3240",
+    "confidence": 0.6,
+    "latitude": -37.753322,
+    "longitude": 145.358312,
+    "label": "Lilydale, VIC, Australia"
+  },
+  {
+    "Suburb": "Roxburgh Park",
+    "Site_streetaddress": "200-300 James Mirams Drive",
+    "Site_state": "VIC",
+    "Site_postcode": "3064",
+    "confidence": 0.6,
+    "latitude": -37.62614,
+    "longitude": 144.926767,
+    "label": "Roxburgh Park, VIC, Australia"
+  },
+  {
+    "Suburb": "Roxburgh Park",
+    "Site_streetaddress": "Shop 2-3, 200-230 James Mirams Drive",
+    "Site_state": "VIC",
+    "Site_postcode": "3064",
+    "confidence": 1,
+    "latitude": -37.616315,
+    "longitude": 144.914773,
+    "label": "200-230 James Mirams Drive, Roxburgh Park, VIC, Australia"
+  },
+  {
+    "Suburb": "St Kilda",
+    "Site_streetaddress": "407B St Kilda Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3004",
+    "confidence": 1,
+    "latitude": -37.856569,
+    "longitude": 144.983651,
+    "label": "407/6 St Kilda Road, St Kilda, VIC, Australia"
   }
 ]
