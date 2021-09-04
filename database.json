@@ -7381,5 +7381,15 @@
     "latitude": -37.739487,
     "longitude": 144.886433,
     "label": "Niddrie, VIC, Australia"
+  },
+  {
+    "Suburb": "Box Hill",
+    "Site_streetaddress": "826-830 Whitehorse Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3128",
+    "confidence": 0.6,
+    "latitude": -37.821529,
+    "longitude": 145.126096,
+    "label": "Box Hill, VIC, Australia"
   }
 ]
