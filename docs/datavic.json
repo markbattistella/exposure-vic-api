@@ -4391,7 +4391,7 @@
   {
     "_id": 210,
     "Suburb": "Campbellfield",
-    "Site_title": "Coles Campbellfield Plaza",
+    "Site_title": "Coles - Campbellfield Plaza",
     "Site_streetaddress": "1434 Sydney Road",
     "Site_state": "VIC",
     "Site_postcode": "3061",
@@ -8843,7 +8843,7 @@
   {
     "_id": 429,
     "Suburb": "Port Melbourne",
-    "Site_title": "Construction Site- Port Melbourne Secondary School",
+    "Site_title": "Construction Site - Port Melbourne Secondary School",
     "Site_streetaddress": "477 Graham Street",
     "Site_state": "VIC",
     "Site_postcode": "3207",
@@ -9662,7 +9662,7 @@
   {
     "_id": 471,
     "Suburb": "Heidelberg West",
-    "Site_title": "Banyule Community Health- Vaccination Clinic",
+    "Site_title": "Banyule Community Health - Vaccination Clinic",
     "Site_streetaddress": "21 Alamein Road",
     "Site_state": "VIC",
     "Site_postcode": "3081",
@@ -9683,7 +9683,7 @@
   {
     "_id": 472,
     "Suburb": "Dandenong",
-    "Site_title": "Dandenong Hospital- Imaging Department Inpatient Waiting Area",
+    "Site_title": "Dandenong Hospital - Imaging Department Inpatient Waiting Area",
     "Site_streetaddress": "135 Davide Street",
     "Site_state": "VIC",
     "Site_postcode": "3175",
@@ -9725,7 +9725,7 @@
   {
     "_id": 474,
     "Suburb": "Tarneit",
-    "Site_title": "KFC Tarneit- Drive Thru Only",
+    "Site_title": "KFC Tarneit - Drive Through Only",
     "Site_streetaddress": "410 Derrimut Road",
     "Site_state": "VIC",
     "Site_postcode": "3029",
