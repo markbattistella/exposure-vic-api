@@ -10061,7 +10061,7 @@
   {
     "_id": 490,
     "Suburb": "Broadmeadows",
-    "Site_title": "Sacca's Fruit World- Broadmeadows Central Shopping Centre",
+    "Site_title": "Sacca's Fruit World - Broadmeadows Central Shopping Centre",
     "Site_streetaddress": "1099-1169 Pascoe Vale Road",
     "Site_state": "VIC",
     "Site_postcode": "3047",
@@ -10082,7 +10082,7 @@
   {
     "_id": 491,
     "Suburb": "Broadmeadows",
-    "Site_title": "Chemist Warehouse- Broadmeadows Central Shopping Centre",
+    "Site_title": "Chemist Warehouse - Broadmeadows Central Shopping Centre",
     "Site_streetaddress": "1099-1169 Pascoe Vale Road",
     "Site_state": "VIC",
     "Site_postcode": "3047",
@@ -10229,7 +10229,7 @@
   {
     "_id": 498,
     "Suburb": "Point Cook",
-    "Site_title": "Target- Stockland Point Cook Shopping Centre",
+    "Site_title": "Target - Stockland Point Cook Shopping Centre",
     "Site_streetaddress": "Dunnings Road & Main Street",
     "Site_state": "VIC",
     "Site_postcode": "3030",
@@ -10313,7 +10313,7 @@
   {
     "_id": 501,
     "Suburb": "Tarneit",
-    "Site_title": "Coles- Wyndam Village Shopping Centre",
+    "Site_title": "Coles - Wyndam Village Shopping Centre",
     "Site_streetaddress": "380 Sayers Road",
     "Site_state": "VIC",
     "Site_postcode": "3029",
@@ -10334,7 +10334,7 @@
   {
     "_id": 502,
     "Suburb": "Tarneit",
-    "Site_title": "Western Fresh Fruit & Veg- Wyndham Village Shopping Centre",
+    "Site_title": "Western Fresh Fruit & Veg - Wyndham Village Shopping Centre",
     "Site_streetaddress": "380 Sayers Road",
     "Site_state": "VIC",
     "Site_postcode": "3029",
@@ -10775,7 +10775,7 @@
   {
     "_id": 523,
     "Suburb": "Shepparton",
-    "Site_title": "Family Care Pharmacy  Safeway Plaza ",
+    "Site_title": "Family Care Pharmacy - Safeway Plaza ",
     "Site_streetaddress": "Shop 14/310 High Street ",
     "Site_state": "VIC",
     "Site_postcode": "3630",
@@ -11531,7 +11531,7 @@
   {
     "_id": 560,
     "Suburb": "Dandenong",
-    "Site_title": "Dandenong Hospital  Ward North 1",
+    "Site_title": "Dandenong Hospital - Childrens Ward",
     "Site_streetaddress": "135 David Street",
     "Site_state": "VIC",
     "Site_postcode": "3175",
@@ -11552,7 +11552,7 @@
   {
     "_id": 561,
     "Suburb": "Dandenong",
-    "Site_title": "Dandenong Hospital  Ward North 1",
+    "Site_title": "Dandenong Hospital - Childrens Ward",
     "Site_streetaddress": "135 David Street",
     "Site_state": "VIC",
     "Site_postcode": "3175",
@@ -11573,7 +11573,7 @@
   {
     "_id": 562,
     "Suburb": "Dandenong",
-    "Site_title": "Dandenong Hospital  Ward North 1",
+    "Site_title": "Dandenong Hospital - Childrens Ward",
     "Site_streetaddress": "135 David Street",
     "Site_state": "VIC",
     "Site_postcode": "3175",
@@ -11594,7 +11594,7 @@
   {
     "_id": 563,
     "Suburb": "Dandenong",
-    "Site_title": "Dandenong Hospital  Childrens Ward",
+    "Site_title": "Dandenong Hospital - Childrens Ward",
     "Site_streetaddress": "135 David Street",
     "Site_state": "VIC",
     "Site_postcode": "3175",
@@ -11615,7 +11615,7 @@
   {
     "_id": 564,
     "Suburb": "Dandenong",
-    "Site_title": "Dandenong Hospital  Childrens Ward",
+    "Site_title": "Dandenong Hospital - Childrens Ward",
     "Site_streetaddress": "135 David Street",
     "Site_state": "VIC",
     "Site_postcode": "3175",
@@ -11657,7 +11657,7 @@
   {
     "_id": 565,
     "Suburb": "Dandenong",
-    "Site_title": "Dandenong Hospital  Childrens Ward",
+    "Site_title": "Dandenong Hospital - Childrens Ward",
     "Site_streetaddress": "135 David Street",
     "Site_state": "VIC",
     "Site_postcode": "3175",
@@ -12308,7 +12308,7 @@
   {
     "_id": 595,
     "Suburb": "Abbotsford",
-    "Site_title": "ALDI  The Hive Shopping Centre",
+    "Site_title": "ALDI - The Hive Shopping Centre",
     "Site_streetaddress": "313/325 Victoria Street",
     "Site_state": "VIC",
     "Site_postcode": "3067",
@@ -16067,7 +16067,7 @@
   {
     "_id": 784,
     "Suburb": "South Morang",
-    "Site_title": "Aldi - Plenty Valley Shopping Centre",
+    "Site_title": "ALDI - Plenty Valley Shopping Centre",
     "Site_streetaddress": "415 McDonalds Road",
     "Site_state": "VIC",
     "Site_postcode": "3752",
