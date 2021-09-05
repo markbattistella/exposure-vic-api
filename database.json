@@ -8321,5 +8321,15 @@
     "latitude": -37.641564,
     "longitude": 145.025908,
     "label": "Epping, VIC, Australia"
+  },
+  {
+    "Suburb": "Dallas",
+    "Site_streetaddress": "81 King Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3047",
+    "confidence": 1,
+    "latitude": -37.6663,
+    "longitude": 144.942062,
+    "label": "81 King Street, Dallas, VIC, Australia"
   }
 ]
