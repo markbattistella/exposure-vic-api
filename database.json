@@ -8271,5 +8271,35 @@
     "latitude": -37.877438,
     "longitude": 144.758007,
     "label": "77-81 Point Cook Road, Seabrook, VIC, Australia"
+  },
+  {
+    "Suburb": "Glenroy",
+    "Site_streetaddress": "840 Pascoe Vale Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3046",
+    "confidence": 1,
+    "latitude": -37.702981,
+    "longitude": 144.915596,
+    "label": "840 Pascoe Vale Road, Glenroy, VIC, Australia"
+  },
+  {
+    "Suburb": "Frankston",
+    "Site_streetaddress": "2 Hastings Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3199",
+    "confidence": 1,
+    "latitude": -38.150703,
+    "longitude": 145.129668,
+    "label": "2 Hastings Road, Frankston, VIC, Australia"
+  },
+  {
+    "Suburb": "Endeavour Hills",
+    "Site_streetaddress": "Matthew Flinders Avenue",
+    "Site_state": "VIC",
+    "Site_postcode": "3802",
+    "confidence": 0.6,
+    "latitude": -37.97358,
+    "longitude": 145.258675,
+    "label": "Endeavour Hills, VIC, Australia"
   }
 ]
