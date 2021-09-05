@@ -7811,5 +7811,45 @@
     "latitude": -37.813761,
     "longitude": 145.119799,
     "label": "8 Arnold Street, Box Hill, VIC, Australia"
+  },
+  {
+    "Suburb": "Hadfield",
+    "Site_streetaddress": "15 Geum Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3046",
+    "confidence": 1,
+    "latitude": -37.707481,
+    "longitude": 144.939312,
+    "label": "15 Geum Street, Hadfield, VIC, Australia"
+  },
+  {
+    "Suburb": "Campbellfield",
+    "Site_streetaddress": "56 Paulson Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3061",
+    "confidence": 1,
+    "latitude": -37.679964,
+    "longitude": 144.961935,
+    "label": "56 Paulson Road, Campbellfield, VIC, Australia"
+  },
+  {
+    "Suburb": "Reservoir",
+    "Site_streetaddress": "712 Gilbert Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3073",
+    "confidence": 1,
+    "latitude": -37.719231,
+    "longitude": 144.993483,
+    "label": "712A Gilbert Road, Reservoir, VIC, Australia"
+  },
+  {
+    "Suburb": "Moonee Ponds",
+    "Site_streetaddress": "21 Moore Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3039",
+    "confidence": 1,
+    "latitude": -37.768016,
+    "longitude": 144.920073,
+    "label": "21/21 Moore Street, Moonee Ponds, VIC, Australia"
   }
 ]
