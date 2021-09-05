@@ -8081,5 +8081,105 @@
     "latitude": -37.723645,
     "longitude": 144.894068,
     "label": "15 Vaughan Street, Essendon Fields, VIC, Australia"
+  },
+  {
+    "Suburb": "Coburg North",
+    "Site_streetaddress": "56 Bakers Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3058",
+    "confidence": 1,
+    "latitude": -37.726623,
+    "longitude": 144.958467,
+    "label": "56 Bakers Road, Coburg North, VIC, Australia"
+  },
+  {
+    "Suburb": "Greenvale",
+    "Site_streetaddress": "2 Glencairn Drive",
+    "Site_state": "VIC",
+    "Site_postcode": "3059",
+    "confidence": 1,
+    "latitude": -37.65122,
+    "longitude": 144.890934,
+    "label": "2 Glencairn Drive, Greenvale, VIC, Australia"
+  },
+  {
+    "Suburb": "Keilor Park",
+    "Site_streetaddress": "2/74 Thomsons Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3042",
+    "confidence": 1,
+    "latitude": -37.719446,
+    "longitude": 144.847272,
+    "label": "74 Thomsons Road, Keilor Park, VIC, Australia"
+  },
+  {
+    "Suburb": "Broadmeadows",
+    "Site_streetaddress": "Corner Pearcedale Parade & Johnstone Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3047",
+    "confidence": 0.6,
+    "latitude": -37.684973,
+    "longitude": 144.928208,
+    "label": "Broadmeadows, VIC, Australia"
+  },
+  {
+    "Suburb": "Broadmeadows",
+    "Site_streetaddress": "16 Olsen Place",
+    "Site_state": "VIC",
+    "Site_postcode": "3047",
+    "confidence": 1,
+    "latitude": -37.689507,
+    "longitude": 144.926712,
+    "label": "16 Olsen Place, Broadmeadows, VIC, Australia"
+  },
+  {
+    "Suburb": "Box Hill",
+    "Site_streetaddress": "826 - 834 Whitehorse Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3128",
+    "confidence": 1,
+    "latitude": -37.817347,
+    "longitude": 145.11716,
+    "label": "826-834 Whitehorse Road, Box Hill, VIC, Australia"
+  },
+  {
+    "Suburb": "Whittlesea",
+    "Site_streetaddress": "29 Beech Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3757",
+    "confidence": 1,
+    "latitude": -37.51127,
+    "longitude": 145.119603,
+    "label": "29 Beech Street, Whittlesea, VIC, Australia"
+  },
+  {
+    "Suburb": "Epping",
+    "Site_streetaddress": "65-66 Saxony Drive",
+    "Site_state": "VIC",
+    "Site_postcode": "3076",
+    "confidence": 0.6,
+    "latitude": -37.641564,
+    "longitude": 145.025908,
+    "label": "Epping, VIC, Australia"
+  },
+  {
+    "Suburb": "Brunswick",
+    "Site_streetaddress": "7 Wilson Avenue",
+    "Site_state": "VIC",
+    "Site_postcode": "3056",
+    "confidence": 1,
+    "latitude": -37.775274,
+    "longitude": 144.959831,
+    "label": "1-7 Wilson Avenue, Brunswick, VIC, Australia"
+  },
+  {
+    "Suburb": "Mernda",
+    "Site_streetaddress": "601 Bridge Innroad",
+    "Site_state": "VIC",
+    "Site_postcode": "3754",
+    "confidence": 0.6,
+    "latitude": -37.592875,
+    "longitude": 145.105213,
+    "label": "Mernda, VIC, Australia"
   }
 ]
