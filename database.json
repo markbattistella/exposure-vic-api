@@ -8071,5 +8071,15 @@
     "latitude": -37.821529,
     "longitude": 145.126096,
     "label": "Box Hill, VIC, Australia"
+  },
+  {
+    "Suburb": "Essendon Fields",
+    "Site_streetaddress": "15 Vaughan Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3041",
+    "confidence": 1,
+    "latitude": -37.723645,
+    "longitude": 144.894068,
+    "label": "15 Vaughan Street, Essendon Fields, VIC, Australia"
   }
 ]
