@@ -7931,5 +7931,145 @@
     "latitude": -37.641419,
     "longitude": 144.93151,
     "label": "195 Somerton Road, Coolaroo, VIC, Australia"
+  },
+  {
+    "Suburb": "Bundoora",
+    "Site_streetaddress": "21 Plenty Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3083",
+    "confidence": 1,
+    "latitude": -37.698153,
+    "longitude": 145.058499,
+    "label": "21 Plenty Road, Bundoora, VIC, Australia"
+  },
+  {
+    "Suburb": "Endeavour Hill",
+    "Site_streetaddress": "Matthew Flinders Avenue",
+    "Site_state": "VIC",
+    "Site_postcode": "3802",
+    "confidence": 0.3,
+    "latitude": -37.014348,
+    "longitude": 143.480452,
+    "label": "Victoria, Australia"
+  },
+  {
+    "Suburb": "Essendon Fields",
+    "Site_streetaddress": "10 English Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3041",
+    "confidence": 1,
+    "latitude": -37.72696,
+    "longitude": 144.893699,
+    "label": "10 English Street, Essendon Fields, VIC, Australia"
+  },
+  {
+    "Suburb": "Epping",
+    "Site_streetaddress": "41 Miller Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3076",
+    "confidence": 1,
+    "latitude": -37.648056,
+    "longitude": 145.0196,
+    "label": "41 Miller Street, Epping, VIC, Australia"
+  },
+  {
+    "Suburb": "Brunswick",
+    "Site_streetaddress": "369 Sydney Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3056",
+    "confidence": 1,
+    "latitude": -37.768934,
+    "longitude": 144.961618,
+    "label": "369 Sydney Road, Brunswick, VIC, Australia"
+  },
+  {
+    "Suburb": "Northcote",
+    "Site_streetaddress": "Separation Street & Dennis Street Northcote Plaza",
+    "Site_state": "VIC",
+    "Site_postcode": "3070",
+    "confidence": 0.6,
+    "latitude": -37.772845,
+    "longitude": 145.000646,
+    "label": "Northcote, VIC, Australia"
+  },
+  {
+    "Suburb": "Alphington",
+    "Site_streetaddress": "538-540 Heidelberg Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3078",
+    "confidence": 1,
+    "latitude": -37.782703,
+    "longitude": 145.021794,
+    "label": "538-540 Heidelberg Road, Alphington, VIC, Australia"
+  },
+  {
+    "Suburb": "Point Cook",
+    "Site_streetaddress": "300 Point Cook Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3030",
+    "confidence": 1,
+    "latitude": -37.89559,
+    "longitude": 144.754067,
+    "label": "300 Point Cook Road, Point Cook, VIC, Australia"
+  },
+  {
+    "Suburb": "Truganina",
+    "Site_streetaddress": "133 Foundation Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3029",
+    "confidence": 1,
+    "latitude": -37.834947,
+    "longitude": 144.763333,
+    "label": "133 Foundation Road, Truganina, VIC, Australia"
+  },
+  {
+    "Suburb": "Dallas",
+    "Site_streetaddress": "30 Inverloch Crescent",
+    "Site_state": "VIC",
+    "Site_postcode": "3047",
+    "confidence": 1,
+    "latitude": -37.669067,
+    "longitude": 144.928546,
+    "label": "30 Inverloch Crescent, Dallas, VIC, Australia"
+  },
+  {
+    "Suburb": "Mernda",
+    "Site_streetaddress": "2, 40 Breadalbane Avenue",
+    "Site_state": "VIC",
+    "Site_postcode": "3754",
+    "confidence": 1,
+    "latitude": -37.607656,
+    "longitude": 145.088261,
+    "label": "2/40 Breadalbane Avenue, Mernda, VIC, Australia"
+  },
+  {
+    "Suburb": "Mernda",
+    "Site_streetaddress": "1/40 Breadalbane Avenue",
+    "Site_state": "VIC",
+    "Site_postcode": "3754",
+    "confidence": 1,
+    "latitude": -37.607656,
+    "longitude": 145.088261,
+    "label": "40 Breadalbane Avenue, Mernda, VIC, Australia"
+  },
+  {
+    "Suburb": "Parkville",
+    "Site_streetaddress": "34 - 54 Poplar Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3052",
+    "confidence": 1,
+    "latitude": -37.778987,
+    "longitude": 144.947596,
+    "label": "34-54 Poplar Road, Parkville, VIC, Australia"
+  },
+  {
+    "Suburb": "Box Hill",
+    "Site_streetaddress": "12 - 14 Nelson Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3128",
+    "confidence": 0.6,
+    "latitude": -37.821529,
+    "longitude": 145.126096,
+    "label": "Box Hill, VIC, Australia"
   }
 ]
