@@ -8311,5 +8311,15 @@
     "latitude": -37.60089,
     "longitude": 145.10002,
     "label": "601A Bridge Inn Road, Mernda, VIC, Australia"
+  },
+  {
+    "Suburb": "Epping",
+    "Site_streetaddress": "65-67 Saxony Drive",
+    "Site_state": "VIC",
+    "Site_postcode": "3076",
+    "confidence": 0.6,
+    "latitude": -37.641564,
+    "longitude": 145.025908,
+    "label": "Epping, VIC, Australia"
   }
 ]
