@@ -8331,5 +8331,55 @@
     "latitude": -37.6663,
     "longitude": 144.942062,
     "label": "81 King Street, Dallas, VIC, Australia"
+  },
+  {
+    "Suburb": "Roxburgh Park",
+    "Site_streetaddress": "200-230 James Mirams Drive",
+    "Site_state": "VIC",
+    "Site_postcode": "3064",
+    "confidence": 1,
+    "latitude": -37.616315,
+    "longitude": 144.914773,
+    "label": "200-230 James Mirams Drive, Roxburgh Park, VIC, Australia"
+  },
+  {
+    "Suburb": "Broadmeadows",
+    "Site_streetaddress": "15 Kraft Court",
+    "Site_state": "VIC",
+    "Site_postcode": "3047",
+    "confidence": 1,
+    "latitude": -37.677619,
+    "longitude": 144.926614,
+    "label": "15A Kraft Court, Broadmeadows, VIC, Australia"
+  },
+  {
+    "Suburb": "Melbourne",
+    "Site_streetaddress": "Level 23, 8 Exhibition Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3000",
+    "confidence": 1,
+    "latitude": -37.815543,
+    "longitude": 144.972444,
+    "label": "8 Exhibition Street, Melbourne, VIC, Australia"
+  },
+  {
+    "Suburb": "Docklands",
+    "Site_streetaddress": "100 Harbour Esplanade",
+    "Site_state": "VIC",
+    "Site_postcode": "3008",
+    "confidence": 1,
+    "latitude": -37.818305,
+    "longitude": 144.946966,
+    "label": "100 Harbour Esplanade, Docklands, VIC, Australia"
+  },
+  {
+    "Suburb": "North Melbourne",
+    "Site_streetaddress": "83 Flemington Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3051",
+    "confidence": 1,
+    "latitude": -37.798709,
+    "longitude": 144.953241,
+    "label": "83 Flemington Road, North Melbourne, VIC, Australia"
   }
 ]
