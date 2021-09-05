@@ -7851,5 +7851,85 @@
     "latitude": -37.768016,
     "longitude": 144.920073,
     "label": "21/21 Moore Street, Moonee Ponds, VIC, Australia"
+  },
+  {
+    "Suburb": "Parkville",
+    "Site_streetaddress": "Shop 12/300 Grattan Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3050",
+    "confidence": 0.8,
+    "latitude": -37.798658,
+    "longitude": 144.955235,
+    "label": "300 Grattan Street, Parkville, VIC, Australia"
+  },
+  {
+    "Suburb": "Laverton North",
+    "Site_streetaddress": "163 Cherry Lane",
+    "Site_state": "VIC",
+    "Site_postcode": "3026",
+    "confidence": 1,
+    "latitude": -37.841874,
+    "longitude": 144.78693,
+    "label": "163 Cherry Lane, Laverton North, VIC, Australia"
+  },
+  {
+    "Suburb": "Cranbourne North",
+    "Site_streetaddress": "35 Rosebank Drive ",
+    "Site_state": "VIC",
+    "Site_postcode": "3977",
+    "confidence": 0.6,
+    "latitude": -38.077939,
+    "longitude": 145.302481,
+    "label": "Cranbourne North, VIC, Australia"
+  },
+  {
+    "Suburb": "Campbellfield",
+    "Site_streetaddress": "17 Cooper Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3061",
+    "confidence": 1,
+    "latitude": -37.646391,
+    "longitude": 144.969734,
+    "label": "17A Cooper Street, Campbellfield, VIC, Australia"
+  },
+  {
+    "Suburb": "Truganina",
+    "Site_streetaddress": "1/8 Vulcan Drive",
+    "Site_state": "VIC",
+    "Site_postcode": "3029",
+    "confidence": 1,
+    "latitude": -37.810798,
+    "longitude": 144.736768,
+    "label": "8 Vulcan Drive, Truganina, VIC, Australia"
+  },
+  {
+    "Suburb": "Glenroy",
+    "Site_streetaddress": "78D Wheatsheaf Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3046",
+    "confidence": 1,
+    "latitude": -37.706482,
+    "longitude": 144.919864,
+    "label": "78 Wheatsheaf Road, Glenroy, VIC, Australia"
+  },
+  {
+    "Suburb": "Pascoe Vale",
+    "Site_streetaddress": "362 Gaffney Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3044",
+    "confidence": 1,
+    "latitude": -37.731233,
+    "longitude": 144.937478,
+    "label": "362-364 Gaffney Street, Pascoe Vale, VIC, Australia"
+  },
+  {
+    "Suburb": "Coolaroo",
+    "Site_streetaddress": "195 Somerton Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3048",
+    "confidence": 1,
+    "latitude": -37.641419,
+    "longitude": 144.93151,
+    "label": "195 Somerton Road, Coolaroo, VIC, Australia"
   }
 ]
