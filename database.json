@@ -7791,5 +7791,15 @@
     "latitude": -37.686447,
     "longitude": 144.956844,
     "label": "1463 Sydney Road, Campbellfield, VIC, Australia"
+  },
+  {
+    "Suburb": "Epping",
+    "Site_streetaddress": "Shop 216, 571-583 High Street ",
+    "Site_state": "VIC",
+    "Site_postcode": "3076",
+    "confidence": 1,
+    "latitude": -37.653755,
+    "longitude": 145.022085,
+    "label": "571-583 High Street, Epping, VIC, Australia"
   }
 ]
