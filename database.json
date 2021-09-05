@@ -8181,5 +8181,85 @@
     "latitude": -37.592875,
     "longitude": 145.105213,
     "label": "Mernda, VIC, Australia"
+  },
+  {
+    "Suburb": "Hoppers Crossing",
+    "Site_streetaddress": "117/129 Warringa Crescent",
+    "Site_state": "VIC",
+    "Site_postcode": "3029",
+    "confidence": 1,
+    "latitude": -37.881018,
+    "longitude": 144.68383,
+    "label": "117-129 Warringa Crescent, Hoppers Crossing, VIC, Australia"
+  },
+  {
+    "Suburb": "Sunshine",
+    "Site_streetaddress": "338-340 Hampshire Crescent",
+    "Site_state": "VIC",
+    "Site_postcode": "3020",
+    "confidence": 0.6,
+    "latitude": -37.788817,
+    "longitude": 144.835605,
+    "label": "Sunshine, VIC, Australia"
+  },
+  {
+    "Suburb": "Hadfield",
+    "Site_streetaddress": "36B North Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3046",
+    "confidence": 1,
+    "latitude": -37.704881,
+    "longitude": 144.945545,
+    "label": "36B North Street, Hadfield, VIC, Australia"
+  },
+  {
+    "Suburb": "Newport",
+    "Site_streetaddress": "33 Mason Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3015",
+    "confidence": 1,
+    "latitude": -37.842472,
+    "longitude": 144.881094,
+    "label": "33A Mason Street, Newport, VIC, Australia"
+  },
+  {
+    "Suburb": "Tarneit",
+    "Site_streetaddress": "937 Sayers Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3029",
+    "confidence": 1,
+    "latitude": -37.845298,
+    "longitude": 144.654891,
+    "label": "937-941 Sayers Road, Tarneit, VIC, Australia"
+  },
+  {
+    "Suburb": "Tarneit",
+    "Site_streetaddress": "939 Sayers Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3029",
+    "confidence": 0.6,
+    "latitude": -37.825233,
+    "longitude": 144.678391,
+    "label": "Tarneit, VIC, Australia"
+  },
+  {
+    "Suburb": "Hoppers Crossing",
+    "Site_streetaddress": "471 Sayers Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3029",
+    "confidence": 1,
+    "latitude": -37.849855,
+    "longitude": 144.698968,
+    "label": "471 Sayers Road, Hoppers Crossing, VIC, Australia"
+  },
+  {
+    "Suburb": "Werribee",
+    "Site_streetaddress": "Shop 128, Cnr Derrimut Road and Heaths Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3030",
+    "confidence": 0.6,
+    "latitude": -37.89479,
+    "longitude": 144.661343,
+    "label": "Werribee, VIC, Australia"
   }
 ]
