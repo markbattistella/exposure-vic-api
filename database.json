@@ -8481,5 +8481,65 @@
     "latitude": -37.769652,
     "longitude": 145.000472,
     "label": "3/20 Separation Street, Northcote, VIC, Australia"
+  },
+  {
+    "Suburb": "Northcote",
+    "Site_streetaddress": "222 High Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3070",
+    "confidence": 1,
+    "latitude": -37.773609,
+    "longitude": 144.998297,
+    "label": "222 High Street, Northcote, VIC, Australia"
+  },
+  {
+    "Suburb": "Keilor Park",
+    "Site_streetaddress": "35 Harrick Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3042",
+    "confidence": 1,
+    "latitude": -37.721737,
+    "longitude": 144.845841,
+    "label": "35 Harrick Road, Keilor Park, VIC, Australia"
+  },
+  {
+    "Suburb": "Fawkner",
+    "Site_streetaddress": "56/58 Major Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3060",
+    "confidence": 1,
+    "latitude": -37.707431,
+    "longitude": 144.970201,
+    "label": "58 Major Road, Fawkner, VIC, Australia"
+  },
+  {
+    "Suburb": "Hoppers Crossing",
+    "Site_streetaddress": "286-288 Derrimut Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3030",
+    "confidence": 1,
+    "latitude": -37.860487,
+    "longitude": 144.686609,
+    "label": "286-288 Derrimut Road, Hoppers Crossing, VIC, Australia"
+  },
+  {
+    "Suburb": "Sunshine North",
+    "Site_streetaddress": "1 Arvona Avenue",
+    "Site_state": "VIC",
+    "Site_postcode": "3020",
+    "confidence": 1,
+    "latitude": -37.762293,
+    "longitude": 144.834948,
+    "label": "1 Arvona Avenue, Sunshine North, VIC, Australia"
+  },
+  {
+    "Suburb": "Yarraville",
+    "Site_streetaddress": "277 Somerville Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3013",
+    "confidence": 1,
+    "latitude": -37.812194,
+    "longitude": 144.876655,
+    "label": "277 Somerville Road, Yarraville, VIC, Australia"
   }
 ]
