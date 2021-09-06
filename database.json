@@ -8751,5 +8751,15 @@
     "latitude": -37.831136,
     "longitude": 144.933928,
     "label": "574 Plummer Street, Port Melbourne, VIC, Australia"
+  },
+  {
+    "Suburb": "Chelsea",
+    "Site_streetaddress": "31-33 Bath Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3196",
+    "confidence": 0.6,
+    "latitude": -38.049824,
+    "longitude": 145.121397,
+    "label": "Chelsea, VIC, Australia"
   }
 ]
