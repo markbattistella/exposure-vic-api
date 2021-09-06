@@ -8771,5 +8771,15 @@
     "latitude": -37.620945,
     "longitude": 145.006416,
     "label": "315A Harvest Home Road, Epping, VIC, Australia"
+  },
+  {
+    "Suburb": "Brunswick East",
+    "Site_streetaddress": "38-40 Gale Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3057",
+    "confidence": 1,
+    "latitude": -37.768712,
+    "longitude": 144.973316,
+    "label": "38-40 Gale Street, Brunswick East, VIC, Australia"
   }
 ]
