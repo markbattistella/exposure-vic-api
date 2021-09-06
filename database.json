@@ -8631,5 +8631,65 @@
     "latitude": -38.233677,
     "longitude": 145.058058,
     "label": "28 Progress Street, Mornington, VIC, Australia"
+  },
+  {
+    "Suburb": "Craigieburn",
+    "Site_streetaddress": "300-332 Grand Boulevard",
+    "Site_state": "VIC",
+    "Site_postcode": "3064",
+    "confidence": 1,
+    "latitude": -37.575122,
+    "longitude": 144.919948,
+    "label": "300-332 Grand Boulevard, Craigieburn, VIC, Australia"
+  },
+  {
+    "Suburb": "Fitzroy",
+    "Site_streetaddress": "156 Napier Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3065",
+    "confidence": 1,
+    "latitude": -37.803325,
+    "longitude": 144.980049,
+    "label": "156 Napier Street, Fitzroy, VIC, Australia"
+  },
+  {
+    "Suburb": "Pascoe Vale",
+    "Site_streetaddress": "Unit 122/124 Derby Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3044",
+    "confidence": 1,
+    "latitude": -37.725806,
+    "longitude": 144.947042,
+    "label": "124 Derby Street, Pascoe Vale, VIC, Australia"
+  },
+  {
+    "Suburb": "Doncaster",
+    "Site_streetaddress": "22 Firth Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3108",
+    "confidence": 1,
+    "latitude": -37.787008,
+    "longitude": 145.121233,
+    "label": "22 Firth Street, Doncaster, VIC, Australia"
+  },
+  {
+    "Suburb": "Doncaster",
+    "Site_streetaddress": "24 Firth Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3108",
+    "confidence": 1,
+    "latitude": -37.787048,
+    "longitude": 145.120994,
+    "label": "24 Firth Street, Doncaster, VIC, Australia"
+  },
+  {
+    "Suburb": "Doncaster",
+    "Site_streetaddress": "24 Firth Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3018",
+    "confidence": 1,
+    "latitude": -37.787048,
+    "longitude": 145.120994,
+    "label": "24 Firth Street, Doncaster, VIC, Australia"
   }
 ]
