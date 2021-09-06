@@ -8691,5 +8691,65 @@
     "latitude": -37.787048,
     "longitude": 145.120994,
     "label": "24 Firth Street, Doncaster, VIC, Australia"
+  },
+  {
+    "Suburb": "Point Cook",
+    "Site_streetaddress": "30 Tackle Drive",
+    "Site_state": "VIC",
+    "Site_postcode": "3030",
+    "confidence": 1,
+    "latitude": -37.907055,
+    "longitude": 144.719882,
+    "label": "30 Tackle Drive, Point Cook, VIC, Australia"
+  },
+  {
+    "Suburb": "Ferntree Gully",
+    "Site_streetaddress": "1015 Burwood Highway",
+    "Site_state": "VIC",
+    "Site_postcode": "3156",
+    "confidence": 1,
+    "latitude": -37.888149,
+    "longitude": 145.290216,
+    "label": "1015 Burwood Highway, Ferntree Gully, VIC, Australia"
+  },
+  {
+    "Suburb": "Roxburgh Park",
+    "Site_streetaddress": "G061/250 Somerton Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3064",
+    "confidence": 1,
+    "latitude": -37.640663,
+    "longitude": 144.931374,
+    "label": "250 Somerton Road, Roxburgh Park, VIC, Australia"
+  },
+  {
+    "Suburb": "Lilydale",
+    "Site_streetaddress": "21 Chris Drive",
+    "Site_state": "VIC",
+    "Site_postcode": "3140",
+    "confidence": 1,
+    "latitude": -37.747583,
+    "longitude": 145.350643,
+    "label": "21 Chris Drive, Lilydale, VIC, Australia"
+  },
+  {
+    "Suburb": "St Albans",
+    "Site_streetaddress": "56 Alfrieda Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3021",
+    "confidence": 1,
+    "latitude": -37.742382,
+    "longitude": 144.801188,
+    "label": "56 Alfrieda Street, St Albans, VIC, Australia"
+  },
+  {
+    "Suburb": "Port Melbourne",
+    "Site_streetaddress": "574 Plummer Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3207",
+    "confidence": 1,
+    "latitude": -37.831136,
+    "longitude": 144.933928,
+    "label": "574 Plummer Street, Port Melbourne, VIC, Australia"
   }
 ]
