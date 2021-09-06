@@ -8541,5 +8541,95 @@
     "latitude": -37.812194,
     "longitude": 144.876655,
     "label": "277 Somerville Road, Yarraville, VIC, Australia"
+  },
+  {
+    "Suburb": "Patterson Lakes",
+    "Site_streetaddress": "Gladesville Boulevard",
+    "Site_state": "VIC",
+    "Site_postcode": "3197",
+    "confidence": 0.6,
+    "latitude": -38.07119,
+    "longitude": 145.143462,
+    "label": "Patterson Lakes, VIC, Australia"
+  },
+  {
+    "Suburb": "Truganina",
+    "Site_streetaddress": "676 Boundary Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3029",
+    "confidence": 0.6,
+    "latitude": -37.81667,
+    "longitude": 144.75,
+    "label": "Truganina, VIC, Australia"
+  },
+  {
+    "Suburb": "Glenroy",
+    "Site_streetaddress": "2 Pearl Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3046",
+    "confidence": 1,
+    "latitude": -37.709538,
+    "longitude": 144.927129,
+    "label": "2 Pearl Street, Glenroy, VIC, Australia"
+  },
+  {
+    "Suburb": "Doncaster",
+    "Site_streetaddress": "20 Firth Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3108",
+    "confidence": 1,
+    "latitude": -37.787003,
+    "longitude": 145.121517,
+    "label": "20 Firth Street, Doncaster, VIC, Australia"
+  },
+  {
+    "Suburb": "Doncaster",
+    "Site_streetaddress": "28 Firth Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3108",
+    "confidence": 1,
+    "latitude": -37.787138,
+    "longitude": 145.120469,
+    "label": "28 Firth Street, Doncaster, VIC, Australia"
+  },
+  {
+    "Suburb": "Fawkner",
+    "Site_streetaddress": "1218-1220 Sydney Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3060",
+    "confidence": 0.6,
+    "latitude": -37.705493,
+    "longitude": 144.969607,
+    "label": "Fawkner, VIC, Australia"
+  },
+  {
+    "Suburb": "South Melbourne",
+    "Site_streetaddress": "Unit 2, 1 Bank Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3205",
+    "confidence": 1,
+    "latitude": -37.831901,
+    "longitude": 144.969509,
+    "label": "1/1 Bank Street, South Melbourne, VIC, Australia"
+  },
+  {
+    "Suburb": "Cambellfield",
+    "Site_streetaddress": "Mahoneys Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3061",
+    "confidence": 0.3,
+    "latitude": -37.014348,
+    "longitude": 143.480452,
+    "label": "Victoria, Australia"
+  },
+  {
+    "Suburb": "Mornington",
+    "Site_streetaddress": "1/28 Progress Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3931",
+    "confidence": 1,
+    "latitude": -38.233677,
+    "longitude": 145.058058,
+    "label": "28 Progress Street, Mornington, VIC, Australia"
   }
 ]
