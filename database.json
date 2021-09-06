@@ -8401,5 +8401,15 @@
     "latitude": -37.586176,
     "longitude": 144.906945,
     "label": "20/236-238 Waterview Boulevard, Craigieburn, VIC, Australia"
+  },
+  {
+    "Suburb": "Doncaster",
+    "Site_streetaddress": "573 Doncaster Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3108",
+    "confidence": 1,
+    "latitude": -37.787729,
+    "longitude": 145.121517,
+    "label": "573 Doncaster Road, Doncaster, VIC, Australia"
   }
 ]
