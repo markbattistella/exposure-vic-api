@@ -8761,5 +8761,15 @@
     "latitude": -38.049824,
     "longitude": 145.121397,
     "label": "Chelsea, VIC, Australia"
+  },
+  {
+    "Suburb": "Epping",
+    "Site_streetaddress": "315A Harvest Home Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3076",
+    "confidence": 1,
+    "latitude": -37.620945,
+    "longitude": 145.006416,
+    "label": "315A Harvest Home Road, Epping, VIC, Australia"
   }
 ]
