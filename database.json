@@ -8461,5 +8461,25 @@
     "latitude": -37.662653,
     "longitude": 144.959231,
     "label": "Campbellfield, VIC, Australia"
+  },
+  {
+    "Suburb": "Tarneit",
+    "Site_streetaddress": "41/380 Sayers Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3029",
+    "confidence": 1,
+    "latitude": -37.849368,
+    "longitude": 144.706281,
+    "label": "380 Sayers Road, Tarneit, VIC, Australia"
+  },
+  {
+    "Suburb": "Northcote",
+    "Site_streetaddress": "17b/3 Separation Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3070",
+    "confidence": 1,
+    "latitude": -37.769652,
+    "longitude": 145.000472,
+    "label": "3/20 Separation Street, Northcote, VIC, Australia"
   }
 ]
