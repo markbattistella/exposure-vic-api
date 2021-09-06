@@ -1221,7 +1221,7 @@
     "_id": 54,
     "Suburb": "Richmond",
     "Site_title": "PAS Group Head Office - Ground Level of South Building",
-    "Site_streetaddress": "Buidling 8, 658 Church Street",
+    "Site_streetaddress": "Building 8, 658 Church Street",
     "Site_state": "VIC",
     "Site_postcode": "3121",
     "Exposure_date_dtm": "2021-08-26",
@@ -11448,7 +11448,7 @@
     "_id": 553,
     "Suburb": "Richmond",
     "Site_title": "IVE Group (Ground floor, North Building)",
-    "Site_streetaddress": "building 8, 658 Church Street",
+    "Site_streetaddress": "Building 8, 658 Church Street",
     "Site_state": "VIC",
     "Site_postcode": "3121",
     "Exposure_date_dtm": "2021-08-24",
@@ -11462,14 +11462,14 @@
     "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
     "Exposure_time_start_24": "08:30:00",
     "Exposure_time_end_24": "17:30:00",
-    "latitude": -37.9961672,
-    "longitude": 144.3912724
+    "latitude": -37.8330948,
+    "longitude": 144.9940216
   },
   {
     "_id": 554,
     "Suburb": "Richmond",
     "Site_title": "IVE Group (Ground floor, North Building)",
-    "Site_streetaddress": "building 8, 658 Church Street",
+    "Site_streetaddress": "Building 8, 658 Church Street",
     "Site_state": "VIC",
     "Site_postcode": "3121",
     "Exposure_date_dtm": "2021-08-26",
@@ -11483,14 +11483,14 @@
     "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
     "Exposure_time_start_24": "08:30:00",
     "Exposure_time_end_24": "17:30:00",
-    "latitude": -37.9961672,
-    "longitude": 144.3912724
+    "latitude": -37.8330948,
+    "longitude": 144.9940216
   },
   {
     "_id": 555,
     "Suburb": "Richmond",
     "Site_title": "IVE Group (Ground floor, North Building)",
-    "Site_streetaddress": "building 8, 658 Church Street",
+    "Site_streetaddress": "Building 8, 658 Church Street",
     "Site_state": "VIC",
     "Site_postcode": "3121",
     "Exposure_date_dtm": "2021-08-27",
@@ -11504,8 +11504,8 @@
     "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
     "Exposure_time_start_24": "14:30:00",
     "Exposure_time_end_24": "17:30:00",
-    "latitude": -37.9961672,
-    "longitude": 144.3912724
+    "latitude": -37.8330948,
+    "longitude": 144.9940216
   },
   {
     "_id": 556,
