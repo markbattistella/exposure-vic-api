@@ -58,7 +58,9 @@
     "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
     "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
     "Exposure_time_start_24": "10:00:00",
-    "Exposure_time_end_24": "14:00:00"
+    "Exposure_time_end_24": "14:00:00",
+    "latitude": -37.835434,
+    "longitude": 144.8459
   },
   {
     "_id": 4,
@@ -77,7 +79,9 @@
     "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
     "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
     "Exposure_time_start_24": "15:00:00",
-    "Exposure_time_end_24": "20:30:00"
+    "Exposure_time_end_24": "20:30:00",
+    "latitude": -37.835434,
+    "longitude": 144.8459
   },
   {
     "_id": 5,
@@ -96,7 +100,9 @@
     "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
     "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
     "Exposure_time_start_24": "10:00:00",
-    "Exposure_time_end_24": "20:30:00"
+    "Exposure_time_end_24": "20:30:00",
+    "latitude": -37.835434,
+    "longitude": 144.8459
   },
   {
     "_id": 6,
@@ -115,7 +121,9 @@
     "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
     "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
     "Exposure_time_start_24": "11:00:00",
-    "Exposure_time_end_24": "20:30:00"
+    "Exposure_time_end_24": "20:30:00",
+    "latitude": -37.835434,
+    "longitude": 144.8459
   },
   {
     "_id": 7,

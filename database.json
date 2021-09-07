@@ -8976,7 +8976,11 @@
     "Suburb": "Altona North",
     "Site_streetaddress": "3 Borrack Square",
     "Site_state": "VIC",
-    "Site_postcode": "3025"
+    "Site_postcode": "3025",
+    "confidence": 1,
+    "latitude": -37.835434,
+    "longitude": 144.8459,
+    "label": "3 Borrack Square, Altona North, VIC, Australia"
   },
   {
     "Suburb": "Melbourne",
