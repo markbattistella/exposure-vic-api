@@ -8841,5 +8841,45 @@
     "latitude": -37.815543,
     "longitude": 144.972444,
     "label": "8 Exhibition Street, Melbourne, VIC, Australia"
+  },
+  {
+    "Suburb": "Meadow Heights",
+    "Site_streetaddress": "29 Hudson Circuit",
+    "Site_state": "VIC",
+    "Site_postcode": "3048",
+    "confidence": 1,
+    "latitude": -37.650467,
+    "longitude": 144.920475,
+    "label": "29 Hudson Circuit, Meadow Heights, VIC, Australia"
+  },
+  {
+    "Suburb": "Port Melbourne",
+    "Site_streetaddress": "299 Williamstown Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3207",
+    "confidence": 1,
+    "latitude": -37.835136,
+    "longitude": 144.923092,
+    "label": "299 Williamstown Road, Port Melbourne, VIC, Australia"
+  },
+  {
+    "Suburb": "Brooklyn",
+    "Site_streetaddress": "77 Miller Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3012",
+    "confidence": 0.6,
+    "latitude": -37.81502,
+    "longitude": 144.841138,
+    "label": "Brooklyn, VIC, Australia"
+  },
+  {
+    "Suburb": "Coburg",
+    "Site_streetaddress": "51 Waterfield Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3058",
+    "confidence": 1,
+    "latitude": -37.741905,
+    "longitude": 144.964791,
+    "label": "51 Waterfield Street, Coburg, VIC, Australia"
   }
 ]
