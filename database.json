@@ -7947,9 +7947,9 @@
     "Site_streetaddress": "Matthew Flinders Avenue",
     "Site_state": "VIC",
     "Site_postcode": "3802",
-    "confidence": 0.3,
-    "latitude": -37.014348,
-    "longitude": 143.480452,
+    "confidence": 1,
+    "latitude": -37.9777085,
+    "longitude": 145.2556832,
     "label": "Victoria, Australia"
   },
   {
@@ -7987,9 +7987,9 @@
     "Site_streetaddress": "Separation Street & Dennis Street Northcote Plaza",
     "Site_state": "VIC",
     "Site_postcode": "3070",
-    "confidence": 0.6,
-    "latitude": -37.772845,
-    "longitude": 145.000646,
+    "confidence": 1,
+    "latitude": -37.768397,
+    "longitude": 144.9995216,
     "label": "Northcote, VIC, Australia"
   },
   {
@@ -8067,9 +8067,9 @@
     "Site_streetaddress": "12 - 14 Nelson Road",
     "Site_state": "VIC",
     "Site_postcode": "3128",
-    "confidence": 0.6,
-    "latitude": -37.821529,
-    "longitude": 145.126096,
+    "confidence": 1,
+    "latitude": -37.8163254,
+    "longitude": 145.1193697,
     "label": "Box Hill, VIC, Australia"
   },
   {
@@ -8117,9 +8117,9 @@
     "Site_streetaddress": "Corner Pearcedale Parade & Johnstone Street",
     "Site_state": "VIC",
     "Site_postcode": "3047",
-    "confidence": 0.6,
-    "latitude": -37.684973,
-    "longitude": 144.928208,
+    "confidence": 1,
+    "latitude": -37.6839698,
+    "longitude": 144.9116881,
     "label": "Broadmeadows, VIC, Australia"
   },
   {
@@ -8157,9 +8157,9 @@
     "Site_streetaddress": "65-66 Saxony Drive",
     "Site_state": "VIC",
     "Site_postcode": "3076",
-    "confidence": 0.6,
-    "latitude": -37.641564,
-    "longitude": 145.025908,
+    "confidence": 1,
+    "latitude": -37.6357612,
+    "longitude": 145.0129961,
     "label": "Epping, VIC, Australia"
   },
   {
@@ -8177,9 +8177,9 @@
     "Site_streetaddress": "601 Bridge Innroad",
     "Site_state": "VIC",
     "Site_postcode": "3754",
-    "confidence": 0.6,
-    "latitude": -37.592875,
-    "longitude": 145.105213,
+    "confidence": 1,
+    "latitude": -37.6008857,
+    "longitude": 145.0978313,
     "label": "Mernda, VIC, Australia"
   },
   {
@@ -8197,9 +8197,9 @@
     "Site_streetaddress": "338-340 Hampshire Crescent",
     "Site_state": "VIC",
     "Site_postcode": "3020",
-    "confidence": 0.6,
-    "latitude": -37.788817,
-    "longitude": 144.835605,
+    "confidence": 1,
+    "latitude": -37.7804716,
+    "longitude": 144.8312428,
     "label": "Sunshine, VIC, Australia"
   },
   {
@@ -8237,9 +8237,9 @@
     "Site_streetaddress": "939 Sayers Road",
     "Site_state": "VIC",
     "Site_postcode": "3029",
-    "confidence": 0.6,
-    "latitude": -37.825233,
-    "longitude": 144.678391,
+    "confidence": 1,
+    "latitude": -37.8452941,
+    "longitude": 144.6527021,
     "label": "Tarneit, VIC, Australia"
   },
   {
@@ -8257,9 +8257,9 @@
     "Site_streetaddress": "Shop 128, Cnr Derrimut Road and Heaths Road",
     "Site_state": "VIC",
     "Site_postcode": "3030",
-    "confidence": 0.6,
-    "latitude": -37.89479,
-    "longitude": 144.661343,
+    "confidence": 1,
+    "latitude": -37.8749357,
+    "longitude": 144.6765266,
     "label": "Werribee, VIC, Australia"
   },
   {
@@ -8297,9 +8297,9 @@
     "Site_streetaddress": "Matthew Flinders Avenue",
     "Site_state": "VIC",
     "Site_postcode": "3802",
-    "confidence": 0.6,
-    "latitude": -37.97358,
-    "longitude": 145.258675,
+    "confidence": 1,
+    "latitude": -37.9777085,
+    "longitude": 145.2556832,
     "label": "Endeavour Hills, VIC, Australia"
   },
   {
