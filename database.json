@@ -8946,6 +8946,10 @@
     "Suburb": "Brooklyn",
     "Site_streetaddress": "413 Francis Street",
     "Site_state": "VIC",
-    "Site_postcode": "3012"
+    "Site_postcode": "3012",
+    "confidence": 1,
+    "latitude": -37.817198,
+    "longitude": 144.853232,
+    "label": "C/413 Francis Street, Brooklyn, VIC, Australia"
   }
 ]
