@@ -8881,5 +8881,65 @@
     "latitude": -37.741905,
     "longitude": 144.964791,
     "label": "51 Waterfield Street, Coburg, VIC, Australia"
+  },
+  {
+    "Suburb": "Docklands",
+    "Site_streetaddress": "8 Pearl River Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3008",
+    "confidence": 1,
+    "latitude": -37.815334,
+    "longitude": 144.938008,
+    "label": "8 Pearl River Road, Docklands, VIC, Australia"
+  },
+  {
+    "Suburb": "Lalor",
+    "Site_streetaddress": "27 May road",
+    "Site_state": "VIC",
+    "Site_postcode": "3075",
+    "confidence": 1,
+    "latitude": -37.673728,
+    "longitude": 145.016958,
+    "label": "27 May Road, Lalor, VIC, Australia"
+  },
+  {
+    "Suburb": "Hoppers Crossing",
+    "Site_streetaddress": "24-25/428 Old Geelong Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3029",
+    "confidence": 1,
+    "latitude": -37.86923,
+    "longitude": 144.731557,
+    "label": "428 Old Geelong Road, Hoppers Crossing, VIC, Australia"
+  },
+  {
+    "Suburb": "Craigieburn",
+    "Site_streetaddress": "93-95 Yellowbox Drive",
+    "Site_state": "VIC",
+    "Site_postcode": "3064",
+    "confidence": 0.6,
+    "latitude": -37.590804,
+    "longitude": 144.933042,
+    "label": "Craigieburn, VIC, Australia"
+  },
+  {
+    "Suburb": "Glen Waverley",
+    "Site_streetaddress": "774 High Street Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3150",
+    "confidence": 1,
+    "latitude": -37.874821,
+    "longitude": 145.169687,
+    "label": "774 High Street Road, Glen Waverley, VIC, Australia"
+  },
+  {
+    "Suburb": "Carlton North",
+    "Site_streetaddress": "378 Rathdowne Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3054",
+    "confidence": 1,
+    "latitude": -37.788529,
+    "longitude": 144.972309,
+    "label": "378 Rathdowne Street, Carlton North, VIC, Australia"
   }
 ]
