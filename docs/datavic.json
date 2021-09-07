@@ -1701,14 +1701,14 @@
     "longitude": 144.973316
   },
   {
-    "_id": 224,
+    "_id": 225,
     "Suburb": "Pascoe Vale",
     "Site_title": "Pascoe Vale Primary School",
     "Site_streetaddress": "362 Gaffney Street",
     "Site_state": "VIC",
     "Site_postcode": "3044",
-    "Exposure_date_dtm": "2021-09-01",
-    "Exposure_date": "01/09/2021",
+    "Exposure_date_dtm": "2021-09-02",
+    "Exposure_date": "02/09/2021",
     "Exposure_time": "8:55am - 4:00pm",
     "Notes": "Case attended venue",
     "Added_date_dtm": "2021-09-05",
@@ -3591,19 +3591,19 @@
     "longitude": 145.2556832
   },
   {
-    "_id": 894,
+    "_id": 893,
     "Suburb": "Shepparton",
     "Site_title": "St. Mel's Primary School",
     "Site_streetaddress": "35 Hamilton Street",
     "Site_state": "VIC",
     "Site_postcode": "3630",
-    "Exposure_date_dtm": "2021-08-19",
-    "Exposure_date": "19/08/2021",
+    "Exposure_date_dtm": "2021-08-18",
+    "Exposure_date": "18/08/2021",
     "Exposure_time": "12:00am - 11:59pm",
     "Notes": "Case attended venue",
     "Added_date_dtm": "2021-08-24",
     "Added_date": "24/08/2021",
-    "Added_time": "15:16:24",
+    "Added_time": "15:16:22",
     "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
     "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
     "Exposure_time_start_24": "00:00:00",
@@ -3904,27 +3904,6 @@
     "Exposure_time_end_24": "23:59:00",
     "latitude": -37.698153,
     "longitude": 145.058499
-  },
-  {
-    "_id": 895,
-    "Suburb": "Shepparton",
-    "Site_title": "St. Mel's Primary School",
-    "Site_streetaddress": "35 Hamilton Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3630",
-    "Exposure_date_dtm": "2021-08-18",
-    "Exposure_date": "18/08/2021",
-    "Exposure_time": "12:00am - 11:59pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-08-24",
-    "Added_date": "24/08/2021",
-    "Added_time": "15:16:22",
-    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
-    "Exposure_time_start_24": "00:00:00",
-    "Exposure_time_end_24": "23:59:00",
-    "latitude": -36.392674,
-    "longitude": 145.40982
   },
   {
     "_id": 185,
@@ -4494,6 +4473,27 @@
     "longitude": 144.919864
   },
   {
+    "_id": 223,
+    "Suburb": "Pascoe Vale",
+    "Site_title": "Pascoe Vale Primary School",
+    "Site_streetaddress": "362 Gaffney Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3044",
+    "Exposure_date_dtm": "2021-08-31",
+    "Exposure_date": "31/08/2021",
+    "Exposure_time": "8:55am - 4:00pm",
+    "Notes": "Case attended venue",
+    "Added_date_dtm": "2021-09-05",
+    "Added_date": "05/09/2021",
+    "Added_time": "13:15:00",
+    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
+    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
+    "Exposure_time_start_24": "08:55:00",
+    "Exposure_time_end_24": "16:00:00",
+    "latitude": -37.731233,
+    "longitude": 144.937478
+  },
+  {
     "_id": 212,
     "Suburb": "Glenroy",
     "Site_title": "Al Haj Halal Meats",
@@ -4599,14 +4599,14 @@
     "longitude": 144.919864
   },
   {
-    "_id": 223,
+    "_id": 224,
     "Suburb": "Pascoe Vale",
     "Site_title": "Pascoe Vale Primary School",
     "Site_streetaddress": "362 Gaffney Street",
     "Site_state": "VIC",
     "Site_postcode": "3044",
-    "Exposure_date_dtm": "2021-08-31",
-    "Exposure_date": "31/08/2021",
+    "Exposure_date_dtm": "2021-09-01",
+    "Exposure_date": "01/09/2021",
     "Exposure_time": "8:55am - 4:00pm",
     "Notes": "Case attended venue",
     "Added_date_dtm": "2021-09-05",
@@ -4733,27 +4733,6 @@
     "Site_postcode": "3044",
     "Exposure_date_dtm": "2021-08-30",
     "Exposure_date": "30/08/2021",
-    "Exposure_time": "8:55am - 4:00pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-09-05",
-    "Added_date": "05/09/2021",
-    "Added_time": "13:15:00",
-    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
-    "Exposure_time_start_24": "08:55:00",
-    "Exposure_time_end_24": "16:00:00",
-    "latitude": -37.731233,
-    "longitude": 144.937478
-  },
-  {
-    "_id": 225,
-    "Suburb": "Pascoe Vale",
-    "Site_title": "Pascoe Vale Primary School",
-    "Site_streetaddress": "362 Gaffney Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3044",
-    "Exposure_date_dtm": "2021-09-02",
-    "Exposure_date": "02/09/2021",
     "Exposure_time": "8:55am - 4:00pm",
     "Notes": "Case attended venue",
     "Added_date_dtm": "2021-09-05",
@@ -6531,27 +6510,6 @@
     "longitude": 144.5636582
   },
   {
-    "_id": 382,
-    "Suburb": "Southbank",
-    "Site_title": "Construction Site",
-    "Site_streetaddress": "35 Hancock Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3006",
-    "Exposure_date_dtm": "2021-08-27",
-    "Exposure_date": "27/08/2021",
-    "Exposure_time": "2:20pm - 6:00pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-09-03",
-    "Added_date": "03/09/2021",
-    "Added_time": "11:45:00",
-    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
-    "Exposure_time_start_24": "14:20:00",
-    "Exposure_time_end_24": "18:00:00",
-    "latitude": -37.827925,
-    "longitude": 144.959018
-  },
-  {
     "_id": 311,
     "Suburb": "Footscray",
     "Site_title": "Rudimentary",
@@ -7477,48 +7435,6 @@
   },
   {
     "_id": 355,
-    "Suburb": "Southbank",
-    "Site_title": "Acquire BPO",
-    "Site_streetaddress": "324 St Kilda Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3006",
-    "Exposure_date_dtm": "2021-08-28",
-    "Exposure_date": "28/08/2021",
-    "Exposure_time": "12:00am - 11:59pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-09-03",
-    "Added_date": "03/09/2021",
-    "Added_time": "15:15:00",
-    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
-    "Exposure_time_start_24": "00:00:00",
-    "Exposure_time_end_24": "23:59:00",
-    "latitude": -37.829608,
-    "longitude": 144.970845
-  },
-  {
-    "_id": 356,
-    "Suburb": "Southbank",
-    "Site_title": "Acquire BPO",
-    "Site_streetaddress": "324 St Kilda Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3006",
-    "Exposure_date_dtm": "2021-08-29",
-    "Exposure_date": "29/08/2021",
-    "Exposure_time": "12:00am - 11:59pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-09-03",
-    "Added_date": "03/09/2021",
-    "Added_time": "15:15:00",
-    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
-    "Exposure_time_start_24": "00:00:00",
-    "Exposure_time_end_24": "23:59:00",
-    "latitude": -37.829608,
-    "longitude": 144.970845
-  },
-  {
-    "_id": 357,
     "Suburb": "Hoppers Crossing",
     "Site_title": "Woolworths Hoppers Crossing",
     "Site_streetaddress": "Morris Road & Old Geelong Road",
@@ -7539,7 +7455,7 @@
     "longitude": 144.7002176
   },
   {
-    "_id": 358,
+    "_id": 356,
     "Suburb": "Hoppers Crossing",
     "Site_title": "Woolworths Hoppers Crossing",
     "Site_streetaddress": "Morris Road & Old Geelong Road",
@@ -7560,7 +7476,7 @@
     "longitude": 144.7002176
   },
   {
-    "_id": 359,
+    "_id": 357,
     "Suburb": "Coburg",
     "Site_title": "Apartment Complex",
     "Site_streetaddress": "19 Pentridge Street",
@@ -7581,7 +7497,7 @@
     "longitude": 144.9667176
   },
   {
-    "_id": 360,
+    "_id": 358,
     "Suburb": "Coburg",
     "Site_title": "Apartment Complex",
     "Site_streetaddress": "19 Pentridge Street",
@@ -7602,7 +7518,7 @@
     "longitude": 144.9667176
   },
   {
-    "_id": 361,
+    "_id": 359,
     "Suburb": "Coburg",
     "Site_title": "Apartment Complex",
     "Site_streetaddress": "19 Pentridge Street",
@@ -7623,7 +7539,7 @@
     "longitude": 144.9667176
   },
   {
-    "_id": 362,
+    "_id": 360,
     "Suburb": "Coburg",
     "Site_title": "Apartment Complex",
     "Site_streetaddress": "19 Pentridge Street",
@@ -7644,7 +7560,7 @@
     "longitude": 144.9667176
   },
   {
-    "_id": 363,
+    "_id": 361,
     "Suburb": "Coburg",
     "Site_title": "Apartment Complex",
     "Site_streetaddress": "19 Pentridge Street",
@@ -7665,7 +7581,7 @@
     "longitude": 144.9667176
   },
   {
-    "_id": 364,
+    "_id": 362,
     "Suburb": "Coburg",
     "Site_title": "Apartment Complex",
     "Site_streetaddress": "19 Pentridge Street",
@@ -7686,28 +7602,7 @@
     "longitude": 144.9667176
   },
   {
-    "_id": 383,
-    "Suburb": "Collingwood",
-    "Site_title": "Apartment Complex",
-    "Site_streetaddress": "470 Smith Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3066",
-    "Exposure_date_dtm": "2021-08-26",
-    "Exposure_date": "26/08/2021",
-    "Exposure_time": "12:00am - 11:59pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-09-03",
-    "Added_date": "03/09/2021",
-    "Added_time": "11:45:00",
-    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
-    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
-    "Exposure_time_start_24": "00:00:00",
-    "Exposure_time_end_24": "23:59:00",
-    "latitude": -37.794525,
-    "longitude": 144.985236
-  },
-  {
-    "_id": 365,
+    "_id": 363,
     "Suburb": "Coburg",
     "Site_title": "Apartment Complex",
     "Site_streetaddress": "19 Pentridge Street",
@@ -7728,7 +7623,7 @@
     "longitude": 144.9667176
   },
   {
-    "_id": 366,
+    "_id": 364,
     "Suburb": "Coburg",
     "Site_title": "Apartment Complex",
     "Site_streetaddress": "19 Pentridge Street",
@@ -7749,7 +7644,28 @@
     "longitude": 144.9667176
   },
   {
-    "_id": 367,
+    "_id": 382,
+    "Suburb": "Collingwood",
+    "Site_title": "Apartment Complex",
+    "Site_streetaddress": "470 Smith Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3066",
+    "Exposure_date_dtm": "2021-08-27",
+    "Exposure_date": "27/08/2021",
+    "Exposure_time": "12:00am - 11:59pm",
+    "Notes": "Case attended venue",
+    "Added_date_dtm": "2021-09-03",
+    "Added_date": "03/09/2021",
+    "Added_time": "11:45:00",
+    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
+    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
+    "Exposure_time_start_24": "00:00:00",
+    "Exposure_time_end_24": "23:59:00",
+    "latitude": -37.794525,
+    "longitude": 144.985236
+  },
+  {
+    "_id": 365,
     "Suburb": "Coburg",
     "Site_title": "Apartment Complex",
     "Site_streetaddress": "19 Pentridge Street",
@@ -7770,7 +7686,7 @@
     "longitude": 144.9667176
   },
   {
-    "_id": 368,
+    "_id": 366,
     "Suburb": "Coburg",
     "Site_title": "Apartment Complex",
     "Site_streetaddress": "19 Pentridge Street",
@@ -7791,7 +7707,7 @@
     "longitude": 144.9667176
   },
   {
-    "_id": 369,
+    "_id": 367,
     "Suburb": "Epping",
     "Site_title": "Costco Fuel Epping",
     "Site_streetaddress": "60 Deveny Road",
@@ -7812,7 +7728,7 @@
     "longitude": 145.012653
   },
   {
-    "_id": 370,
+    "_id": 368,
     "Suburb": "Melbourne",
     "Site_title": "Office complex",
     "Site_streetaddress": "436 St Kilda Road",
@@ -7833,7 +7749,7 @@
     "longitude": 144.975685
   },
   {
-    "_id": 371,
+    "_id": 369,
     "Suburb": "Melbourne",
     "Site_title": "Office complex",
     "Site_streetaddress": "436 St Kilda Road",
@@ -7854,7 +7770,7 @@
     "longitude": 144.975685
   },
   {
-    "_id": 372,
+    "_id": 370,
     "Suburb": "Melbourne",
     "Site_title": "Office complex",
     "Site_streetaddress": "436 St Kilda Road",
@@ -7875,28 +7791,7 @@
     "longitude": 144.975685
   },
   {
-    "_id": 387,
-    "Suburb": "Collingwood",
-    "Site_title": "Apartment Complex",
-    "Site_streetaddress": "470 Smith Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3066",
-    "Exposure_date_dtm": "2021-08-30",
-    "Exposure_date": "30/08/2021",
-    "Exposure_time": "12:00am - 11:59pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-09-03",
-    "Added_date": "03/09/2021",
-    "Added_time": "11:45:00",
-    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
-    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
-    "Exposure_time_start_24": "00:00:00",
-    "Exposure_time_end_24": "23:59:00",
-    "latitude": -37.794525,
-    "longitude": 144.985236
-  },
-  {
-    "_id": 373,
+    "_id": 371,
     "Suburb": "Melbourne",
     "Site_title": "Office complex",
     "Site_streetaddress": "436 St Kilda Road",
@@ -7917,7 +7812,28 @@
     "longitude": 144.975685
   },
   {
-    "_id": 374,
+    "_id": 386,
+    "Suburb": "Collingwood",
+    "Site_title": "Apartment Complex",
+    "Site_streetaddress": "470 Smith Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3066",
+    "Exposure_date_dtm": "2021-08-31",
+    "Exposure_date": "31/08/2021",
+    "Exposure_time": "12:00am - 11:59pm",
+    "Notes": "Case attended venue",
+    "Added_date_dtm": "2021-09-03",
+    "Added_date": "03/09/2021",
+    "Added_time": "11:45:00",
+    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
+    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
+    "Exposure_time_start_24": "00:00:00",
+    "Exposure_time_end_24": "23:59:00",
+    "latitude": -37.794525,
+    "longitude": 144.985236
+  },
+  {
+    "_id": 372,
     "Suburb": "Melbourne",
     "Site_title": "Office complex",
     "Site_streetaddress": "436 St Kilda Road",
@@ -7938,7 +7854,7 @@
     "longitude": 144.975685
   },
   {
-    "_id": 375,
+    "_id": 373,
     "Suburb": "Melbourne",
     "Site_title": "Office complex",
     "Site_streetaddress": "436 St Kilda Road",
@@ -7959,7 +7875,7 @@
     "longitude": 144.975685
   },
   {
-    "_id": 376,
+    "_id": 374,
     "Suburb": "Melbourne",
     "Site_title": "Office complex",
     "Site_streetaddress": "436 St Kilda Road",
@@ -7980,7 +7896,7 @@
     "longitude": 144.975685
   },
   {
-    "_id": 377,
+    "_id": 375,
     "Suburb": "Melbourne",
     "Site_title": "Office complex",
     "Site_streetaddress": "436 St Kilda Road",
@@ -8001,7 +7917,7 @@
     "longitude": 144.975685
   },
   {
-    "_id": 378,
+    "_id": 376,
     "Suburb": "Melbourne",
     "Site_title": "Office complex",
     "Site_streetaddress": "436 St Kilda Road",
@@ -8022,7 +7938,7 @@
     "longitude": 144.975685
   },
   {
-    "_id": 379,
+    "_id": 377,
     "Suburb": "Melbourne",
     "Site_title": "Office complex",
     "Site_streetaddress": "436 St Kilda Road",
@@ -8043,7 +7959,7 @@
     "longitude": 144.975685
   },
   {
-    "_id": 380,
+    "_id": 378,
     "Suburb": "Footscray",
     "Site_title": "Nhu Lan Bakery",
     "Site_streetaddress": "116 Hopkins Street",
@@ -8064,7 +7980,7 @@
     "longitude": 144.901441
   },
   {
-    "_id": 381,
+    "_id": 379,
     "Suburb": "Coburg",
     "Site_title": "Harding Street Medical Centre",
     "Site_streetaddress": "16 Harding Street",
@@ -8085,14 +8001,35 @@
     "longitude": 144.967655
   },
   {
-    "_id": 384,
+    "_id": 380,
+    "Suburb": "Southbank",
+    "Site_title": "Construction Site",
+    "Site_streetaddress": "35 Hancock Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3006",
+    "Exposure_date_dtm": "2021-08-27",
+    "Exposure_date": "27/08/2021",
+    "Exposure_time": "2:20pm - 6:00pm",
+    "Notes": "Case attended venue",
+    "Added_date_dtm": "2021-09-03",
+    "Added_date": "03/09/2021",
+    "Added_time": "11:45:00",
+    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
+    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
+    "Exposure_time_start_24": "14:20:00",
+    "Exposure_time_end_24": "18:00:00",
+    "latitude": -37.827925,
+    "longitude": 144.959018
+  },
+  {
+    "_id": 381,
     "Suburb": "Collingwood",
     "Site_title": "Apartment Complex",
     "Site_streetaddress": "470 Smith Street",
     "Site_state": "VIC",
     "Site_postcode": "3066",
-    "Exposure_date_dtm": "2021-08-27",
-    "Exposure_date": "27/08/2021",
+    "Exposure_date_dtm": "2021-08-26",
+    "Exposure_date": "26/08/2021",
     "Exposure_time": "12:00am - 11:59pm",
     "Notes": "Case attended venue",
     "Added_date_dtm": "2021-09-03",
@@ -8106,7 +8043,7 @@
     "longitude": 144.985236
   },
   {
-    "_id": 385,
+    "_id": 383,
     "Suburb": "Collingwood",
     "Site_title": "Apartment Complex",
     "Site_streetaddress": "470 Smith Street",
@@ -8127,7 +8064,7 @@
     "longitude": 144.985236
   },
   {
-    "_id": 386,
+    "_id": 384,
     "Suburb": "Collingwood",
     "Site_title": "Apartment Complex",
     "Site_streetaddress": "470 Smith Street",
@@ -8148,14 +8085,14 @@
     "longitude": 144.985236
   },
   {
-    "_id": 388,
+    "_id": 385,
     "Suburb": "Collingwood",
     "Site_title": "Apartment Complex",
     "Site_streetaddress": "470 Smith Street",
     "Site_state": "VIC",
     "Site_postcode": "3066",
-    "Exposure_date_dtm": "2021-08-31",
-    "Exposure_date": "31/08/2021",
+    "Exposure_date_dtm": "2021-08-30",
+    "Exposure_date": "30/08/2021",
     "Exposure_time": "12:00am - 11:59pm",
     "Notes": "Case attended venue",
     "Added_date_dtm": "2021-09-03",
@@ -8169,7 +8106,7 @@
     "longitude": 144.985236
   },
   {
-    "_id": 389,
+    "_id": 387,
     "Suburb": "Collingwood",
     "Site_title": "Apartment Complex",
     "Site_streetaddress": "470 Smith Street",
@@ -8190,7 +8127,7 @@
     "longitude": 144.985236
   },
   {
-    "_id": 390,
+    "_id": 388,
     "Suburb": "Collingwood",
     "Site_title": "Apartment Complex",
     "Site_streetaddress": "470 Smith Street",
@@ -8211,7 +8148,7 @@
     "longitude": 144.985236
   },
   {
-    "_id": 391,
+    "_id": 389,
     "Suburb": "Burwood East",
     "Site_title": "Apartment Complex",
     "Site_streetaddress": "57 Middleborough Road",
@@ -8232,7 +8169,7 @@
     "longitude": 145.1299568
   },
   {
-    "_id": 392,
+    "_id": 390,
     "Suburb": "Burwood East",
     "Site_title": "Apartment Complex",
     "Site_streetaddress": "57 Middleborough Road",
@@ -8253,7 +8190,7 @@
     "longitude": 145.1299568
   },
   {
-    "_id": 393,
+    "_id": 391,
     "Suburb": "Burwood East",
     "Site_title": "Apartment Complex",
     "Site_streetaddress": "57 Middleborough Road",
@@ -8274,7 +8211,7 @@
     "longitude": 145.1299568
   },
   {
-    "_id": 394,
+    "_id": 392,
     "Suburb": "Burwood East",
     "Site_title": "Apartment Complex",
     "Site_streetaddress": "57 Middleborough Road",
@@ -8295,7 +8232,7 @@
     "longitude": 145.1299568
   },
   {
-    "_id": 395,
+    "_id": 393,
     "Suburb": "Burwood East",
     "Site_title": "Apartment Complex",
     "Site_streetaddress": "57 Middleborough Road",
@@ -8316,7 +8253,7 @@
     "longitude": 145.1299568
   },
   {
-    "_id": 396,
+    "_id": 394,
     "Suburb": "Burwood East",
     "Site_title": "Apartment Complex",
     "Site_streetaddress": "57 Middleborough Road",
@@ -8337,7 +8274,7 @@
     "longitude": 145.1299568
   },
   {
-    "_id": 397,
+    "_id": 395,
     "Suburb": "Burwood East",
     "Site_title": "Apartment Complex",
     "Site_streetaddress": "57 Middleborough Road",
@@ -8358,7 +8295,7 @@
     "longitude": 145.1299568
   },
   {
-    "_id": 398,
+    "_id": 396,
     "Suburb": "Coolaroo",
     "Site_title": "Kasr Sweets",
     "Site_streetaddress": "3/195 Somerton Road",
@@ -8379,7 +8316,7 @@
     "longitude": 144.93151
   },
   {
-    "_id": 399,
+    "_id": 397,
     "Suburb": "Altona North",
     "Site_title": "Alfie Altona North",
     "Site_streetaddress": "430 Blackshaws Road",
@@ -8400,7 +8337,7 @@
     "longitude": 144.840916
   },
   {
-    "_id": 400,
+    "_id": 398,
     "Suburb": "Melbourne",
     "Site_title": "Number 1 Fertility",
     "Site_streetaddress": "Level 1/1 Collins Street",
@@ -8421,7 +8358,7 @@
     "longitude": 144.9715393
   },
   {
-    "_id": 401,
+    "_id": 399,
     "Suburb": "Melbourne",
     "Site_title": "Number 1 Fertility",
     "Site_streetaddress": "Level 1/1 Collins Street",
@@ -8442,7 +8379,7 @@
     "longitude": 144.9715393
   },
   {
-    "_id": 402,
+    "_id": 400,
     "Suburb": "Coburg",
     "Site_title": "Kids on the Avenue Children's Centre Coburg",
     "Site_streetaddress": "32 The Avenue",
@@ -8463,7 +8400,7 @@
     "longitude": 144.9635984
   },
   {
-    "_id": 403,
+    "_id": 401,
     "Suburb": "Coburg",
     "Site_title": "Kids on the Avenue Children's Centre Coburg",
     "Site_streetaddress": "32 The Avenue",
@@ -8484,7 +8421,7 @@
     "longitude": 144.9635984
   },
   {
-    "_id": 404,
+    "_id": 402,
     "Suburb": "Coburg",
     "Site_title": "Kids on the Avenue Children's Centre Coburg",
     "Site_streetaddress": "32 The Avenue",
@@ -8505,7 +8442,7 @@
     "longitude": 144.9635984
   },
   {
-    "_id": 405,
+    "_id": 403,
     "Suburb": "Coburg",
     "Site_title": "Kids on the Avenue Children's Centre Coburg",
     "Site_streetaddress": "32 The Avenue",
@@ -8526,7 +8463,7 @@
     "longitude": 144.9635984
   },
   {
-    "_id": 406,
+    "_id": 404,
     "Suburb": "Glenroy",
     "Site_title": "Glenroy Discount Chemist",
     "Site_streetaddress": "769G Pascoe Vale Road",
@@ -8547,7 +8484,7 @@
     "longitude": 144.915773
   },
   {
-    "_id": 407,
+    "_id": 405,
     "Suburb": "Tullamarine",
     "Site_title": "Bapcor Logistics Services",
     "Site_streetaddress": "127-139 Link Road",
@@ -8568,7 +8505,7 @@
     "longitude": 144.8483259
   },
   {
-    "_id": 408,
+    "_id": 406,
     "Suburb": "Shepparton",
     "Site_title": "Nedal Kebab Syrian Food",
     "Site_streetaddress": "132 High Street",
@@ -8589,7 +8526,7 @@
     "longitude": 145.402556
   },
   {
-    "_id": 409,
+    "_id": 407,
     "Suburb": "Shepparton",
     "Site_title": "Nedal Kebab Syrian Food",
     "Site_streetaddress": "132 High Street",
@@ -8610,7 +8547,7 @@
     "longitude": 145.402556
   },
   {
-    "_id": 410,
+    "_id": 408,
     "Suburb": "Shepparton",
     "Site_title": "Nedal Kebab Syrian Food",
     "Site_streetaddress": "132 High Street",
@@ -8631,7 +8568,7 @@
     "longitude": 145.402556
   },
   {
-    "_id": 411,
+    "_id": 409,
     "Suburb": "Craigieburn",
     "Site_title": "Freshplus Craigieburn",
     "Site_streetaddress": "420-440 Craigieburn Road",
@@ -8652,7 +8589,7 @@
     "longitude": 144.909011
   },
   {
-    "_id": 412,
+    "_id": 410,
     "Suburb": "Broadmeadows",
     "Site_title": "Sacca's Fruit World - Broadmeadows Central",
     "Site_streetaddress": "1099-1169 Pascoe Vale Road",
@@ -8673,7 +8610,7 @@
     "longitude": 144.921653
   },
   {
-    "_id": 413,
+    "_id": 411,
     "Suburb": "Broadmeadows",
     "Site_title": "Coles - Broadmeadows Central",
     "Site_streetaddress": "1099-1169 Pascoe Vale Road",
@@ -8694,28 +8631,7 @@
     "longitude": 144.921653
   },
   {
-    "_id": 575,
-    "Suburb": "Coburg North",
-    "Site_title": "4 Peterson Avenue Apartment Complex",
-    "Site_streetaddress": "4 Peterson Avenue",
-    "Site_state": "VIC",
-    "Site_postcode": "3058",
-    "Exposure_date_dtm": "2021-08-21",
-    "Exposure_date": "21/08/2021",
-    "Exposure_time": "12:00am - 11:59pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-09-01",
-    "Added_date": "01/09/2021",
-    "Added_time": "12:15:00",
-    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
-    "Exposure_time_start_24": "00:00:00",
-    "Exposure_time_end_24": "23:59:00",
-    "latitude": -37.735313,
-    "longitude": 144.977918
-  },
-  {
-    "_id": 414,
+    "_id": 412,
     "Suburb": "Tarneit",
     "Site_title": "Reject Shop - Tarneit Central",
     "Site_streetaddress": "540 Derrimut Road",
@@ -8736,7 +8652,7 @@
     "longitude": 144.695197
   },
   {
-    "_id": 415,
+    "_id": 413,
     "Suburb": "Tarneit",
     "Site_title": "Coles - Tarneit Central",
     "Site_streetaddress": "540 Derrimut Road",
@@ -8757,7 +8673,7 @@
     "longitude": 144.695197
   },
   {
-    "_id": 416,
+    "_id": 414,
     "Suburb": "Niddrie",
     "Site_title": "Cos Toys and Tattslotto",
     "Site_streetaddress": "358 Keilor Road",
@@ -8778,7 +8694,7 @@
     "longitude": 144.890219
   },
   {
-    "_id": 417,
+    "_id": 415,
     "Suburb": "Footscray",
     "Site_title": "Nhu Lan Bakery",
     "Site_streetaddress": "116 Hopkins Street",
@@ -8799,7 +8715,7 @@
     "longitude": 144.901441
   },
   {
-    "_id": 418,
+    "_id": 416,
     "Suburb": "Brunswick",
     "Site_title": "Apartment Complex",
     "Site_streetaddress": "153 Barkly Street",
@@ -8820,7 +8736,7 @@
     "longitude": 144.970316
   },
   {
-    "_id": 419,
+    "_id": 417,
     "Suburb": "Tarneit",
     "Site_title": "Degani - Tarneit Central",
     "Site_streetaddress": "540 Derrimut Road",
@@ -8841,7 +8757,7 @@
     "longitude": 144.695197
   },
   {
-    "_id": 420,
+    "_id": 418,
     "Suburb": "Campbellfield",
     "Site_title": "Coles Campbellfield Plaza",
     "Site_streetaddress": "1434 Sydney Road",
@@ -8862,7 +8778,7 @@
     "longitude": 144.958402
   },
   {
-    "_id": 421,
+    "_id": 419,
     "Suburb": "West Footscray",
     "Site_title": "ALDI - Central West Shopping Centre",
     "Site_streetaddress": "67 Ashley Street",
@@ -8883,7 +8799,7 @@
     "longitude": 144.8593175
   },
   {
-    "_id": 422,
+    "_id": 420,
     "Suburb": "Moonee Ponds",
     "Site_title": "Moonee Ponds Pharmacy & Lotto",
     "Site_streetaddress": "22 Pratt Street",
@@ -8904,7 +8820,7 @@
     "longitude": 144.922059
   },
   {
-    "_id": 423,
+    "_id": 421,
     "Suburb": "Moonee Ponds",
     "Site_title": "Woolworths Moonee Ponds",
     "Site_streetaddress": "13 Pratt Street",
@@ -8925,7 +8841,7 @@
     "longitude": 144.921886
   },
   {
-    "_id": 424,
+    "_id": 422,
     "Suburb": "Hillside",
     "Site_title": "United Petroleum Hillside",
     "Site_streetaddress": "821- 899 Melton Highway",
@@ -8946,7 +8862,7 @@
     "longitude": 144.731461
   },
   {
-    "_id": 425,
+    "_id": 423,
     "Suburb": "Campbellfield",
     "Site_title": "ALDI - Campbellfield Plaza",
     "Site_streetaddress": "1434 Sydney Road",
@@ -8967,7 +8883,7 @@
     "longitude": 144.958402
   },
   {
-    "_id": 426,
+    "_id": 424,
     "Suburb": "Craigieburn",
     "Site_title": "Stockland Highlands Display Village & Sales Centre",
     "Site_streetaddress": "1 N Shore Drive",
@@ -8988,7 +8904,7 @@
     "longitude": 144.904726
   },
   {
-    "_id": 427,
+    "_id": 425,
     "Suburb": "Craigieburn",
     "Site_title": "Stockland Highlands Display Village & Sales Centre",
     "Site_streetaddress": "1 N Shore Drive",
@@ -9009,7 +8925,7 @@
     "longitude": 144.904726
   },
   {
-    "_id": 428,
+    "_id": 426,
     "Suburb": "Werribee",
     "Site_title": "Coles Werribee",
     "Site_streetaddress": "143 Watton Street",
@@ -9030,7 +8946,7 @@
     "longitude": 144.658964
   },
   {
-    "_id": 429,
+    "_id": 427,
     "Suburb": "Tarneit",
     "Site_title": "ALDI Tarneit Central",
     "Site_streetaddress": "540 Derrimut Road",
@@ -9051,7 +8967,7 @@
     "longitude": 144.695197
   },
   {
-    "_id": 430,
+    "_id": 428,
     "Suburb": "Tarneit",
     "Site_title": "Coles - Tarneit Central",
     "Site_streetaddress": "540 Derrimut Road",
@@ -9072,7 +8988,7 @@
     "longitude": 144.695197
   },
   {
-    "_id": 431,
+    "_id": 429,
     "Suburb": "Tarneit",
     "Site_title": "Liquorland Tarneit Central",
     "Site_streetaddress": "Corner of Leakes Road & Derrimut Road",
@@ -9093,7 +9009,7 @@
     "longitude": 144.6891759
   },
   {
-    "_id": 432,
+    "_id": 430,
     "Suburb": "Hawthorn East",
     "Site_title": "Benetas Aged Care Support Office",
     "Site_streetaddress": "Level 1, 789 Toorak Road",
@@ -9114,7 +9030,7 @@
     "longitude": 145.044014
   },
   {
-    "_id": 433,
+    "_id": 431,
     "Suburb": "Campbellfield",
     "Site_title": "Snax - Campbellfield Plaza",
     "Site_streetaddress": "1434 Sydney Road",
@@ -9135,7 +9051,7 @@
     "longitude": 144.958402
   },
   {
-    "_id": 434,
+    "_id": 432,
     "Suburb": "Broadmeadows",
     "Site_title": "United Broadmeadows",
     "Site_streetaddress": "2-6 Maygar Boulevard",
@@ -9156,7 +9072,7 @@
     "longitude": 144.941518
   },
   {
-    "_id": 435,
+    "_id": 433,
     "Suburb": "Campbellfield",
     "Site_title": "Snax - Campbellfield Plaza",
     "Site_streetaddress": "1434 Sydney Road",
@@ -9177,28 +9093,7 @@
     "longitude": 144.958402
   },
   {
-    "_id": 451,
-    "Suburb": "Endeavour Hills",
-    "Site_title": "Shells Coles Express Endeavour Hills",
-    "Site_streetaddress": "37B Heatherton Road & Hallam N Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3802",
-    "Exposure_date_dtm": "2021-08-29",
-    "Exposure_date": "29/08/2021",
-    "Exposure_time": "6:00pm - 6:20pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-09-02",
-    "Added_date": "02/09/2021",
-    "Added_time": "22:12:00",
-    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
-    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
-    "Exposure_time_start_24": "18:00:00",
-    "Exposure_time_end_24": "18:20:00",
-    "latitude": -37.9768248,
-    "longitude": 145.275468
-  },
-  {
-    "_id": 436,
+    "_id": 434,
     "Suburb": "Fawkner",
     "Site_title": "McDonalds Fawkner",
     "Site_streetaddress": "1410 Sydney Road",
@@ -9219,7 +9114,28 @@
     "longitude": 144.9590144
   },
   {
-    "_id": 437,
+    "_id": 573,
+    "Suburb": "Coburg North",
+    "Site_title": "4 Peterson Avenue Apartment Complex",
+    "Site_streetaddress": "4 Peterson Avenue",
+    "Site_state": "VIC",
+    "Site_postcode": "3058",
+    "Exposure_date_dtm": "2021-08-21",
+    "Exposure_date": "21/08/2021",
+    "Exposure_time": "12:00am - 11:59pm",
+    "Notes": "Case attended venue",
+    "Added_date_dtm": "2021-09-01",
+    "Added_date": "01/09/2021",
+    "Added_time": "12:15:00",
+    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
+    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
+    "Exposure_time_start_24": "00:00:00",
+    "Exposure_time_end_24": "23:59:00",
+    "latitude": -37.735313,
+    "longitude": 144.977918
+  },
+  {
+    "_id": 435,
     "Suburb": "Fawkner",
     "Site_title": "McDonalds Fawkner",
     "Site_streetaddress": "1410 Syndey Road",
@@ -9240,7 +9156,7 @@
     "longitude": 144.9590144
   },
   {
-    "_id": 438,
+    "_id": 436,
     "Suburb": "Campbellfield",
     "Site_title": "Snax - Campbellfield Plaza",
     "Site_streetaddress": "1434 Sydney Road",
@@ -9261,7 +9177,7 @@
     "longitude": 144.958402
   },
   {
-    "_id": 439,
+    "_id": 437,
     "Suburb": "Campbellfield",
     "Site_title": "Coles - Campbellfield Plaza",
     "Site_streetaddress": "1434 Sydney Road",
@@ -9282,7 +9198,7 @@
     "longitude": 144.958402
   },
   {
-    "_id": 440,
+    "_id": 438,
     "Suburb": "Campbellfield",
     "Site_title": "Snax - Campbellfield Plaza",
     "Site_streetaddress": "1434 Sydney Road",
@@ -9303,7 +9219,7 @@
     "longitude": 144.958402
   },
   {
-    "_id": 441,
+    "_id": 439,
     "Suburb": "Campbellfield",
     "Site_title": "Snax - Campbellfield Plaza",
     "Site_streetaddress": "1434 Sydney Road",
@@ -9324,7 +9240,7 @@
     "longitude": 144.958402
   },
   {
-    "_id": 442,
+    "_id": 440,
     "Suburb": "Malvern East",
     "Site_title": "IGA Express Malvern East",
     "Site_streetaddress": "472-486 Waverley Road",
@@ -9345,7 +9261,7 @@
     "longitude": 145.068036
   },
   {
-    "_id": 443,
+    "_id": 441,
     "Suburb": "Keilor Park",
     "Site_title": "McDonalds Keilor Park - Drive through only",
     "Site_streetaddress": "89 Keilor Park Drive",
@@ -9366,7 +9282,7 @@
     "longitude": 144.853055
   },
   {
-    "_id": 444,
+    "_id": 442,
     "Suburb": "Mickleham",
     "Site_title": "BP Merrifield",
     "Site_streetaddress": "470 Donnybrook Road",
@@ -9387,7 +9303,7 @@
     "longitude": 144.897941
   },
   {
-    "_id": 445,
+    "_id": 443,
     "Suburb": "Brunswick West",
     "Site_title": "Apartment Complex",
     "Site_streetaddress": "444-446 Moreland Road",
@@ -9408,7 +9324,7 @@
     "longitude": 144.943955
   },
   {
-    "_id": 446,
+    "_id": 444,
     "Suburb": "Brunswick West",
     "Site_title": "Apartment Complex",
     "Site_streetaddress": "444-446 Moreland Road",
@@ -9429,7 +9345,7 @@
     "longitude": 144.943955
   },
   {
-    "_id": 447,
+    "_id": 445,
     "Suburb": "Roxburgh Park",
     "Site_title": "KFC Roxburgh Park - Drive through only",
     "Site_streetaddress": "230 Somerton Road Corner Quinton Street & Bowen Street",
@@ -9450,7 +9366,28 @@
     "longitude": 144.9290047
   },
   {
-    "_id": 448,
+    "_id": 453,
+    "Suburb": "Yarraville",
+    "Site_title": "Apartment Complex",
+    "Site_streetaddress": "499 Geelong Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3013",
+    "Exposure_date_dtm": "2021-08-29",
+    "Exposure_date": "29/08/2021",
+    "Exposure_time": "12:00am - 11:59pm",
+    "Notes": "Case attended venue",
+    "Added_date_dtm": "2021-09-02",
+    "Added_date": "02/09/2021",
+    "Added_time": "22:05:00",
+    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
+    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
+    "Exposure_time_start_24": "00:00:00",
+    "Exposure_time_end_24": "23:59:00",
+    "latitude": -37.813274,
+    "longitude": 144.86307
+  },
+  {
+    "_id": 446,
     "Suburb": "North Melbourne",
     "Site_title": "Woolworths North Melbourne - Arden Gardens",
     "Site_streetaddress": "Vaughan Terrace & Canning Street",
@@ -9471,7 +9408,7 @@
     "longitude": 144.944264
   },
   {
-    "_id": 449,
+    "_id": 447,
     "Suburb": "Essendon Fields",
     "Site_title": "Serco Services Australia",
     "Site_streetaddress": "15 Vaughan Street",
@@ -9492,7 +9429,7 @@
     "longitude": 144.894068
   },
   {
-    "_id": 450,
+    "_id": 448,
     "Suburb": "Tullamarine",
     "Site_title": "Bapcor Logistics Services",
     "Site_streetaddress": "127- 139 Link Road",
@@ -9513,7 +9450,28 @@
     "longitude": 144.8695225
   },
   {
-    "_id": 452,
+    "_id": 449,
+    "Suburb": "Endeavour Hills",
+    "Site_title": "Shells Coles Express Endeavour Hills",
+    "Site_streetaddress": "37B Heatherton Road & Hallam N Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3802",
+    "Exposure_date_dtm": "2021-08-29",
+    "Exposure_date": "29/08/2021",
+    "Exposure_time": "6:00pm - 6:20pm",
+    "Notes": "Case attended venue",
+    "Added_date_dtm": "2021-09-02",
+    "Added_date": "02/09/2021",
+    "Added_time": "22:12:00",
+    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
+    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
+    "Exposure_time_start_24": "18:00:00",
+    "Exposure_time_end_24": "18:20:00",
+    "latitude": -37.9768248,
+    "longitude": 145.275468
+  },
+  {
+    "_id": 450,
     "Suburb": "Keilor East",
     "Site_title": "Centreway News & Lotto",
     "Site_streetaddress": "59 Wyong Street",
@@ -9534,7 +9492,7 @@
     "longitude": 144.866068
   },
   {
-    "_id": 453,
+    "_id": 451,
     "Suburb": "Box Hill",
     "Site_title": "Subway Box Hill Central",
     "Site_streetaddress": "1 Main Street Centro",
@@ -9555,7 +9513,7 @@
     "longitude": 145.1221
   },
   {
-    "_id": 454,
+    "_id": 452,
     "Suburb": "Broadmeadows",
     "Site_title": "Jack Roper Reserve",
     "Site_streetaddress": "217 Camp Road",
@@ -9576,28 +9534,7 @@
     "longitude": 144.938865
   },
   {
-    "_id": 455,
-    "Suburb": "Yarraville",
-    "Site_title": "Apartment Complex",
-    "Site_streetaddress": "499 Geelong Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3013",
-    "Exposure_date_dtm": "2021-08-29",
-    "Exposure_date": "29/08/2021",
-    "Exposure_time": "12:00am - 11:59pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-09-02",
-    "Added_date": "02/09/2021",
-    "Added_time": "22:05:00",
-    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
-    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
-    "Exposure_time_start_24": "00:00:00",
-    "Exposure_time_end_24": "23:59:00",
-    "latitude": -37.813274,
-    "longitude": 144.86307
-  },
-  {
-    "_id": 456,
+    "_id": 454,
     "Suburb": "Yarraville",
     "Site_title": "Apartment Complex",
     "Site_streetaddress": "499 Geelong Road",
@@ -9618,7 +9555,7 @@
     "longitude": 144.86307
   },
   {
-    "_id": 457,
+    "_id": 455,
     "Suburb": "Campbellfield",
     "Site_title": "Sparkling Beverages",
     "Site_streetaddress": "32 Somerton Park Drive",
@@ -9639,7 +9576,7 @@
     "longitude": 144.946239
   },
   {
-    "_id": 458,
+    "_id": 456,
     "Suburb": "Coburg",
     "Site_title": "Moreland Health Centre",
     "Site_streetaddress": "177 Moreland Road",
@@ -9660,7 +9597,7 @@
     "longitude": 144.965393
   },
   {
-    "_id": 459,
+    "_id": 457,
     "Suburb": "Brunswick West",
     "Site_title": "Apartment Complex",
     "Site_streetaddress": "444-446 Moreland Road",
@@ -9681,7 +9618,7 @@
     "longitude": 144.943955
   },
   {
-    "_id": 460,
+    "_id": 458,
     "Suburb": "Brunswick West",
     "Site_title": "Apartment Complex",
     "Site_streetaddress": "444-446 Moreland Road",
@@ -9702,7 +9639,7 @@
     "longitude": 144.943955
   },
   {
-    "_id": 461,
+    "_id": 459,
     "Suburb": "Brunswick West",
     "Site_title": "Apartment Complex",
     "Site_streetaddress": "444-446 Moreland Road",
@@ -9723,7 +9660,7 @@
     "longitude": 144.943955
   },
   {
-    "_id": 462,
+    "_id": 460,
     "Suburb": "Sydenham",
     "Site_title": "Woolworths - Watergardens Shopping Centre",
     "Site_streetaddress": "399 Melton Highway",
@@ -9744,7 +9681,7 @@
     "longitude": 144.7751804
   },
   {
-    "_id": 463,
+    "_id": 461,
     "Suburb": "Sydenham",
     "Site_title": "San Andres Fruit & Vegetables - Watergardens Shopping Centre",
     "Site_streetaddress": "399 Melton Highway",
@@ -9765,7 +9702,7 @@
     "longitude": 144.7751804
   },
   {
-    "_id": 464,
+    "_id": 462,
     "Suburb": "Sydenham",
     "Site_title": "San Andres Fruit & Vegetables - Watergardens Shopping Centre",
     "Site_streetaddress": "399 Melton Highway",
@@ -9786,7 +9723,7 @@
     "longitude": 144.7751804
   },
   {
-    "_id": 465,
+    "_id": 463,
     "Suburb": "Brooklyn",
     "Site_title": "Niss4X4 Autospares",
     "Site_streetaddress": "41 Buchanan Road",
@@ -9807,7 +9744,7 @@
     "longitude": 144.830688
   },
   {
-    "_id": 466,
+    "_id": 464,
     "Suburb": "Frankston",
     "Site_title": "The Roundabout Cafe",
     "Site_streetaddress": "1/19 Shaxton Circle",
@@ -9828,7 +9765,7 @@
     "longitude": 145.1576
   },
   {
-    "_id": 467,
+    "_id": 465,
     "Suburb": "Frankston",
     "Site_title": "Chemist Warehouse Karingal",
     "Site_streetaddress": "332-332 Cranbourne Road",
@@ -9849,7 +9786,7 @@
     "longitude": 145.1659963
   },
   {
-    "_id": 468,
+    "_id": 466,
     "Suburb": "Southbank",
     "Site_title": "Queenie's Restaurant",
     "Site_streetaddress": "41 Coventry Street",
@@ -9870,7 +9807,7 @@
     "longitude": 144.969181
   },
   {
-    "_id": 469,
+    "_id": 467,
     "Suburb": "Campbellfield",
     "Site_title": "Barry Road Medical Centre",
     "Site_streetaddress": "347 Barry Road",
@@ -9891,7 +9828,7 @@
     "longitude": 144.948033
   },
   {
-    "_id": 470,
+    "_id": 468,
     "Suburb": "Wyndham Vale",
     "Site_title": "Wyndham Vale Montessori Centre",
     "Site_streetaddress": "1/5 Buffalo Crescent",
@@ -9912,7 +9849,7 @@
     "longitude": 144.607582
   },
   {
-    "_id": 471,
+    "_id": 469,
     "Suburb": "Williams Landing",
     "Site_title": "Woolworths Williams Landing",
     "Site_streetaddress": "100 Overton Road",
@@ -9933,7 +9870,7 @@
     "longitude": 144.744048
   },
   {
-    "_id": 472,
+    "_id": 470,
     "Suburb": "Hoppers Crossing",
     "Site_title": "Coles Hoppers Crossing",
     "Site_streetaddress": "50 Old Geelong Road",
@@ -9954,7 +9891,7 @@
     "longitude": 144.703687
   },
   {
-    "_id": 473,
+    "_id": 471,
     "Suburb": "Hoppers Crossing",
     "Site_title": "Morris & Health",
     "Site_streetaddress": "13/24-48 Old Geelong Road",
@@ -9975,7 +9912,7 @@
     "longitude": 144.703522
   },
   {
-    "_id": 474,
+    "_id": 472,
     "Suburb": "Melbourne",
     "Site_title": "Royal Botanic Gardens Victoria - Melbourne Gardens",
     "Site_streetaddress": "Birdwood Avenue",
@@ -9996,7 +9933,7 @@
     "longitude": 144.7328656
   },
   {
-    "_id": 477,
+    "_id": 475,
     "Suburb": "Moonee Ponds",
     "Site_title": "Lethbridge Apartments Construction Site",
     "Site_streetaddress": "Corner of Lethbridge Road & Pascoe Vale Road",
@@ -10017,7 +9954,7 @@
     "longitude": 144.92626
   },
   {
-    "_id": 478,
+    "_id": 476,
     "Suburb": "Moonee Ponds",
     "Site_title": "Lethbridge Apartments Construction Site",
     "Site_streetaddress": "Corner of Lethbridge Road & Pascoe Vale Road",
@@ -10038,7 +9975,7 @@
     "longitude": 144.92626
   },
   {
-    "_id": 479,
+    "_id": 477,
     "Suburb": "Chirnside Park",
     "Site_title": "Bunnings Chirnside Park",
     "Site_streetaddress": "268-288 Maroondah Highway",
@@ -10059,7 +9996,7 @@
     "longitude": 145.30378
   },
   {
-    "_id": 480,
+    "_id": 478,
     "Suburb": "Chirnside Park",
     "Site_title": "Bunnings Chirnside Park",
     "Site_streetaddress": "268-288 Maroondah Highway",
@@ -10080,7 +10017,7 @@
     "longitude": 145.30378
   },
   {
-    "_id": 481,
+    "_id": 479,
     "Suburb": "Chirnside Park",
     "Site_title": "Bunnings Chirnside Park",
     "Site_streetaddress": "268-288 Maroondah Highway",
@@ -10101,7 +10038,7 @@
     "longitude": 145.30378
   },
   {
-    "_id": 482,
+    "_id": 480,
     "Suburb": "Thornbury",
     "Site_title": "Tradelink Plumbing",
     "Site_streetaddress": "316 St Georges Road",
@@ -10122,7 +10059,28 @@
     "longitude": 144.993487
   },
   {
-    "_id": 483,
+    "_id": 574,
+    "Suburb": "Coburg North",
+    "Site_title": "4 Peterson Avenue Apartment Complex",
+    "Site_streetaddress": "4 Peterson Avenue",
+    "Site_state": "VIC",
+    "Site_postcode": "3058",
+    "Exposure_date_dtm": "2021-08-23",
+    "Exposure_date": "23/08/2021",
+    "Exposure_time": "12:00am - 11:59pm",
+    "Notes": "Case attended venue",
+    "Added_date_dtm": "2021-09-01",
+    "Added_date": "01/09/2021",
+    "Added_time": "12:15:00",
+    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
+    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
+    "Exposure_time_start_24": "00:00:00",
+    "Exposure_time_end_24": "23:59:00",
+    "latitude": -37.735313,
+    "longitude": 144.977918
+  },
+  {
+    "_id": 481,
     "Suburb": "Altona North",
     "Site_title": "The Circle Fruit Market",
     "Site_streetaddress": "45-49 The Circle",
@@ -10143,7 +10101,7 @@
     "longitude": 144.8611503
   },
   {
-    "_id": 484,
+    "_id": 482,
     "Suburb": "Richmond",
     "Site_title": "Coles Richmond Icon",
     "Site_streetaddress": "150/160 Swan Street",
@@ -10164,7 +10122,7 @@
     "longitude": 144.9925484
   },
   {
-    "_id": 485,
+    "_id": 483,
     "Suburb": "Cremorne",
     "Site_title": "My Oh My Cafe",
     "Site_streetaddress": "232 Swan Street",
@@ -10185,7 +10143,7 @@
     "longitude": 144.9953343
   },
   {
-    "_id": 486,
+    "_id": 484,
     "Suburb": "Brighton",
     "Site_title": "Coles Brighton",
     "Site_streetaddress": "380 Bay Street",
@@ -10206,7 +10164,7 @@
     "longitude": 145.005146
   },
   {
-    "_id": 487,
+    "_id": 485,
     "Suburb": "St Kilda",
     "Site_title": "The Blue Moose Cafe",
     "Site_streetaddress": "436 St Kilda Road",
@@ -10227,7 +10185,7 @@
     "longitude": 144.9750695
   },
   {
-    "_id": 488,
+    "_id": 486,
     "Suburb": "St Kilda",
     "Site_title": "The Blue Moose Cafe",
     "Site_streetaddress": "436 St Kilda Road",
@@ -10248,7 +10206,7 @@
     "longitude": 144.9750695
   },
   {
-    "_id": 489,
+    "_id": 487,
     "Suburb": "St Kilda",
     "Site_title": "Coles St Kilda",
     "Site_streetaddress": "183-187 Barkly Street",
@@ -10269,7 +10227,7 @@
     "longitude": 144.9806371
   },
   {
-    "_id": 490,
+    "_id": 488,
     "Suburb": "St Kilda",
     "Site_title": "Pink Flake Fish n Chips",
     "Site_streetaddress": "92A Acland Street",
@@ -10290,7 +10248,7 @@
     "longitude": 144.979079
   },
   {
-    "_id": 491,
+    "_id": 489,
     "Suburb": "St Kilda",
     "Site_title": "IGA St Kilda",
     "Site_streetaddress": "320 St Kilda Road",
@@ -10311,7 +10269,7 @@
     "longitude": 144.986232
   },
   {
-    "_id": 492,
+    "_id": 490,
     "Suburb": "Southbank",
     "Site_title": "Humbaba Cafe Southbank",
     "Site_streetaddress": "20 Dorcas Street",
@@ -10332,7 +10290,7 @@
     "longitude": 144.969674
   },
   {
-    "_id": 493,
+    "_id": 491,
     "Suburb": "Balaclava",
     "Site_title": "Blencowes Milkbar Balaclava",
     "Site_streetaddress": "305 Inkerman Street",
@@ -10353,7 +10311,7 @@
     "longitude": 144.994334
   },
   {
-    "_id": 494,
+    "_id": 492,
     "Suburb": "Southbank",
     "Site_title": "IGA St Kilda",
     "Site_streetaddress": "320 St Kilda Road",
@@ -10374,7 +10332,7 @@
     "longitude": 144.970872
   },
   {
-    "_id": 495,
+    "_id": 493,
     "Suburb": "Essendon",
     "Site_title": "Augustus Gelatery Essendon",
     "Site_streetaddress": "13/21 Russell Street",
@@ -10395,7 +10353,7 @@
     "longitude": 144.916772
   },
   {
-    "_id": 496,
+    "_id": 494,
     "Suburb": "Niddrie",
     "Site_title": "Woolworths Niddrie - Niddrie Central Shopping Centre",
     "Site_streetaddress": "Corner Hoffmans & Keilor Road",
@@ -10416,7 +10374,7 @@
     "longitude": 144.8908318
   },
   {
-    "_id": 497,
+    "_id": 495,
     "Suburb": "Gladstone Park",
     "Site_title": "ALDI Gladstone Park",
     "Site_streetaddress": "8/34 Gladstone Park Drive",
@@ -10437,7 +10395,7 @@
     "longitude": 144.884602
   },
   {
-    "_id": 498,
+    "_id": 496,
     "Suburb": "Campbellfield",
     "Site_title": "Coles Campbellfield Plaza",
     "Site_streetaddress": "1434 Sydney Road",
@@ -10458,7 +10416,7 @@
     "longitude": 144.958402
   },
   {
-    "_id": 499,
+    "_id": 497,
     "Suburb": "Ashwood",
     "Site_title": "Woolworths Ashwood",
     "Site_streetaddress": "551-557 Warrigal Road",
@@ -10479,7 +10437,7 @@
     "longitude": 145.0929862
   },
   {
-    "_id": 500,
+    "_id": 498,
     "Suburb": "Tarneit",
     "Site_title": "Coles - Tarneit Central",
     "Site_streetaddress": "Derrimut Road",
@@ -10500,7 +10458,7 @@
     "longitude": 144.6891492
   },
   {
-    "_id": 501,
+    "_id": 499,
     "Suburb": "Hoppers Crossing",
     "Site_title": "Chemist Warehouse Hoppers Crossing",
     "Site_streetaddress": "Shop 24 & 25, 428 Old Geelong Road",
@@ -10521,7 +10479,7 @@
     "longitude": 144.731557
   },
   {
-    "_id": 502,
+    "_id": 500,
     "Suburb": "Hoppers Crossing",
     "Site_title": "Bunnings Hoppers Crossing",
     "Site_streetaddress": "221/231 Old Geelong Road",
@@ -10542,7 +10500,7 @@
     "longitude": 144.714033
   },
   {
-    "_id": 503,
+    "_id": 501,
     "Suburb": "Taylors Hill",
     "Site_title": "Woolworths Watervale Shopping Centre",
     "Site_streetaddress": "Corner Taylors & Calder Park Drive",
@@ -10563,7 +10521,7 @@
     "longitude": 144.7492315
   },
   {
-    "_id": 504,
+    "_id": 502,
     "Suburb": "Brunswick",
     "Site_title": "Apartment Complex",
     "Site_streetaddress": "153 Barkly Street",
@@ -10584,7 +10542,7 @@
     "longitude": 144.970316
   },
   {
-    "_id": 505,
+    "_id": 503,
     "Suburb": "Brunswick",
     "Site_title": "Apartment Complex",
     "Site_streetaddress": "153 Barkly Street",
@@ -10605,7 +10563,7 @@
     "longitude": 144.970316
   },
   {
-    "_id": 506,
+    "_id": 504,
     "Suburb": "Brunswick",
     "Site_title": "Apartment Complex",
     "Site_streetaddress": "153 Barkly Street",
@@ -10626,7 +10584,7 @@
     "longitude": 144.970316
   },
   {
-    "_id": 507,
+    "_id": 505,
     "Suburb": "Brunswick",
     "Site_title": "Apartment Complex",
     "Site_streetaddress": "153 Barkly Street",
@@ -10647,7 +10605,7 @@
     "longitude": 144.970316
   },
   {
-    "_id": 508,
+    "_id": 506,
     "Suburb": "Richmond",
     "Site_title": "Hungry Jack's Burgers Hoddle Street",
     "Site_streetaddress": "45-49 Hoddle Street",
@@ -10668,7 +10626,7 @@
     "longitude": 144.991251
   },
   {
-    "_id": 509,
+    "_id": 507,
     "Suburb": "Richmond",
     "Site_title": "7-Eleven Richmond",
     "Site_streetaddress": "94 Church Street",
@@ -10689,7 +10647,7 @@
     "longitude": 144.999819
   },
   {
-    "_id": 510,
+    "_id": 508,
     "Suburb": "Richmond",
     "Site_title": "Residential Complex",
     "Site_streetaddress": "127 Elizabeth Street",
@@ -10710,7 +10668,7 @@
     "longitude": 144.996989
   },
   {
-    "_id": 511,
+    "_id": 509,
     "Suburb": "Richmond",
     "Site_title": "Residential Complex",
     "Site_streetaddress": "127 Elizabeth Street",
@@ -10731,7 +10689,7 @@
     "longitude": 144.996989
   },
   {
-    "_id": 512,
+    "_id": 510,
     "Suburb": "Richmond",
     "Site_title": "Residential Complex",
     "Site_streetaddress": "127 Elizabeth Street",
@@ -10752,7 +10710,7 @@
     "longitude": 144.996989
   },
   {
-    "_id": 513,
+    "_id": 511,
     "Suburb": "Richmond",
     "Site_title": "Residential Complex",
     "Site_streetaddress": "127 Elizabeth Street",
@@ -10773,7 +10731,7 @@
     "longitude": 144.996989
   },
   {
-    "_id": 514,
+    "_id": 512,
     "Suburb": "Rockbank",
     "Site_title": "BP Truckstop - Western Freeway Rockbank",
     "Site_streetaddress": "2540 Western Freeway",
@@ -10794,7 +10752,7 @@
     "longitude": 144.628827
   },
   {
-    "_id": 515,
+    "_id": 513,
     "Suburb": "Mickleham",
     "Site_title": "Merrifield City Shopping Centre Mickleham",
     "Site_streetaddress": "270 Donnybrook Road",
@@ -10815,7 +10773,7 @@
     "longitude": 144.921456
   },
   {
-    "_id": 516,
+    "_id": 514,
     "Suburb": "Southbank",
     "Site_title": "IGA Xpress Southbank",
     "Site_streetaddress": "320 St Kilda Road",
@@ -10836,7 +10794,7 @@
     "longitude": 144.970872
   },
   {
-    "_id": 517,
+    "_id": 515,
     "Suburb": "Altona North",
     "Site_title": "Fiesta Market by The Circle",
     "Site_streetaddress": "45 The Circle",
@@ -10857,7 +10815,7 @@
     "longitude": 144.863388
   },
   {
-    "_id": 518,
+    "_id": 516,
     "Suburb": "Altona North",
     "Site_title": "Fiesta Market by The Circle",
     "Site_streetaddress": "45 The Circle",
@@ -10878,7 +10836,7 @@
     "longitude": 144.863388
   },
   {
-    "_id": 519,
+    "_id": 517,
     "Suburb": "Tullamarine",
     "Site_title": "Caltex Star Mart Tullamarine",
     "Site_streetaddress": "Sharps Road",
@@ -10899,7 +10857,7 @@
     "longitude": 144.8643841
   },
   {
-    "_id": 520,
+    "_id": 518,
     "Suburb": "Tullamarine",
     "Site_title": "Caltex Star Mart Tullamarine",
     "Site_streetaddress": "Sharps Road",
@@ -10920,7 +10878,7 @@
     "longitude": 144.8643841
   },
   {
-    "_id": 521,
+    "_id": 519,
     "Suburb": "Mernda",
     "Site_title": "Woolworths Mernda Village",
     "Site_streetaddress": "Mernda Village Drive & Galloway Drive",
@@ -10941,7 +10899,7 @@
     "longitude": 145.0874798
   },
   {
-    "_id": 523,
+    "_id": 521,
     "Suburb": "Bundoora",
     "Site_title": "Northern General Bodyworks",
     "Site_streetaddress": "25 The Concord",
@@ -10962,7 +10920,7 @@
     "longitude": 145.068388
   },
   {
-    "_id": 524,
+    "_id": 522,
     "Suburb": "Williamstown",
     "Site_title": "Top Stars Wrecking Pty Ltd Williamstown",
     "Site_streetaddress": "219 Kororoit Creek Road",
@@ -10983,7 +10941,7 @@
     "longitude": 144.857219
   },
   {
-    "_id": 525,
+    "_id": 523,
     "Suburb": "Essendon Fields",
     "Site_title": "Airport Toyota - Essendon Fields ",
     "Site_streetaddress": "355 Wirraway Road",
@@ -11004,7 +10962,7 @@
     "longitude": 144.894376
   },
   {
-    "_id": 526,
+    "_id": 524,
     "Suburb": "Richmond",
     "Site_title": "Melbourne Girls' College- Reception only",
     "Site_streetaddress": "55 Yarra Boulevard",
@@ -11025,7 +10983,7 @@
     "longitude": 145.015418
   },
   {
-    "_id": 530,
+    "_id": 528,
     "Suburb": "Mill Park",
     "Site_title": "The Sporting Globe Bar & Grill - Westfield Plenty Valley",
     "Site_streetaddress": "415 McDonalds Road",
@@ -11046,7 +11004,7 @@
     "longitude": 145.066383
   },
   {
-    "_id": 531,
+    "_id": 529,
     "Suburb": "Mill Park",
     "Site_title": "The Sporting Globe Bar & Grill - Westfield Plenty Valley",
     "Site_streetaddress": "415 McDonalds Road",
@@ -11067,7 +11025,7 @@
     "longitude": 145.066383
   },
   {
-    "_id": 532,
+    "_id": 530,
     "Suburb": "Geelong West",
     "Site_title": "Coles Geelong West",
     "Site_streetaddress": "166-188 Shannon Avenue",
@@ -11088,7 +11046,7 @@
     "longitude": 144.336926
   },
   {
-    "_id": 533,
+    "_id": 531,
     "Suburb": "Altona North",
     "Site_title": "Woolworths Millers Junction (Altona North)",
     "Site_streetaddress": "302-330 Millers Road",
@@ -11109,7 +11067,7 @@
     "longitude": 144.847153
   },
   {
-    "_id": 534,
+    "_id": 532,
     "Suburb": "Altona North",
     "Site_title": "Woolworths Millers Junction (Altona North)",
     "Site_streetaddress": "302-330 Millers Road",
@@ -11130,7 +11088,7 @@
     "longitude": 144.847153
   },
   {
-    "_id": 535,
+    "_id": 533,
     "Suburb": "Keilor East",
     "Site_title": "Chemist Warehouse Keilor East - Supercare Pharmacy",
     "Site_streetaddress": "3/233 Milleara Road",
@@ -11151,7 +11109,7 @@
     "longitude": 144.861967
   },
   {
-    "_id": 536,
+    "_id": 534,
     "Suburb": "Tarneit",
     "Site_title": "Coles - Wyndham Village Shopping Centre",
     "Site_streetaddress": "380 Sayers Road",
@@ -11172,7 +11130,7 @@
     "longitude": 144.706281
   },
   {
-    "_id": 537,
+    "_id": 535,
     "Suburb": "Altona North",
     "Site_title": "Woolworths Borrack Square Altona North",
     "Site_streetaddress": "2/32 Borrack Square",
@@ -11193,7 +11151,7 @@
     "longitude": 144.846418
   },
   {
-    "_id": 538,
+    "_id": 536,
     "Suburb": "Broadmeadows",
     "Site_title": "Specsavers - Broadmeadows Central",
     "Site_streetaddress": "Shop G052/1099-1169 Pascoe Vale Road",
@@ -11214,7 +11172,7 @@
     "longitude": 144.9173343
   },
   {
-    "_id": 539,
+    "_id": 537,
     "Suburb": "St Kilda",
     "Site_title": "Base Backpackers St Kilda",
     "Site_streetaddress": "17 Carlisle Street",
@@ -11235,7 +11193,7 @@
     "longitude": 144.979975
   },
   {
-    "_id": 540,
+    "_id": 538,
     "Suburb": "St Kilda",
     "Site_title": "Base Backpackers St Kilda",
     "Site_streetaddress": "17 Carlisle Street",
@@ -11256,7 +11214,7 @@
     "longitude": 144.979975
   },
   {
-    "_id": 541,
+    "_id": 539,
     "Suburb": "St Kilda",
     "Site_title": "Base Backpackers St Kilda",
     "Site_streetaddress": "17 Carlisle Street",
@@ -11277,7 +11235,7 @@
     "longitude": 144.979975
   },
   {
-    "_id": 542,
+    "_id": 540,
     "Suburb": "St Kilda",
     "Site_title": "Base Backpackers St Kilda",
     "Site_streetaddress": "17 Carlisle Street",
@@ -11298,7 +11256,7 @@
     "longitude": 144.979975
   },
   {
-    "_id": 543,
+    "_id": 541,
     "Suburb": "St Kilda",
     "Site_title": "Base Backpackers St Kilda",
     "Site_streetaddress": "17 Carlisle Street",
@@ -11319,7 +11277,7 @@
     "longitude": 144.979975
   },
   {
-    "_id": 544,
+    "_id": 542,
     "Suburb": "Hawthorn",
     "Site_title": "Hawthorn Village Apartment Complex",
     "Site_streetaddress": "28 Queens Avenue",
@@ -11340,7 +11298,7 @@
     "longitude": 145.044238
   },
   {
-    "_id": 545,
+    "_id": 543,
     "Suburb": "Hawthorn",
     "Site_title": "Hawthorn Village Apartment Complex",
     "Site_streetaddress": "28 Queens Avenue",
@@ -11361,7 +11319,7 @@
     "longitude": 145.044238
   },
   {
-    "_id": 546,
+    "_id": 544,
     "Suburb": "Hawthorn",
     "Site_title": "Hawthorn Village Apartment Complex",
     "Site_streetaddress": "28 Queens Avenue",
@@ -11382,7 +11340,7 @@
     "longitude": 145.044238
   },
   {
-    "_id": 547,
+    "_id": 545,
     "Suburb": "Hawthorn",
     "Site_title": "Hawthorn Village Apartment Complex",
     "Site_streetaddress": "28 Queens Avenue",
@@ -11403,7 +11361,7 @@
     "longitude": 145.044238
   },
   {
-    "_id": 548,
+    "_id": 546,
     "Suburb": "Hawthorn",
     "Site_title": "Hawthorn Village Apartment Complex",
     "Site_streetaddress": "28 Queens Avenue",
@@ -11424,7 +11382,7 @@
     "longitude": 145.044238
   },
   {
-    "_id": 549,
+    "_id": 547,
     "Suburb": "Hawthorn",
     "Site_title": "Hawthorn Village Apartment Complex",
     "Site_streetaddress": "28 Queens Avenue",
@@ -11445,7 +11403,7 @@
     "longitude": 145.044238
   },
   {
-    "_id": 550,
+    "_id": 548,
     "Suburb": "Sunshine",
     "Site_title": "Sunshine Fruit Market",
     "Site_streetaddress": "21C Devonshire Road",
@@ -11466,7 +11424,7 @@
     "longitude": 144.832764
   },
   {
-    "_id": 551,
+    "_id": 549,
     "Suburb": "Coolaroo",
     "Site_title": "Kasr Sweets",
     "Site_streetaddress": "3/195 Somerton Road",
@@ -11487,7 +11445,7 @@
     "longitude": 144.93151
   },
   {
-    "_id": 552,
+    "_id": 550,
     "Suburb": "Coolaroo",
     "Site_title": "Kasr Sweets",
     "Site_streetaddress": "3/195 Somerton Road",
@@ -11508,7 +11466,7 @@
     "longitude": 144.93151
   },
   {
-    "_id": 553,
+    "_id": 551,
     "Suburb": "Coolaroo",
     "Site_title": "Kasr Sweets",
     "Site_streetaddress": "3/195 Somerton Road",
@@ -11529,7 +11487,7 @@
     "longitude": 144.93151
   },
   {
-    "_id": 554,
+    "_id": 552,
     "Suburb": "Coolaroo",
     "Site_title": "Kasr Sweets",
     "Site_streetaddress": "3/195 Somerton Road",
@@ -11550,7 +11508,7 @@
     "longitude": 144.93151
   },
   {
-    "_id": 555,
+    "_id": 553,
     "Suburb": "Geelong West",
     "Site_title": "7 Origins Cafe",
     "Site_streetaddress": "208 Pakington Street",
@@ -11571,7 +11529,7 @@
     "longitude": 144.348258
   },
   {
-    "_id": 556,
+    "_id": 554,
     "Suburb": "Geelong West",
     "Site_title": "Poco Cafe Expres",
     "Site_streetaddress": "111 Pakington Street",
@@ -11592,7 +11550,7 @@
     "longitude": 144.3471338
   },
   {
-    "_id": 557,
+    "_id": 555,
     "Suburb": "Broadmeadows",
     "Site_title": "Broadmeadows Family Health Care",
     "Site_streetaddress": "357 Camp Road",
@@ -11613,7 +11571,7 @@
     "longitude": 144.927039
   },
   {
-    "_id": 558,
+    "_id": 556,
     "Suburb": "Southbank",
     "Site_title": "7-Eleven Freshwater Place Southbank",
     "Site_streetaddress": "1 Freshwater Place",
@@ -11634,7 +11592,7 @@
     "longitude": 144.962471
   },
   {
-    "_id": 559,
+    "_id": 557,
     "Suburb": "Southbank",
     "Site_title": "Woolworths Melbourne Square Southbank",
     "Site_streetaddress": "1/10 Hoff Boulevard",
@@ -11655,14 +11613,14 @@
     "longitude": 144.963832
   },
   {
-    "_id": 576,
+    "_id": 575,
     "Suburb": "Coburg North",
     "Site_title": "4 Peterson Avenue Apartment Complex",
     "Site_streetaddress": "4 Peterson Avenue",
     "Site_state": "VIC",
     "Site_postcode": "3058",
-    "Exposure_date_dtm": "2021-08-23",
-    "Exposure_date": "23/08/2021",
+    "Exposure_date_dtm": "2021-08-24",
+    "Exposure_date": "24/08/2021",
     "Exposure_time": "12:00am - 11:59pm",
     "Notes": "Case attended venue",
     "Added_date_dtm": "2021-09-01",
@@ -11676,7 +11634,7 @@
     "longitude": 144.977918
   },
   {
-    "_id": 560,
+    "_id": 558,
     "Suburb": "Brunswick East",
     "Site_title": "Australia Post - Brunswick East LPO",
     "Site_streetaddress": "167 Lygon Street",
@@ -11697,7 +11655,7 @@
     "longitude": 144.9690016
   },
   {
-    "_id": 561,
+    "_id": 559,
     "Suburb": "Elsternwick",
     "Site_title": "Coles Elsternwick",
     "Site_streetaddress": "475 Glen Huntly Road",
@@ -11718,7 +11676,7 @@
     "longitude": 145.007813
   },
   {
-    "_id": 562,
+    "_id": 560,
     "Suburb": "Elsternwick",
     "Site_title": "Coles Elsternwick",
     "Site_streetaddress": "475 Glen Huntly Road",
@@ -11739,7 +11697,7 @@
     "longitude": 145.007813
   },
   {
-    "_id": 563,
+    "_id": 561,
     "Suburb": "Geelong West",
     "Site_title": "Coles Geelong West",
     "Site_streetaddress": "166-188 Shannon Avenue",
@@ -11760,7 +11718,7 @@
     "longitude": 144.336926
   },
   {
-    "_id": 564,
+    "_id": 562,
     "Suburb": "Hadfield",
     "Site_title": "West Street Fruits",
     "Site_streetaddress": "132 West Street",
@@ -11781,7 +11739,7 @@
     "longitude": 144.93856
   },
   {
-    "_id": 565,
+    "_id": 563,
     "Suburb": "Hadfield",
     "Site_title": "Zaatar On West",
     "Site_streetaddress": "114 West Street",
@@ -11802,7 +11760,7 @@
     "longitude": 144.938427
   },
   {
-    "_id": 566,
+    "_id": 564,
     "Suburb": "Albion",
     "Site_title": "Dulux Trade Centre",
     "Site_streetaddress": "592 Ballarat Road",
@@ -11823,7 +11781,7 @@
     "longitude": 144.807864
   },
   {
-    "_id": 567,
+    "_id": 565,
     "Suburb": "Seaholme",
     "Site_title": "Liberty Altona",
     "Site_streetaddress": "42 Millers Road",
@@ -11844,7 +11802,7 @@
     "longitude": 144.839211
   },
   {
-    "_id": 568,
+    "_id": 566,
     "Suburb": "Hoppers Crossing",
     "Site_title": "Ceylon Delicious",
     "Site_streetaddress": "2/266-274 Derrimut Road",
@@ -11865,7 +11823,7 @@
     "longitude": 144.6839612
   },
   {
-    "_id": 569,
+    "_id": 567,
     "Suburb": "Hoppers Crossing",
     "Site_title": "Ceylon Delicious",
     "Site_streetaddress": "2/266-274 Derrimut Road",
@@ -11886,7 +11844,7 @@
     "longitude": 144.6839612
   },
   {
-    "_id": 570,
+    "_id": 568,
     "Suburb": "Brunswick East ",
     "Site_title": "Coles - East Brunswick Village EBR",
     "Site_streetaddress": "127-137 Nicholson Street",
@@ -11907,7 +11865,7 @@
     "longitude": 144.978258
   },
   {
-    "_id": 571,
+    "_id": 569,
     "Suburb": "Brunswick East ",
     "Site_title": "Coles - East Brunswick Village EBR",
     "Site_streetaddress": "127-137 Nicholson Street",
@@ -11928,7 +11886,7 @@
     "longitude": 144.978258
   },
   {
-    "_id": 572,
+    "_id": 570,
     "Suburb": "Brunswick East ",
     "Site_title": "Coles - East Brunswick Village EBR",
     "Site_streetaddress": "127-137 Nicholson Street",
@@ -11949,7 +11907,7 @@
     "longitude": 144.978258
   },
   {
-    "_id": 573,
+    "_id": 571,
     "Suburb": "Altona North",
     "Site_title": "7-Eleven Altona",
     "Site_streetaddress": "Corner Millers Road and Kororoit Creek Road",
@@ -11970,7 +11928,7 @@
     "longitude": 144.8488398
   },
   {
-    "_id": 574,
+    "_id": 572,
     "Suburb": "Coburg North",
     "Site_title": "4 Peterson Avenue Apartment Complex",
     "Site_streetaddress": "4 Peterson Avenue",
@@ -11991,28 +11949,7 @@
     "longitude": 144.977918
   },
   {
-    "_id": 577,
-    "Suburb": "Coburg North",
-    "Site_title": "4 Peterson Avenue Apartment Complex",
-    "Site_streetaddress": "4 Peterson Avenue",
-    "Site_state": "VIC",
-    "Site_postcode": "3058",
-    "Exposure_date_dtm": "2021-08-24",
-    "Exposure_date": "24/08/2021",
-    "Exposure_time": "12:00am - 11:59pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-09-01",
-    "Added_date": "01/09/2021",
-    "Added_time": "12:15:00",
-    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
-    "Exposure_time_start_24": "00:00:00",
-    "Exposure_time_end_24": "23:59:00",
-    "latitude": -37.735313,
-    "longitude": 144.977918
-  },
-  {
-    "_id": 578,
+    "_id": 576,
     "Suburb": "Coburg North",
     "Site_title": "4 Peterson Avenue Apartment Complex",
     "Site_streetaddress": "4 Peterson Avenue",
@@ -12033,7 +11970,7 @@
     "longitude": 144.977918
   },
   {
-    "_id": 579,
+    "_id": 577,
     "Suburb": "Coburg North",
     "Site_title": "4 Peterson Avenue Apartment Complex",
     "Site_streetaddress": "4 Peterson Avenue",
@@ -12054,7 +11991,28 @@
     "longitude": 144.977918
   },
   {
-    "_id": 580,
+    "_id": 585,
+    "Suburb": "Coburg North",
+    "Site_title": "4 Peterson Avenue Apartment Complex",
+    "Site_streetaddress": "4 Peterson Avenue",
+    "Site_state": "VIC",
+    "Site_postcode": "3058",
+    "Exposure_date_dtm": "2021-08-28",
+    "Exposure_date": "28/08/2021",
+    "Exposure_time": "12:00am - 11:59pm",
+    "Notes": "Case attended venue",
+    "Added_date_dtm": "2021-09-01",
+    "Added_date": "01/09/2021",
+    "Added_time": "12:15:00",
+    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
+    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
+    "Exposure_time_start_24": "00:00:00",
+    "Exposure_time_end_24": "23:59:00",
+    "latitude": -37.735313,
+    "longitude": 144.977918
+  },
+  {
+    "_id": 578,
     "Suburb": "Coburg North",
     "Site_title": "2, 6 and 8 Peterson Avenue Apartment Complex",
     "Site_streetaddress": "2, 6 and 8 Peterson Avenue",
@@ -12075,7 +12033,7 @@
     "longitude": 144.9778118
   },
   {
-    "_id": 581,
+    "_id": 579,
     "Suburb": "Coburg North",
     "Site_title": "2, 6 and 8 Peterson Avenue Apartment Complex",
     "Site_streetaddress": "2, 6 and 8 Peterson Avenue",
@@ -12096,7 +12054,7 @@
     "longitude": 144.9778118
   },
   {
-    "_id": 582,
+    "_id": 580,
     "Suburb": "Coburg North",
     "Site_title": "2, 6 and 8 Peterson Avenue Apartment Complex",
     "Site_streetaddress": "2, 6 and 8 Peterson Avenue",
@@ -12117,7 +12075,7 @@
     "longitude": 144.9778118
   },
   {
-    "_id": 583,
+    "_id": 581,
     "Suburb": "Coburg North",
     "Site_title": "2, 6 and 8 Peterson Avenue Apartment Complex",
     "Site_streetaddress": "2, 6 and 8 Peterson Avenue",
@@ -12138,7 +12096,7 @@
     "longitude": 144.9778118
   },
   {
-    "_id": 584,
+    "_id": 582,
     "Suburb": "Coburg North",
     "Site_title": "2, 6 and 8 Peterson Avenue Apartment Complex",
     "Site_streetaddress": "2, 6 and 8 Peterson Avenue",
@@ -12159,7 +12117,7 @@
     "longitude": 144.9778118
   },
   {
-    "_id": 585,
+    "_id": 583,
     "Suburb": "Coburg North",
     "Site_title": "2, 6 and 8 Peterson Avenue Apartment Complex",
     "Site_streetaddress": "2, 6 and 8 Peterson Avenue",
@@ -12180,7 +12138,7 @@
     "longitude": 144.9778118
   },
   {
-    "_id": 586,
+    "_id": 584,
     "Suburb": "Coburg North",
     "Site_title": "4 Peterson Avenue Apartment Complex",
     "Site_streetaddress": "4 Peterson Avenue",
@@ -12188,6 +12146,27 @@
     "Site_postcode": "3058",
     "Exposure_date_dtm": "2021-08-27",
     "Exposure_date": "27/08/2021",
+    "Exposure_time": "12:00am - 11:59pm",
+    "Notes": "Case attended venue",
+    "Added_date_dtm": "2021-09-01",
+    "Added_date": "01/09/2021",
+    "Added_time": "12:15:00",
+    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
+    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
+    "Exposure_time_start_24": "00:00:00",
+    "Exposure_time_end_24": "23:59:00",
+    "latitude": -37.735313,
+    "longitude": 144.977918
+  },
+  {
+    "_id": 586,
+    "Suburb": "Coburg North",
+    "Site_title": "4 Peterson Avenue Apartment Complex",
+    "Site_streetaddress": "4 Peterson Avenue",
+    "Site_state": "VIC",
+    "Site_postcode": "3058",
+    "Exposure_date_dtm": "2021-08-29",
+    "Exposure_date": "29/08/2021",
     "Exposure_time": "12:00am - 11:59pm",
     "Notes": "Case attended venue",
     "Added_date_dtm": "2021-09-01",
@@ -12207,48 +12186,6 @@
     "Site_streetaddress": "4 Peterson Avenue",
     "Site_state": "VIC",
     "Site_postcode": "3058",
-    "Exposure_date_dtm": "2021-08-28",
-    "Exposure_date": "28/08/2021",
-    "Exposure_time": "12:00am - 11:59pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-09-01",
-    "Added_date": "01/09/2021",
-    "Added_time": "12:15:00",
-    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
-    "Exposure_time_start_24": "00:00:00",
-    "Exposure_time_end_24": "23:59:00",
-    "latitude": -37.735313,
-    "longitude": 144.977918
-  },
-  {
-    "_id": 588,
-    "Suburb": "Coburg North",
-    "Site_title": "4 Peterson Avenue Apartment Complex",
-    "Site_streetaddress": "4 Peterson Avenue",
-    "Site_state": "VIC",
-    "Site_postcode": "3058",
-    "Exposure_date_dtm": "2021-08-29",
-    "Exposure_date": "29/08/2021",
-    "Exposure_time": "12:00am - 11:59pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-09-01",
-    "Added_date": "01/09/2021",
-    "Added_time": "12:15:00",
-    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
-    "Exposure_time_start_24": "00:00:00",
-    "Exposure_time_end_24": "23:59:00",
-    "latitude": -37.735313,
-    "longitude": 144.977918
-  },
-  {
-    "_id": 589,
-    "Suburb": "Coburg North",
-    "Site_title": "4 Peterson Avenue Apartment Complex",
-    "Site_streetaddress": "4 Peterson Avenue",
-    "Site_state": "VIC",
-    "Site_postcode": "3058",
     "Exposure_date_dtm": "2021-08-30",
     "Exposure_date": "30/08/2021",
     "Exposure_time": "12:00am - 11:59pm",
@@ -12264,7 +12201,7 @@
     "longitude": 144.977918
   },
   {
-    "_id": 590,
+    "_id": 588,
     "Suburb": "Coburg North",
     "Site_title": "4 Peterson Avenue Apartment Complex",
     "Site_streetaddress": "4 Peterson Avenue",
@@ -12285,7 +12222,7 @@
     "longitude": 144.977918
   },
   {
-    "_id": 591,
+    "_id": 589,
     "Suburb": "Coburg North",
     "Site_title": "2, 6 and 8 Peterson Avenue Apartment Complex",
     "Site_streetaddress": "2, 6 and 8 Peterson Avenue",
@@ -12306,7 +12243,7 @@
     "longitude": 144.9778118
   },
   {
-    "_id": 592,
+    "_id": 590,
     "Suburb": "Coburg North",
     "Site_title": "2, 6 and 8 Peterson Avenue Apartment Complex",
     "Site_streetaddress": "2, 6 and 8 Peterson Avenue",
@@ -12327,7 +12264,7 @@
     "longitude": 144.9778118
   },
   {
-    "_id": 593,
+    "_id": 591,
     "Suburb": "Coburg North",
     "Site_title": "2, 6 and 8 Peterson Avenue Apartment Complex",
     "Site_streetaddress": "2, 6 and 8 Peterson Avenue",
@@ -12348,7 +12285,7 @@
     "longitude": 144.9778118
   },
   {
-    "_id": 594,
+    "_id": 592,
     "Suburb": "Coburg North",
     "Site_title": "2, 6 and 8 Peterson Avenue Apartment Complex",
     "Site_streetaddress": "2, 6 and 8 Peterson Avenue",
@@ -12369,7 +12306,7 @@
     "longitude": 144.9778118
   },
   {
-    "_id": 595,
+    "_id": 593,
     "Suburb": "Coburg North",
     "Site_title": "2, 6 and 8 Peterson Avenue Apartment Complex",
     "Site_streetaddress": "2, 6 and 8 Peterson Avenue",
@@ -12390,7 +12327,7 @@
     "longitude": 144.9778118
   },
   {
-    "_id": 596,
+    "_id": 594,
     "Suburb": "Brunswick East",
     "Site_title": "Coles - Brunswick East",
     "Site_streetaddress": "127-137 Nicholson Street",
@@ -12411,7 +12348,7 @@
     "longitude": 144.978258
   },
   {
-    "_id": 597,
+    "_id": 595,
     "Suburb": "Brunswick East",
     "Site_title": "Coles - Brunswick East",
     "Site_streetaddress": "127-137 Nicholson Street",
@@ -12432,7 +12369,7 @@
     "longitude": 144.978258
   },
   {
-    "_id": 598,
+    "_id": 596,
     "Suburb": "Brunswick East",
     "Site_title": "Coles - Brunswick East",
     "Site_streetaddress": "127-137 Nicholson Street",
@@ -12453,7 +12390,7 @@
     "longitude": 144.978258
   },
   {
-    "_id": 599,
+    "_id": 597,
     "Suburb": "Kilsyth",
     "Site_title": "Alpass & Associates",
     "Site_streetaddress": "509-511 Mount Dandenong Road",
@@ -12474,7 +12411,7 @@
     "longitude": 145.3072503
   },
   {
-    "_id": 600,
+    "_id": 598,
     "Suburb": "Kilsyth",
     "Site_title": "Alpass & Associates",
     "Site_streetaddress": "509-511 Mount Dandenong Road",
@@ -12495,7 +12432,7 @@
     "longitude": 145.3072503
   },
   {
-    "_id": 601,
+    "_id": 599,
     "Suburb": "Craigieburn",
     "Site_title": "Empire Screens",
     "Site_streetaddress": "9 Poa Court",
@@ -12516,7 +12453,7 @@
     "longitude": 144.943869
   },
   {
-    "_id": 602,
+    "_id": 600,
     "Suburb": "Heidelberg",
     "Site_title": "Austin Hospital - Ambulance Corridor",
     "Site_streetaddress": "145 Studley Road",
@@ -12537,7 +12474,7 @@
     "longitude": 145.059249
   },
   {
-    "_id": 603,
+    "_id": 601,
     "Suburb": "Campbellfield",
     "Site_title": "Coles - Campbellfield Plaza",
     "Site_streetaddress": "Mahoneys Road",
@@ -12558,7 +12495,7 @@
     "longitude": 144.9578113
   },
   {
-    "_id": 604,
+    "_id": 602,
     "Suburb": "Caroline Springs",
     "Site_title": "Coles - Caroline Springs Square Shopping Centre",
     "Site_streetaddress": "Lake Street",
@@ -12579,7 +12516,7 @@
     "longitude": 144.7404486
   },
   {
-    "_id": 605,
+    "_id": 603,
     "Suburb": "Parkville",
     "Site_title": "Quality Hotel Carlton",
     "Site_streetaddress": "441 Royal Parade",
@@ -12600,7 +12537,7 @@
     "longitude": 144.959156
   },
   {
-    "_id": 606,
+    "_id": 604,
     "Suburb": "Parkville",
     "Site_title": "Quality Hotel Carlton",
     "Site_streetaddress": "441 Royal Parade",
@@ -12621,28 +12558,7 @@
     "longitude": 144.959156
   },
   {
-    "_id": 628,
-    "Suburb": "Tullamarine",
-    "Site_title": "PWG Glass Group",
-    "Site_streetaddress": "3 Aerolink Drive",
-    "Site_state": "VIC",
-    "Site_postcode": "3043",
-    "Exposure_date_dtm": "2021-08-24",
-    "Exposure_date": "24/08/2021",
-    "Exposure_time": "7:00am - 10:00am",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-08-31",
-    "Added_date": "31/08/2021",
-    "Added_time": "17:54:00",
-    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
-    "Exposure_time_start_24": "07:00:00",
-    "Exposure_time_end_24": "10:00:00",
-    "latitude": -37.707713,
-    "longitude": 144.852318
-  },
-  {
-    "_id": 607,
+    "_id": 605,
     "Suburb": "Brunswick East",
     "Site_title": "Bellboy Cafe",
     "Site_streetaddress": "131 Nicholson Street",
@@ -12663,7 +12579,7 @@
     "longitude": 144.979265
   },
   {
-    "_id": 608,
+    "_id": 606,
     "Suburb": "Carlton",
     "Site_title": "Yo-Chi Carlton",
     "Site_streetaddress": "194 Faraday Street",
@@ -12684,7 +12600,28 @@
     "longitude": 144.968005
   },
   {
-    "_id": 609,
+    "_id": 844,
+    "Suburb": "Port Melbourne ",
+    "Site_title": "Auto Mega Warehouse",
+    "Site_streetaddress": "467 Plummer Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3207",
+    "Exposure_date_dtm": "2021-08-26",
+    "Exposure_date": "26/08/2021",
+    "Exposure_time": "12:00am - 11:59pm",
+    "Notes": "Case attended venue\r",
+    "Added_date_dtm": "2021-08-28",
+    "Added_date": "28/08/2021",
+    "Added_time": "11:05:00",
+    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
+    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
+    "Exposure_time_start_24": "00:00:00",
+    "Exposure_time_end_24": "23:59:00",
+    "latitude": -37.831537,
+    "longitude": 144.929354
+  },
+  {
+    "_id": 607,
     "Suburb": "Richmond",
     "Site_title": "IVE Group (Ground floor, North Building)",
     "Site_streetaddress": "Building 8, 658 Church Street",
@@ -12705,7 +12642,7 @@
     "longitude": 144.9940216
   },
   {
-    "_id": 610,
+    "_id": 608,
     "Suburb": "Richmond",
     "Site_title": "IVE Group (Ground floor, North Building)",
     "Site_streetaddress": "Building 8, 658 Church Street",
@@ -12726,7 +12663,7 @@
     "longitude": 144.9940216
   },
   {
-    "_id": 611,
+    "_id": 609,
     "Suburb": "Richmond",
     "Site_title": "IVE Group (Ground floor, North Building)",
     "Site_streetaddress": "Building 8, 658 Church Street",
@@ -12747,7 +12684,7 @@
     "longitude": 144.9940216
   },
   {
-    "_id": 612,
+    "_id": 610,
     "Suburb": "Caroline Springs",
     "Site_title": "Subway Caroline Springs",
     "Site_streetaddress": "2513 Caroline Springs Road",
@@ -12768,7 +12705,7 @@
     "longitude": 144.7394917
   },
   {
-    "_id": 613,
+    "_id": 611,
     "Suburb": "Shepparton",
     "Site_title": "ALDI Shepparton",
     "Site_streetaddress": "428-438 Wyndham Street",
@@ -12789,7 +12726,7 @@
     "longitude": 145.3960622
   },
   {
-    "_id": 614,
+    "_id": 612,
     "Suburb": "Shepparton",
     "Site_title": "VicRoads - Shepparton Customer Service Centre",
     "Site_streetaddress": "231 Corio Street",
@@ -12810,7 +12747,7 @@
     "longitude": 145.402758
   },
   {
-    "_id": 615,
+    "_id": 613,
     "Suburb": "Epping",
     "Site_title": "Australia Post - Epping Post Shop",
     "Site_streetaddress": "571-583 High Street",
@@ -12831,7 +12768,7 @@
     "longitude": 145.022085
   },
   {
-    "_id": 616,
+    "_id": 614,
     "Suburb": "Epping",
     "Site_title": "Quality Pharmacy Epping Medical",
     "Site_streetaddress": "571-583 High Street",
@@ -12852,7 +12789,7 @@
     "longitude": 145.022085
   },
   {
-    "_id": 617,
+    "_id": 615,
     "Suburb": "Epping",
     "Site_title": "Epping Plaza",
     "Site_streetaddress": "571-583 High Street",
@@ -12873,7 +12810,7 @@
     "longitude": 145.022085
   },
   {
-    "_id": 618,
+    "_id": 616,
     "Suburb": "Tarneit",
     "Site_title": "Coles - Wyndham Village Shopping Centre",
     "Site_streetaddress": "380 Sayers Road",
@@ -12894,7 +12831,7 @@
     "longitude": 144.706281
   },
   {
-    "_id": 619,
+    "_id": 617,
     "Suburb": "Coburg",
     "Site_title": "Zaatar",
     "Site_streetaddress": "365 Sydney Road",
@@ -12915,7 +12852,7 @@
     "longitude": 144.965714
   },
   {
-    "_id": 620,
+    "_id": 618,
     "Suburb": "Yarraville",
     "Site_title": "Coles - Yarraville",
     "Site_streetaddress": "Williamstown Road & High Street",
@@ -12936,7 +12873,7 @@
     "longitude": 144.8789224
   },
   {
-    "_id": 621,
+    "_id": 619,
     "Suburb": "Hoppers Crossing",
     "Site_title": "Simply Indian",
     "Site_streetaddress": "1/266-274 Derrimut Road",
@@ -12957,7 +12894,7 @@
     "longitude": 144.686159
   },
   {
-    "_id": 622,
+    "_id": 620,
     "Suburb": "Wyndham Vale",
     "Site_title": "Big Daddys Fresh Market - Manor Lakes Shopping Centre",
     "Site_streetaddress": "455 Ballan Road",
@@ -12978,7 +12915,7 @@
     "longitude": 144.615415
   },
   {
-    "_id": 623,
+    "_id": 621,
     "Suburb": "Hoppers Crossing",
     "Site_title": "Woolworths - Hogans Corner",
     "Site_streetaddress": "Hogans Road & Derrimut Road",
@@ -12999,7 +12936,7 @@
     "longitude": 144.6850335
   },
   {
-    "_id": 624,
+    "_id": 622,
     "Suburb": "Hoppers Crossing",
     "Site_title": "Woolworths - Hogans Corner",
     "Site_streetaddress": "Hogans Road & Derrimut Road",
@@ -13020,7 +12957,7 @@
     "longitude": 144.6850335
   },
   {
-    "_id": 625,
+    "_id": 623,
     "Suburb": "Hoppers Crossing",
     "Site_title": "Woolworths - Hogans Corner",
     "Site_streetaddress": "Hogans Road & Derrimut Road",
@@ -13041,7 +12978,7 @@
     "longitude": 144.6850335
   },
   {
-    "_id": 626,
+    "_id": 624,
     "Suburb": "East Geelong",
     "Site_title": "The Gordon TAFE - East Geelong Campus (Building E, Level 1)",
     "Site_streetaddress": "Boundary Road",
@@ -13062,7 +12999,7 @@
     "longitude": 144.3514212
   },
   {
-    "_id": 627,
+    "_id": 625,
     "Suburb": "Tullamarine",
     "Site_title": "PWG Glass Group",
     "Site_streetaddress": "3 Aerolink Drive",
@@ -13083,7 +13020,28 @@
     "longitude": 144.852318
   },
   {
-    "_id": 629,
+    "_id": 626,
+    "Suburb": "Tullamarine",
+    "Site_title": "PWG Glass Group",
+    "Site_streetaddress": "3 Aerolink Drive",
+    "Site_state": "VIC",
+    "Site_postcode": "3043",
+    "Exposure_date_dtm": "2021-08-24",
+    "Exposure_date": "24/08/2021",
+    "Exposure_time": "7:00am - 10:00am",
+    "Notes": "Case attended venue",
+    "Added_date_dtm": "2021-08-31",
+    "Added_date": "31/08/2021",
+    "Added_time": "17:54:00",
+    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
+    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
+    "Exposure_time_start_24": "07:00:00",
+    "Exposure_time_end_24": "10:00:00",
+    "latitude": -37.707713,
+    "longitude": 144.852318
+  },
+  {
+    "_id": 627,
     "Suburb": "Tullamarine",
     "Site_title": "PWG Glass Group",
     "Site_streetaddress": "3 Aerolink Drive",
@@ -13104,7 +13062,7 @@
     "longitude": 144.852318
   },
   {
-    "_id": 630,
+    "_id": 628,
     "Suburb": "Tullamarine",
     "Site_title": "PWG Glass Group",
     "Site_streetaddress": "3 Aerolink Drive",
@@ -13125,7 +13083,7 @@
     "longitude": 144.852318
   },
   {
-    "_id": 631,
+    "_id": 629,
     "Suburb": "Wheelers Hill",
     "Site_title": "Brandon Park Fresh Fruit and Vegetable - Brandon Park Shopping Centre",
     "Site_streetaddress": "Springvale Road and Ferntree Gully Road",
@@ -13146,7 +13104,7 @@
     "longitude": 145.1588454
   },
   {
-    "_id": 632,
+    "_id": 630,
     "Suburb": "North Geelong",
     "Site_title": "Geelong Distribution Centre - Boardriders",
     "Site_streetaddress": "105 Corio Quay Road",
@@ -13167,7 +13125,7 @@
     "longitude": 144.362508
   },
   {
-    "_id": 633,
+    "_id": 631,
     "Suburb": "Tarneit",
     "Site_title": "Coles - Wyndham Village Shopping Centre",
     "Site_streetaddress": "380 Sayers Road",
@@ -13188,7 +13146,7 @@
     "longitude": 144.706281
   },
   {
-    "_id": 634,
+    "_id": 632,
     "Suburb": "Hoppers Crossing",
     "Site_title": "Premium International Foods",
     "Site_streetaddress": "1-3 Alexandra Avenue",
@@ -13209,7 +13167,7 @@
     "longitude": 144.7051931
   },
   {
-    "_id": 635,
+    "_id": 633,
     "Suburb": "Tarneit",
     "Site_title": "GoodHealth Compounding Pharmacy",
     "Site_streetaddress": "381 Sayers Road",
@@ -13230,7 +13188,7 @@
     "longitude": 144.7036233
   },
   {
-    "_id": 636,
+    "_id": 634,
     "Suburb": "St Kilda",
     "Site_title": "Woolworths Metro St Kilda West",
     "Site_streetaddress": "64 Fitzroy Street",
@@ -13251,7 +13209,7 @@
     "longitude": 144.977774
   },
   {
-    "_id": 637,
+    "_id": 635,
     "Suburb": "Shepparton",
     "Site_title": "Eid Fruit & Vegetable Market",
     "Site_streetaddress": "96 St Georges Road",
@@ -13272,7 +13230,7 @@
     "longitude": 145.406575
   },
   {
-    "_id": 638,
+    "_id": 636,
     "Suburb": "Laverton North",
     "Site_title": "Baiada Poultry Laverton North",
     "Site_streetaddress": "17-19 Pipe Road",
@@ -13293,7 +13251,7 @@
     "longitude": 144.816597
   },
   {
-    "_id": 639,
+    "_id": 637,
     "Suburb": "Laverton North",
     "Site_title": "Baiada Poultry Laverton North",
     "Site_streetaddress": "17-19 Pipe Road",
@@ -13314,7 +13272,7 @@
     "longitude": 144.816597
   },
   {
-    "_id": 640,
+    "_id": 638,
     "Suburb": "Shepparton",
     "Site_title": "Ryans Fruit & Veg",
     "Site_streetaddress": "298 High Street",
@@ -13335,7 +13293,7 @@
     "longitude": 145.410777
   },
   {
-    "_id": 641,
+    "_id": 639,
     "Suburb": "Collingwood",
     "Site_title": "Australia Post - Collingwood",
     "Site_streetaddress": "186-188 Smith Street",
@@ -13356,7 +13314,7 @@
     "longitude": 144.98375
   },
   {
-    "_id": 642,
+    "_id": 640,
     "Suburb": "Collingwood",
     "Site_title": "Australia Post - Collingwood",
     "Site_streetaddress": "186-188 Smith Street",
@@ -13377,7 +13335,7 @@
     "longitude": 144.98375
   },
   {
-    "_id": 643,
+    "_id": 641,
     "Suburb": "Shepparton",
     "Site_title": "StarTrack",
     "Site_streetaddress": "5 Wheeler Street",
@@ -13398,7 +13356,7 @@
     "longitude": 145.419874
   },
   {
-    "_id": 644,
+    "_id": 642,
     "Suburb": "Shepparton",
     "Site_title": "StarTrack",
     "Site_streetaddress": "5 Wheeler Street",
@@ -13419,7 +13377,7 @@
     "longitude": 145.419874
   },
   {
-    "_id": 645,
+    "_id": 643,
     "Suburb": "Glenroy",
     "Site_title": "Corner of Newton Street and Farview Street",
     "Site_streetaddress": "Corner of Newton Street and Farview Street",
@@ -13440,7 +13398,7 @@
     "longitude": 144.93275
   },
   {
-    "_id": 646,
+    "_id": 644,
     "Suburb": "Port Melbourne",
     "Site_title": "Construction Site - Port Melbourne Secondary School",
     "Site_streetaddress": "477 Graham Street",
@@ -13461,7 +13419,28 @@
     "longitude": 144.932032
   },
   {
-    "_id": 647,
+    "_id": 651,
+    "Suburb": "Cairnlea",
+    "Site_title": "Havenlea Apartment Complex",
+    "Site_streetaddress": "93 Furlong Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3023",
+    "Exposure_date_dtm": "2021-08-27",
+    "Exposure_date": "27/08/2021",
+    "Exposure_time": "12:00am - 11:59pm",
+    "Notes": "Case attended venue",
+    "Added_date_dtm": "2021-08-30",
+    "Added_date": "30/08/2021",
+    "Added_time": "22:21:00",
+    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
+    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
+    "Exposure_time_start_24": "00:00:00",
+    "Exposure_time_end_24": "23:59:00",
+    "latitude": -37.757524,
+    "longitude": 144.790482
+  },
+  {
+    "_id": 645,
     "Suburb": "Port Melbourne",
     "Site_title": "Construction Site - Port Melbourne Secondary School",
     "Site_streetaddress": "477 Graham Street",
@@ -13482,7 +13461,7 @@
     "longitude": 144.932032
   },
   {
-    "_id": 648,
+    "_id": 646,
     "Suburb": "Port Melbourne",
     "Site_title": "Construction Site - Port Melbourne Secondary School",
     "Site_streetaddress": "477 Graham Street",
@@ -13503,7 +13482,7 @@
     "longitude": 144.932032
   },
   {
-    "_id": 649,
+    "_id": 647,
     "Suburb": "Port Melbourne",
     "Site_title": "Construction Site - Port Melbourne Secondary School",
     "Site_streetaddress": "477 Graham Street",
@@ -13524,7 +13503,7 @@
     "longitude": 144.932032
   },
   {
-    "_id": 650,
+    "_id": 648,
     "Suburb": "Kilsyth",
     "Site_title": "Allpass & Associates Kilsyth",
     "Site_streetaddress": "511 Mt Dandenong Road",
@@ -13545,7 +13524,7 @@
     "longitude": 145.309439
   },
   {
-    "_id": 651,
+    "_id": 649,
     "Suburb": "Cairnlea",
     "Site_title": "Havenlea Apartment Complex",
     "Site_streetaddress": "93 Furlong Road",
@@ -13566,7 +13545,7 @@
     "longitude": 144.790482
   },
   {
-    "_id": 652,
+    "_id": 650,
     "Suburb": "Cairnlea",
     "Site_title": "Havenlea Apartment Complex",
     "Site_streetaddress": "93 Furlong Road",
@@ -13587,28 +13566,7 @@
     "longitude": 144.790482
   },
   {
-    "_id": 653,
-    "Suburb": "Cairnlea",
-    "Site_title": "Havenlea Apartment Complex",
-    "Site_streetaddress": "93 Furlong Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3023",
-    "Exposure_date_dtm": "2021-08-27",
-    "Exposure_date": "27/08/2021",
-    "Exposure_time": "12:00am - 11:59pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-08-30",
-    "Added_date": "30/08/2021",
-    "Added_time": "22:21:00",
-    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
-    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
-    "Exposure_time_start_24": "00:00:00",
-    "Exposure_time_end_24": "23:59:00",
-    "latitude": -37.757524,
-    "longitude": 144.790482
-  },
-  {
-    "_id": 654,
+    "_id": 652,
     "Suburb": "Cairnlea",
     "Site_title": "Havenlea Apartment Complex",
     "Site_streetaddress": "93 Furlong Road",
@@ -13629,7 +13587,7 @@
     "longitude": 144.790482
   },
   {
-    "_id": 655,
+    "_id": 653,
     "Suburb": "Cairnlea",
     "Site_title": "Havenlea Apartment Complex",
     "Site_streetaddress": "93 Furlong Road",
@@ -13650,7 +13608,7 @@
     "longitude": 144.790482
   },
   {
-    "_id": 656,
+    "_id": 654,
     "Suburb": "Cairnlea",
     "Site_title": "Havenlea Apartment Complex",
     "Site_streetaddress": "93 Furlong Road",
@@ -13671,7 +13629,7 @@
     "longitude": 144.790482
   },
   {
-    "_id": 657,
+    "_id": 655,
     "Suburb": "Reservoir",
     "Site_title": "Aaliyah Supermarket",
     "Site_streetaddress": "282 Broadway",
@@ -13692,7 +13650,7 @@
     "longitude": 145.008488
   },
   {
-    "_id": 658,
+    "_id": 656,
     "Suburb": "Preston",
     "Site_title": "Woolworths Northland",
     "Site_streetaddress": "50 Murray Road",
@@ -13713,7 +13671,7 @@
     "longitude": 145.029989
   },
   {
-    "_id": 659,
+    "_id": 657,
     "Suburb": "Broadmeadows",
     "Site_title": "Wells Medical Centre",
     "Site_streetaddress": "176 Blair Street",
@@ -13734,7 +13692,7 @@
     "longitude": 144.9301574
   },
   {
-    "_id": 667,
+    "_id": 665,
     "Suburb": "Brunswick  ",
     "Site_title": "GEOX Apartment Complex",
     "Site_streetaddress": "37-43 Breese Street",
@@ -13755,7 +13713,7 @@
     "longitude": 144.961457
   },
   {
-    "_id": 668,
+    "_id": 666,
     "Suburb": "Brunswick  ",
     "Site_title": "GEOX Apartment Complex",
     "Site_streetaddress": "37-43 Breese Street",
@@ -13776,7 +13734,7 @@
     "longitude": 144.961457
   },
   {
-    "_id": 669,
+    "_id": 667,
     "Suburb": "Brunswick  ",
     "Site_title": "GEOX Apartment Complex",
     "Site_streetaddress": "37-43 Breese Street",
@@ -13797,7 +13755,7 @@
     "longitude": 144.961457
   },
   {
-    "_id": 670,
+    "_id": 668,
     "Suburb": "Brunswick  ",
     "Site_title": "GEOX Apartment Complex",
     "Site_streetaddress": "37-43 Breese Street",
@@ -13818,7 +13776,7 @@
     "longitude": 144.961457
   },
   {
-    "_id": 671,
+    "_id": 669,
     "Suburb": "Brunswick  ",
     "Site_title": "GEOX Apartment Complex",
     "Site_streetaddress": "37-43 Breese Street",
@@ -13839,7 +13797,7 @@
     "longitude": 144.961457
   },
   {
-    "_id": 678,
+    "_id": 676,
     "Suburb": "Shepparton",
     "Site_title": "My Mate's Pizza Shepparton",
     "Site_streetaddress": "263 Maude Street",
@@ -13860,7 +13818,7 @@
     "longitude": 145.400871
   },
   {
-    "_id": 672,
+    "_id": 670,
     "Suburb": "Brunswick  ",
     "Site_title": "GEOX Apartment Complex",
     "Site_streetaddress": "37-43 Breese Street",
@@ -13881,7 +13839,7 @@
     "longitude": 144.961457
   },
   {
-    "_id": 673,
+    "_id": 671,
     "Suburb": "Brunswick  ",
     "Site_title": "GEOX Apartment Complex",
     "Site_streetaddress": "37-43 Breese Street",
@@ -13902,7 +13860,7 @@
     "longitude": 144.961457
   },
   {
-    "_id": 674,
+    "_id": 672,
     "Suburb": "Brunswick  ",
     "Site_title": "GEOX Apartment Complex",
     "Site_streetaddress": "37-43 Breese Street",
@@ -13923,7 +13881,7 @@
     "longitude": 144.961457
   },
   {
-    "_id": 675,
+    "_id": 673,
     "Suburb": "Kialla",
     "Site_title": "United Petroleum Kialla",
     "Site_streetaddress": "8010 Goulburn Valley Highway",
@@ -13944,7 +13902,7 @@
     "longitude": 145.393633
   },
   {
-    "_id": 676,
+    "_id": 674,
     "Suburb": "Westmeadows",
     "Site_title": "Cincotta Discount Chemist",
     "Site_streetaddress": "34 Fawkner Street",
@@ -13965,7 +13923,7 @@
     "longitude": 144.886942
   },
   {
-    "_id": 677,
+    "_id": 675,
     "Suburb": "Mulgrave",
     "Site_title": "Monash Ultrasound for Women",
     "Site_streetaddress": "441 Police Road",
@@ -13986,7 +13944,7 @@
     "longitude": 145.20339
   },
   {
-    "_id": 679,
+    "_id": 677,
     "Suburb": "Melton",
     "Site_title": "VicRoads - Melton Customer Service Centre",
     "Site_streetaddress": "267 High Street",
@@ -14007,7 +13965,7 @@
     "longitude": 144.584812
   },
   {
-    "_id": 680,
+    "_id": 678,
     "Suburb": "Melton",
     "Site_title": "VicRoads - Melton Customer Service Centre",
     "Site_streetaddress": "267 High Street",
@@ -14028,7 +13986,7 @@
     "longitude": 144.584812
   },
   {
-    "_id": 681,
+    "_id": 679,
     "Suburb": "Altona North",
     "Site_title": "Western Fuel",
     "Site_streetaddress": "276 Blackshaws Road",
@@ -14049,7 +14007,7 @@
     "longitude": 144.858121
   },
   {
-    "_id": 682,
+    "_id": 680,
     "Suburb": "Dandenong",
     "Site_title": "Stud Road Medical Centre Dandenong",
     "Site_streetaddress": "5/82 Stud Road",
@@ -14070,7 +14028,7 @@
     "longitude": 145.222747
   },
   {
-    "_id": 683,
+    "_id": 681,
     "Suburb": "Northcote",
     "Site_title": "Coles - Dennis Street Northcote Plaza Shopping Centre",
     "Site_streetaddress": "Separation Street",
@@ -14091,7 +14049,7 @@
     "longitude": 144.9995669
   },
   {
-    "_id": 684,
+    "_id": 682,
     "Suburb": "Northcote",
     "Site_title": "Coles - Dennis Street Northcote Plaza Shopping Centre",
     "Site_streetaddress": "Separation Street",
@@ -14112,7 +14070,7 @@
     "longitude": 144.9995669
   },
   {
-    "_id": 685,
+    "_id": 683,
     "Suburb": "Heidelberg West",
     "Site_title": "Banyule Community Health - Vaccination Clinic",
     "Site_streetaddress": "21 Alamein Road",
@@ -14133,7 +14091,7 @@
     "longitude": 145.040721
   },
   {
-    "_id": 686,
+    "_id": 684,
     "Suburb": "Dandenong",
     "Site_title": "Dandenong Hospital - Imaging Department Inpatient Waiting Area",
     "Site_streetaddress": "135 Davide Street",
@@ -14154,7 +14112,7 @@
     "longitude": 145.2172411
   },
   {
-    "_id": 687,
+    "_id": 685,
     "Suburb": "St Kilda",
     "Site_title": "Fitzroy Street Medical Centre",
     "Site_streetaddress": "201 Fitzroy Street",
@@ -14175,7 +14133,7 @@
     "longitude": 144.982126
   },
   {
-    "_id": 688,
+    "_id": 686,
     "Suburb": "Burnley",
     "Site_title": "IGA X-Press Plus Liquor",
     "Site_streetaddress": "518 Bridge Road",
@@ -14196,7 +14154,7 @@
     "longitude": 145.00718
   },
   {
-    "_id": 689,
+    "_id": 687,
     "Suburb": "Westmeadows",
     "Site_title": "Cincotta Discount Chemist",
     "Site_streetaddress": "34 Fawkner Street",
@@ -14217,7 +14175,7 @@
     "longitude": 144.886942
   },
   {
-    "_id": 690,
+    "_id": 688,
     "Suburb": "Kilsyth",
     "Site_title": "Allans Bakery & Cakes",
     "Site_streetaddress": "2/520-528 Mt Dandenong Road",
@@ -14238,7 +14196,7 @@
     "longitude": 145.3092816
   },
   {
-    "_id": 691,
+    "_id": 689,
     "Suburb": "Rosebud",
     "Site_title": "7-Eleven Rosebud",
     "Site_streetaddress": "1149 Corner Nepean Highway & Sixth Avenue",
@@ -14259,7 +14217,7 @@
     "longitude": 144.8987071
   },
   {
-    "_id": 692,
+    "_id": 690,
     "Suburb": "Sunshine",
     "Site_title": "7-Eleven Sunshine",
     "Site_streetaddress": "Corner Ballarat & Hampshire Road",
@@ -14280,7 +14238,7 @@
     "longitude": 144.8237858
   },
   {
-    "_id": 693,
+    "_id": 691,
     "Suburb": "Melbourne",
     "Site_title": "Terry White Chemmart - Melboure Central",
     "Site_streetaddress": "211 LaTrobe Street",
@@ -14301,7 +14259,7 @@
     "longitude": 144.9626878
   },
   {
-    "_id": 694,
+    "_id": 692,
     "Suburb": "Cairnlea",
     "Site_title": "Coles Cairnlea",
     "Site_streetaddress": "100 Furlong Road",
@@ -14322,7 +14280,7 @@
     "longitude": 144.789893
   },
   {
-    "_id": 695,
+    "_id": 693,
     "Suburb": "St Albans",
     "Site_title": "Woolworths St Albans",
     "Site_streetaddress": "315/321 Main Rd E",
@@ -14343,7 +14301,7 @@
     "longitude": 144.801865
   },
   {
-    "_id": 696,
+    "_id": 694,
     "Suburb": "Broadmeadows",
     "Site_title": "Broadmeadows Central ",
     "Site_streetaddress": "1099-1169 Pascoe Vale Road",
@@ -14364,7 +14322,7 @@
     "longitude": 144.921653
   },
   {
-    "_id": 697,
+    "_id": 695,
     "Suburb": "Broadmeadows",
     "Site_title": "ALDI - Broadmeadows Central",
     "Site_streetaddress": "1099-1169 Pascoe Vale Road",
@@ -14385,7 +14343,7 @@
     "longitude": 144.921653
   },
   {
-    "_id": 698,
+    "_id": 696,
     "Suburb": "Broadmeadows",
     "Site_title": "The Reject Shop - Broadmeadows Central",
     "Site_streetaddress": "1099-1169 Pascoe Vale Road",
@@ -14406,7 +14364,7 @@
     "longitude": 144.921653
   },
   {
-    "_id": 699,
+    "_id": 697,
     "Suburb": "Broadmeadows",
     "Site_title": "Woolworths - Broadmeadows Central",
     "Site_streetaddress": "1099-1169 Pascoe Vale Road",
@@ -14427,7 +14385,7 @@
     "longitude": 144.921653
   },
   {
-    "_id": 700,
+    "_id": 698,
     "Suburb": "Broadmeadows",
     "Site_title": "Sacca's Fruit World - Broadmeadows Central",
     "Site_streetaddress": "1099-1169 Pascoe Vale Road",
@@ -14448,7 +14406,7 @@
     "longitude": 144.921653
   },
   {
-    "_id": 701,
+    "_id": 699,
     "Suburb": "Dandenong",
     "Site_title": "AK Medical Practice",
     "Site_streetaddress": "63 Cleeland Street",
@@ -14469,7 +14427,7 @@
     "longitude": 145.215049
   },
   {
-    "_id": 702,
+    "_id": 700,
     "Suburb": "Altona North",
     "Site_title": "Chemist Warehouse Altona North",
     "Site_streetaddress": "202 Millers Road",
@@ -14490,7 +14448,7 @@
     "longitude": 144.847357
   },
   {
-    "_id": 703,
+    "_id": 701,
     "Suburb": "Broadmeadows",
     "Site_title": "Sacca's Fruit World - Broadmeadows Central Shopping Centre",
     "Site_streetaddress": "1099-1169 Pascoe Vale Road",
@@ -14511,7 +14469,7 @@
     "longitude": 144.921653
   },
   {
-    "_id": 704,
+    "_id": 702,
     "Suburb": "Broadmeadows",
     "Site_title": "Chemist Warehouse - Broadmeadows Central Shopping Centre",
     "Site_streetaddress": "1099-1169 Pascoe Vale Road",
@@ -14532,7 +14490,7 @@
     "longitude": 144.921653
   },
   {
-    "_id": 705,
+    "_id": 703,
     "Suburb": "Broadmeadows",
     "Site_title": "IGA X-press",
     "Site_streetaddress": "10-12 Olsen Place",
@@ -14553,7 +14511,7 @@
     "longitude": 144.926844
   },
   {
-    "_id": 706,
+    "_id": 704,
     "Suburb": "Brooklyn",
     "Site_title": "Niss4X4 Autospares",
     "Site_streetaddress": "41 Buchanan Road",
@@ -14574,7 +14532,7 @@
     "longitude": 144.830688
   },
   {
-    "_id": 707,
+    "_id": 705,
     "Suburb": "Brooklyn",
     "Site_title": "Niss4X4 Autospares",
     "Site_streetaddress": "41 Buchanan Road",
@@ -14595,7 +14553,7 @@
     "longitude": 144.830688
   },
   {
-    "_id": 708,
+    "_id": 706,
     "Suburb": "Deer Park",
     "Site_title": "Coles - Brimbank Shopping Centre",
     "Site_streetaddress": "Neale Road",
@@ -14616,7 +14574,7 @@
     "longitude": 144.773446
   },
   {
-    "_id": 709,
+    "_id": 707,
     "Suburb": "St Albans",
     "Site_title": "St Albans Veterinary Clinic",
     "Site_streetaddress": "263 Main Road West",
@@ -14637,7 +14595,7 @@
     "longitude": 144.780822
   },
   {
-    "_id": 710,
+    "_id": 708,
     "Suburb": "St Kilda",
     "Site_title": "Melbourne Physiotherapy, Pilates & Fitness Group",
     "Site_streetaddress": "201 Fitzroy Street",
@@ -14658,7 +14616,7 @@
     "longitude": 144.982126
   },
   {
-    "_id": 711,
+    "_id": 709,
     "Suburb": "Point Cook",
     "Site_title": "Target - Stockland Point Cook Shopping Centre",
     "Site_streetaddress": "Dunnings Road & Main Street",
@@ -14679,7 +14637,7 @@
     "longitude": 144.7335528
   },
   {
-    "_id": 712,
+    "_id": 710,
     "Suburb": "Reservoir",
     "Site_title": "Chemist Warehouse Summerhill Village",
     "Site_streetaddress": "18/830 Plenty Road",
@@ -14700,7 +14658,7 @@
     "longitude": 145.026334
   },
   {
-    "_id": 713,
+    "_id": 711,
     "Suburb": "Tarneit",
     "Site_title": "Wyndham Village Shopping Centre",
     "Site_streetaddress": "380 Sayers Road",
@@ -14721,7 +14679,7 @@
     "longitude": 144.706281
   },
   {
-    "_id": 714,
+    "_id": 712,
     "Suburb": "Tarneit",
     "Site_title": "Coles - Wyndam Village Shopping Centre",
     "Site_streetaddress": "380 Sayers Road",
@@ -14742,7 +14700,7 @@
     "longitude": 144.706281
   },
   {
-    "_id": 715,
+    "_id": 713,
     "Suburb": "Tarneit",
     "Site_title": "Western Fresh Fruit & Veg - Wyndham Village Shopping Centre",
     "Site_streetaddress": "380 Sayers Road",
@@ -14763,7 +14721,7 @@
     "longitude": 144.706281
   },
   {
-    "_id": 716,
+    "_id": 714,
     "Suburb": "Coburg",
     "Site_title": "Reynard Street Neighbourhood House",
     "Site_streetaddress": "104A Reynard Street",
@@ -14784,7 +14742,7 @@
     "longitude": 144.959424
   },
   {
-    "_id": 717,
+    "_id": 715,
     "Suburb": "Coburg",
     "Site_title": "Reynard Street Neighbourhood House",
     "Site_streetaddress": "104A Reynard Street",
@@ -14805,7 +14763,7 @@
     "longitude": 144.959424
   },
   {
-    "_id": 718,
+    "_id": 716,
     "Suburb": "Coburg",
     "Site_title": "Reynard Street Neighbourhood House",
     "Site_streetaddress": "104A Reynard Street",
@@ -14826,7 +14784,7 @@
     "longitude": 144.959424
   },
   {
-    "_id": 719,
+    "_id": 717,
     "Suburb": "Rosebud",
     "Site_title": "Alpass & Associates",
     "Site_streetaddress": "1/5 Suffolk Street",
@@ -14847,7 +14805,7 @@
     "longitude": 144.8827727
   },
   {
-    "_id": 720,
+    "_id": 718,
     "Suburb": "Rosebud",
     "Site_title": "Alpass & Associates",
     "Site_streetaddress": "1/5 Suffolk Street",
@@ -14868,7 +14826,7 @@
     "longitude": 144.8827727
   },
   {
-    "_id": 721,
+    "_id": 719,
     "Suburb": "Reservoir",
     "Site_title": "Highside Automatics",
     "Site_streetaddress": "151 Edwardes Street",
@@ -14889,7 +14847,7 @@
     "longitude": 144.999016
   },
   {
-    "_id": 722,
+    "_id": 720,
     "Suburb": "Reservoir",
     "Site_title": "Highside Automatics",
     "Site_streetaddress": "151 Edwardes Street",
@@ -14910,7 +14868,7 @@
     "longitude": 144.999016
   },
   {
-    "_id": 723,
+    "_id": 721,
     "Suburb": "Broadmeadows",
     "Site_title": "Coles - Broadmeadows Central Shopping Centre",
     "Site_streetaddress": "1099-1169 Pascoe Vale Road",
@@ -14931,7 +14889,7 @@
     "longitude": 144.921653
   },
   {
-    "_id": 724,
+    "_id": 722,
     "Suburb": "Docklands",
     "Site_title": "Coles Spencer St - Spencer Outlet Centre",
     "Site_streetaddress": "201 Spencer Street",
@@ -14952,7 +14910,7 @@
     "longitude": 144.951804
   },
   {
-    "_id": 725,
+    "_id": 723,
     "Suburb": "Tarneit",
     "Site_title": "Bunnings Tarneit",
     "Site_streetaddress": "83 Leakes Road",
@@ -14973,7 +14931,7 @@
     "longitude": 144.6954889
   },
   {
-    "_id": 726,
+    "_id": 724,
     "Suburb": "Melton",
     "Site_title": "Bunnings Melton",
     "Site_streetaddress": "Corner of Keilor Melton Road and High St",
@@ -14994,7 +14952,7 @@
     "longitude": 144.604925
   },
   {
-    "_id": 727,
+    "_id": 725,
     "Suburb": "Altona North",
     "Site_title": "Woolworths Millers Junction (Altona North)",
     "Site_streetaddress": "302-330 Millers Road",
@@ -15015,7 +14973,7 @@
     "longitude": 144.847153
   },
   {
-    "_id": 728,
+    "_id": 726,
     "Suburb": "Altona North",
     "Site_title": "Chemist Warehouse Altona North",
     "Site_streetaddress": "202 Millers Rd",
@@ -15036,7 +14994,7 @@
     "longitude": 144.847357
   },
   {
-    "_id": 729,
+    "_id": 727,
     "Suburb": "Altona North",
     "Site_title": "Borrack Square Butcher Altona North",
     "Site_streetaddress": "18 Borrack Square",
@@ -15057,7 +15015,7 @@
     "longitude": 144.845484
   },
   {
-    "_id": 730,
+    "_id": 728,
     "Suburb": "Shepparton",
     "Site_title": "SkySalon Hairdressing",
     "Site_streetaddress": "40 Vaughan Street",
@@ -15078,7 +15036,7 @@
     "longitude": 145.402406
   },
   {
-    "_id": 731,
+    "_id": 729,
     "Suburb": "Melton",
     "Site_title": "Baker's Delight - Woodgrove Shopping Centre",
     "Site_streetaddress": "Floor G, 533 High St",
@@ -15099,7 +15057,7 @@
     "longitude": 144.5632536
   },
   {
-    "_id": 732,
+    "_id": 730,
     "Suburb": "Melton",
     "Site_title": "Coles - Woodgrove Shopping Centre",
     "Site_streetaddress": "Coburns Rd",
@@ -15120,7 +15078,7 @@
     "longitude": 144.5636582
   },
   {
-    "_id": 733,
+    "_id": 731,
     "Suburb": "Melton",
     "Site_title": "Amcal Pharmacy Melton - Ron Davis",
     "Site_streetaddress": "308-312 High St",
@@ -15141,7 +15099,7 @@
     "longitude": 144.583571
   },
   {
-    "_id": 734,
+    "_id": 732,
     "Suburb": "Melton",
     "Site_title": "PETStock Melton",
     "Site_streetaddress": "77 High St",
@@ -15162,7 +15120,7 @@
     "longitude": 144.603594
   },
   {
-    "_id": 735,
+    "_id": 733,
     "Suburb": "Coolaroo",
     "Site_title": "7-Eleven Coolaroo",
     "Site_streetaddress": "1350 Pascoe Vale Road",
@@ -15183,7 +15141,7 @@
     "longitude": 144.922869
   },
   {
-    "_id": 736,
+    "_id": 734,
     "Suburb": "Shepparton",
     "Site_title": "Family Care Pharmacy - Safeway Plaza ",
     "Site_streetaddress": "Shop 14/310 High Street ",
@@ -15204,7 +15162,7 @@
     "longitude": 145.4029611
   },
   {
-    "_id": 737,
+    "_id": 735,
     "Suburb": "Abbotsford",
     "Site_title": "Playhouse Apartments Residential Complex",
     "Site_streetaddress": "20 Shamrock Street",
@@ -15225,7 +15183,7 @@
     "longitude": 145.008213
   },
   {
-    "_id": 738,
+    "_id": 736,
     "Suburb": "Abbotsford",
     "Site_title": "Playhouse Apartments Residential Complex",
     "Site_streetaddress": "20 Shamrock Street",
@@ -15246,7 +15204,7 @@
     "longitude": 145.008213
   },
   {
-    "_id": 739,
+    "_id": 737,
     "Suburb": "Abbotsford",
     "Site_title": "Playhouse Apartments Residential Complex",
     "Site_streetaddress": "20 Shamrock Street",
@@ -15267,7 +15225,7 @@
     "longitude": 145.008213
   },
   {
-    "_id": 740,
+    "_id": 738,
     "Suburb": "Abbotsford",
     "Site_title": "Playhouse Apartments Residential Complex",
     "Site_streetaddress": "20 Shamrock Street",
@@ -15288,7 +15246,7 @@
     "longitude": 145.008213
   },
   {
-    "_id": 741,
+    "_id": 739,
     "Suburb": "Essendon",
     "Site_title": "Essendon Physio Group ",
     "Site_streetaddress": "15a/82 Keilor Road",
@@ -15309,7 +15267,7 @@
     "longitude": 144.9048932
   },
   {
-    "_id": 742,
+    "_id": 740,
     "Suburb": "Campbellfield",
     "Site_title": "Campbellfield Pharmacy - Plaza Shopping Centre",
     "Site_streetaddress": "1b/1434 Sydney Road",
@@ -15330,28 +15288,7 @@
     "longitude": 144.958402
   },
   {
-    "_id": 758,
-    "Suburb": "Kialla",
-    "Site_title": "Chemist Warehouse Kialla - Riverside Plaza",
-    "Site_streetaddress": "14/8025 Goulburn Valley Hwy",
-    "Site_state": "VIC",
-    "Site_postcode": "3631",
-    "Exposure_date_dtm": "2021-08-24",
-    "Exposure_date": "24/08/2021",
-    "Exposure_time": "1:54pm - 2:24pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-08-30",
-    "Added_date": "30/08/2021",
-    "Added_time": "10:57:00",
-    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
-    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
-    "Exposure_time_start_24": "13:54:00",
-    "Exposure_time_end_24": "14:24:00",
-    "latitude": -36.40837,
-    "longitude": 145.392181
-  },
-  {
-    "_id": 743,
+    "_id": 741,
     "Suburb": "Melton",
     "Site_title": "Woolworths Woodgrove Shopping Centre Melton",
     "Site_streetaddress": "533-555 High St",
@@ -15372,7 +15309,7 @@
     "longitude": 144.561784
   },
   {
-    "_id": 744,
+    "_id": 742,
     "Suburb": "Melton",
     "Site_title": "Woolworths Woodgrove Shopping Centre Melton",
     "Site_streetaddress": "533-555 High St",
@@ -15393,7 +15330,7 @@
     "longitude": 144.561784
   },
   {
-    "_id": 745,
+    "_id": 743,
     "Suburb": "Ardeer South",
     "Site_title": "7-Eleven Ardeer South",
     "Site_streetaddress": "Western Ring Rd",
@@ -15414,7 +15351,7 @@
     "longitude": 144.8068378
   },
   {
-    "_id": 746,
+    "_id": 744,
     "Suburb": "Burwood",
     "Site_title": "McDonald's Burwood",
     "Site_streetaddress": "Cnr Burwood Highway & Scott Grove",
@@ -15435,7 +15372,7 @@
     "longitude": 145.0955882
   },
   {
-    "_id": 747,
+    "_id": 745,
     "Suburb": "Dallas",
     "Site_title": "Hume Valley School Dallas",
     "Site_streetaddress": "23 Koroit Ave",
@@ -15456,7 +15393,7 @@
     "longitude": 144.927066
   },
   {
-    "_id": 748,
+    "_id": 746,
     "Suburb": "Dallas",
     "Site_title": "Hume Valley School Dallas",
     "Site_streetaddress": "23 Koroit Ave",
@@ -15477,7 +15414,7 @@
     "longitude": 144.927066
   },
   {
-    "_id": 749,
+    "_id": 747,
     "Suburb": "Dallas",
     "Site_title": "Hume Valley School Dallas",
     "Site_streetaddress": "23 Koroit Ave",
@@ -15498,7 +15435,7 @@
     "longitude": 144.927066
   },
   {
-    "_id": 750,
+    "_id": 748,
     "Suburb": "Keilor Downs",
     "Site_title": "ALDI Keilor Downs - Keilor Central Shopping Centre",
     "Site_streetaddress": "80 Taylors Road",
@@ -15519,7 +15456,7 @@
     "longitude": 144.807219
   },
   {
-    "_id": 751,
+    "_id": 749,
     "Suburb": "St Albans",
     "Site_title": "Woolworths St Albans",
     "Site_streetaddress": "315/321 Main Rd E",
@@ -15540,7 +15477,7 @@
     "longitude": 144.801865
   },
   {
-    "_id": 752,
+    "_id": 750,
     "Suburb": "St Albans",
     "Site_title": "Kahla Fruit & Nut Market",
     "Site_streetaddress": "45 Conrad St",
@@ -15561,7 +15498,7 @@
     "longitude": 144.805784
   },
   {
-    "_id": 753,
+    "_id": 751,
     "Suburb": "Gladstone Park",
     "Site_title": "ALDI Gladstone Park",
     "Site_streetaddress": "8/34 Gladstone Park Drive",
@@ -15582,7 +15519,7 @@
     "longitude": 144.884602
   },
   {
-    "_id": 754,
+    "_id": 752,
     "Suburb": "Shepparton",
     "Site_title": "Australia Post - Shepparton Business Centre",
     "Site_streetaddress": "21 Benalla Rd",
@@ -15603,7 +15540,7 @@
     "longitude": 145.414799
   },
   {
-    "_id": 755,
+    "_id": 753,
     "Suburb": "Shepparton",
     "Site_title": "Australia Post - Shepparton Business Centre",
     "Site_streetaddress": "21 Benalla Rd",
@@ -15624,7 +15561,7 @@
     "longitude": 145.414799
   },
   {
-    "_id": 756,
+    "_id": 754,
     "Suburb": "Brunswick East",
     "Site_title": "SupaPharmacy Brunswick East",
     "Site_streetaddress": "92 Lygon St",
@@ -15645,7 +15582,7 @@
     "longitude": 144.971185
   },
   {
-    "_id": 757,
+    "_id": 755,
     "Suburb": "Roxburgh Park",
     "Site_title": "FoodWorks Roxburgh Park",
     "Site_streetaddress": "7-9/101 Ravenhill Blvd",
@@ -15666,7 +15603,28 @@
     "longitude": 144.918626
   },
   {
-    "_id": 759,
+    "_id": 756,
+    "Suburb": "Kialla",
+    "Site_title": "Chemist Warehouse Kialla - Riverside Plaza",
+    "Site_streetaddress": "14/8025 Goulburn Valley Hwy",
+    "Site_state": "VIC",
+    "Site_postcode": "3631",
+    "Exposure_date_dtm": "2021-08-24",
+    "Exposure_date": "24/08/2021",
+    "Exposure_time": "1:54pm - 2:24pm",
+    "Notes": "Case attended venue",
+    "Added_date_dtm": "2021-08-30",
+    "Added_date": "30/08/2021",
+    "Added_time": "10:57:00",
+    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
+    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
+    "Exposure_time_start_24": "13:54:00",
+    "Exposure_time_end_24": "14:24:00",
+    "latitude": -36.40837,
+    "longitude": 145.392181
+  },
+  {
+    "_id": 757,
     "Suburb": "Edithvale",
     "Site_title": "The Crowded Hour Cafe",
     "Site_streetaddress": "264 Nepean Hwy",
@@ -15687,7 +15645,7 @@
     "longitude": 145.108302
   },
   {
-    "_id": 760,
+    "_id": 758,
     "Suburb": "Tarneit",
     "Site_title": "Nextra - Tarneit Central Shopping Centre",
     "Site_streetaddress": "Shop T08, 540 Derrimut Road",
@@ -15708,7 +15666,7 @@
     "longitude": 144.695197
   },
   {
-    "_id": 761,
+    "_id": 759,
     "Suburb": "Altona North",
     "Site_title": "Pharmasave - Borrack Square Altona North",
     "Site_streetaddress": "13 Borrack Square",
@@ -15729,7 +15687,7 @@
     "longitude": 144.84543
   },
   {
-    "_id": 762,
+    "_id": 760,
     "Suburb": "Glen Waverley",
     "Site_title": "Coles Express Glen Waverley ",
     "Site_streetaddress": "615 - 621 Ferntree Gully Road",
@@ -15750,7 +15708,7 @@
     "longitude": 145.160916
   },
   {
-    "_id": 763,
+    "_id": 761,
     "Suburb": "Dandenong",
     "Site_title": "Dandenong Hospital - Childrens Ward",
     "Site_streetaddress": "135 David Street",
@@ -15771,7 +15729,7 @@
     "longitude": 145.220576
   },
   {
-    "_id": 764,
+    "_id": 762,
     "Suburb": "Dandenong",
     "Site_title": "Dandenong Hospital - Childrens Ward",
     "Site_streetaddress": "135 David Street",
@@ -15787,6 +15745,48 @@
     "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
     "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
     "Exposure_time_start_24": "00:00:00",
+    "Exposure_time_end_24": "23:59:00",
+    "latitude": -37.977337,
+    "longitude": 145.220576
+  },
+  {
+    "_id": 763,
+    "Suburb": "Dandenong",
+    "Site_title": "Dandenong Hospital - Childrens Ward",
+    "Site_streetaddress": "135 David Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3175",
+    "Exposure_date_dtm": "2021-08-27",
+    "Exposure_date": "27/08/2021",
+    "Exposure_time": "12:00am - 11:11am",
+    "Notes": "Case attended venue. Some individuals will be Tier 1 contacts required to quarantine for 14 days and the Department will contact them directly with this advice.",
+    "Added_date_dtm": "2021-08-30",
+    "Added_date": "30/08/2021",
+    "Added_time": "08:27:00",
+    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
+    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
+    "Exposure_time_start_24": "00:00:00",
+    "Exposure_time_end_24": "11:11:00",
+    "latitude": -37.977337,
+    "longitude": 145.220576
+  },
+  {
+    "_id": 764,
+    "Suburb": "Dandenong",
+    "Site_title": "Dandenong Hospital - Childrens Ward",
+    "Site_streetaddress": "135 David Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3175",
+    "Exposure_date_dtm": "2021-08-25",
+    "Exposure_date": "25/08/2021",
+    "Exposure_time": "4:18pm - 11:59pm",
+    "Notes": "Case attended venue. Some individuals will be Tier 1 contacts required to quarantine for 14 days and the Department will contact them directly with this advice.",
+    "Added_date_dtm": "2021-08-30",
+    "Added_date": "30/08/2021",
+    "Added_time": "08:27:00",
+    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
+    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
+    "Exposure_time_start_24": "16:18:00",
     "Exposure_time_end_24": "23:59:00",
     "latitude": -37.977337,
     "longitude": 145.220576
@@ -15798,48 +15798,6 @@
     "Site_streetaddress": "135 David Street",
     "Site_state": "VIC",
     "Site_postcode": "3175",
-    "Exposure_date_dtm": "2021-08-27",
-    "Exposure_date": "27/08/2021",
-    "Exposure_time": "12:00am - 11:11am",
-    "Notes": "Case attended venue. Some individuals will be Tier 1 contacts required to quarantine for 14 days and the Department will contact them directly with this advice.",
-    "Added_date_dtm": "2021-08-30",
-    "Added_date": "30/08/2021",
-    "Added_time": "08:27:00",
-    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
-    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
-    "Exposure_time_start_24": "00:00:00",
-    "Exposure_time_end_24": "11:11:00",
-    "latitude": -37.977337,
-    "longitude": 145.220576
-  },
-  {
-    "_id": 766,
-    "Suburb": "Dandenong",
-    "Site_title": "Dandenong Hospital - Childrens Ward",
-    "Site_streetaddress": "135 David Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3175",
-    "Exposure_date_dtm": "2021-08-25",
-    "Exposure_date": "25/08/2021",
-    "Exposure_time": "4:18pm - 11:59pm",
-    "Notes": "Case attended venue. Some individuals will be Tier 1 contacts required to quarantine for 14 days and the Department will contact them directly with this advice.",
-    "Added_date_dtm": "2021-08-30",
-    "Added_date": "30/08/2021",
-    "Added_time": "08:27:00",
-    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
-    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
-    "Exposure_time_start_24": "16:18:00",
-    "Exposure_time_end_24": "23:59:00",
-    "latitude": -37.977337,
-    "longitude": 145.220576
-  },
-  {
-    "_id": 767,
-    "Suburb": "Dandenong",
-    "Site_title": "Dandenong Hospital - Childrens Ward",
-    "Site_streetaddress": "135 David Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3175",
     "Exposure_date_dtm": "2021-08-26",
     "Exposure_date": "26/08/2021",
     "Exposure_time": "12:00am - 11:59pm",
@@ -15855,7 +15813,7 @@
     "longitude": 145.220576
   },
   {
-    "_id": 768,
+    "_id": 766,
     "Suburb": "Dandenong",
     "Site_title": "Dandenong Hospital - Childrens Ward",
     "Site_streetaddress": "135 David Street",
@@ -15876,7 +15834,7 @@
     "longitude": 145.220576
   },
   {
-    "_id": 769,
+    "_id": 767,
     "Suburb": "Melbourne",
     "Site_title": "Coles Central Melbourne CBD",
     "Site_streetaddress": "Elizabeth Street & Flinders Street",
@@ -15897,7 +15855,7 @@
     "longitude": 144.9628178
   },
   {
-    "_id": 770,
+    "_id": 768,
     "Suburb": "Shepparton",
     "Site_title": "Chemist Warehouse Shepparton",
     "Site_streetaddress": "425-429 Wyndham Street",
@@ -15918,7 +15876,7 @@
     "longitude": 145.399036
   },
   {
-    "_id": 771,
+    "_id": 769,
     "Suburb": "Altona North",
     "Site_title": "Woolworths Millers Junction (Altona North)",
     "Site_streetaddress": "302-330 Millers Road",
@@ -15939,7 +15897,7 @@
     "longitude": 144.847153
   },
   {
-    "_id": 772,
+    "_id": 770,
     "Suburb": "Campbellfield",
     "Site_title": "Caltex Fawkner",
     "Site_streetaddress": "Corner Sydney and Boxforrest Roads",
@@ -15960,7 +15918,7 @@
     "longitude": 144.959812
   },
   {
-    "_id": 773,
+    "_id": 771,
     "Suburb": "Chadstone",
     "Site_title": "Chemist Warehouse Chadstone",
     "Site_streetaddress": "1341 Dandenong Road",
@@ -15981,7 +15939,7 @@
     "longitude": 145.080605
   },
   {
-    "_id": 774,
+    "_id": 772,
     "Suburb": "Melbourne",
     "Site_title": "565 Flinders Street - Private Residential Complex",
     "Site_streetaddress": "565 Flinders Street",
@@ -16002,7 +15960,7 @@
     "longitude": 144.955899
   },
   {
-    "_id": 775,
+    "_id": 773,
     "Suburb": "Melbourne",
     "Site_title": "565 Flinders Street - Private Residential Complex",
     "Site_streetaddress": "565 Flinders Street",
@@ -16023,7 +15981,7 @@
     "longitude": 144.955899
   },
   {
-    "_id": 776,
+    "_id": 774,
     "Suburb": "Melbourne",
     "Site_title": "565 Flinders Street - Private Residential Complex",
     "Site_streetaddress": "565 Flinders Street",
@@ -16044,7 +16002,7 @@
     "longitude": 144.955899
   },
   {
-    "_id": 777,
+    "_id": 775,
     "Suburb": "Melbourne",
     "Site_title": "565 Flinders Street - Private Residential Complex",
     "Site_streetaddress": "565 Flinders Street",
@@ -16065,7 +16023,7 @@
     "longitude": 144.955899
   },
   {
-    "_id": 784,
+    "_id": 782,
     "Suburb": "Abbotsford",
     "Site_title": "McCoppins Bottle Shop",
     "Site_streetaddress": "501/509 Victoria Street",
@@ -16086,7 +16044,7 @@
     "longitude": 145.007942
   },
   {
-    "_id": 778,
+    "_id": 776,
     "Suburb": "Melbourne",
     "Site_title": "565 Flinders Street - Private Residential Complex",
     "Site_streetaddress": "565 Flinders Street",
@@ -16107,7 +16065,7 @@
     "longitude": 144.955899
   },
   {
-    "_id": 779,
+    "_id": 777,
     "Suburb": "Melbourne",
     "Site_title": "565 Flinders Street - Private Residential Complex",
     "Site_streetaddress": "565 Flinders Street",
@@ -16128,7 +16086,7 @@
     "longitude": 144.955899
   },
   {
-    "_id": 780,
+    "_id": 778,
     "Suburb": "Abbotsford",
     "Site_title": "Chemist Warehouse Abbotsford - The Hive Shopping Centre",
     "Site_streetaddress": "10/313 Victoria Street",
@@ -16149,7 +16107,7 @@
     "longitude": 144.995512
   },
   {
-    "_id": 781,
+    "_id": 779,
     "Suburb": "North Melbourne",
     "Site_title": "7-Eleven Flemington",
     "Site_streetaddress": "415 - 429 Flemington Road",
@@ -16170,7 +16128,7 @@
     "longitude": 144.9389467
   },
   {
-    "_id": 782,
+    "_id": 780,
     "Suburb": "North Melbourne",
     "Site_title": "7-Eleven Flemington",
     "Site_streetaddress": "415 - 429 Flemington Road",
@@ -16191,7 +16149,7 @@
     "longitude": 144.9389467
   },
   {
-    "_id": 783,
+    "_id": 781,
     "Suburb": "Cremorne",
     "Site_title": "LaManna and Sons Cremorne",
     "Site_streetaddress": "98 Balmain Street",
@@ -16212,7 +16170,7 @@
     "longitude": 144.995491
   },
   {
-    "_id": 785,
+    "_id": 783,
     "Suburb": "Abbotsford",
     "Site_title": "ALDI - The Hive Shopping Centre",
     "Site_streetaddress": "313/325 Victoria Street",
@@ -16233,7 +16191,7 @@
     "longitude": 145.007942
   },
   {
-    "_id": 786,
+    "_id": 784,
     "Suburb": "St Kilda",
     "Site_title": "Clean Queen Laundry",
     "Site_streetaddress": "167B Fitzroy Street",
@@ -16254,7 +16212,7 @@
     "longitude": 144.980246
   },
   {
-    "_id": 787,
+    "_id": 785,
     "Suburb": "Windsor",
     "Site_title": "Nguyens Hot Bread",
     "Site_streetaddress": "128 Chapel Street",
@@ -16275,7 +16233,7 @@
     "longitude": 144.9932
   },
   {
-    "_id": 788,
+    "_id": 786,
     "Suburb": "Tarneit",
     "Site_title": "Coles - Tarneit Central",
     "Site_streetaddress": "Derrimut Road",
@@ -16296,7 +16254,7 @@
     "longitude": 144.6891492
   },
   {
-    "_id": 789,
+    "_id": 787,
     "Suburb": "Altona North",
     "Site_title": "ALDI - Millers Junction Altona North",
     "Site_streetaddress": "302/330 Millers Road",
@@ -16317,7 +16275,7 @@
     "longitude": 144.847194
   },
   {
-    "_id": 790,
+    "_id": 788,
     "Suburb": "Cremorne",
     "Site_title": "LaManna and Sons Cremorne",
     "Site_streetaddress": "98 Balmain Street",
@@ -16338,7 +16296,7 @@
     "longitude": 144.995491
   },
   {
-    "_id": 791,
+    "_id": 789,
     "Suburb": "Richmond",
     "Site_title": "24hr Smart Laundry ",
     "Site_streetaddress": "354 Victoria Street",
@@ -16359,7 +16317,7 @@
     "longitude": 145.003251
   },
   {
-    "_id": 792,
+    "_id": 790,
     "Suburb": "Richmond",
     "Site_title": "24hr Smart Laundry ",
     "Site_streetaddress": "354 Victoria Street",
@@ -16380,7 +16338,7 @@
     "longitude": 145.003251
   },
   {
-    "_id": 793,
+    "_id": 791,
     "Suburb": "Richmond",
     "Site_title": "The Richmond Pie Shop",
     "Site_streetaddress": "200 Swan Street",
@@ -16401,7 +16359,7 @@
     "longitude": 144.996188
   },
   {
-    "_id": 794,
+    "_id": 792,
     "Suburb": "Traralgon",
     "Site_title": "Traralgon Centre Plaza Food Court - Eastern End",
     "Site_streetaddress": "166-188 Franklin Street",
@@ -16422,7 +16380,7 @@
     "longitude": 146.5376644
   },
   {
-    "_id": 795,
+    "_id": 793,
     "Suburb": "Altona North",
     "Site_title": "Coles Altona Gate - Altona Gate Shopping Centre ",
     "Site_streetaddress": "Millers Road & Duosa Road",
@@ -16443,7 +16401,7 @@
     "longitude": 144.8455116
   },
   {
-    "_id": 796,
+    "_id": 794,
     "Suburb": "Laverton North",
     "Site_title": "FurnX Pty Ltd ",
     "Site_streetaddress": "3/9/19 Leakes Road",
@@ -16464,7 +16422,7 @@
     "longitude": 144.7763299
   },
   {
-    "_id": 797,
+    "_id": 795,
     "Suburb": "Laverton North",
     "Site_title": "FurnX Pty Ltd ",
     "Site_streetaddress": "3/9/19 Leakes Road",
@@ -16485,7 +16443,7 @@
     "longitude": 144.7763299
   },
   {
-    "_id": 798,
+    "_id": 796,
     "Suburb": "Laverton North",
     "Site_title": "FurnX Pty Ltd ",
     "Site_streetaddress": "3/9/19 Leakes Road",
@@ -16506,7 +16464,7 @@
     "longitude": 144.7763299
   },
   {
-    "_id": 799,
+    "_id": 797,
     "Suburb": "Richmond",
     "Site_title": "Medical One Richmond - Victoria Gardens Shopping Centre",
     "Site_streetaddress": "F1/620 Victoria Street",
@@ -16527,7 +16485,7 @@
     "longitude": 145.011393
   },
   {
-    "_id": 800,
+    "_id": 798,
     "Suburb": "Echuca",
     "Site_title": "Echuca Community for the Aged - Wharparilla Lodge",
     "Site_streetaddress": "21 Hartshorn Drive",
@@ -16548,7 +16506,7 @@
     "longitude": 144.721585
   },
   {
-    "_id": 801,
+    "_id": 799,
     "Suburb": "Echuca",
     "Site_title": "Echuca Community for the Aged - Wharparilla Lodge",
     "Site_streetaddress": "21 Hartshorn Drive",
@@ -16569,7 +16527,7 @@
     "longitude": 144.721585
   },
   {
-    "_id": 802,
+    "_id": 800,
     "Suburb": "Echuca",
     "Site_title": "Echuca Community for the Aged - Wharparilla Lodge",
     "Site_streetaddress": "21 Hartshorn Drive",
@@ -16590,7 +16548,7 @@
     "longitude": 144.721585
   },
   {
-    "_id": 803,
+    "_id": 801,
     "Suburb": "St Kilda",
     "Site_title": "Woolworths Metro St Kilda West",
     "Site_streetaddress": "64 Fitzroy Street",
@@ -16611,7 +16569,7 @@
     "longitude": 144.977774
   },
   {
-    "_id": 804,
+    "_id": 802,
     "Suburb": "Oakleigh South",
     "Site_title": "McDonald's Oakleigh South",
     "Site_streetaddress": "661-663 Warrigal Rd",
@@ -16632,7 +16590,7 @@
     "longitude": 145.0821123
   },
   {
-    "_id": 812,
+    "_id": 810,
     "Suburb": "St Kilda",
     "Site_title": "7-Eleven St Kilda",
     "Site_streetaddress": "154-158 St Kilda Road",
@@ -16653,7 +16611,7 @@
     "longitude": 144.984862
   },
   {
-    "_id": 806,
+    "_id": 804,
     "Suburb": "Richmond",
     "Site_title": "Chemist Warehouse - Victoria Gardens Shopping Centre",
     "Site_streetaddress": "620 Victoria St",
@@ -16674,7 +16632,7 @@
     "longitude": 145.011393
   },
   {
-    "_id": 807,
+    "_id": 805,
     "Suburb": "Richmond",
     "Site_title": "Chemist Warehouse - Victoria Gardens Shopping Centre",
     "Site_streetaddress": "620 Victoria St",
@@ -16695,7 +16653,7 @@
     "longitude": 145.011393
   },
   {
-    "_id": 808,
+    "_id": 806,
     "Suburb": "Burnley",
     "Site_title": "IGA X-press Plus Liquor Richmond",
     "Site_streetaddress": "518 Bridge Road",
@@ -16716,7 +16674,7 @@
     "longitude": 145.00718
   },
   {
-    "_id": 809,
+    "_id": 807,
     "Suburb": "Preston",
     "Site_title": "Coles Preston - Northland Shopping Centre",
     "Site_streetaddress": "2/50 Murray Rd",
@@ -16737,7 +16695,7 @@
     "longitude": 145.029989
   },
   {
-    "_id": 810,
+    "_id": 808,
     "Suburb": "Epping",
     "Site_title": "Nothern Hospital - Main Entrance and Foyer",
     "Site_streetaddress": "185 Cooper St",
@@ -16758,7 +16716,7 @@
     "longitude": 145.014945
   },
   {
-    "_id": 811,
+    "_id": 809,
     "Suburb": "St Kilda",
     "Site_title": "7-Eleven St Kilda",
     "Site_streetaddress": "154-158 St Kilda Road",
@@ -16779,7 +16737,7 @@
     "longitude": 144.984862
   },
   {
-    "_id": 813,
+    "_id": 811,
     "Suburb": "St Kilda",
     "Site_title": "7-Eleven St Kilda",
     "Site_streetaddress": "154-158 St Kilda Road",
@@ -16800,7 +16758,7 @@
     "longitude": 144.984862
   },
   {
-    "_id": 814,
+    "_id": 812,
     "Suburb": "Sunshine",
     "Site_title": "Woolworths - Sunshine Market Place",
     "Site_streetaddress": "80 Harvester Road",
@@ -16821,7 +16779,7 @@
     "longitude": 144.832468
   },
   {
-    "_id": 815,
+    "_id": 813,
     "Suburb": "Port Melbourne",
     "Site_title": "Woolworths Fishermans Bend ",
     "Site_streetaddress": "477-481 Plummer Street",
@@ -16842,7 +16800,7 @@
     "longitude": 144.9285898
   },
   {
-    "_id": 816,
+    "_id": 814,
     "Suburb": "Port Melbourne",
     "Site_title": "Woolworths Fishermans Bend ",
     "Site_streetaddress": "477-481 Plummer Street",
@@ -16863,7 +16821,7 @@
     "longitude": 144.9285898
   },
   {
-    "_id": 817,
+    "_id": 815,
     "Suburb": "Port Melbourne",
     "Site_title": "Woolworths Fishermans Bend ",
     "Site_streetaddress": "477-481 Plummer Street",
@@ -16884,14 +16842,14 @@
     "longitude": 144.9285898
   },
   {
-    "_id": 846,
+    "_id": 845,
     "Suburb": "Port Melbourne ",
     "Site_title": "Auto Mega Warehouse",
     "Site_streetaddress": "467 Plummer Street",
     "Site_state": "VIC",
     "Site_postcode": "3207",
-    "Exposure_date_dtm": "2021-08-26",
-    "Exposure_date": "26/08/2021",
+    "Exposure_date_dtm": "2021-08-27",
+    "Exposure_date": "27/08/2021",
     "Exposure_time": "12:00am - 11:59pm",
     "Notes": "Case attended venue\r",
     "Added_date_dtm": "2021-08-28",
@@ -16905,7 +16863,7 @@
     "longitude": 144.929354
   },
   {
-    "_id": 818,
+    "_id": 816,
     "Suburb": "Port Melbourne",
     "Site_title": "The Dusty Fox",
     "Site_streetaddress": "477 Plummer Street",
@@ -16926,7 +16884,7 @@
     "longitude": 144.929956
   },
   {
-    "_id": 819,
+    "_id": 817,
     "Suburb": "Kialla",
     "Site_title": "Shell Coles Express Kialla - Riverside Plaza",
     "Site_streetaddress": "8025 Goulburn Valley Highway",
@@ -16947,7 +16905,7 @@
     "longitude": 145.392181
   },
   {
-    "_id": 820,
+    "_id": 818,
     "Suburb": "Kialla",
     "Site_title": "Shell Coles Express Kialla - Riverside Plaza",
     "Site_streetaddress": "8025 Goulburn Valley Highway",
@@ -16968,7 +16926,7 @@
     "longitude": 145.392181
   },
   {
-    "_id": 821,
+    "_id": 819,
     "Suburb": "Coburg North",
     "Site_title": "Coles Coburg North - Coburg North Village",
     "Site_streetaddress": "180-190 Gaffney Street",
@@ -16989,7 +16947,7 @@
     "longitude": 144.9496908
   },
   {
-    "_id": 822,
+    "_id": 820,
     "Suburb": "Newport",
     "Site_title": "7-Eleven Newport",
     "Site_streetaddress": "438 Melbourne Road",
@@ -17010,7 +16968,7 @@
     "longitude": 144.883134
   },
   {
-    "_id": 823,
+    "_id": 821,
     "Suburb": "West Melbourne",
     "Site_title": "65 Dudley Street Apartment Complex",
     "Site_streetaddress": "65 Dudley Street",
@@ -17031,7 +16989,7 @@
     "longitude": 144.950391
   },
   {
-    "_id": 824,
+    "_id": 822,
     "Suburb": "West Melbourne",
     "Site_title": "65 Dudley Street Apartment Complex",
     "Site_streetaddress": "65 Dudley Street",
@@ -17052,7 +17010,7 @@
     "longitude": 144.950391
   },
   {
-    "_id": 825,
+    "_id": 823,
     "Suburb": "West Melbourne",
     "Site_title": "65 Dudley Street Apartment Complex",
     "Site_streetaddress": "65 Dudley Street",
@@ -17073,7 +17031,7 @@
     "longitude": 144.950391
   },
   {
-    "_id": 826,
+    "_id": 824,
     "Suburb": "West Melbourne",
     "Site_title": "65 Dudley Street Apartment Complex",
     "Site_streetaddress": "65 Dudley Street",
@@ -17094,7 +17052,7 @@
     "longitude": 144.950391
   },
   {
-    "_id": 827,
+    "_id": 825,
     "Suburb": "West Melbourne",
     "Site_title": "65 Dudley Street Apartment Complex",
     "Site_streetaddress": "65 Dudley Street",
@@ -17115,7 +17073,7 @@
     "longitude": 144.950391
   },
   {
-    "_id": 828,
+    "_id": 826,
     "Suburb": "Hoppers Crossing",
     "Site_title": "IGA Hoppers Crossing",
     "Site_streetaddress": "4/2-6 Deloraine Drive",
@@ -17136,7 +17094,7 @@
     "longitude": 144.673989
   },
   {
-    "_id": 829,
+    "_id": 827,
     "Suburb": "Werribee",
     "Site_title": "Chemist Warehouse Werribee Heaths Road",
     "Site_streetaddress": "283 & 285 Tenancy 1 Ground Floor, Heaths Road",
@@ -17157,7 +17115,7 @@
     "longitude": 144.6752475
   },
   {
-    "_id": 830,
+    "_id": 828,
     "Suburb": "Hoppers Crossing",
     "Site_title": "Pharmacy 4 Less - Hogans Corner Shopping Centre",
     "Site_streetaddress": "9-10/150 Hogans Road",
@@ -17178,19 +17136,19 @@
     "longitude": 144.687265
   },
   {
-    "_id": 847,
+    "_id": 846,
     "Suburb": "Port Melbourne ",
-    "Site_title": "Auto Mega Warehouse",
+    "Site_title": "Prestige Hand Carwash Port Melbourne",
     "Site_streetaddress": "467 Plummer Street",
     "Site_state": "VIC",
     "Site_postcode": "3207",
-    "Exposure_date_dtm": "2021-08-27",
-    "Exposure_date": "27/08/2021",
+    "Exposure_date_dtm": "2021-08-24",
+    "Exposure_date": "24/08/2021",
     "Exposure_time": "12:00am - 11:59pm",
     "Notes": "Case attended venue\r",
     "Added_date_dtm": "2021-08-28",
     "Added_date": "28/08/2021",
-    "Added_time": "11:05:00",
+    "Added_time": "10:40:00",
     "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
     "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
     "Exposure_time_start_24": "00:00:00",
@@ -17199,7 +17157,7 @@
     "longitude": 144.929354
   },
   {
-    "_id": 831,
+    "_id": 829,
     "Suburb": "Seabrook",
     "Site_title": "BP Point Cook",
     "Site_streetaddress": "144E/144F Point Cook Road",
@@ -17220,7 +17178,7 @@
     "longitude": 144.755545
   },
   {
-    "_id": 832,
+    "_id": 830,
     "Suburb": "Melton",
     "Site_title": "Dan Murphy's Melton - Woodgrove Shopping Centre",
     "Site_streetaddress": "585 High Street",
@@ -17241,7 +17199,7 @@
     "longitude": 144.5571999
   },
   {
-    "_id": 833,
+    "_id": 831,
     "Suburb": "Melton",
     "Site_title": "Bunnings Melton",
     "Site_streetaddress": "Corner Keilor Melton Road and High Street",
@@ -17262,7 +17220,7 @@
     "longitude": 144.604925
   },
   {
-    "_id": 834,
+    "_id": 832,
     "Suburb": "St Albans",
     "Site_title": "Australia Post - St Albans Post Shop",
     "Site_streetaddress": "1 Victoria Square",
@@ -17283,7 +17241,7 @@
     "longitude": 144.799333
   },
   {
-    "_id": 835,
+    "_id": 833,
     "Suburb": "Footscray",
     "Site_title": "Coles Footscray",
     "Site_streetaddress": "Corner Albert Street and Paisley Street",
@@ -17304,7 +17262,7 @@
     "longitude": 144.8952569
   },
   {
-    "_id": 842,
+    "_id": 840,
     "Suburb": "Williamstown ",
     "Site_title": "Priceline Pharmacy",
     "Site_streetaddress": "19-21 Douglas Parade",
@@ -17325,7 +17283,7 @@
     "longitude": 144.897644
   },
   {
-    "_id": 836,
+    "_id": 834,
     "Suburb": "Deer Park",
     "Site_title": "Tasman Butchers Deer Park - Brimbank Shopping Centre",
     "Site_streetaddress": "Shop T13, Station Road",
@@ -17346,7 +17304,7 @@
     "longitude": 144.7726329
   },
   {
-    "_id": 837,
+    "_id": 835,
     "Suburb": "Glen Waverley",
     "Site_title": "Coles Express Glen Waverley",
     "Site_streetaddress": "615-621 Ferntree Gully Road",
@@ -17367,7 +17325,7 @@
     "longitude": 145.160916
   },
   {
-    "_id": 838,
+    "_id": 836,
     "Suburb": "Mount Waverley",
     "Site_title": "Coles - Pinewood Shopping Centre",
     "Site_streetaddress": "433 Blackburn Road",
@@ -17388,7 +17346,7 @@
     "longitude": 145.144629
   },
   {
-    "_id": 839,
+    "_id": 837,
     "Suburb": "Footscray",
     "Site_title": "Footscray Plaza Shopping Centre",
     "Site_streetaddress": "18 Albert Street",
@@ -17409,7 +17367,7 @@
     "longitude": 144.897705
   },
   {
-    "_id": 840,
+    "_id": 838,
     "Suburb": "West Melbourne",
     "Site_title": "Phuoc Thanh Bakery Shop",
     "Site_streetaddress": "Ground Floor, Shop 3/420 Spencer Street",
@@ -17430,7 +17388,7 @@
     "longitude": 144.950391
   },
   {
-    "_id": 841,
+    "_id": 839,
     "Suburb": "West Melbourne",
     "Site_title": "Phuoc Thanh Bakery Shop",
     "Site_streetaddress": "Ground Floor, Shop 3/420 Spencer Street",
@@ -17451,7 +17409,7 @@
     "longitude": 144.950391
   },
   {
-    "_id": 843,
+    "_id": 841,
     "Suburb": "Footscray ",
     "Site_title": "Commonwealth Bank ATM on Paisley Street",
     "Site_streetaddress": "Paisley Street",
@@ -17472,7 +17430,7 @@
     "longitude": 144.8982044
   },
   {
-    "_id": 844,
+    "_id": 842,
     "Suburb": "Port Melbourne ",
     "Site_title": "Auto Mega Warehouse",
     "Site_streetaddress": "467 Plummer Street",
@@ -17493,7 +17451,7 @@
     "longitude": 144.929354
   },
   {
-    "_id": 845,
+    "_id": 843,
     "Suburb": "Port Melbourne ",
     "Site_title": "Auto Mega Warehouse",
     "Site_streetaddress": "467 Plummer Street",
@@ -17506,6 +17464,27 @@
     "Added_date_dtm": "2021-08-28",
     "Added_date": "28/08/2021",
     "Added_time": "11:05:00",
+    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
+    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
+    "Exposure_time_start_24": "00:00:00",
+    "Exposure_time_end_24": "23:59:00",
+    "latitude": -37.831537,
+    "longitude": 144.929354
+  },
+  {
+    "_id": 847,
+    "Suburb": "Port Melbourne ",
+    "Site_title": "Prestige Hand Carwash Port Melbourne",
+    "Site_streetaddress": "467 Plummer Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3207",
+    "Exposure_date_dtm": "2021-08-25",
+    "Exposure_date": "25/08/2021",
+    "Exposure_time": "12:00am - 11:59pm",
+    "Notes": "Case attended venue\r",
+    "Added_date_dtm": "2021-08-28",
+    "Added_date": "28/08/2021",
+    "Added_time": "10:40:00",
     "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
     "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
     "Exposure_time_start_24": "00:00:00",
@@ -17515,48 +17494,6 @@
   },
   {
     "_id": 848,
-    "Suburb": "Port Melbourne ",
-    "Site_title": "Prestige Hand Carwash Port Melbourne",
-    "Site_streetaddress": "467 Plummer Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3207",
-    "Exposure_date_dtm": "2021-08-24",
-    "Exposure_date": "24/08/2021",
-    "Exposure_time": "12:00am - 11:59pm",
-    "Notes": "Case attended venue\r",
-    "Added_date_dtm": "2021-08-28",
-    "Added_date": "28/08/2021",
-    "Added_time": "10:40:00",
-    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
-    "Exposure_time_start_24": "00:00:00",
-    "Exposure_time_end_24": "23:59:00",
-    "latitude": -37.831537,
-    "longitude": 144.929354
-  },
-  {
-    "_id": 849,
-    "Suburb": "Port Melbourne ",
-    "Site_title": "Prestige Hand Carwash Port Melbourne",
-    "Site_streetaddress": "467 Plummer Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3207",
-    "Exposure_date_dtm": "2021-08-25",
-    "Exposure_date": "25/08/2021",
-    "Exposure_time": "12:00am - 11:59pm",
-    "Notes": "Case attended venue\r",
-    "Added_date_dtm": "2021-08-28",
-    "Added_date": "28/08/2021",
-    "Added_time": "10:40:00",
-    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
-    "Exposure_time_start_24": "00:00:00",
-    "Exposure_time_end_24": "23:59:00",
-    "latitude": -37.831537,
-    "longitude": 144.929354
-  },
-  {
-    "_id": 850,
     "Suburb": "Port Melbourne ",
     "Site_title": "Prestige Hand Carwash Port Melbourne",
     "Site_streetaddress": "467 Plummer Street",
@@ -17577,7 +17514,7 @@
     "longitude": 144.929354
   },
   {
-    "_id": 851,
+    "_id": 849,
     "Suburb": "Port Melbourne ",
     "Site_title": "Prestige Hand Carwash Port Melbourne",
     "Site_streetaddress": "467 Plummer Street",
@@ -17598,28 +17535,7 @@
     "longitude": 144.929354
   },
   {
-    "_id": 865,
-    "Suburb": "Altona North",
-    "Site_title": "IGA East Altona",
-    "Site_streetaddress": "57/63 The Circle",
-    "Site_state": "VIC",
-    "Site_postcode": "3025",
-    "Exposure_date_dtm": "2021-08-24",
-    "Exposure_date": "24/08/2021",
-    "Exposure_time": "9:20am - 9:50am",
-    "Notes": "Case attended venue\r",
-    "Added_date_dtm": "2021-08-26",
-    "Added_date": "26/08/2021",
-    "Added_time": "20:55:00",
-    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
-    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
-    "Exposure_time_start_24": "09:20:00",
-    "Exposure_time_end_24": "09:50:00",
-    "latitude": -37.836283,
-    "longitude": 144.863272
-  },
-  {
-    "_id": 852,
+    "_id": 850,
     "Suburb": "Wheelers Hill",
     "Site_title": "Brandon Park Shopping Centre",
     "Site_streetaddress": "Springvale Road and Ferntree Gully Road",
@@ -17640,7 +17556,7 @@
     "longitude": 145.1588454
   },
   {
-    "_id": 853,
+    "_id": 851,
     "Suburb": "Newcomb",
     "Site_title": "Hungry Jack's Burgers Newcomb",
     "Site_streetaddress": "25 Bellarine Highway",
@@ -17661,7 +17577,7 @@
     "longitude": 144.387729
   },
   {
-    "_id": 854,
+    "_id": 852,
     "Suburb": "Geelong West",
     "Site_title": "Woolworths Geelong West",
     "Site_streetaddress": "Pakington Strand, 95-113 Pakington Street",
@@ -17682,7 +17598,7 @@
     "longitude": 144.3458923
   },
   {
-    "_id": 855,
+    "_id": 853,
     "Suburb": "Keilor Downs",
     "Site_title": "Commonwealth Bank Keilor Downs Branch",
     "Site_streetaddress": "Shop G002/80 Taylors Road",
@@ -17703,7 +17619,7 @@
     "longitude": 144.8051196
   },
   {
-    "_id": 856,
+    "_id": 854,
     "Suburb": "Keilor Downs",
     "Site_title": "Commonwealth Bank Keilor Downs Branch",
     "Site_streetaddress": "Shop G002/80 Taylors Road",
@@ -17724,7 +17640,7 @@
     "longitude": 144.8051196
   },
   {
-    "_id": 857,
+    "_id": 855,
     "Suburb": "Keilor Downs",
     "Site_title": "ALDI - Keilor Central Shopping Centre",
     "Site_streetaddress": "80 Taylors Road",
@@ -17745,7 +17661,7 @@
     "longitude": 144.807219
   },
   {
-    "_id": 858,
+    "_id": 856,
     "Suburb": "Keilor Downs",
     "Site_title": "Keilor Central Shopping Centre",
     "Site_streetaddress": "80 Taylors Road",
@@ -17766,7 +17682,7 @@
     "longitude": 144.807219
   },
   {
-    "_id": 859,
+    "_id": 857,
     "Suburb": "Keilor Downs",
     "Site_title": "Five Star Deli - Keilor Central Shopping Centre",
     "Site_streetaddress": "80 Taylors Road",
@@ -17787,7 +17703,7 @@
     "longitude": 144.807219
   },
   {
-    "_id": 860,
+    "_id": 858,
     "Suburb": "Hoppers Crossing",
     "Site_title": "Chemist Warehouse Hoppers Crossing - Supercare Pharmacy",
     "Site_streetaddress": "24 and 25/428 Old Geelong Road",
@@ -17808,7 +17724,7 @@
     "longitude": 144.731557
   },
   {
-    "_id": 861,
+    "_id": 859,
     "Suburb": "Williams Landing",
     "Site_title": "Woolworths - Williams Landing Shopping Centre",
     "Site_streetaddress": "100 Overton Road",
@@ -17829,7 +17745,7 @@
     "longitude": 144.744048
   },
   {
-    "_id": 862,
+    "_id": 860,
     "Suburb": "Williams Landing",
     "Site_title": "Priceline Pharmacy Williams Landing Shopping Centre",
     "Site_streetaddress": "100 Overton Road",
@@ -17850,7 +17766,7 @@
     "longitude": 144.744048
   },
   {
-    "_id": 863,
+    "_id": 861,
     "Suburb": "Port Melbourne",
     "Site_title": "Shell Coles Express Westgate North",
     "Site_streetaddress": "46-62 Cook Street",
@@ -17871,7 +17787,7 @@
     "longitude": 144.91683
   },
   {
-    "_id": 864,
+    "_id": 862,
     "Suburb": "Hoppers Crossing",
     "Site_title": "Barakat International Goods",
     "Site_streetaddress": "12 Costas Drive",
@@ -17892,7 +17808,28 @@
     "longitude": 144.718843
   },
   {
-    "_id": 866,
+    "_id": 863,
+    "Suburb": "Altona North",
+    "Site_title": "IGA East Altona",
+    "Site_streetaddress": "57/63 The Circle",
+    "Site_state": "VIC",
+    "Site_postcode": "3025",
+    "Exposure_date_dtm": "2021-08-24",
+    "Exposure_date": "24/08/2021",
+    "Exposure_time": "9:20am - 9:50am",
+    "Notes": "Case attended venue\r",
+    "Added_date_dtm": "2021-08-26",
+    "Added_date": "26/08/2021",
+    "Added_time": "20:55:00",
+    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
+    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
+    "Exposure_time_start_24": "09:20:00",
+    "Exposure_time_end_24": "09:50:00",
+    "latitude": -37.836283,
+    "longitude": 144.863272
+  },
+  {
+    "_id": 864,
     "Suburb": "South Kingsville",
     "Site_title": "Vernon's Fish & Chippery",
     "Site_streetaddress": "17B Vernon Street",
@@ -17913,7 +17850,7 @@
     "longitude": 144.8699491
   },
   {
-    "_id": 867,
+    "_id": 865,
     "Suburb": "Altona North",
     "Site_title": "IGA East Altona",
     "Site_streetaddress": "57/63 The Circle",
@@ -17934,7 +17871,7 @@
     "longitude": 144.863272
   },
   {
-    "_id": 868,
+    "_id": 866,
     "Suburb": "Chadstone",
     "Site_title": "Chemist Warehouse Chadstone",
     "Site_streetaddress": "1341 Dandenong Road",
@@ -17955,7 +17892,7 @@
     "longitude": 145.080605
   },
   {
-    "_id": 869,
+    "_id": 867,
     "Suburb": "Altona",
     "Site_title": "Borgcraft PtyLtd",
     "Site_streetaddress": "31-33 Slough Road",
@@ -17976,7 +17913,7 @@
     "longitude": 144.805111
   },
   {
-    "_id": 870,
+    "_id": 868,
     "Suburb": "Port Melbourne",
     "Site_title": "Woolworths Fishermans Bend",
     "Site_streetaddress": "477/481 Plummer Street",
@@ -17997,7 +17934,7 @@
     "longitude": 144.93144
   },
   {
-    "_id": 871,
+    "_id": 869,
     "Suburb": "Truganina",
     "Site_title": "Catch Distribution Centre Truganina",
     "Site_streetaddress": "1 Saintly Drive",
@@ -18018,7 +17955,7 @@
     "longitude": 144.7442977
   },
   {
-    "_id": 874,
+    "_id": 872,
     "Suburb": "Flemington",
     "Site_title": "Pepper",
     "Site_streetaddress": "44 Pin Oaks Crescent",
@@ -18039,7 +17976,7 @@
     "longitude": 144.9271293
   },
   {
-    "_id": 876,
+    "_id": 874,
     "Suburb": "St Albans",
     "Site_title": "7-Eleven St Albans",
     "Site_streetaddress": "70 Kings Road",
@@ -18060,7 +17997,7 @@
     "longitude": 144.781229
   },
   {
-    "_id": 877,
+    "_id": 875,
     "Suburb": "Preston",
     "Site_title": "Together Co-living - Apartment Complex",
     "Site_streetaddress": "205 Bell Street",
@@ -18081,7 +18018,7 @@
     "longitude": 145.00898
   },
   {
-    "_id": 878,
+    "_id": 876,
     "Suburb": "Fitzroy",
     "Site_title": "Brunswick Street - Residential Towers",
     "Site_streetaddress": "140 Brunswick Street",
@@ -18100,72 +18037,72 @@
     "Exposure_time_end_24": "11:59:00",
     "latitude": -37.803564,
     "longitude": 144.977887
+  },
+  {
+    "_id": 877,
+    "Suburb": "Fitzroy",
+    "Site_title": "Brunswick Street - Residential Towers",
+    "Site_streetaddress": "140 Brunswick Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3065",
+    "Exposure_date_dtm": "2021-08-25",
+    "Exposure_date": "25/08/2021",
+    "Exposure_time": "12:00am - 11:59am",
+    "Notes": "Case attended venue. Some individuals will be Tier 1 contacts and required to quarantine for 14 days and the Department will contact them directly with this advice.",
+    "Added_date_dtm": "2021-08-25",
+    "Added_date": "25/08/2021",
+    "Added_time": "17:50:00",
+    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
+    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
+    "Exposure_time_start_24": "00:00:00",
+    "Exposure_time_end_24": "11:59:00",
+    "latitude": -37.803564,
+    "longitude": 144.977887
+  },
+  {
+    "_id": 878,
+    "Suburb": "Brighton",
+    "Site_title": "The Standard - Apartment Complex ",
+    "Site_streetaddress": "209-211 Bay Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3186",
+    "Exposure_date_dtm": "2021-08-24",
+    "Exposure_date": "24/08/2021",
+    "Exposure_time": "12:00am - 11:59pm",
+    "Notes": "Case attended venue",
+    "Added_date_dtm": "2021-08-25",
+    "Added_date": "25/08/2021",
+    "Added_time": "17:30:00",
+    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
+    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
+    "Exposure_time_start_24": "00:00:00",
+    "Exposure_time_end_24": "23:59:00",
+    "latitude": -37.904896,
+    "longitude": 144.999014
   },
   {
     "_id": 879,
-    "Suburb": "Fitzroy",
-    "Site_title": "Brunswick Street - Residential Towers",
-    "Site_streetaddress": "140 Brunswick Street",
+    "Suburb": "Brighton",
+    "Site_title": "The Standard - Apartment Complex ",
+    "Site_streetaddress": "209-211 Bay Street",
     "Site_state": "VIC",
-    "Site_postcode": "3065",
+    "Site_postcode": "3186",
     "Exposure_date_dtm": "2021-08-25",
     "Exposure_date": "25/08/2021",
-    "Exposure_time": "12:00am - 11:59am",
-    "Notes": "Case attended venue. Some individuals will be Tier 1 contacts and required to quarantine for 14 days and the Department will contact them directly with this advice.",
+    "Exposure_time": "12:00am - 11:59pm",
+    "Notes": "Case attended venue",
     "Added_date_dtm": "2021-08-25",
     "Added_date": "25/08/2021",
-    "Added_time": "17:50:00",
+    "Added_time": "17:30:00",
     "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
     "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
     "Exposure_time_start_24": "00:00:00",
-    "Exposure_time_end_24": "11:59:00",
-    "latitude": -37.803564,
-    "longitude": 144.977887
+    "Exposure_time_end_24": "23:59:00",
+    "latitude": -37.904896,
+    "longitude": 144.999014
   },
   {
     "_id": 880,
-    "Suburb": "Brighton",
-    "Site_title": "The Standard - Apartment Complex ",
-    "Site_streetaddress": "209-211 Bay Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3186",
-    "Exposure_date_dtm": "2021-08-24",
-    "Exposure_date": "24/08/2021",
-    "Exposure_time": "12:00am - 11:59pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-08-25",
-    "Added_date": "25/08/2021",
-    "Added_time": "17:30:00",
-    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
-    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
-    "Exposure_time_start_24": "00:00:00",
-    "Exposure_time_end_24": "23:59:00",
-    "latitude": -37.904896,
-    "longitude": 144.999014
-  },
-  {
-    "_id": 881,
-    "Suburb": "Brighton",
-    "Site_title": "The Standard - Apartment Complex ",
-    "Site_streetaddress": "209-211 Bay Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3186",
-    "Exposure_date_dtm": "2021-08-25",
-    "Exposure_date": "25/08/2021",
-    "Exposure_time": "12:00am - 11:59pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-08-25",
-    "Added_date": "25/08/2021",
-    "Added_time": "17:30:00",
-    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
-    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
-    "Exposure_time_start_24": "00:00:00",
-    "Exposure_time_end_24": "23:59:00",
-    "latitude": -37.904896,
-    "longitude": 144.999014
-  },
-  {
-    "_id": 882,
     "Suburb": "Oakleigh",
     "Site_title": "Drummond Rise Apartment Complex",
     "Site_streetaddress": "1525 Dandenong Road",
@@ -18186,7 +18123,7 @@
     "longitude": 145.090513
   },
   {
-    "_id": 883,
+    "_id": 881,
     "Suburb": "Carlton",
     "Site_title": "Bellagio Apartment Complex",
     "Site_streetaddress": "67 Bouverie Street",
@@ -18207,7 +18144,7 @@
     "longitude": 144.96142
   },
   {
-    "_id": 885,
+    "_id": 883,
     "Suburb": "West Melbourne",
     "Site_title": "33 Jeffcott Street - Apartment Complex ",
     "Site_streetaddress": "33 Jeffcott Street",
@@ -18228,7 +18165,7 @@
     "longitude": 144.952598
   },
   {
-    "_id": 886,
+    "_id": 884,
     "Suburb": "Oakleigh",
     "Site_title": "Coles Oakleigh Central",
     "Site_streetaddress": "Hanover Street and Pirtman Street",
@@ -18249,7 +18186,7 @@
     "longitude": 145.0888411
   },
   {
-    "_id": 887,
+    "_id": 885,
     "Suburb": "North Melbourne",
     "Site_title": "58 Villiers Street - Residential Apartment Complex",
     "Site_streetaddress": "58 Villiers Street",
@@ -18270,7 +18207,7 @@
     "longitude": 144.953752
   },
   {
-    "_id": 888,
+    "_id": 886,
     "Suburb": "Altona North",
     "Site_title": "Woolworths Borrack Square Altona North",
     "Site_streetaddress": "2/32 Borrack Square",
@@ -18291,7 +18228,7 @@
     "longitude": 144.846418
   },
   {
-    "_id": 889,
+    "_id": 887,
     "Suburb": "Shepparton North",
     "Site_title": "Notre Dame College - Emmaus Campus",
     "Site_streetaddress": "15 Grace Road Shepparton North",
@@ -18312,7 +18249,7 @@
     "longitude": 145.405469
   },
   {
-    "_id": 890,
+    "_id": 888,
     "Suburb": "Shepparton North",
     "Site_title": "Notre Dame College - Emmaus Campus",
     "Site_streetaddress": "15 Grace Road Shepparton North",
@@ -18333,7 +18270,7 @@
     "longitude": 145.405469
   },
   {
-    "_id": 893,
+    "_id": 891,
     "Suburb": "Shepparton",
     "Site_title": "St. Mel's Primary School",
     "Site_streetaddress": "35 Hamilton Street",
@@ -18354,7 +18291,28 @@
     "longitude": 145.40982
   },
   {
-    "_id": 898,
+    "_id": 892,
+    "Suburb": "Shepparton",
+    "Site_title": "St. Mel's Primary School",
+    "Site_streetaddress": "35 Hamilton Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3630",
+    "Exposure_date_dtm": "2021-08-19",
+    "Exposure_date": "19/08/2021",
+    "Exposure_time": "12:00am - 11:59pm",
+    "Notes": "Case attended venue",
+    "Added_date_dtm": "2021-08-24",
+    "Added_date": "24/08/2021",
+    "Added_time": "15:16:24",
+    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
+    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
+    "Exposure_time_start_24": "00:00:00",
+    "Exposure_time_end_24": "23:59:00",
+    "latitude": -36.392674,
+    "longitude": 145.40982
+  },
+  {
+    "_id": 896,
     "Suburb": "Somerton",
     "Site_title": "Lion Car and Truck Rentals Somerton & Craigieburn",
     "Site_streetaddress": "2/85 Hume Highway",
@@ -18375,7 +18333,7 @@
     "longitude": 144.949592
   },
   {
-    "_id": 899,
+    "_id": 897,
     "Suburb": "Altona North",
     "Site_title": "Commonwealth Bank Altona North Branch",
     "Site_streetaddress": "28 Borrack Square",
@@ -18396,7 +18354,7 @@
     "longitude": 144.845967
   },
   {
-    "_id": 900,
+    "_id": 898,
     "Suburb": "Hoppers Crossing",
     "Site_title": "Werribee Group Healthcare",
     "Site_streetaddress": "1 Barber Drive",
@@ -18417,7 +18375,7 @@
     "longitude": 144.683726
   },
   {
-    "_id": 901,
+    "_id": 899,
     "Suburb": "Hoppers Crossing",
     "Site_title": "Werribee Group Healthcare",
     "Site_streetaddress": "1 Barber Drive",
@@ -18438,7 +18396,7 @@
     "longitude": 144.683726
   },
   {
-    "_id": 902,
+    "_id": 900,
     "Suburb": "Shepparton",
     "Site_title": "Notre Dame College",
     "Site_streetaddress": "135-141 Knight Street",
@@ -18459,7 +18417,7 @@
     "longitude": 145.40762
   },
   {
-    "_id": 903,
+    "_id": 901,
     "Suburb": "Shepparton",
     "Site_title": "Notre Dame College",
     "Site_streetaddress": "135-141 Knight Street",
@@ -18480,7 +18438,7 @@
     "longitude": 145.40762
   },
   {
-    "_id": 904,
+    "_id": 902,
     "Suburb": "Shepparton",
     "Site_title": "Derrimut 24:7 Gym",
     "Site_streetaddress": "Shop 4/290 Benalla Road",
@@ -18501,7 +18459,7 @@
     "longitude": 145.430086
   },
   {
-    "_id": 905,
+    "_id": 903,
     "Suburb": "Tarneit",
     "Site_title": "ANZ ATM - Tarneit Central (outside ALDI)",
     "Site_streetaddress": "540 Derrimut Road",
@@ -18522,7 +18480,7 @@
     "longitude": 144.695197
   },
   {
-    "_id": 906,
+    "_id": 904,
     "Suburb": "Brunswick East",
     "Site_title": "Coles Brunswick East (East Brunswick Village)",
     "Site_streetaddress": "127-137 Nicholson Street",
@@ -18543,7 +18501,7 @@
     "longitude": 144.978258
   },
   {
-    "_id": 907,
+    "_id": 905,
     "Suburb": "Spotswood",
     "Site_title": "The Learning Sanctuary Spotswood",
     "Site_streetaddress": "132 Hudsons Road",
@@ -18564,7 +18522,7 @@
     "longitude": 144.88187
   },
   {
-    "_id": 908,
+    "_id": 906,
     "Suburb": "Port Melbourne",
     "Site_title": "Woolworths Fishermans Bend",
     "Site_streetaddress": "477/481 Plummer Street",
@@ -18585,7 +18543,7 @@
     "longitude": 144.93144
   },
   {
-    "_id": 909,
+    "_id": 907,
     "Suburb": "Invergordon",
     "Site_title": "Greater Shepparton Secondary College - Invergordon Campus",
     "Site_streetaddress": "1292 Invergordon Road",
@@ -18606,7 +18564,7 @@
     "longitude": 145.610906
   },
   {
-    "_id": 910,
+    "_id": 908,
     "Suburb": "Shepparton",
     "Site_title": "Aquamoves",
     "Site_streetaddress": "25 Tom Collins Drive",
@@ -18627,7 +18585,7 @@
     "longitude": 145.3942255
   },
   {
-    "_id": 911,
+    "_id": 909,
     "Suburb": "Shepparton",
     "Site_title": "Greater Shepparton Secondary College - McGuire Campus",
     "Site_streetaddress": "92-100 Wilmot Street",
@@ -18646,12 +18604,54 @@
     "Exposure_time_end_24": "23:59:00",
     "latitude": -36.3986597,
     "longitude": 145.4059049
+  },
+  {
+    "_id": 910,
+    "Suburb": "Shepparton",
+    "Site_title": "Greater Shepparton Secondary College - McGuire Campus",
+    "Site_streetaddress": "92-100 Wilmot Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3630",
+    "Exposure_date_dtm": "2021-08-19",
+    "Exposure_date": "19/08/2021",
+    "Exposure_time": "12:00am - 11:59pm",
+    "Notes": "Case attended venue",
+    "Added_date_dtm": "2021-08-21",
+    "Added_date": "21/08/2021",
+    "Added_time": "16:30:00",
+    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
+    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
+    "Exposure_time_start_24": "00:00:00",
+    "Exposure_time_end_24": "23:59:00",
+    "latitude": -36.3986597,
+    "longitude": 145.4059049
+  },
+  {
+    "_id": 911,
+    "Suburb": "Shepparton",
+    "Site_title": "Greater Shepparton Secondary College - Wanganui Campus",
+    "Site_streetaddress": "Parkside Drive",
+    "Site_state": "VIC",
+    "Site_postcode": "3630",
+    "Exposure_date_dtm": "2021-08-18",
+    "Exposure_date": "18/08/2021",
+    "Exposure_time": "12:00am - 11:59pm",
+    "Notes": "Case attended venue",
+    "Added_date_dtm": "2021-08-21",
+    "Added_date": "21/08/2021",
+    "Added_time": "16:30:00",
+    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
+    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
+    "Exposure_time_start_24": "00:00:00",
+    "Exposure_time_end_24": "23:59:00",
+    "latitude": -36.3565582,
+    "longitude": 145.3892203
   },
   {
     "_id": 912,
     "Suburb": "Shepparton",
-    "Site_title": "Greater Shepparton Secondary College - McGuire Campus",
-    "Site_streetaddress": "92-100 Wilmot Street",
+    "Site_title": "Greater Shepparton Secondary College - Wanganui Campus",
+    "Site_streetaddress": "Parkside Drive",
     "Site_state": "VIC",
     "Site_postcode": "3630",
     "Exposure_date_dtm": "2021-08-19",
@@ -18665,16 +18665,16 @@
     "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
     "Exposure_time_start_24": "00:00:00",
     "Exposure_time_end_24": "23:59:00",
-    "latitude": -36.3986597,
-    "longitude": 145.4059049
+    "latitude": -36.3565582,
+    "longitude": 145.3892203
   },
   {
     "_id": 913,
-    "Suburb": "Shepparton",
-    "Site_title": "Greater Shepparton Secondary College - Wanganui Campus",
-    "Site_streetaddress": "Parkside Drive",
+    "Suburb": "Mooroopna",
+    "Site_title": "Greater Shepparton Secondary College - Mooroopna Campus",
+    "Site_streetaddress": "141-179 Echuca Road",
     "Site_state": "VIC",
-    "Site_postcode": "3630",
+    "Site_postcode": "3629",
     "Exposure_date_dtm": "2021-08-18",
     "Exposure_date": "18/08/2021",
     "Exposure_time": "12:00am - 11:59pm",
@@ -18682,20 +18682,20 @@
     "Added_date_dtm": "2021-08-21",
     "Added_date": "21/08/2021",
     "Added_time": "16:30:00",
-    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
+    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
+    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
     "Exposure_time_start_24": "00:00:00",
     "Exposure_time_end_24": "23:59:00",
-    "latitude": -36.3565582,
-    "longitude": 145.3892203
+    "latitude": -36.380653,
+    "longitude": 145.35131
   },
   {
     "_id": 914,
-    "Suburb": "Shepparton",
-    "Site_title": "Greater Shepparton Secondary College - Wanganui Campus",
-    "Site_streetaddress": "Parkside Drive",
+    "Suburb": "Mooroopna",
+    "Site_title": "Greater Shepparton Secondary College - Mooroopna Campus",
+    "Site_streetaddress": "141-179 Echuca Road",
     "Site_state": "VIC",
-    "Site_postcode": "3630",
+    "Site_postcode": "3629",
     "Exposure_date_dtm": "2021-08-19",
     "Exposure_date": "19/08/2021",
     "Exposure_time": "12:00am - 11:59pm",
@@ -18703,57 +18703,15 @@
     "Added_date_dtm": "2021-08-21",
     "Added_date": "21/08/2021",
     "Added_time": "16:30:00",
-    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
+    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
+    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
     "Exposure_time_start_24": "00:00:00",
     "Exposure_time_end_24": "23:59:00",
-    "latitude": -36.3565582,
-    "longitude": 145.3892203
+    "latitude": -36.380653,
+    "longitude": 145.35131
   },
   {
     "_id": 915,
-    "Suburb": "Mooroopna",
-    "Site_title": "Greater Shepparton Secondary College - Mooroopna Campus",
-    "Site_streetaddress": "141-179 Echuca Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3629",
-    "Exposure_date_dtm": "2021-08-18",
-    "Exposure_date": "18/08/2021",
-    "Exposure_time": "12:00am - 11:59pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-08-21",
-    "Added_date": "21/08/2021",
-    "Added_time": "16:30:00",
-    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
-    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
-    "Exposure_time_start_24": "00:00:00",
-    "Exposure_time_end_24": "23:59:00",
-    "latitude": -36.380653,
-    "longitude": 145.35131
-  },
-  {
-    "_id": 916,
-    "Suburb": "Mooroopna",
-    "Site_title": "Greater Shepparton Secondary College - Mooroopna Campus",
-    "Site_streetaddress": "141-179 Echuca Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3629",
-    "Exposure_date_dtm": "2021-08-19",
-    "Exposure_date": "19/08/2021",
-    "Exposure_time": "12:00am - 11:59pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-08-21",
-    "Added_date": "21/08/2021",
-    "Added_time": "16:30:00",
-    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
-    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
-    "Exposure_time_start_24": "00:00:00",
-    "Exposure_time_end_24": "23:59:00",
-    "latitude": -36.380653,
-    "longitude": 145.35131
-  },
-  {
-    "_id": 917,
     "Suburb": "Shepparton",
     "Site_title": "SkySalon Hairdressing",
     "Site_streetaddress": "40 Vaughan Street",
@@ -18774,7 +18732,7 @@
     "longitude": 145.402406
   },
   {
-    "_id": 918,
+    "_id": 916,
     "Suburb": "Coburg",
     "Site_title": "Old School Pizza",
     "Site_streetaddress": "14/20 Nicholson Street",
