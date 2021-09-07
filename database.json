@@ -8791,5 +8791,55 @@
     "latitude": -37.7057511,
     "longitude": 144.9436353,
     "label": "Victoria, Australia"
+  },
+  {
+    "Suburb": "Camberwell",
+    "Site_streetaddress": "277 Camberwell Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3124",
+    "confidence": 1,
+    "latitude": -37.832371,
+    "longitude": 145.058271,
+    "label": "277 Camberwell Road, Camberwell, VIC, Australia"
+  },
+  {
+    "Suburb": "Armadale",
+    "Site_streetaddress": "1232 High Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3143",
+    "confidence": 1,
+    "latitude": -37.856602,
+    "longitude": 145.027863,
+    "label": "1232 High Street, Armadale, VIC, Australia"
+  },
+  {
+    "Suburb": "Malvern",
+    "Site_streetaddress": "1291 Malvern Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3144",
+    "confidence": 1,
+    "latitude": -37.852362,
+    "longitude": 145.03672,
+    "label": "1291B Malvern Road, Malvern, VIC, Australia"
+  },
+  {
+    "Suburb": "Truganina",
+    "Site_streetaddress": "49 Mainview Boulevard",
+    "Site_state": "VIC",
+    "Site_postcode": "3029",
+    "confidence": 1,
+    "latitude": -37.840091,
+    "longitude": 144.73595,
+    "label": "49 Mainview Boulevard, Truganina, VIC, Australia"
+  },
+  {
+    "Suburb": "Melbourne",
+    "Site_streetaddress": "8 Exhibition Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3000",
+    "confidence": 1,
+    "latitude": -37.815543,
+    "longitude": 144.972444,
+    "label": "8 Exhibition Street, Melbourne, VIC, Australia"
   }
 ]
