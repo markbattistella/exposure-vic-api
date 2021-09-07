@@ -7167,9 +7167,9 @@
     "Site_streetaddress": "19 Pentridge Street",
     "Site_state": "VIC",
     "Site_postcode": "3058",
-    "confidence": 0.6,
-    "latitude": -37.744675,
-    "longitude": 144.964201,
+    "confidence": 1,
+    "latitude": -37.7378182,
+    "longitude": 144.9667176,
     "label": "Coburg, VIC, Australia"
   },
   {
@@ -7217,9 +7217,9 @@
     "Site_streetaddress": "Stud Road",
     "Site_state": "VIC",
     "Site_postcode": "3178",
-    "confidence": 0.6,
-    "latitude": -37.923302,
-    "longitude": 145.244171,
+    "confidence": 1,
+    "latitude": -37.9208404,
+    "longitude": 145.2353445,
     "label": "Rowville, VIC, Australia"
   },
   {
@@ -7247,9 +7247,9 @@
     "Site_streetaddress": "15-17 Shierlaw Avenue",
     "Site_state": "VIC",
     "Site_postcode": "3126",
-    "confidence": 0.6,
-    "latitude": -37.824641,
-    "longitude": 145.078192,
+    "confidence": 1,
+    "latitude": -37.8236564,
+    "longitude": 145.0803279,
     "label": "Canterbury, VIC, Australia"
   },
   {
@@ -7307,9 +7307,9 @@
     "Site_streetaddress": "Clisby Court",
     "Site_state": "VIC",
     "Site_postcode": "3128",
-    "confidence": 0.6,
-    "latitude": -37.821529,
-    "longitude": 145.126096,
+    "confidence": 1,
+    "latitude": -37.8181952,
+    "longitude": 145.1184065,
     "label": "Box Hill, VIC, Australia"
   },
   {
@@ -7317,9 +7317,9 @@
     "Site_streetaddress": "340 Craigiburn Road",
     "Site_state": "VIC",
     "Site_postcode": "3064",
-    "confidence": 0.6,
-    "latitude": -37.590804,
-    "longitude": 144.933042,
+    "confidence": 1,
+    "latitude": -37.5947098,
+    "longitude": 144.9104025,
     "label": "Craigieburn, VIC, Australia"
   },
   {
@@ -7347,9 +7347,9 @@
     "Site_streetaddress": "Coburns Road",
     "Site_state": "VIC",
     "Site_postcode": "3337",
-    "confidence": 0.6,
-    "latitude": -37.684986,
-    "longitude": 144.588885,
+    "confidence": 1,
+    "latitude": -37.6856943,
+    "longitude": 144.5636582,
     "label": "Melton, VIC, Australia"
   },
   {
@@ -7377,9 +7377,9 @@
     "Site_streetaddress": "Corner of Hoffmans Road & Keilor Road",
     "Site_state": "VIC",
     "Site_postcode": "3042",
-    "confidence": 0.6,
-    "latitude": -37.739487,
-    "longitude": 144.886433,
+    "confidence": 1,
+    "latitude": -37.7381203,
+    "longitude": 144.8908318,
     "label": "Niddrie, VIC, Australia"
   },
   {
@@ -7387,9 +7387,9 @@
     "Site_streetaddress": "826-830 Whitehorse Road",
     "Site_state": "VIC",
     "Site_postcode": "3128",
-    "confidence": 0.6,
-    "latitude": -37.821529,
-    "longitude": 145.126096,
+    "confidence": 1,
+    "latitude": -37.8174492,
+    "longitude": 145.1149194,
     "label": "Box Hill, VIC, Australia"
   },
   {
@@ -7467,9 +7467,9 @@
     "Site_streetaddress": "1099- 1169 Pascoe Vale Road",
     "Site_state": "VIC",
     "Site_postcode": "3047",
-    "confidence": 0.6,
-    "latitude": -37.684973,
-    "longitude": 144.928208,
+    "confidence": 1,
+    "latitude": -37.6794649,
+    "longitude": 144.9163654,
     "label": "Broadmeadows, VIC, Australia"
   },
   {
@@ -7487,9 +7487,9 @@
     "Site_streetaddress": "259 Dandenong Road",
     "Site_state": "VIC",
     "Site_postcode": "3181",
-    "confidence": 0.6,
-    "latitude": -37.8549,
-    "longitude": 144.99348,
+    "confidence": 1,
+    "latitude": -37.8589206,
+    "longitude": 145.0023818,
     "label": "Windsor, VIC, Australia"
   },
   {
@@ -7497,9 +7497,9 @@
     "Site_streetaddress": "Corner of Hoffmans & Keilor Road",
     "Site_state": "VIC",
     "Site_postcode": "3042",
-    "confidence": 0.8,
-    "latitude": -37.737437,
-    "longitude": 144.892649,
+    "confidence": 1,
+    "latitude": -37.7381203,
+    "longitude": 144.8908318,
     "label": "Hoffmans Road/Keilor Road, Essendon North, VIC, Australia"
   },
   {
@@ -7537,9 +7537,9 @@
     "Site_streetaddress": "12-14 Nelson Road",
     "Site_state": "VIC",
     "Site_postcode": "3128",
-    "confidence": 0.6,
-    "latitude": -37.821529,
-    "longitude": 145.126096,
+    "confidence": 1,
+    "latitude": -37.8162317,
+    "longitude": 145.1175533,
     "label": "Box Hill, VIC, Australia"
   },
   {
@@ -7557,9 +7557,9 @@
     "Site_streetaddress": "47 Edinburgh Road",
     "Site_state": "VIC",
     "Site_postcode": "3240",
-    "confidence": 0.6,
-    "latitude": -37.753322,
-    "longitude": 145.358312,
+    "confidence": 1,
+    "latitude": -37.784735,
+    "longitude": 145.3485857,
     "label": "Lilydale, VIC, Australia"
   },
   {
@@ -7567,9 +7567,9 @@
     "Site_streetaddress": "200-300 James Mirams Drive",
     "Site_state": "VIC",
     "Site_postcode": "3064",
-    "confidence": 0.6,
-    "latitude": -37.62614,
-    "longitude": 144.926767,
+	"confidence": 1,
+    "latitude": -37.616315,
+    "longitude": 144.914773,
     "label": "Roxburgh Park, VIC, Australia"
   },
   {
@@ -7597,9 +7597,9 @@
     "Site_streetaddress": "Shop 13, 380-382 Sayers Road",
     "Site_state": "VIC",
     "Site_postcode": "3029",
-    "confidence": 0.6,
-    "latitude": -37.825233,
-    "longitude": 144.678391,
+    "confidence": 1,
+    "latitude": -37.8498897,
+    "longitude": 144.7032586,
     "label": "Tarneit, VIC, Australia"
   },
   {
