@@ -8991,5 +8991,15 @@
     "latitude": -37.845604,
     "longitude": 144.982784,
     "label": "55 Commercial Road, Melbourne, VIC, Australia"
+  },
+  {
+    "Suburb": "Lalor",
+    "Site_streetaddress": "27 May Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3075",
+    "confidence": 1,
+    "latitude": -37.673728,
+    "longitude": 145.016958,
+    "label": "27 May Road, Lalor, VIC, Australia"
   }
 ]
