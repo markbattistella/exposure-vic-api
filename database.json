@@ -9051,5 +9051,15 @@
     "latitude": -37.736422,
     "longitude": 145.012439,
     "label": "481 Plenty Road, Preston, VIC, Australia"
+  },
+  {
+    "Suburb": "Craigieburn",
+    "Site_streetaddress": "Craigieburn Road and Windrock Avenue",
+    "Site_state": "VIC",
+    "Site_postcode": "3064",
+    "confidence": 0.6,
+    "latitude": -37.590804,
+    "longitude": 144.933042,
+    "label": "Craigieburn, VIC, Australia"
   }
 ]

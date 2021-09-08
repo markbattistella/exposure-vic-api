@@ -274,7 +274,7 @@
   },
   {
     "_id": 13,
-    "Suburb": "Craigeburn",
+    "Suburb": "Craigieburn",
     "Site_title": "Coles - Craigieburn Central",
     "Site_streetaddress": "Craigieburn Road and Windrock Avenue",
     "Site_state": "VIC",
@@ -290,8 +290,8 @@
     "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
     "Exposure_time_start_24": "13:30:00",
     "Exposure_time_end_24": "16:00:00",
-    "latitude": -37.014348,
-    "longitude": 143.480452
+    "latitude": -37.590804,
+    "longitude": 144.933042
   },
   {
     "_id": 14,
