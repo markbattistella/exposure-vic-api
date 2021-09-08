@@ -9071,5 +9071,15 @@
     "latitude": -37.89479,
     "longitude": 144.661343,
     "label": "Werribee, VIC, Australia"
+  },
+  {
+    "Suburb": "Campbellfield",
+    "Site_streetaddress": "27A Nathan Drive ",
+    "Site_state": "VIC",
+    "Site_postcode": "3061",
+    "confidence": 1,
+    "latitude": -37.650281,
+    "longitude": 144.940321,
+    "label": "27 Nathan Drive, Campbellfield, VIC, Australia"
   }
 ]
