@@ -9211,5 +9211,15 @@
     "latitude": -37.750308,
     "longitude": 145.002835,
     "label": "35 Plenty Road, Preston, VIC, Australia"
+  },
+  {
+    "Suburb": "Mildura",
+    "Site_streetaddress": "809-825 Fifteenth Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3500",
+    "confidence": 0.6,
+    "latitude": -34.199704,
+    "longitude": 142.153732,
+    "label": "Mildura, VIC, Australia"
   }
 ]
