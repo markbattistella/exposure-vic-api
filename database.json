@@ -9221,5 +9221,15 @@
     "latitude": -34.199704,
     "longitude": 142.153732,
     "label": "Mildura, VIC, Australia"
+  },
+  {
+    "Suburb": "Carlton",
+    "Site_streetaddress": "720 Swanston Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3053",
+    "confidence": 1,
+    "latitude": -37.799314,
+    "longitude": 144.964421,
+    "label": "720 Swanston Street, Carlton, VIC, Australia"
   }
 ]
