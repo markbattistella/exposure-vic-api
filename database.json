@@ -9081,5 +9081,15 @@
     "latitude": -37.650281,
     "longitude": 144.940321,
     "label": "27 Nathan Drive, Campbellfield, VIC, Australia"
+  },
+  {
+    "Suburb": "Box Hill",
+    "Site_streetaddress": "826-834 Whitehorse Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3128",
+    "confidence": 1,
+    "latitude": -37.817347,
+    "longitude": 145.11716,
+    "label": "826-834 Whitehorse Road, Box Hill, VIC, Australia"
   }
 ]
