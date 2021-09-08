@@ -9001,5 +9001,35 @@
     "latitude": -37.673728,
     "longitude": 145.016958,
     "label": "27 May Road, Lalor, VIC, Australia"
+  },
+  {
+    "Suburb": "Lalor",
+    "Site_streetaddress": "20 McKimmies Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3075",
+    "confidence": 1,
+    "latitude": -37.675132,
+    "longitude": 145.03402,
+    "label": "20 Mckimmies Road, Lalor, VIC, Australia"
+  },
+  {
+    "Suburb": "Truganina",
+    "Site_streetaddress": "49 Mainview Boulevard ",
+    "Site_state": "VIC",
+    "Site_postcode": "3029",
+    "confidence": 1,
+    "latitude": -37.840091,
+    "longitude": 144.73595,
+    "label": "49 Mainview Boulevard, Truganina, VIC, Australia"
+  },
+  {
+    "Suburb": "Tarneit",
+    "Site_streetaddress": "Shop 7a, 380 Sayers Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3029",
+    "confidence": 1,
+    "latitude": -37.849368,
+    "longitude": 144.706281,
+    "label": "380 Sayers Road, Tarneit, VIC, Australia"
   }
 ]
