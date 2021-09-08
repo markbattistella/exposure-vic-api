@@ -9091,5 +9091,65 @@
     "latitude": -37.817347,
     "longitude": 145.11716,
     "label": "826-834 Whitehorse Road, Box Hill, VIC, Australia"
+  },
+  {
+    "Suburb": "Footscray",
+    "Site_streetaddress": "174 Nicholson Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3011",
+    "confidence": 1,
+    "latitude": -37.802167,
+    "longitude": 144.898953,
+    "label": "174 Nicholson Street, Footscray, VIC, Australia"
+  },
+  {
+    "Suburb": "Sunshine",
+    "Site_streetaddress": "12 Clarke Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3020",
+    "confidence": 1,
+    "latitude": -37.786143,
+    "longitude": 144.833071,
+    "label": "12 Clarke Street, Sunshine, VIC, Australia"
+  },
+  {
+    "Suburb": "Fawkner",
+    "Site_streetaddress": "1293 Sydney Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3060",
+    "confidence": 1,
+    "latitude": -37.700777,
+    "longitude": 144.959562,
+    "label": "1293 Sydney Road, Fawkner, VIC, Australia"
+  },
+  {
+    "Suburb": "Richmond",
+    "Site_streetaddress": "112 Elizabeth Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3121",
+    "confidence": 1,
+    "latitude": -37.812145,
+    "longitude": 144.999776,
+    "label": "112/112 Elizabeth Street, Richmond, VIC, Australia"
+  },
+  {
+    "Suburb": "Roxburgh Park",
+    "Site_streetaddress": "200-300 James Miriams Drive",
+    "Site_state": "VIC",
+    "Site_postcode": "3064",
+    "confidence": 0.6,
+    "latitude": -37.62614,
+    "longitude": 144.926767,
+    "label": "Roxburgh Park, VIC, Australia"
+  },
+  {
+    "Suburb": "Truganina",
+    "Site_streetaddress": "2 Mala Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3029",
+    "confidence": 1,
+    "latitude": -37.843142,
+    "longitude": 144.72491,
+    "label": "2 Mala Street, Truganina, VIC, Australia"
   }
 ]
