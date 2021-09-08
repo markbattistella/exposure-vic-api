@@ -9231,5 +9231,25 @@
     "latitude": -37.799314,
     "longitude": 144.964421,
     "label": "720 Swanston Street, Carlton, VIC, Australia"
+  },
+  {
+    "Suburb": "Glenroy",
+    "Site_streetaddress": "Pearl Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3046",
+    "confidence": 0.6,
+    "latitude": -37.703471,
+    "longitude": 144.925,
+    "label": "Glenroy, VIC, Australia"
+  },
+  {
+    "Suburb": "Preston",
+    "Site_streetaddress": "259 Plenty Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3072",
+    "confidence": 1,
+    "latitude": -37.7436,
+    "longitude": 145.007518,
+    "label": "259 Plenty Road, Preston, VIC, Australia"
   }
 ]
