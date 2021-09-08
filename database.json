@@ -9151,5 +9151,25 @@
     "latitude": -37.843142,
     "longitude": 144.72491,
     "label": "2 Mala Street, Truganina, VIC, Australia"
+  },
+  {
+    "Suburb": "Tarneit",
+    "Site_streetaddress": "540 Derrimut Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3039",
+    "confidence": 1,
+    "latitude": -37.835415,
+    "longitude": 144.695197,
+    "label": "540 Derrimut Road, Tarneit, VIC, Australia"
+  },
+  {
+    "Suburb": "Epping",
+    "Site_streetaddress": "210 O'Herns Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3076",
+    "confidence": 1,
+    "latitude": -37.634172,
+    "longitude": 145.002905,
+    "label": "210 Oherns Road, Epping, VIC, Australia"
   }
 ]
