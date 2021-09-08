@@ -9171,5 +9171,45 @@
     "latitude": -37.634172,
     "longitude": 145.002905,
     "label": "210 Oherns Road, Epping, VIC, Australia"
+  },
+  {
+    "Suburb": "Mernda",
+    "Site_streetaddress": "1/40 Breadalbane Ave",
+    "Site_state": "VIC",
+    "Site_postcode": "3754",
+    "confidence": 1,
+    "latitude": -37.607656,
+    "longitude": 145.088261,
+    "label": "40 Breadalbane Avenue, Mernda, VIC, Australia"
+  },
+  {
+    "Suburb": "Cardinia",
+    "Site_streetaddress": "465 Dalmore Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3978",
+    "confidence": 0.6,
+    "latitude": -38.15,
+    "longitude": 145.41667,
+    "label": "Cardinia, VIC, Australia"
+  },
+  {
+    "Suburb": "Docklands",
+    "Site_streetaddress": "673 La Trobe Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3008",
+    "confidence": 1,
+    "latitude": -37.814767,
+    "longitude": 144.947706,
+    "label": "673 La Trobe Street, Docklands, VIC, Australia"
+  },
+  {
+    "Suburb": "Preston",
+    "Site_streetaddress": "35 Plenty Rd",
+    "Site_state": "VIC",
+    "Site_postcode": "3072",
+    "confidence": 1,
+    "latitude": -37.750308,
+    "longitude": 145.002835,
+    "label": "35 Plenty Road, Preston, VIC, Australia"
   }
 ]
