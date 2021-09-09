@@ -9571,5 +9571,35 @@
     "latitude": -37.750636,
     "longitude": 144.886792,
     "label": "28 Hampton Road, Essendon West, VIC, Australia"
+  },
+  {
+    "Suburb": "Fairfield",
+    "Site_streetaddress": "348 Darebin Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3078",
+    "confidence": 0.6,
+    "latitude": -37.772375,
+    "longitude": 145.021292,
+    "label": "Fairfield, VIC, Australia"
+  },
+  {
+    "Suburb": "Sunshine West",
+    "Site_streetaddress": "10A Burwood Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3020",
+    "confidence": 0.6,
+    "latitude": -37.795654,
+    "longitude": 144.81154,
+    "label": "Sunshine West, VIC, Australia"
+  },
+  {
+    "Suburb": "Campbellfield",
+    "Site_streetaddress": "60 Barry Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3061",
+    "confidence": 1,
+    "latitude": -37.668542,
+    "longitude": 144.97067,
+    "label": "60 Barry Road, Campbellfield, VIC, Australia"
   }
 ]
