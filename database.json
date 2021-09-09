@@ -9531,5 +9531,45 @@
     "latitude": -37.732695,
     "longitude": 144.953206,
     "label": "152B Gaffney Street, Coburg North, VIC, Australia"
+  },
+  {
+    "Suburb": "Shepparton",
+    "Site_streetaddress": "64 High Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3630",
+    "confidence": 1,
+    "latitude": -36.38143,
+    "longitude": 145.40022,
+    "label": "64 High Street, Shepparton, VIC, Australia"
+  },
+  {
+    "Suburb": "Campbellfield",
+    "Site_streetaddress": "Building N, 13 Reo Crescent",
+    "Site_state": "VIC",
+    "Site_postcode": "3061",
+    "confidence": 1,
+    "latitude": -37.646609,
+    "longitude": 144.938452,
+    "label": "13 Reo Crescent, Campbellfield, VIC, Australia"
+  },
+  {
+    "Suburb": "Hoppers Crossing",
+    "Site_streetaddress": "6 Elm Park Drive",
+    "Site_state": "VIC",
+    "Site_postcode": "3029",
+    "confidence": 1,
+    "latitude": -37.87166,
+    "longitude": 144.719896,
+    "label": "6 Elm Park Drive, Hoppers Crossing, VIC, Australia"
+  },
+  {
+    "Suburb": "Essendon West",
+    "Site_streetaddress": "28 Hampton Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3040",
+    "confidence": 1,
+    "latitude": -37.750636,
+    "longitude": 144.886792,
+    "label": "28 Hampton Road, Essendon West, VIC, Australia"
   }
 ]
