@@ -9481,5 +9481,55 @@
     "latitude": -37.932285,
     "longitude": 145.150605,
     "label": "1683 Centre Road, Springvale, VIC, Australia"
+  },
+  {
+    "Suburb": "Oak Park",
+    "Site_streetaddress": "298 Pascoe Vale Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3046",
+    "confidence": 0.6,
+    "latitude": -37.71867,
+    "longitude": 144.917081,
+    "label": "Oak Park, VIC, Australia"
+  },
+  {
+    "Suburb": "Epping",
+    "Site_streetaddress": "185 Cooper Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3076",
+    "confidence": 1,
+    "latitude": -37.65307,
+    "longitude": 145.014945,
+    "label": "185 Cooper Street, Epping, VIC, Australia"
+  },
+  {
+    "Suburb": "Essendon",
+    "Site_streetaddress": "82 Raleigh Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3040",
+    "confidence": 1,
+    "latitude": -37.752643,
+    "longitude": 144.917417,
+    "label": "82 Raleigh Street, Essendon, VIC, Australia"
+  },
+  {
+    "Suburb": "Thornbury",
+    "Site_streetaddress": "798 High Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3071",
+    "confidence": 1,
+    "latitude": -37.75406,
+    "longitude": 145.001574,
+    "label": "798 High Street, Thornbury, VIC, Australia"
+  },
+  {
+    "Suburb": "Coburg North",
+    "Site_streetaddress": "152B Gaffney Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3058",
+    "confidence": 1,
+    "latitude": -37.732695,
+    "longitude": 144.953206,
+    "label": "152B Gaffney Street, Coburg North, VIC, Australia"
   }
 ]
