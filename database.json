@@ -9361,5 +9361,15 @@
     "latitude": -37.816611,
     "longitude": 144.963454,
     "label": "325 Collins Street, Melbourne, VIC, Australia"
+  },
+  {
+    "Suburb": "Preston",
+    "Site_streetaddress": "35 Plenty Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3072",
+    "confidence": 1,
+    "latitude": -37.750308,
+    "longitude": 145.002835,
+    "label": "35 Plenty Road, Preston, VIC, Australia"
   }
 ]
