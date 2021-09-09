@@ -9577,9 +9577,9 @@
     "Site_streetaddress": "348 Darebin Road",
     "Site_state": "VIC",
     "Site_postcode": "3078",
-    "confidence": 0.6,
-    "latitude": -37.772375,
-    "longitude": 145.021292,
+    "confidence": 1,
+    "latitude": -37.7667897,
+    "longitude": 145.0274623,
     "label": "Fairfield, VIC, Australia"
   },
   {
@@ -9587,9 +9587,9 @@
     "Site_streetaddress": "10A Burwood Road",
     "Site_state": "VIC",
     "Site_postcode": "3020",
-    "confidence": 0.6,
-    "latitude": -37.795654,
-    "longitude": 144.81154,
+    "confidence": 1,
+    "latitude": -37.762575,
+    "longitude": 144.837666,
     "label": "Sunshine West, VIC, Australia"
   },
   {
