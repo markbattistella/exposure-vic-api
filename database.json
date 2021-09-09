@@ -9371,5 +9371,45 @@
     "latitude": -37.750308,
     "longitude": 145.002835,
     "label": "35 Plenty Road, Preston, VIC, Australia"
+  },
+  {
+    "Suburb": "Craigieburn",
+    "Site_streetaddress": "7/38 Craigieburn Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3064",
+    "confidence": 1,
+    "latitude": -37.597575,
+    "longitude": 144.93936,
+    "label": "38 Craigieburn Road, Craigieburn, VIC, Australia"
+  },
+  {
+    "Suburb": "Southbank",
+    "Site_streetaddress": "105 Claredon Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3006",
+    "confidence": 0.6,
+    "latitude": -37.823364,
+    "longitude": 144.95633,
+    "label": "Southbank, VIC, Australia"
+  },
+  {
+    "Suburb": "Yarraville",
+    "Site_streetaddress": "157/155-161 Hyde Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3013",
+    "confidence": 0.6,
+    "latitude": -37.818727,
+    "longitude": 144.879064,
+    "label": "Yarraville, VIC, Australia"
+  },
+  {
+    "Suburb": "Craigieburn",
+    "Site_streetaddress": "184 Craigieburn Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3064",
+    "confidence": 1,
+    "latitude": -37.597517,
+    "longitude": 144.93056,
+    "label": "184 Craigieburn Road, Craigieburn, VIC, Australia"
   }
 ]
