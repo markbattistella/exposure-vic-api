@@ -9411,5 +9411,75 @@
     "latitude": -37.597517,
     "longitude": 144.93056,
     "label": "184 Craigieburn Road, Craigieburn, VIC, Australia"
+  },
+  {
+    "Suburb": "Gisborne",
+    "Site_streetaddress": "Willowbank Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3437",
+    "confidence": 0.4,
+    "latitude": -37.491718,
+    "longitude": 144.594533,
+    "label": "Gisborne - Macedon, VIC, Australia"
+  },
+  {
+    "Suburb": "Deanside",
+    "Site_streetaddress": "38 Conservatory Drive",
+    "Site_state": "VIC",
+    "Site_postcode": "3336",
+    "confidence": 0.3,
+    "latitude": -37.014348,
+    "longitude": 143.480452,
+    "label": "Victoria, Australia"
+  },
+  {
+    "Suburb": "Reservoir",
+    "Site_streetaddress": "108 Newlands Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3072",
+    "confidence": 1,
+    "latitude": -37.714812,
+    "longitude": 144.983787,
+    "label": "108 Newlands Road, Reservoir, VIC, Australia"
+  },
+  {
+    "Suburb": "Dromana",
+    "Site_streetaddress": "25 Old White Hill Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3936",
+    "confidence": 1,
+    "latitude": -38.342206,
+    "longitude": 145.008688,
+    "label": "25 Old White Hill Road, Dromana, VIC, Australia"
+  },
+  {
+    "Suburb": "Campbellfield",
+    "Site_streetaddress": "Unit 2/45 Adrian Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3061",
+    "confidence": 1,
+    "latitude": -37.659426,
+    "longitude": 144.960886,
+    "label": "45 Adrian Road, Campbellfield, VIC, Australia"
+  },
+  {
+    "Suburb": "Roxburgh Park",
+    "Site_streetaddress": "Somerton Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3064",
+    "confidence": 0.6,
+    "latitude": -37.62614,
+    "longitude": 144.926767,
+    "label": "Roxburgh Park, VIC, Australia"
+  },
+  {
+    "Suburb": "Springvale",
+    "Site_streetaddress": "1683 Centre Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3171",
+    "confidence": 1,
+    "latitude": -37.932285,
+    "longitude": 145.150605,
+    "label": "1683 Centre Road, Springvale, VIC, Australia"
   }
 ]
