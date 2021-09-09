@@ -9261,5 +9261,105 @@
     "latitude": -37.772247,
     "longitude": 144.978258,
     "label": "127-137 Nicholson Street, Brunswick East, VIC, Australia"
+  },
+  {
+    "Suburb": "Taylors Lakes",
+    "Site_streetaddress": "1 Melton Highway",
+    "Site_state": "VIC",
+    "Site_postcode": "3038",
+    "confidence": 1,
+    "latitude": -37.70204,
+    "longitude": 144.800842,
+    "label": "1/1 Melton Highway, Taylors Lakes, VIC, Australia"
+  },
+  {
+    "Suburb": "Melbourne",
+    "Site_streetaddress": "250 Spencer Street ",
+    "Site_state": "VIC",
+    "Site_postcode": "3000",
+    "confidence": 1,
+    "latitude": -37.814668,
+    "longitude": 144.952669,
+    "label": "250 Spencer Street, Melbourne, VIC, Australia"
+  },
+  {
+    "Suburb": "Southbank",
+    "Site_streetaddress": "260 City Road/ Southbank Boulevard ",
+    "Site_state": "VIC",
+    "Site_postcode": "3006",
+    "confidence": 0.6,
+    "latitude": -37.823364,
+    "longitude": 144.95633,
+    "label": "Southbank, VIC, Australia"
+  },
+  {
+    "Suburb": "Essendon Fields",
+    "Site_streetaddress": "10 English Street ",
+    "Site_state": "VIC",
+    "Site_postcode": "3041",
+    "confidence": 1,
+    "latitude": -37.72696,
+    "longitude": 144.893699,
+    "label": "10 English Street, Essendon Fields, VIC, Australia"
+  },
+  {
+    "Suburb": "Keilor East",
+    "Site_streetaddress": "20 Groves Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3033",
+    "confidence": 1,
+    "latitude": -37.744282,
+    "longitude": 144.863277,
+    "label": "20 Groves Street, Keilor East, VIC, Australia"
+  },
+  {
+    "Suburb": "Coburg North",
+    "Site_streetaddress": "Gaffney Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3058",
+    "confidence": 0.6,
+    "latitude": -37.726946,
+    "longitude": 144.967452,
+    "label": "Coburg North, VIC, Australia"
+  },
+  {
+    "Suburb": "Maribyrnong",
+    "Site_streetaddress": "Shop 1112, 120-200 Rosamond Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3032",
+    "confidence": 1,
+    "latitude": -37.772907,
+    "longitude": 144.886355,
+    "label": "120-200 Rosamond Road, Maribyrnong, VIC, Australia"
+  },
+  {
+    "Suburb": "Sunbury",
+    "Site_streetaddress": "106-108 Horne Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3429",
+    "confidence": 1,
+    "latitude": -37.58513,
+    "longitude": 144.721553,
+    "label": "106-108 Horne Street, Sunbury, VIC, Australia"
+  },
+  {
+    "Suburb": "Mickleham",
+    "Site_streetaddress": "200 Donnybrook Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3064",
+    "confidence": 1,
+    "latitude": -37.528704,
+    "longitude": 144.928689,
+    "label": "200P Donnybrook Road, Mickleham, VIC, Australia"
+  },
+  {
+    "Suburb": "Melbourne",
+    "Site_streetaddress": "325 Collins Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3000",
+    "confidence": 1,
+    "latitude": -37.816611,
+    "longitude": 144.963454,
+    "label": "325 Collins Street, Melbourne, VIC, Australia"
   }
 ]
