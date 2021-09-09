@@ -14,7 +14,7 @@
     "url": "git+https://github.com/markbattistella/exposure-vic-api/issues"
   },
   "dependencies": {
-    "node-fetch": "^3.0.0"
+    "node-fetch": "^2.6.1"
   },
   "devDependencies": {
     "docsify": "^4.12.1",
