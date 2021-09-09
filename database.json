@@ -9287,9 +9287,9 @@
     "Site_streetaddress": "260 City Road/ Southbank Boulevard ",
     "Site_state": "VIC",
     "Site_postcode": "3006",
-    "confidence": 0.6,
-    "latitude": -37.823364,
-    "longitude": 144.95633,
+    "confidence": 1,
+    "latitude": -37.8259418,
+    "longitude": 144.9592781,
     "label": "Southbank, VIC, Australia"
   },
   {
@@ -9317,9 +9317,9 @@
     "Site_streetaddress": "Gaffney Street",
     "Site_state": "VIC",
     "Site_postcode": "3058",
-    "confidence": 0.6,
-    "latitude": -37.726946,
-    "longitude": 144.967452,
+    "confidence": 1,
+    "latitude": -37.7312331,
+    "longitude": 144.9352894,
     "label": "Coburg North, VIC, Australia"
   },
   {
@@ -9387,9 +9387,9 @@
     "Site_streetaddress": "105 Claredon Street",
     "Site_state": "VIC",
     "Site_postcode": "3006",
-    "confidence": 0.6,
-    "latitude": -37.823364,
-    "longitude": 144.95633,
+    "confidence": 1,
+    "latitude": -37.8272031,
+    "longitude": 144.9578667,
     "label": "Southbank, VIC, Australia"
   },
   {
@@ -9397,9 +9397,9 @@
     "Site_streetaddress": "157/155-161 Hyde Street",
     "Site_state": "VIC",
     "Site_postcode": "3013",
-    "confidence": 0.6,
-    "latitude": -37.818727,
-    "longitude": 144.879064,
+    "confidence": 1,
+    "latitude": -37.8156432,
+    "longitude": 144.8951296,
     "label": "Yarraville, VIC, Australia"
   },
   {
@@ -9417,9 +9417,9 @@
     "Site_streetaddress": "Willowbank Road",
     "Site_state": "VIC",
     "Site_postcode": "3437",
-    "confidence": 0.4,
-    "latitude": -37.491718,
-    "longitude": 144.594533,
+    "confidence": 1,
+    "latitude": -37.5000971,
+    "longitude": 144.589497,
     "label": "Gisborne - Macedon, VIC, Australia"
   },
   {
@@ -9427,9 +9427,9 @@
     "Site_streetaddress": "38 Conservatory Drive",
     "Site_state": "VIC",
     "Site_postcode": "3336",
-    "confidence": 0.3,
-    "latitude": -37.014348,
-    "longitude": 143.480452,
+    "confidence": 1,
+    "latitude": -37.734529,
+    "longitude": 144.775054,
     "label": "Victoria, Australia"
   },
   {
@@ -9467,9 +9467,9 @@
     "Site_streetaddress": "Somerton Road",
     "Site_state": "VIC",
     "Site_postcode": "3064",
-    "confidence": 0.6,
-    "latitude": -37.62614,
-    "longitude": 144.926767,
+    "confidence": 1,
+    "latitude": -37.6383264,
+    "longitude": 144.9302717,
     "label": "Roxburgh Park, VIC, Australia"
   },
   {
@@ -9487,9 +9487,9 @@
     "Site_streetaddress": "298 Pascoe Vale Road",
     "Site_state": "VIC",
     "Site_postcode": "3046",
-    "confidence": 0.6,
-    "latitude": -37.71867,
-    "longitude": 144.917081,
+    "confidence": 1,
+    "latitude": -37.7208782,
+    "longitude": 144.9192912,
     "label": "Oak Park, VIC, Australia"
   },
   {
