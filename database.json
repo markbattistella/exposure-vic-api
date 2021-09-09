@@ -8867,9 +8867,9 @@
     "Site_streetaddress": "77 Miller Road",
     "Site_state": "VIC",
     "Site_postcode": "3012",
-    "confidence": 0.6,
-    "latitude": -37.81502,
-    "longitude": 144.841138,
+    "confidence": 1,
+    "latitude": -37.8228533,
+    "longitude": 144.8479012,
     "label": "Brooklyn, VIC, Australia"
   },
   {
@@ -8917,9 +8917,9 @@
     "Site_streetaddress": "93-95 Yellowbox Drive",
     "Site_state": "VIC",
     "Site_postcode": "3064",
-    "confidence": 0.6,
-    "latitude": -37.590804,
-    "longitude": 144.933042,
+    "confidence": 1,
+    "latitude": -37.6145527,
+    "longitude": 144.9413313,
     "label": "Craigieburn, VIC, Australia"
   },
   {
@@ -8957,9 +8957,9 @@
     "Site_streetaddress": "Craigieburn Road and Windrock Avenue",
     "Site_state": "VIC",
     "Site_postcode": "3064",
-    "confidence": 0.3,
-    "latitude": -37.014348,
-    "longitude": 143.480452,
+    "confidence": 1,
+    "latitude": -37.5931972,
+    "longitude": 144.9130822,
     "label": "Victoria, Australia"
   },
   {
@@ -8967,9 +8967,9 @@
     "Site_streetaddress": "27-33 Spencer Street",
     "Site_state": "VIC",
     "Site_postcode": "3074",
-    "confidence": 0.6,
-    "latitude": -37.683292,
-    "longitude": 145.00751,
+    "confidence": 1,
+    "latitude": -37.6840912,
+    "longitude": 145.0265824,
     "label": "Thomastown, VIC, Australia"
   },
   {
@@ -9057,9 +9057,9 @@
     "Site_streetaddress": "Craigieburn Road and Windrock Avenue",
     "Site_state": "VIC",
     "Site_postcode": "3064",
-    "confidence": 0.6,
-    "latitude": -37.590804,
-    "longitude": 144.933042,
+    "confidence": 1,
+    "latitude": -37.5931972,
+    "longitude": 144.9130822,
     "label": "Craigieburn, VIC, Australia"
   },
   {
@@ -9067,9 +9067,9 @@
     "Site_streetaddress": "Shop 128, Corner Derrimut Road and Heaths Road",
     "Site_state": "VIC",
     "Site_postcode": "3030",
-    "confidence": 0.6,
-    "latitude": -37.89479,
-    "longitude": 144.661343,
+    "confidence": 1,
+    "latitude": -37.8775707,
+    "longitude": 144.6654117,
     "label": "Werribee, VIC, Australia"
   },
   {
@@ -9137,9 +9137,9 @@
     "Site_streetaddress": "200-300 James Miriams Drive",
     "Site_state": "VIC",
     "Site_postcode": "3064",
-    "confidence": 0.6,
-    "latitude": -37.62614,
-    "longitude": 144.926767,
+    "confidence": 1,
+    "latitude": -37.6160981,
+    "longitude": 144.9129252,
     "label": "Roxburgh Park, VIC, Australia"
   },
   {
@@ -9187,9 +9187,9 @@
     "Site_streetaddress": "465 Dalmore Road",
     "Site_state": "VIC",
     "Site_postcode": "3978",
-    "confidence": 0.6,
-    "latitude": -38.15,
-    "longitude": 145.41667,
+    "confidence": 1,
+    "latitude": -38.1721613,
+    "longitude": 145.4204874,
     "label": "Cardinia, VIC, Australia"
   },
   {
@@ -9217,9 +9217,9 @@
     "Site_streetaddress": "809-825 Fifteenth Street",
     "Site_state": "VIC",
     "Site_postcode": "3500",
-    "confidence": 0.6,
-    "latitude": -34.199704,
-    "longitude": 142.153732,
+    "confidence": 1,
+    "latitude": -34.2092808,
+    "longitude": 142.1390258,
     "label": "Mildura, VIC, Australia"
   },
   {
@@ -9237,9 +9237,9 @@
     "Site_streetaddress": "Pearl Street",
     "Site_state": "VIC",
     "Site_postcode": "3046",
-    "confidence": 0.6,
-    "latitude": -37.703471,
-    "longitude": 144.925,
+    "confidence": 1,
+    "latitude": -37.7094183,
+    "longitude": 144.9248294,
     "label": "Glenroy, VIC, Australia"
   },
   {
