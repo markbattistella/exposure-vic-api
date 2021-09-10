@@ -9771,5 +9771,85 @@
     "latitude": -37.62614,
     "longitude": 144.926767,
     "label": "Roxburgh Park, VIC, Australia"
+  },
+  {
+    "Suburb": "Docklands",
+    "Site_streetaddress": "883 Collins Sreet",
+    "Site_state": "VIC",
+    "Site_postcode": "3008",
+    "confidence": 0.6,
+    "latitude": -37.818898,
+    "longitude": 144.948291,
+    "label": "Docklands, VIC, Australia"
+  },
+  {
+    "Suburb": "Thornbury",
+    "Site_streetaddress": "111 Flinders Sreet",
+    "Site_state": "VIC",
+    "Site_postcode": "3071",
+    "confidence": 0.6,
+    "latitude": -37.758274,
+    "longitude": 145.005174,
+    "label": "Thornbury, VIC, Australia"
+  },
+  {
+    "Suburb": "Melbourne",
+    "Site_streetaddress": "462 Elizabeth Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3000",
+    "confidence": 1,
+    "latitude": -37.807871,
+    "longitude": 144.960511,
+    "label": "462 Elizabeth Street, Melbourne, VIC, Australia"
+  },
+  {
+    "Suburb": "Melbourne",
+    "Site_streetaddress": "501/37 Little La Trobe Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3000",
+    "confidence": 0.6,
+    "latitude": -37.825071,
+    "longitude": 144.978682,
+    "label": "Melbourne, VIC, Australia"
+  },
+  {
+    "Suburb": "Wyndham Vale",
+    "Site_streetaddress": "6 Manor Lakes Boulevard",
+    "Site_state": "VIC",
+    "Site_postcode": "3024",
+    "confidence": 1,
+    "latitude": -37.876815,
+    "longitude": 144.614636,
+    "label": "6 Manor Lakes Boulevard, Wyndham Vale, VIC, Australia"
+  },
+  {
+    "Suburb": "Laverton",
+    "Site_streetaddress": "12-14 Maria Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3026",
+    "confidence": 0.6,
+    "latitude": -37.857378,
+    "longitude": 144.774018,
+    "label": "Laverton, VIC, Australia"
+  },
+  {
+    "Suburb": "Greenvale",
+    "Site_streetaddress": "11 Barrymore Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3059",
+    "confidence": 1,
+    "latitude": -37.652239,
+    "longitude": 144.888083,
+    "label": "11 Barrymore Road, Greenvale, VIC, Australia"
+  },
+  {
+    "Suburb": "Balaclava",
+    "Site_streetaddress": "41 Gourlay Sreet",
+    "Site_state": "VIC",
+    "Site_postcode": "3183",
+    "confidence": 0.6,
+    "latitude": -37.870129,
+    "longitude": 144.994832,
+    "label": "Balaclava, VIC, Australia"
   }
 ]
