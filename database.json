@@ -9931,5 +9931,55 @@
     "latitude": -38.091706,
     "longitude": 144.358735,
     "label": "Norlane, VIC, Australia"
+  },
+  {
+    "Suburb": "Essendon North",
+    "Site_streetaddress": "294 Keilor Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3041",
+    "confidence": 1,
+    "latitude": -37.738171,
+    "longitude": 144.894991,
+    "label": "294 Keilor Road, Essendon North, VIC, Australia"
+  },
+  {
+    "Suburb": "Lorne",
+    "Site_streetaddress": "45 Otway Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3232",
+    "confidence": 1,
+    "latitude": -38.540656,
+    "longitude": 143.973369,
+    "label": "45 Otway Street, Lorne, VIC, Australia"
+  },
+  {
+    "Suburb": "Geelong",
+    "Site_streetaddress": "133 Yarra Street, Corner Yarra Street and Myers Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3220",
+    "confidence": 0.6,
+    "latitude": -38.150785,
+    "longitude": 144.361579,
+    "label": "Geelong, VIC, Australia"
+  },
+  {
+    "Suburb": "North Geelong",
+    "Site_streetaddress": "252 Thompson Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3215",
+    "confidence": 1,
+    "latitude": -38.109666,
+    "longitude": 144.34382,
+    "label": "252 Thompson Road, North Geelong, VIC, Australia"
+  },
+  {
+    "Suburb": "North Geelong",
+    "Site_streetaddress": "312 Melbourne Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3215",
+    "confidence": 1,
+    "latitude": -38.110168,
+    "longitude": 144.352524,
+    "label": "312 Melbourne Road, North Geelong, VIC, Australia"
   }
 ]
