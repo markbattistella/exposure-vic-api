@@ -9631,5 +9631,55 @@
     "latitude": -37.659426,
     "longitude": 144.960886,
     "label": "45 Adrian Road, Campbellfield, VIC, Australia"
+  },
+  {
+    "Suburb": "Fawkner",
+    "Site_streetaddress": "1293 Sydney Road ",
+    "Site_state": "VIC",
+    "Site_postcode": "3060",
+    "confidence": 1,
+    "latitude": -37.700777,
+    "longitude": 144.959562,
+    "label": "1293 Sydney Road, Fawkner, VIC, Australia"
+  },
+  {
+    "Suburb": "Somerton",
+    "Site_streetaddress": "100/90-150 Union Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3062",
+    "confidence": 1,
+    "latitude": -37.635684,
+    "longitude": 144.943902,
+    "label": "90-150 Union Road, Somerton, VIC, Australia"
+  },
+  {
+    "Suburb": "Malvern",
+    "Site_streetaddress": "1 Como Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3144",
+    "confidence": 0.6,
+    "latitude": -37.857461,
+    "longitude": 145.034939,
+    "label": "Malvern, VIC, Australia"
+  },
+  {
+    "Suburb": "Altona",
+    "Site_streetaddress": "33 Jordan Close",
+    "Site_state": "VIC",
+    "Site_postcode": "3018",
+    "confidence": 1,
+    "latitude": -37.855812,
+    "longitude": 144.814389,
+    "label": "33 Jordan Close, Altona, VIC, Australia"
+  },
+  {
+    "Suburb": "Craigieburn",
+    "Site_streetaddress": "340 Craigieburn Road ",
+    "Site_state": "VIC",
+    "Site_postcode": "3064",
+    "confidence": 1,
+    "latitude": -37.595504,
+    "longitude": 144.915623,
+    "label": "340 Craigieburn Road, Craigieburn, VIC, Australia"
   }
 ]
