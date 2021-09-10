@@ -9681,5 +9681,25 @@
     "latitude": -37.595504,
     "longitude": 144.915623,
     "label": "340 Craigieburn Road, Craigieburn, VIC, Australia"
+  },
+  {
+    "Suburb": "Craigieburn",
+    "Site_streetaddress": "199 Newbury Boulevard",
+    "Site_state": "VIC",
+    "Site_postcode": "3064",
+    "confidence": 1,
+    "latitude": -37.571782,
+    "longitude": 144.909018,
+    "label": "197-199 Newbury Boulevard, Craigieburn, VIC, Australia"
+  },
+  {
+    "Suburb": "Southbank",
+    "Site_streetaddress": "105 Clarendon Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3006",
+    "confidence": 1,
+    "latitude": -37.827154,
+    "longitude": 144.958155,
+    "label": "105/105 Clarendon Street, Southbank, VIC, Australia"
   }
 ]
