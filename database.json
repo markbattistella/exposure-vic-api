@@ -9731,5 +9731,25 @@
     "latitude": -37.836981,
     "longitude": 144.993064,
     "label": "12 Yarra Street, South Yarra, VIC, Australia"
+  },
+  {
+    "Suburb": "Southbank",
+    "Site_streetaddress": "100 Kavanagh Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3006",
+    "confidence": 1,
+    "latitude": -37.825159,
+    "longitude": 144.962702,
+    "label": "100 Kavanagh Street, Southbank, VIC, Australia"
+  },
+  {
+    "Suburb": "Craigieburn",
+    "Site_streetaddress": "15 Bank Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3064",
+    "confidence": 1,
+    "latitude": -37.593231,
+    "longitude": 144.927689,
+    "label": "15 Bank Street, Craigieburn, VIC, Australia"
   }
 ]
