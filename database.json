@@ -9981,5 +9981,25 @@
     "latitude": -38.110168,
     "longitude": 144.352524,
     "label": "312 Melbourne Road, North Geelong, VIC, Australia"
+  },
+  {
+    "Suburb": "Melbourne",
+    "Site_streetaddress": "24 Collins Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3000",
+    "confidence": 1,
+    "latitude": -37.813454,
+    "longitude": 144.972718,
+    "label": "24 Collins Street, Melbourne, VIC, Australia"
+  },
+  {
+    "Suburb": "Daylesford",
+    "Site_streetaddress": "10 Hospital Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3460",
+    "confidence": 1,
+    "latitude": -37.337846,
+    "longitude": 144.145403,
+    "label": "10 Hospital Street, Daylesford, VIC, Australia"
   }
 ]
