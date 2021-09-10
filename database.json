@@ -9911,5 +9911,25 @@
     "latitude": -37.344919,
     "longitude": 144.142327,
     "label": "117 Vincent Street, Daylesford, VIC, Australia"
+  },
+  {
+    "Suburb": "Norlane",
+    "Site_streetaddress": "5-19 princes Highway",
+    "Site_state": "VIC",
+    "Site_postcode": "3214",
+    "confidence": 1,
+    "latitude": -38.097678,
+    "longitude": 144.35488,
+    "label": "5-19 Princes Highway, Norlane, VIC, Australia"
+  },
+  {
+    "Suburb": "Norlane",
+    "Site_streetaddress": "343 Thompson Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3214",
+    "confidence": 0.6,
+    "latitude": -38.091706,
+    "longitude": 144.358735,
+    "label": "Norlane, VIC, Australia"
   }
 ]
