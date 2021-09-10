@@ -9601,5 +9601,35 @@
     "latitude": -37.668542,
     "longitude": 144.97067,
     "label": "60 Barry Road, Campbellfield, VIC, Australia"
+  },
+  {
+    "Suburb": "Sunshine North",
+    "Site_streetaddress": "81 Spalding Avenue",
+    "Site_state": "VIC",
+    "Site_postcode": "3020",
+    "confidence": 1,
+    "latitude": -37.750087,
+    "longitude": 144.839746,
+    "label": "81 Spalding Avenue, Sunshine North, VIC, Australia"
+  },
+  {
+    "Suburb": "Footscray",
+    "Site_streetaddress": "16 Paisley Steet",
+    "Site_state": "VIC",
+    "Site_postcode": "3011",
+    "confidence": 0.6,
+    "latitude": -37.79613,
+    "longitude": 144.897046,
+    "label": "Footscray, VIC, Australia"
+  },
+  {
+    "Suburb": "Campbellfield",
+    "Site_streetaddress": "Unit 2/45 Adrian Road ",
+    "Site_state": "VIC",
+    "Site_postcode": "3061",
+    "confidence": 1,
+    "latitude": -37.659426,
+    "longitude": 144.960886,
+    "label": "45 Adrian Road, Campbellfield, VIC, Australia"
   }
 ]
