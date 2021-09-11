@@ -10191,5 +10191,115 @@
     "latitude": -34.20383,
     "longitude": 142.116933,
     "label": "17 Rita Drive, Mildura, VIC, Australia"
+  },
+  {
+    "Suburb": "Gladstone Park",
+    "Site_streetaddress": "170, 8-34 Gladstone Park Drive",
+    "Site_state": "VIC",
+    "Site_postcode": "3043",
+    "confidence": 1,
+    "latitude": -37.689209,
+    "longitude": 144.884602,
+    "label": "170/8-34 Gladstone Park Drive, Gladstone Park, VIC, Australia"
+  },
+  {
+    "Suburb": "Fitzroy North",
+    "Site_streetaddress": "597 Brunswick Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3068",
+    "confidence": 1,
+    "latitude": -37.789172,
+    "longitude": 144.979809,
+    "label": "597 Brunswick Street, Fitzroy North, VIC, Australia"
+  },
+  {
+    "Suburb": "Moolap",
+    "Site_streetaddress": "314 Portalington Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3224",
+    "confidence": 0.6,
+    "latitude": -38.176192,
+    "longitude": 144.427473,
+    "label": "Moolap, VIC, Australia"
+  },
+  {
+    "Suburb": "Grovedale",
+    "Site_streetaddress": "115 Grove Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3216",
+    "confidence": 1,
+    "latitude": -38.19372,
+    "longitude": 144.344654,
+    "label": "115 Grove Road, Grovedale, VIC, Australia"
+  },
+  {
+    "Suburb": "Footscray",
+    "Site_streetaddress": "8 Joseph Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3011",
+    "confidence": 0.6,
+    "latitude": -37.79613,
+    "longitude": 144.897046,
+    "label": "Footscray, VIC, Australia"
+  },
+  {
+    "Suburb": "Fitzroy",
+    "Site_streetaddress": "380 Brunswick Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3065",
+    "confidence": 1,
+    "latitude": -37.795848,
+    "longitude": 144.979101,
+    "label": "380 Brunswick Street, Fitzroy, VIC, Australia"
+  },
+  {
+    "Suburb": "Brunswick",
+    "Site_streetaddress": "190 Union Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3055",
+    "confidence": 0.6,
+    "latitude": -37.766605,
+    "longitude": 144.961005,
+    "label": "Brunswick, VIC, Australia"
+  },
+  {
+    "Suburb": "Williamstown",
+    "Site_streetaddress": "44 Thompson Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3016",
+    "confidence": 1,
+    "latitude": -37.865514,
+    "longitude": 144.90401,
+    "label": "44 Thompson Street, Williamstown, VIC, Australia"
+  },
+  {
+    "Suburb": "Southbank",
+    "Site_streetaddress": "63 Whiteman Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3006",
+    "confidence": 1,
+    "latitude": -37.825867,
+    "longitude": 144.957005,
+    "label": "63 Whiteman Street, Southbank, VIC, Australia"
+  },
+  {
+    "Suburb": "Craigieburn",
+    "Site_streetaddress": "40 Highlander Drive",
+    "Site_state": "VIC",
+    "Site_postcode": "3064",
+    "confidence": 0.6,
+    "latitude": -37.590804,
+    "longitude": 144.933042,
+    "label": "Craigieburn, VIC, Australia"
+  },
+  {
+    "Suburb": "Melbourne",
+    "Site_streetaddress": "Level 9, 101 Collins Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3000",
+    "confidence": 1,
+    "latitude": -37.815195,
+    "longitude": 144.97091,
+    "label": "101 Collins Street, Melbourne, VIC, Australia"
   }
 ]
