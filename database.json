@@ -10071,5 +10071,15 @@
     "latitude": -37.889388,
     "longitude": 144.660991,
     "label": "167-179 Shaws Road, Werribee, VIC, Australia"
+  },
+  {
+    "Suburb": "North Geelong",
+    "Site_streetaddress": "343 Thompson Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3214",
+    "confidence": 1,
+    "latitude": -38.101628,
+    "longitude": 144.345508,
+    "label": "343 Thompson Road, North Geelong, VIC, Australia"
   }
 ]
