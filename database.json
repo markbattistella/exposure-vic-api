@@ -10551,5 +10551,25 @@
     "latitude": -37.867074,
     "longitude": 144.697711,
     "label": "Hoppers Crossing, VIC, Australia"
+  },
+  {
+    "Suburb": "Sunshine",
+    "Site_streetaddress": "12 Clarke Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3051",
+    "confidence": 1,
+    "latitude": -37.786143,
+    "longitude": 144.833071,
+    "label": "12 Clarke Street, Sunshine, VIC, Australia"
+  },
+  {
+    "Suburb": "Craigieburn",
+    "Site_streetaddress": "9B/10 Craigieburn Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3051",
+    "confidence": 0.6,
+    "latitude": -37.590804,
+    "longitude": 144.933042,
+    "label": "Craigieburn, VIC, Australia"
   }
 ]
