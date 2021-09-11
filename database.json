@@ -10081,5 +10081,95 @@
     "latitude": -38.101628,
     "longitude": 144.345508,
     "label": "343 Thompson Road, North Geelong, VIC, Australia"
+  },
+  {
+    "Suburb": "Drysdale",
+    "Site_streetaddress": "1/7 Palmerston Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3222",
+    "confidence": 0.3,
+    "latitude": -37.014348,
+    "longitude": 143.480452,
+    "label": "Victoria, Australia"
+  },
+  {
+    "Suburb": "Flemington",
+    "Site_streetaddress": "12 Holland Court",
+    "Site_state": "VIC",
+    "Site_postcode": "3031",
+    "confidence": 1,
+    "latitude": -37.788176,
+    "longitude": 144.934713,
+    "label": "12/12 Holland Court, Flemington, VIC, Australia"
+  },
+  {
+    "Suburb": "Moolap",
+    "Site_streetaddress": "Corner Portarlington Road and Moon Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3224",
+    "confidence": 0.6,
+    "latitude": -38.176192,
+    "longitude": 144.427473,
+    "label": "Moolap, VIC, Australia"
+  },
+  {
+    "Suburb": "Melbourne",
+    "Site_streetaddress": "265 Exhibition Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3000",
+    "confidence": 1,
+    "latitude": -37.809525,
+    "longitude": 144.969114,
+    "label": "265 Exhibition Street, Melbourne, VIC, Australia"
+  },
+  {
+    "Suburb": "Waurn Ponds",
+    "Site_streetaddress": "173-199 Pioneer Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3216",
+    "confidence": 0.6,
+    "latitude": -38.212189,
+    "longitude": 144.276556,
+    "label": "Waurn Ponds, VIC, Australia"
+  },
+  {
+    "Suburb": "Curlewis",
+    "Site_streetaddress": "8/90 Centennial Boulevard",
+    "Site_state": "VIC",
+    "Site_postcode": "3222",
+    "confidence": 0.3,
+    "latitude": -37.014348,
+    "longitude": 143.480452,
+    "label": "Victoria, Australia"
+  },
+  {
+    "Suburb": "Reservoir",
+    "Site_streetaddress": "743A Gilbert Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3073",
+    "confidence": 1,
+    "latitude": -37.720368,
+    "longitude": 144.99285,
+    "label": "743A Gilbert Road, Reservoir, VIC, Australia"
+  },
+  {
+    "Suburb": "Ravenhall",
+    "Site_streetaddress": "47 Momentum Way",
+    "Site_state": "VIC",
+    "Site_postcode": "3023",
+    "confidence": 0.6,
+    "latitude": -37.787925,
+    "longitude": 144.744794,
+    "label": "Ravenhall, VIC, Australia"
+  },
+  {
+    "Suburb": "Campbellfield",
+    "Site_streetaddress": "37 Barry Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3061",
+    "confidence": 1,
+    "latitude": -37.668921,
+    "longitude": 144.971104,
+    "label": "37 Barry Road, Campbellfield, VIC, Australia"
   }
 ]
