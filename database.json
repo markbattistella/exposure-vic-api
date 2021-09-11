@@ -10311,5 +10311,245 @@
     "latitude": -34.199704,
     "longitude": 142.153732,
     "label": "Mildura, VIC, Australia"
+  },
+  {
+    "Suburb": "Melbourne",
+    "Site_streetaddress": "60 Flinders Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3000",
+    "confidence": 1,
+    "latitude": -37.815694,
+    "longitude": 144.972659,
+    "label": "60/60 Flinders Street, Melbourne, VIC, Australia"
+  },
+  {
+    "Suburb": "Oakleigh South",
+    "Site_streetaddress": "61-81 Clarinda Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3167",
+    "confidence": 1,
+    "latitude": -37.932568,
+    "longitude": 145.099231,
+    "label": "61 - 81 Clarinda Road, Oakleigh South, VIC, Australia"
+  },
+  {
+    "Suburb": "Altona",
+    "Site_streetaddress": "103B Grieve Parade",
+    "Site_state": "VIC",
+    "Site_postcode": "3018",
+    "confidence": 1,
+    "latitude": -37.86167,
+    "longitude": 144.818626,
+    "label": "103B Grieve Parade, Altona, VIC, Australia"
+  },
+  {
+    "Suburb": "Greenvale",
+    "Site_streetaddress": "1 Bonds Lane",
+    "Site_state": "VIC",
+    "Site_postcode": "3059",
+    "confidence": 1,
+    "latitude": -37.642716,
+    "longitude": 144.879952,
+    "label": "1 Bonds Lane, Greenvale, VIC, Australia"
+  },
+  {
+    "Suburb": "Parkville",
+    "Site_streetaddress": "900 Park Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3052",
+    "confidence": 1,
+    "latitude": -37.776489,
+    "longitude": 144.945585,
+    "label": "900 Park Street, Parkville, VIC, Australia"
+  },
+  {
+    "Suburb": "Sunbury",
+    "Site_streetaddress": "1 Riddell Road ",
+    "Site_state": "VIC",
+    "Site_postcode": "3429",
+    "confidence": 1,
+    "latitude": -37.575787,
+    "longitude": 144.728285,
+    "label": "1 Riddell Road, Sunbury, VIC, Australia"
+  },
+  {
+    "Suburb": "South Morang",
+    "Site_streetaddress": "338-342 McDonalds Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3752",
+    "confidence": 0.6,
+    "latitude": -37.632398,
+    "longitude": 145.083632,
+    "label": "South Morang, VIC, Australia"
+  },
+  {
+    "Suburb": "Hadfield",
+    "Site_streetaddress": "199 Newbury Boulevard",
+    "Site_state": "VIC",
+    "Site_postcode": "3046",
+    "confidence": 0.3,
+    "latitude": -37.014348,
+    "longitude": 143.480452,
+    "label": "Victoria, Australia"
+  },
+  {
+    "Suburb": "Fairfield",
+    "Site_streetaddress": "Unit 2/45 Adrian Road ",
+    "Site_state": "VIC",
+    "Site_postcode": "3078",
+    "confidence": 0.6,
+    "latitude": -37.772375,
+    "longitude": 145.021292,
+    "label": "Fairfield, VIC, Australia"
+  },
+  {
+    "Suburb": "Essendon West",
+    "Site_streetaddress": "28 Hampton Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3076",
+    "confidence": 1,
+    "latitude": -37.750636,
+    "longitude": 144.886792,
+    "label": "28 Hampton Road, Essendon West, VIC, Australia"
+  },
+  {
+    "Suburb": "Keilor East",
+    "Site_streetaddress": "250 Spencer Street ",
+    "Site_state": "VIC",
+    "Site_postcode": "3033",
+    "confidence": 0.6,
+    "latitude": -37.738594,
+    "longitude": 144.856096,
+    "label": "Keilor East, VIC, Australia"
+  },
+  {
+    "Suburb": "Thornbury",
+    "Site_streetaddress": "540 Derrimut Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3071",
+    "confidence": 0.6,
+    "latitude": -37.758274,
+    "longitude": 145.005174,
+    "label": "Thornbury, VIC, Australia"
+  },
+  {
+    "Suburb": "Altona North",
+    "Site_streetaddress": "Derrimut Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3025",
+    "confidence": 0.6,
+    "latitude": -37.837835,
+    "longitude": 144.834706,
+    "label": "Altona North, VIC, Australia"
+  },
+  {
+    "Suburb": "Coburg",
+    "Site_streetaddress": "14/11 Brand Drive",
+    "Site_state": "VIC",
+    "Site_postcode": "3075",
+    "confidence": 0.6,
+    "latitude": -37.744675,
+    "longitude": 144.964201,
+    "label": "Coburg, VIC, Australia"
+  },
+  {
+    "Suburb": "Windsor",
+    "Site_streetaddress": "891 Canterbury Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3181",
+    "confidence": 0.6,
+    "latitude": -37.8549,
+    "longitude": 144.99348,
+    "label": "Windsor, VIC, Australia"
+  },
+  {
+    "Suburb": "Broadmeadows",
+    "Site_streetaddress": "12 - 14 Nelson Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3047",
+    "confidence": 0.6,
+    "latitude": -37.684973,
+    "longitude": 144.928208,
+    "label": "Broadmeadows, VIC, Australia"
+  },
+  {
+    "Suburb": "Melbourne",
+    "Site_streetaddress": "19 Pentridge Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3004",
+    "confidence": 0.6,
+    "latitude": -37.825071,
+    "longitude": 144.978682,
+    "label": "Melbourne, VIC, Australia"
+  },
+  {
+    "Suburb": "Mickleham",
+    "Site_streetaddress": "1434 Sydney Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3064",
+    "confidence": 0.6,
+    "latitude": -37.535253,
+    "longitude": 144.902037,
+    "label": "Mickleham, VIC, Australia"
+  },
+  {
+    "Suburb": "Hoppers Crossing",
+    "Site_streetaddress": "50 Old Geelong Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3116",
+    "confidence": 1,
+    "latitude": -37.880902,
+    "longitude": 144.703687,
+    "label": "50 Old Geelong Road, Hoppers Crossing, VIC, Australia"
+  },
+  {
+    "Suburb": "Richmond",
+    "Site_streetaddress": "13/24-48 Old Geelong Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3121",
+    "confidence": 0.6,
+    "latitude": -37.819635,
+    "longitude": 145.003879,
+    "label": "Richmond, VIC, Australia"
+  },
+  {
+    "Suburb": "Gladstone Park",
+    "Site_streetaddress": "150/160 Swan Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3043",
+    "confidence": 0.6,
+    "latitude": -37.689467,
+    "longitude": 144.89425,
+    "label": "Gladstone Park, VIC, Australia"
+  },
+  {
+    "Suburb": "Cremorne",
+    "Site_streetaddress": "232 Swan Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3061",
+    "confidence": 0.6,
+    "latitude": -37.829614,
+    "longitude": 144.992859,
+    "label": "Cremorne, VIC, Australia"
+  },
+  {
+    "Suburb": "Brunswick East ",
+    "Site_streetaddress": "127-137 Nicholson Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3058",
+    "confidence": 1,
+    "latitude": -37.772247,
+    "longitude": 144.978258,
+    "label": "127-137 Nicholson Street, Brunswick East, VIC, Australia"
+  },
+  {
+    "Suburb": "Hoppers Crossing",
+    "Site_streetaddress": "35 Hamilton Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3029",
+    "confidence": 0.6,
+    "latitude": -37.867074,
+    "longitude": 144.697711,
+    "label": "Hoppers Crossing, VIC, Australia"
   }
 ]
