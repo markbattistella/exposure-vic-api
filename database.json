@@ -10171,5 +10171,25 @@
     "latitude": -37.668921,
     "longitude": 144.971104,
     "label": "37 Barry Road, Campbellfield, VIC, Australia"
+  },
+  {
+    "Suburb": "Thomastown",
+    "Site_streetaddress": "36 Dalton Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3074",
+    "confidence": 1,
+    "latitude": -37.688203,
+    "longitude": 145.028679,
+    "label": "36 Dalton Road, Thomastown, VIC, Australia"
+  },
+  {
+    "Suburb": "Mildura",
+    "Site_streetaddress": "17 Rita Drive",
+    "Site_state": "VIC",
+    "Site_postcode": "3500",
+    "confidence": 1,
+    "latitude": -34.20383,
+    "longitude": 142.116933,
+    "label": "17 Rita Drive, Mildura, VIC, Australia"
   }
 ]
