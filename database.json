@@ -10761,5 +10761,15 @@
     "latitude": -37.696395,
     "longitude": 144.775349,
     "label": "399 Melton Highway, Taylors Lakes, VIC, Australia"
+  },
+  {
+    "Suburb": "Doreen",
+    "Site_streetaddress": "100 Hazel Glen Drive",
+    "Site_state": "VIC",
+    "Site_postcode": "3754",
+    "confidence": 1,
+    "latitude": -37.586459,
+    "longitude": 145.126984,
+    "label": "100 Hazel Glen Drive, Doreen, VIC, Australia"
   }
 ]
