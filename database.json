@@ -10771,5 +10771,15 @@
     "latitude": -37.586459,
     "longitude": 145.126984,
     "label": "100 Hazel Glen Drive, Doreen, VIC, Australia"
+  },
+  {
+    "Suburb": "Southbank",
+    "Site_streetaddress": "Shop 88/8 Whiteman Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3006",
+    "confidence": 0.8,
+    "latitude": -37.824314,
+    "longitude": 144.956852,
+    "label": "8/8 Whiteman Street, Southbank, VIC, Australia"
   }
 ]
