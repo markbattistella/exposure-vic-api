@@ -10571,5 +10571,105 @@
     "latitude": -37.590804,
     "longitude": 144.933042,
     "label": "Craigieburn, VIC, Australia"
+  },
+  {
+    "Suburb": "Fairfield",
+    "Site_streetaddress": "348 Darebin Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3028",
+    "confidence": 0.6,
+    "latitude": -37.772375,
+    "longitude": 145.021292,
+    "label": "Fairfield, VIC, Australia"
+  },
+  {
+    "Suburb": "Mill Park",
+    "Site_streetaddress": "Kiosk 03/415 McDonalds Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3082",
+    "confidence": 1,
+    "latitude": -37.651601,
+    "longitude": 145.066383,
+    "label": "415 Mcdonalds Road, Mill Park, VIC, Australia"
+  },
+  {
+    "Suburb": "Fitzroy",
+    "Site_streetaddress": "424-428 Brunswick Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3065",
+    "confidence": 1,
+    "latitude": -37.79423,
+    "longitude": 144.9794,
+    "label": "424-428 Brunswick Street, Fitzroy, VIC, Australia"
+  },
+  {
+    "Suburb": "Ravenswood",
+    "Site_streetaddress": "4633 Calder Highway",
+    "Site_state": "VIC",
+    "Site_postcode": "3453",
+    "confidence": 1,
+    "latitude": -36.910479,
+    "longitude": 144.213836,
+    "label": "4633 Calder Highway, Ravenswood, VIC, Australia"
+  },
+  {
+    "Suburb": "Truganina",
+    "Site_streetaddress": "267 Dohertys Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3029",
+    "confidence": 1,
+    "latitude": -37.826697,
+    "longitude": 144.76589,
+    "label": "267 Dohertys Road, Truganina, VIC, Australia"
+  },
+  {
+    "Suburb": "Greenvale",
+    "Site_streetaddress": "1-11 Greenvale Drive",
+    "Site_state": "VIC",
+    "Site_postcode": "3059",
+    "confidence": 1,
+    "latitude": -37.639877,
+    "longitude": 144.881865,
+    "label": "1-11 Greenvale Drive, Greenvale, VIC, Australia"
+  },
+  {
+    "Suburb": "Moonee Ponds",
+    "Site_streetaddress": "2B McPherson Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3039",
+    "confidence": 1,
+    "latitude": -37.761837,
+    "longitude": 144.928303,
+    "label": "2 Mcpherson Street, Moonee Ponds, VIC, Australia"
+  },
+  {
+    "Suburb": "North Geelong",
+    "Site_streetaddress": "418-420 Thompson Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3215",
+    "confidence": 0.6,
+    "latitude": -38.113728,
+    "longitude": 144.351521,
+    "label": "North Geelong, VIC, Australia"
+  },
+  {
+    "Suburb": "Waurn Ponds",
+    "Site_streetaddress": "1B/173-199 Pioneer Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3216",
+    "confidence": 0.6,
+    "latitude": -38.212189,
+    "longitude": 144.276556,
+    "label": "Waurn Ponds, VIC, Australia"
+  },
+  {
+    "Suburb": "Waurn Ponds",
+    "Site_streetaddress": "Shop 7, 173-199 Pioneer Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3216",
+    "confidence": 0.6,
+    "latitude": -38.212189,
+    "longitude": 144.276556,
+    "label": "Waurn Ponds, VIC, Australia"
   }
 ]
