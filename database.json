@@ -10701,5 +10701,25 @@
     "latitude": -37.014348,
     "longitude": 143.480452,
     "label": "Victoria, Australia"
+  },
+  {
+    "Suburb": "South Morang",
+    "Site_streetaddress": "797 Plenty Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3752",
+    "confidence": 0.6,
+    "latitude": -37.632398,
+    "longitude": 145.083632,
+    "label": "South Morang, VIC, Australia"
+  },
+  {
+    "Suburb": "Somerton",
+    "Site_streetaddress": "Unit 8/882 Cooper Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3062",
+    "confidence": 1,
+    "latitude": -37.643323,
+    "longitude": 144.953552,
+    "label": "882 Cooper Street, Somerton, VIC, Australia"
   }
 ]
