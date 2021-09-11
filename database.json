@@ -10301,5 +10301,15 @@
     "latitude": -37.815195,
     "longitude": 144.97091,
     "label": "101 Collins Street, Melbourne, VIC, Australia"
+  },
+  {
+    "Suburb": "Mildura",
+    "Site_streetaddress": "31 Sherring Way",
+    "Site_state": "VIC",
+    "Site_postcode": "3500",
+    "confidence": 0.6,
+    "latitude": -34.199704,
+    "longitude": 142.153732,
+    "label": "Mildura, VIC, Australia"
   }
 ]
