@@ -10891,5 +10891,55 @@
     "latitude": -37.825233,
     "longitude": 144.678391,
     "label": "Tarneit, VIC, Australia"
+  },
+  {
+    "Suburb": "Toorak",
+    "Site_streetaddress": "17 Heyington Place",
+    "Site_state": "VIC",
+    "Site_postcode": "3142",
+    "confidence": 1,
+    "latitude": -37.837758,
+    "longitude": 145.021793,
+    "label": "17 Heyington Place, Toorak, VIC, Australia"
+  },
+  {
+    "Suburb": "Dandenong",
+    "Site_streetaddress": "82 Stud Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3175",
+    "confidence": 1,
+    "latitude": -37.977335,
+    "longitude": 145.222747,
+    "label": "82 Stud Road, Dandenong, VIC, Australia"
+  },
+  {
+    "Suburb": "Drysdale",
+    "Site_streetaddress": "16 Wyndham Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3222",
+    "confidence": 0.3,
+    "latitude": -37.014348,
+    "longitude": 143.480452,
+    "label": "Victoria, Australia"
+  },
+  {
+    "Suburb": "Curlewis",
+    "Site_streetaddress": "90 Centennial Boulevard",
+    "Site_state": "VIC",
+    "Site_postcode": "3222",
+    "confidence": 0.3,
+    "latitude": -37.014348,
+    "longitude": 143.480452,
+    "label": "Victoria, Australia"
+  },
+  {
+    "Suburb": "North Geelong",
+    "Site_streetaddress": "316 Thompson Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3215",
+    "confidence": 1,
+    "latitude": -38.105025,
+    "longitude": 144.344885,
+    "label": "316 Thompson Road, North Geelong, VIC, Australia"
   }
 ]
