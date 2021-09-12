@@ -10971,5 +10971,15 @@
     "latitude": -38.036129,
     "longitude": 145.348768,
     "label": "Berwick, VIC, Australia"
+  },
+  {
+    "Suburb": "Wyndham Vale",
+    "Site_streetaddress": "8 Manor Lakes Boulevard",
+    "Site_state": "VIC",
+    "Site_postcode": "3024",
+    "confidence": 0.6,
+    "latitude": -37.829799,
+    "longitude": 144.516648,
+    "label": "Wyndham Vale, VIC, Australia"
   }
 ]
