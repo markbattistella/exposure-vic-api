@@ -10791,5 +10791,75 @@
     "latitude": -37.816443,
     "longitude": 144.977471,
     "label": "211 Wellington Parade South, East Melbourne, VIC, Australia"
+  },
+  {
+    "Suburb": "Greensborough",
+    "Site_streetaddress": "25 Main Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3088",
+    "confidence": 1,
+    "latitude": -37.70401,
+    "longitude": 145.103026,
+    "label": "25/25 Main Street, Greensborough, VIC, Australia"
+  },
+  {
+    "Suburb": "Epping",
+    "Site_streetaddress": "519 High Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3076",
+    "confidence": 1,
+    "latitude": -37.657833,
+    "longitude": 145.019577,
+    "label": "519 High Street, Epping, VIC, Australia"
+  },
+  {
+    "Suburb": "Melbourne",
+    "Site_streetaddress": "55 King Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3000",
+    "confidence": 1,
+    "latitude": -37.819203,
+    "longitude": 144.956735,
+    "label": "55 King Street, Melbourne, VIC, Australia"
+  },
+  {
+    "Suburb": "Glenroy",
+    "Site_streetaddress": "5/830 Pascoe Vale Rpad",
+    "Site_state": "VIC",
+    "Site_postcode": "3046",
+    "confidence": 0.6,
+    "latitude": -37.703471,
+    "longitude": 144.925,
+    "label": "Glenroy, VIC, Australia"
+  },
+  {
+    "Suburb": "Bulleen",
+    "Site_streetaddress": "83 Manningham Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3105",
+    "confidence": 0.6,
+    "latitude": -37.768292,
+    "longitude": 145.088461,
+    "label": "Bulleen, VIC, Australia"
+  },
+  {
+    "Suburb": "Footscray",
+    "Site_streetaddress": "Shop 30/47 Paisley Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3011",
+    "confidence": 1,
+    "latitude": -37.800727,
+    "longitude": 144.901361,
+    "label": "Victoria Cake Shop, Footscray, VIC, Australia"
+  },
+  {
+    "Suburb": "Brunswick East",
+    "Site_streetaddress": "473-475 Lygon Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3057",
+    "confidence": 0.6,
+    "latitude": -37.76783,
+    "longitude": 144.978224,
+    "label": "Brunswick East, VIC, Australia"
   }
 ]
