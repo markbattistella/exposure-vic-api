@@ -10781,5 +10781,15 @@
     "latitude": -37.824314,
     "longitude": 144.956852,
     "label": "8/8 Whiteman Street, Southbank, VIC, Australia"
+  },
+  {
+    "Suburb": "East Melbourne",
+    "Site_streetaddress": "211 Wellington Parade South",
+    "Site_state": "VIC",
+    "Site_postcode": "3002",
+    "confidence": 1,
+    "latitude": -37.816443,
+    "longitude": 144.977471,
+    "label": "211 Wellington Parade South, East Melbourne, VIC, Australia"
   }
 ]
