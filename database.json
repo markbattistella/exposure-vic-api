@@ -10861,5 +10861,25 @@
     "latitude": -37.76783,
     "longitude": 144.978224,
     "label": "Brunswick East, VIC, Australia"
+  },
+  {
+    "Suburb": "Campbellfield",
+    "Site_streetaddress": "2098 Hume Highway",
+    "Site_state": "VIC",
+    "Site_postcode": "3061",
+    "confidence": 0.6,
+    "latitude": -37.662653,
+    "longitude": 144.959231,
+    "label": "Campbellfield, VIC, Australia"
+  },
+  {
+    "Suburb": "South Morang",
+    "Site_streetaddress": "205 Gordons Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3752",
+    "confidence": 1,
+    "latitude": -37.636238,
+    "longitude": 145.084309,
+    "label": "205 Gordons Road, South Morang, VIC, Australia"
   }
 ]
