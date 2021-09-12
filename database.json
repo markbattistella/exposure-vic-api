@@ -10941,5 +10941,25 @@
     "latitude": -38.105025,
     "longitude": 144.344885,
     "label": "316 Thompson Road, North Geelong, VIC, Australia"
+  },
+  {
+    "Suburb": "Woodend",
+    "Site_streetaddress": "Urquhart Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3442",
+    "confidence": 0.6,
+    "latitude": -37.358635,
+    "longitude": 144.528798,
+    "label": "Woodend, VIC, Australia"
+  },
+  {
+    "Suburb": "Dandenong South",
+    "Site_streetaddress": "2 Portlink Drive",
+    "Site_state": "VIC",
+    "Site_postcode": "3175",
+    "confidence": 0.6,
+    "latitude": -38.020442,
+    "longitude": 145.221637,
+    "label": "Dandenong South, VIC, Australia"
   }
 ]
