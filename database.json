@@ -11011,5 +11011,25 @@
     "latitude": -38.150112,
     "longitude": 144.357113,
     "label": "71-77 Gheringhap Street, Geelong, VIC, Australia"
+  },
+  {
+    "Suburb": "Mill Park",
+    "Site_streetaddress": "Civic Drive",
+    "Site_state": "VIC",
+    "Site_postcode": "3082",
+    "confidence": 0.6,
+    "latitude": -37.663875,
+    "longitude": 145.064512,
+    "label": "Mill Park, VIC, Australia"
+  },
+  {
+    "Suburb": "Glen Iris",
+    "Site_streetaddress": "1392 Malvern Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3146",
+    "confidence": 1,
+    "latitude": -37.853385,
+    "longitude": 145.042432,
+    "label": "1392 Malvern Road, Glen Iris, VIC, Australia"
   }
 ]
