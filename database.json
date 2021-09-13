@@ -6938,8 +6938,8 @@
     "Site_state": "VIC",
     "Site_postcode": "3061",
     "confidence": 1,
-    "latitude": -37.6880788,
-    "longitude": 144.9576516,
+    "latitude": -37.6885,
+    "longitude": 144.958402,
     "label": "Victoria, Australia"
   },
   {
@@ -7168,8 +7168,8 @@
     "Site_state": "VIC",
     "Site_postcode": "3058",
     "confidence": 1,
-    "latitude": -37.7378182,
-    "longitude": 144.9667176,
+    "latitude": -37.7376068,
+    "longitude": 144.9669972,
     "label": "Coburg, VIC, Australia"
   },
   {
@@ -10422,26 +10422,6 @@
     "longitude": 144.6902651
   },
   {
-    "Suburb": "Melbourne",
-    "Site_streetaddress": "19 Pentridge Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3004",
-    "confidence": 0.6,
-    "latitude": -37.825071,
-    "longitude": 144.978682,
-    "label": "Melbourne, VIC, Australia"
-  },
-  {
-    "Suburb": "Mickleham",
-    "Site_streetaddress": "1434 Sydney Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3064",
-    "confidence": 0.6,
-    "latitude": -37.535253,
-    "longitude": 144.902037,
-    "label": "Mickleham, VIC, Australia"
-  },
-  {
     "Suburb": "Hoppers Crossing",
     "Site_streetaddress": "50 Old Geelong Road",
     "Site_state": "VIC",
@@ -10452,33 +10432,13 @@
     "label": "50 Old Geelong Road, Hoppers Crossing, VIC, Australia"
   },
   {
-    "Suburb": "Richmond",
-    "Site_streetaddress": "13/24-48 Old Geelong Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3121",
-    "confidence": 0.6,
-    "latitude": -37.819635,
-    "longitude": 145.003879,
-    "label": "Richmond, VIC, Australia"
-  },
-  {
-    "Suburb": "Gladstone Park",
-    "Site_streetaddress": "150/160 Swan Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3043",
-    "confidence": 0.6,
-    "latitude": -37.689467,
-    "longitude": 144.89425,
-    "label": "Gladstone Park, VIC, Australia"
-  },
-  {
     "Suburb": "Cremorne",
     "Site_streetaddress": "232 Swan Street",
     "Site_state": "VIC",
     "Site_postcode": "3061",
-    "confidence": 0.6,
-    "latitude": -37.829614,
-    "longitude": 144.992859,
+    "confidence": 1,
+    "latitude": -37.8258943,
+    "longitude": 144.9953343,
     "label": "Cremorne, VIC, Australia"
   },
   {
@@ -10490,16 +10450,6 @@
     "latitude": -37.772247,
     "longitude": 144.978258,
     "label": "127-137 Nicholson Street, Brunswick East, VIC, Australia"
-  },
-  {
-    "Suburb": "Hoppers Crossing",
-    "Site_streetaddress": "35 Hamilton Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3029",
-    "confidence": 0.6,
-    "latitude": -37.867074,
-    "longitude": 144.697711,
-    "label": "Hoppers Crossing, VIC, Australia"
   },
   {
     "Suburb": "Sunshine",
@@ -10516,9 +10466,9 @@
     "Site_streetaddress": "9B/10 Craigieburn Road",
     "Site_state": "VIC",
     "Site_postcode": "3051",
-    "confidence": 0.6,
-    "latitude": -37.590804,
-    "longitude": 144.933042,
+    "confidence": 1,
+    "latitude": -37.5979084,
+    "longitude": 144.9379368,
     "label": "Craigieburn, VIC, Australia"
   },
   {
@@ -10526,9 +10476,9 @@
     "Site_streetaddress": "348 Darebin Road",
     "Site_state": "VIC",
     "Site_postcode": "3028",
-    "confidence": 0.6,
-    "latitude": -37.772375,
-    "longitude": 145.021292,
+    "confidence": 1,
+    "latitude": -37.766794,
+    "longitude": 145.0274623,
     "label": "Fairfield, VIC, Australia"
   },
   {
@@ -10596,9 +10546,9 @@
     "Site_streetaddress": "418-420 Thompson Road",
     "Site_state": "VIC",
     "Site_postcode": "3215",
-    "confidence": 0.6,
-    "latitude": -38.113728,
-    "longitude": 144.351521,
+    "confidence": 1,
+    "latitude": -38.0970242,
+    "longitude": 144.3442319,
     "label": "North Geelong, VIC, Australia"
   },
   {
@@ -10606,20 +10556,18 @@
     "Site_streetaddress": "1B/173-199 Pioneer Road",
     "Site_state": "VIC",
     "Site_postcode": "3216",
-    "confidence": 0.6,
-    "latitude": -38.212189,
-    "longitude": 144.276556,
-    "label": "Waurn Ponds, VIC, Australia"
+    "confidence": 1,
+    "latitude": -38.199682,
+    "longitude": 144.3174801
   },
   {
     "Suburb": "Waurn Ponds",
     "Site_streetaddress": "Shop 7, 173-199 Pioneer Road",
     "Site_state": "VIC",
     "Site_postcode": "3216",
-    "confidence": 0.6,
-    "latitude": -38.212189,
-    "longitude": 144.276556,
-    "label": "Waurn Ponds, VIC, Australia"
+    "confidence": 1,
+    "latitude": -38.1984442,
+    "longitude": 144.3169694
   },
   {
     "Suburb": "Dandenong",
@@ -10646,20 +10594,18 @@
     "Site_streetaddress": "8 The Promenade",
     "Site_state": "VIC",
     "Site_postcode": "3752",
-    "confidence": 0.3,
-    "latitude": -37.014348,
-    "longitude": 143.480452,
-    "label": "Victoria, Australia"
+    "confidence": 1,
+    "latitude": -37.6372403,
+    "longitude": 145.0659919
   },
   {
     "Suburb": "South Morang",
     "Site_streetaddress": "797 Plenty Road",
     "Site_state": "VIC",
     "Site_postcode": "3752",
-    "confidence": 0.6,
-    "latitude": -37.632398,
-    "longitude": 145.083632,
-    "label": "South Morang, VIC, Australia"
+    "confidence": 1,
+    "latitude": -37.6518011,
+    "longitude": 145.0840529
   },
   {
     "Suburb": "Somerton",
@@ -10676,10 +10622,9 @@
     "Site_streetaddress": "Calder Freeway",
     "Site_state": "VIC",
     "Site_postcode": "3442",
-    "confidence": 0.6,
-    "latitude": -37.28333,
-    "longitude": 144.5,
-    "label": "Carlsruhe, VIC, Australia"
+    "confidence": 1,
+    "latitude": -37.5127294,
+    "longitude": 144.3986864
   },
   {
     "Suburb": "Coburg North",
@@ -10726,10 +10671,9 @@
     "Site_streetaddress": "Shop 88/8 Whiteman Street",
     "Site_state": "VIC",
     "Site_postcode": "3006",
-    "confidence": 0.8,
-    "latitude": -37.824314,
-    "longitude": 144.956852,
-    "label": "8/8 Whiteman Street, Southbank, VIC, Australia"
+    "confidence": 1,
+    "latitude": -37.8234367,
+    "longitude": 144.9558974
   },
   {
     "Suburb": "East Melbourne",
@@ -10776,20 +10720,27 @@
     "Site_streetaddress": "5/830 Pascoe Vale Rpad",
     "Site_state": "VIC",
     "Site_postcode": "3046",
-    "confidence": 0.6,
-    "latitude": -37.703471,
-    "longitude": 144.925,
-    "label": "Glenroy, VIC, Australia"
+    "confidence": 1,
+    "latitude": -37.7034083,
+    "longitude": 144.9157916
+  },
+  {
+    "Suburb": "Glenroy",
+    "Site_streetaddress": "5/830 Pascoe Vale Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3046",
+    "confidence": 1,
+    "latitude": -37.7034083,
+    "longitude": 144.9157916
   },
   {
     "Suburb": "Bulleen",
     "Site_streetaddress": "83 Manningham Road",
     "Site_state": "VIC",
     "Site_postcode": "3105",
-    "confidence": 0.6,
-    "latitude": -37.768292,
-    "longitude": 145.088461,
-    "label": "Bulleen, VIC, Australia"
+    "confidence": 1,
+    "latitude": -37.7653756,
+    "longitude": 145.0897307
   },
   {
     "Suburb": "Footscray",
@@ -10806,20 +10757,18 @@
     "Site_streetaddress": "473-475 Lygon Street",
     "Site_state": "VIC",
     "Site_postcode": "3057",
-    "confidence": 0.6,
-    "latitude": -37.76783,
-    "longitude": 144.978224,
-    "label": "Brunswick East, VIC, Australia"
+    "confidence": 1,
+    "latitude": -37.763263,
+    "longitude": 144.9708223
   },
   {
     "Suburb": "Campbellfield",
     "Site_streetaddress": "2098 Hume Highway",
     "Site_state": "VIC",
     "Site_postcode": "3061",
-    "confidence": 0.6,
-    "latitude": -37.662653,
-    "longitude": 144.959231,
-    "label": "Campbellfield, VIC, Australia"
+    "confidence": 1,
+    "latitude": -37.6460838,
+    "longitude": 144.9506491
   },
   {
     "Suburb": "South Morang",
