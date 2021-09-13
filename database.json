@@ -10413,15 +10413,6 @@
     "label": "28 Hampton Road, Essendon West, VIC, Australia"
   },
   {
-    "Suburb": "Tarneit",
-    "Site_streetaddress": "540 Derrimut Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3029",
-    "confidence": 1,
-    "latitude": -37.8367692,
-    "longitude": 144.6902651
-  },
-  {
     "Suburb": "Hoppers Crossing",
     "Site_streetaddress": "50 Old Geelong Road",
     "Site_state": "VIC",
@@ -10786,7 +10777,7 @@
     "Site_state": "VIC",
     "Site_postcode": "3029",
     "confidence": 1,
-    "latitude": -37.829170,
+    "latitude": -37.82917,
     "longitude": 144.646051
   },
   {
@@ -10929,5 +10920,145 @@
     "latitude": -37.677189,
     "longitude": 144.99986,
     "label": "168 Edgars Road, Thomastown, VIC, Australia"
+  },
+  {
+    "Suburb": "Hawthorn East",
+    "Site_streetaddress": "747-755 Toorak Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3123",
+    "confidence": 1,
+    "latitude": -37.844876,
+    "longitude": 145.041782,
+    "label": "747-755 Toorak Road, Hawthorn East, VIC, Australia"
+  },
+  {
+    "Suburb": "Port Melbourne",
+    "Site_streetaddress": "159 Beach Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3207",
+    "confidence": 1,
+    "latitude": -37.839249,
+    "longitude": 144.925705,
+    "label": "159 Beach Street, Port Melbourne, VIC, Australia"
+  },
+  {
+    "Suburb": "South Yarra",
+    "Site_streetaddress": "ILK Apartments, 227-229 Toorak Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3141",
+    "confidence": 0.8,
+    "latitude": -37.839174,
+    "longitude": 144.991484,
+    "label": "3141, South Yarra, VIC, Australia"
+  },
+  {
+    "Suburb": "Campbellfield",
+    "Site_streetaddress": "Unit 3/11-13 Thompson Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3061",
+    "confidence": 1,
+    "latitude": -37.685098,
+    "longitude": 144.956473,
+    "label": "11-13 Thompson Street, Campbellfield, VIC, Australia"
+  },
+  {
+    "Suburb": "Bentleigh",
+    "Site_streetaddress": "524 Centre Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3204",
+    "confidence": 1,
+    "latitude": -37.919076,
+    "longitude": 145.042148,
+    "label": "524 Centre Road, Bentleigh, VIC, Australia"
+  },
+  {
+    "Suburb": "Kilmore",
+    "Site_streetaddress": "Sydney Street & Clarke Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3764",
+    "confidence": 0.8,
+    "latitude": -37.776998,
+    "longitude": 144.997463,
+    "label": "Clarke & High Streets, Northcote, VIC, Australia"
+  },
+  {
+    "Suburb": "Kilmore",
+    "Site_streetaddress": "109 Northen Highway",
+    "Site_state": "VIC",
+    "Site_postcode": "3764",
+    "confidence": 0.6,
+    "latitude": -37.30756,
+    "longitude": 144.949372,
+    "label": "Kilmore, VIC, Australia"
+  },
+  {
+    "Suburb": "Seymour",
+    "Site_streetaddress": "18-24 Tallarook Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3660",
+    "confidence": 0.6,
+    "latitude": -37.026005,
+    "longitude": 145.14639,
+    "label": "Seymour, VIC, Australia"
+  },
+  {
+    "Suburb": "Broadford",
+    "Site_streetaddress": "123 High Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3658",
+    "confidence": 1,
+    "latitude": -37.202421,
+    "longitude": 145.050025,
+    "label": "123 High Street, Broadford, VIC, Australia"
+  },
+  {
+    "Suburb": "St Kilda",
+    "Site_streetaddress": "604 St Kilda Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3182",
+    "confidence": 1,
+    "latitude": -37.859876,
+    "longitude": 144.983451,
+    "label": "604/101 St Kilda Road, St Kilda, VIC, Australia"
+  },
+  {
+    "Suburb": "Melbourne",
+    "Site_streetaddress": "83 Queens Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3004",
+    "confidence": 1,
+    "latitude": -37.854443,
+    "longitude": 144.980433,
+    "label": "83 Queens Road, Melbourne, VIC, Australia"
+  },
+  {
+    "Suburb": "Broadmeadow",
+    "Site_streetaddress": "1185-1197 Pascoe Vale Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3047",
+    "confidence": 1,
+    "latitude": -37.676275,
+    "longitude": 144.922325,
+    "label": "1185-1197 Pascoe Vale Road, Broadmeadows, VIC, Australia"
+  },
+  {
+    "Suburb": "Roxburgh Park",
+    "Site_streetaddress": "Shop 1/250 Somerton Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3064",
+    "confidence": 1,
+    "latitude": -37.640663,
+    "longitude": 144.931374,
+    "label": "250 Somerton Road, Roxburgh Park, VIC, Australia"
+  },
+  {
+    "Suburb": "Mill Park ",
+    "Site_streetaddress": "250 Childs Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3082",
+    "confidence": 1,
+    "latitude": -37.662094,
+    "longitude": 145.051693,
+    "label": "250T Childs Road, Mill Park, VIC, Australia"
   }
 ]
