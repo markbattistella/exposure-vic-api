@@ -10413,15 +10413,6 @@
     "label": "28 Hampton Road, Essendon West, VIC, Australia"
   },
   {
-    "Suburb": "Tarneit",
-    "Site_streetaddress": "540 Derrimut Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3029",
-    "confidence": 1,
-    "latitude": -37.8367692,
-    "longitude": 144.6902651
-  },
-  {
     "Suburb": "Melbourne",
     "Site_streetaddress": "19 Pentridge Street",
     "Site_state": "VIC",
