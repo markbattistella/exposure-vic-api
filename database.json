@@ -10785,10 +10785,9 @@
     "Site_streetaddress": "Corner of Huggard Road and Labero Drive",
     "Site_state": "VIC",
     "Site_postcode": "3029",
-    "confidence": 0.6,
-    "latitude": -37.825233,
-    "longitude": 144.678391,
-    "label": "Tarneit, VIC, Australia"
+    "confidence": 1,
+    "latitude": -37.829170,
+    "longitude": 144.646051
   },
   {
     "Suburb": "Toorak",
@@ -10815,20 +10814,18 @@
     "Site_streetaddress": "16 Wyndham Street",
     "Site_state": "VIC",
     "Site_postcode": "3222",
-    "confidence": 0.3,
-    "latitude": -37.014348,
-    "longitude": 143.480452,
-    "label": "Victoria, Australia"
+    "confidence": 1,
+    "latitude": -38.1725234,
+    "longitude": 144.5673901
   },
   {
     "Suburb": "Curlewis",
     "Site_streetaddress": "90 Centennial Boulevard",
     "Site_state": "VIC",
     "Site_postcode": "3222",
-    "confidence": 0.3,
-    "latitude": -37.014348,
-    "longitude": 143.480452,
-    "label": "Victoria, Australia"
+    "confidence": 1,
+    "latitude": -38.1684578,
+    "longitude": 144.5430728
   },
   {
     "Suburb": "North Geelong",
@@ -10845,40 +10842,36 @@
     "Site_streetaddress": "Urquhart Street",
     "Site_state": "VIC",
     "Site_postcode": "3442",
-    "confidence": 0.6,
-    "latitude": -37.358635,
-    "longitude": 144.528798,
-    "label": "Woodend, VIC, Australia"
+    "confidence": 1,
+    "latitude": -37.3592086,
+    "longitude": 144.5239867
   },
   {
     "Suburb": "Dandenong South",
     "Site_streetaddress": "2 Portlink Drive",
     "Site_state": "VIC",
     "Site_postcode": "3175",
-    "confidence": 0.6,
-    "latitude": -38.020442,
-    "longitude": 145.221637,
-    "label": "Dandenong South, VIC, Australia"
+    "confidence": 1,
+    "latitude": -38.0544119,
+    "longitude": 145.2255388,
   },
   {
     "Suburb": "Berwick",
     "Site_streetaddress": "Parkhill Drive",
     "Site_state": "VIC",
     "Site_postcode": "3806",
-    "confidence": 0.6,
-    "latitude": -38.036129,
-    "longitude": 145.348768,
-    "label": "Berwick, VIC, Australia"
+    "confidence": 1,
+    "latitude": -38.0214202,
+    "longitude": 145.3135344
   },
   {
     "Suburb": "Wyndham Vale",
     "Site_streetaddress": "8 Manor Lakes Boulevard",
     "Site_state": "VIC",
     "Site_postcode": "3024",
-    "confidence": 0.6,
-    "latitude": -37.829799,
-    "longitude": 144.516648,
-    "label": "Wyndham Vale, VIC, Australia"
+    "confidence": 1,
+    "latitude": -37.8758121,
+    "longitude": 144.6128437
   },
   {
     "Suburb": "Glenroy",
@@ -10887,18 +10880,16 @@
     "Site_postcode": "3046",
     "confidence": 1,
     "latitude": -37.706078,
-    "longitude": 144.918957,
-    "label": "102 Wheatsheaf Road, Glenroy, VIC, Australia"
+    "longitude": 144.918957
   },
   {
     "Suburb": "Sunshine West",
     "Site_streetaddress": "32/42 Spencer Street",
     "Site_state": "VIC",
     "Site_postcode": "3020",
-    "confidence": 0.6,
-    "latitude": -37.795654,
-    "longitude": 144.81154,
-    "label": "Sunshine West, VIC, Australia"
+    "confidence": 1,
+    "latitude": -37.8129703,
+    "longitude": 144.8076103
   },
   {
     "Suburb": "Geelong",
@@ -10915,10 +10906,9 @@
     "Site_streetaddress": "Civic Drive",
     "Site_state": "VIC",
     "Site_postcode": "3082",
-    "confidence": 0.6,
-    "latitude": -37.663875,
-    "longitude": 145.064512,
-    "label": "Mill Park, VIC, Australia"
+    "confidence": 1,
+    "latitude": -37.650821,
+    "longitude": 145.0667314
   },
   {
     "Suburb": "Glen Iris",
