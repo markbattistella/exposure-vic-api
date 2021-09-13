@@ -10981,5 +10981,35 @@
     "latitude": -37.829799,
     "longitude": 144.516648,
     "label": "Wyndham Vale, VIC, Australia"
+  },
+  {
+    "Suburb": "Glenroy",
+    "Site_streetaddress": "102 Wheatsheaf Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3046",
+    "confidence": 1,
+    "latitude": -37.706078,
+    "longitude": 144.918957,
+    "label": "102 Wheatsheaf Road, Glenroy, VIC, Australia"
+  },
+  {
+    "Suburb": "Sunshine West",
+    "Site_streetaddress": "32/42 Spencer Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3020",
+    "confidence": 0.6,
+    "latitude": -37.795654,
+    "longitude": 144.81154,
+    "label": "Sunshine West, VIC, Australia"
+  },
+  {
+    "Suburb": "Geelong",
+    "Site_streetaddress": "71-77 Gheringhap Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3220",
+    "confidence": 1,
+    "latitude": -38.150112,
+    "longitude": 144.357113,
+    "label": "71-77 Gheringhap Street, Geelong, VIC, Australia"
   }
 ]
