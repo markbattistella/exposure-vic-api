@@ -10971,5 +10971,15 @@
     "latitude": -37.853385,
     "longitude": 145.042432,
     "label": "1392 Malvern Road, Glen Iris, VIC, Australia"
+  },
+  {
+    "Suburb": "Thomastown",
+    "Site_streetaddress": "168 Edgars Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3074",
+    "confidence": 1,
+    "latitude": -37.677189,
+    "longitude": 144.99986,
+    "label": "168 Edgars Road, Thomastown, VIC, Australia"
   }
 ]
