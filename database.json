@@ -11060,5 +11060,25 @@
     "latitude": -37.662094,
     "longitude": 145.051693,
     "label": "250T Childs Road, Mill Park, VIC, Australia"
+  },
+  {
+    "Suburb": "Cambellfield",
+    "Site_streetaddress": "Unit 3/11-13 Thompson Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3061",
+    "confidence": 0.3,
+    "latitude": -37.014348,
+    "longitude": 143.480452,
+    "label": "Victoria, Australia"
+  },
+  {
+    "Suburb": "Seymore",
+    "Site_streetaddress": "18-24 Tallarook Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3660",
+    "confidence": 0.3,
+    "latitude": -37.014348,
+    "longitude": 143.480452,
+    "label": "Victoria, Australia"
   }
 ]
