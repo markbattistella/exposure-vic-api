@@ -2256,7 +2256,7 @@
     "Exposure_date_dtm": "2021-09-08",
     "Exposure_date": "08/09/2021",
     "Exposure_time": "9:35pm - 9:45pm",
-    "Notes": "Case attended venue",
+    "Notes": "Case attended venue. Only applies to members of the public",
     "Added_date_dtm": "2021-09-11",
     "Added_date": "11/09/2021",
     "Added_time": "20:05:00",
@@ -2268,6 +2268,27 @@
     "longitude": 145.220576
   },
   {
+    "_id": 137,
+    "Suburb": "Hillside",
+    "Site_title": "Caltex Hillside",
+    "Site_streetaddress": "575 Melton Highway",
+    "Site_state": "VIC",
+    "Site_postcode": "3037",
+    "Exposure_date_dtm": "2021-09-09",
+    "Exposure_date": "09/09/2021",
+    "Exposure_time": "12:00am - 7:30am",
+    "Notes": "Case attended venue",
+    "Added_date_dtm": "2021-09-11",
+    "Added_date": "11/09/2021",
+    "Added_time": "18:10:00",
+    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
+    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
+    "Exposure_time_start_24": "00:00:00",
+    "Exposure_time_end_24": "07:30:00",
+    "latitude": -37.69374,
+    "longitude": 144.755858
+  },
+  {
     "_id": 117,
     "Suburb": "Dandenong",
     "Site_title": "Dandenong Hospital Emergency Department  Clinic Waiting Room",
@@ -2277,7 +2298,7 @@
     "Exposure_date_dtm": "2021-09-08",
     "Exposure_date": "08/09/2021",
     "Exposure_time": "9:45pm - 10:59pm",
-    "Notes": "Case attended venue",
+    "Notes": "Case attended venue. Only applies to members of the public",
     "Added_date_dtm": "2021-09-11",
     "Added_date": "11/09/2021",
     "Added_time": "20:05:00",
@@ -2287,6 +2308,27 @@
     "Exposure_time_end_24": "22:59:00",
     "latitude": -37.977337,
     "longitude": 145.220576
+  },
+  {
+    "_id": 250,
+    "Suburb": "Werribee",
+    "Site_title": "Yummy Bite Fish N Chippery",
+    "Site_streetaddress": "167 Shaws Road ",
+    "Site_state": "VIC",
+    "Site_postcode": "3030",
+    "Exposure_date_dtm": "2021-09-04",
+    "Exposure_date": "04/09/2021",
+    "Exposure_time": "5:00pm - 9:00pm",
+    "Notes": "Case attended venue",
+    "Added_date_dtm": "2021-09-11",
+    "Added_date": "11/09/2021",
+    "Added_time": "09:10:00",
+    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
+    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
+    "Exposure_time_start_24": "17:00:00",
+    "Exposure_time_end_24": "21:00:00",
+    "latitude": -37.889388,
+    "longitude": 144.660991
   },
   {
     "_id": 118,
@@ -2562,27 +2604,6 @@
     "longitude": 144.953552
   },
   {
-    "_id": 173,
-    "Suburb": "Moolap",
-    "Site_title": "Geelong Premixed Concrete",
-    "Site_streetaddress": "314 Portalington Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3224",
-    "Exposure_date_dtm": "2021-09-01",
-    "Exposure_date": "01/09/2021",
-    "Exposure_time": "6:30am - 6:05pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-09-11",
-    "Added_date": "11/09/2021",
-    "Added_time": "13:15:00",
-    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
-    "Exposure_time_start_24": "06:30:00",
-    "Exposure_time_end_24": "18:05:00",
-    "latitude": -38.176192,
-    "longitude": 144.427473
-  },
-  {
     "_id": 131,
     "Suburb": "South Morang",
     "Site_title": "TerryWhite Chemmart South Morang",
@@ -2705,27 +2726,6 @@
     "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
     "Exposure_time_start_24": "21:15:00",
     "Exposure_time_end_24": "23:59:00",
-    "latitude": -37.69374,
-    "longitude": 144.755858
-  },
-  {
-    "_id": 137,
-    "Suburb": "Hillside",
-    "Site_title": "Caltex Hillside",
-    "Site_streetaddress": "575 Melton Highway",
-    "Site_state": "VIC",
-    "Site_postcode": "3037",
-    "Exposure_date_dtm": "2021-09-09",
-    "Exposure_date": "09/09/2021",
-    "Exposure_time": "12:00am - 7:30am",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-09-11",
-    "Added_date": "11/09/2021",
-    "Added_time": "18:10:00",
-    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
-    "Exposure_time_start_24": "00:00:00",
-    "Exposure_time_end_24": "07:30:00",
     "latitude": -37.69374,
     "longitude": 144.755858
   },
@@ -3444,6 +3444,27 @@
     "longitude": 144.72491
   },
   {
+    "_id": 173,
+    "Suburb": "Moolap",
+    "Site_title": "Geelong Premixed Concrete",
+    "Site_streetaddress": "314 Portalington Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3224",
+    "Exposure_date_dtm": "2021-09-01",
+    "Exposure_date": "01/09/2021",
+    "Exposure_time": "6:30am - 6:05pm",
+    "Notes": "Case attended venue",
+    "Added_date_dtm": "2021-09-11",
+    "Added_date": "11/09/2021",
+    "Added_time": "13:15:00",
+    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
+    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
+    "Exposure_time_start_24": "06:30:00",
+    "Exposure_time_end_24": "18:05:00",
+    "latitude": -38.1673888,
+    "longitude": 144.4182102
+  },
+  {
     "_id": 174,
     "Suburb": "Moolap",
     "Site_title": "Geelong Premixed Concrete",
@@ -3461,8 +3482,8 @@
     "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
     "Exposure_time_start_24": "05:35:00",
     "Exposure_time_end_24": "16:00:00",
-    "latitude": -38.176192,
-    "longitude": 144.427473
+    "latitude": -38.1673888,
+    "longitude": 144.4182102
   },
   {
     "_id": 175,
@@ -3482,8 +3503,8 @@
     "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
     "Exposure_time_start_24": "06:20:00",
     "Exposure_time_end_24": "16:10:00",
-    "latitude": -38.176192,
-    "longitude": 144.427473
+    "latitude": -38.1673888,
+    "longitude": 144.4182102
   },
   {
     "_id": 176,
@@ -3503,8 +3524,8 @@
     "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
     "Exposure_time_start_24": "06:20:00",
     "Exposure_time_end_24": "16:50:00",
-    "latitude": -38.176192,
-    "longitude": 144.427473
+    "latitude": -38.1673888,
+    "longitude": 144.4182102
   },
   {
     "_id": 177,
@@ -3589,27 +3610,6 @@
     "Exposure_time_end_24": "23:59:00",
     "latitude": -37.79613,
     "longitude": 144.897046
-  },
-  {
-    "_id": 195,
-    "Suburb": "Williamstown",
-    "Site_title": "Montys of Williamstown ",
-    "Site_streetaddress": "44 Thompson Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3016",
-    "Exposure_date_dtm": "2021-09-07",
-    "Exposure_date": "07/09/2021",
-    "Exposure_time": "3:00pm - 9:30pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-09-11",
-    "Added_date": "11/09/2021",
-    "Added_time": "13:15:00",
-    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
-    "Exposure_time_start_24": "15:00:00",
-    "Exposure_time_end_24": "21:30:00",
-    "latitude": -37.865514,
-    "longitude": 144.90401
   },
   {
     "_id": 181,
@@ -3893,6 +3893,27 @@
     "Site_postcode": "3016",
     "Exposure_date_dtm": "2021-09-06",
     "Exposure_date": "06/09/2021",
+    "Exposure_time": "3:00pm - 9:30pm",
+    "Notes": "Case attended venue",
+    "Added_date_dtm": "2021-09-11",
+    "Added_date": "11/09/2021",
+    "Added_time": "13:15:00",
+    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
+    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
+    "Exposure_time_start_24": "15:00:00",
+    "Exposure_time_end_24": "21:30:00",
+    "latitude": -37.865514,
+    "longitude": 144.90401
+  },
+  {
+    "_id": 195,
+    "Suburb": "Williamstown",
+    "Site_title": "Montys of Williamstown ",
+    "Site_streetaddress": "44 Thompson Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3016",
+    "Exposure_date_dtm": "2021-09-07",
+    "Exposure_date": "07/09/2021",
     "Exposure_time": "3:00pm - 9:30pm",
     "Notes": "Case attended venue",
     "Added_date_dtm": "2021-09-11",
@@ -4347,6 +4368,27 @@
     "longitude": 144.97091
   },
   {
+    "_id": 224,
+    "Suburb": "Flemington",
+    "Site_title": "Apartment Complex",
+    "Site_streetaddress": "12 Holland Court",
+    "Site_state": "VIC",
+    "Site_postcode": "3031",
+    "Exposure_date_dtm": "2021-09-08",
+    "Exposure_date": "08/09/2021",
+    "Exposure_time": "12:00am - 11:59pm",
+    "Notes": "Case attended venue",
+    "Added_date_dtm": "2021-09-11",
+    "Added_date": "11/09/2021",
+    "Added_time": "11:31:37",
+    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
+    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
+    "Exposure_time_start_24": "00:00:00",
+    "Exposure_time_end_24": "23:59:00",
+    "latitude": -37.788176,
+    "longitude": 144.934713
+  },
+  {
     "_id": 217,
     "Suburb": "Thomastown",
     "Site_title": "Best Friends Pets Thomastown",
@@ -4494,27 +4536,6 @@
     "longitude": 144.934713
   },
   {
-    "_id": 224,
-    "Suburb": "Flemington",
-    "Site_title": "Apartment Complex",
-    "Site_streetaddress": "12 Holland Court",
-    "Site_state": "VIC",
-    "Site_postcode": "3031",
-    "Exposure_date_dtm": "2021-09-08",
-    "Exposure_date": "08/09/2021",
-    "Exposure_time": "12:00am - 11:59pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-09-11",
-    "Added_date": "11/09/2021",
-    "Added_time": "11:31:37",
-    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
-    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
-    "Exposure_time_start_24": "00:00:00",
-    "Exposure_time_end_24": "23:59:00",
-    "latitude": -37.788176,
-    "longitude": 144.934713
-  },
-  {
     "_id": 225,
     "Suburb": "Flemington",
     "Site_title": "Apartment Complex",
@@ -4574,8 +4595,8 @@
     "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
     "Exposure_time_start_24": "17:15:00",
     "Exposure_time_end_24": "18:00:00",
-    "latitude": -38.176192,
-    "longitude": 144.427473
+    "latitude": -38.1641354,
+    "longitude": 144.4117237
   },
   {
     "_id": 228,
@@ -4595,8 +4616,8 @@
     "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
     "Exposure_time_start_24": "16:15:00",
     "Exposure_time_end_24": "17:00:00",
-    "latitude": -38.176192,
-    "longitude": 144.427473
+    "latitude": -38.1641354,
+    "longitude": 144.4117237
   },
   {
     "_id": 229,
@@ -4616,8 +4637,8 @@
     "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
     "Exposure_time_start_24": "14:15:00",
     "Exposure_time_end_24": "15:00:00",
-    "latitude": -38.176192,
-    "longitude": 144.427473
+    "latitude": -38.1641354,
+    "longitude": 144.4117237
   },
   {
     "_id": 230,
@@ -4637,8 +4658,8 @@
     "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
     "Exposure_time_start_24": "15:15:00",
     "Exposure_time_end_24": "15:45:00",
-    "latitude": -38.176192,
-    "longitude": 144.427473
+    "latitude": -38.1641354,
+    "longitude": 144.4117237
   },
   {
     "_id": 231,
@@ -4658,8 +4679,8 @@
     "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
     "Exposure_time_start_24": "15:45:00",
     "Exposure_time_end_24": "16:15:00",
-    "latitude": -38.176192,
-    "longitude": 144.427473
+    "latitude": -38.1641354,
+    "longitude": 144.4117237
   },
   {
     "_id": 232,
@@ -4679,8 +4700,8 @@
     "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
     "Exposure_time_start_24": "07:00:00",
     "Exposure_time_end_24": "16:00:00",
-    "latitude": -37.943484,
-    "longitude": 145.127245
+    "latitude": -37.9416737,
+    "longitude": 145.1239529
   },
   {
     "_id": 233,
@@ -4700,8 +4721,8 @@
     "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
     "Exposure_time_start_24": "07:00:00",
     "Exposure_time_end_24": "16:00:00",
-    "latitude": -37.943484,
-    "longitude": 145.127245
+    "latitude": -37.9416737,
+    "longitude": 145.1239529
   },
   {
     "_id": 234,
@@ -4721,8 +4742,8 @@
     "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
     "Exposure_time_start_24": "07:00:00",
     "Exposure_time_end_24": "09:00:00",
-    "latitude": -37.943484,
-    "longitude": 145.127245
+    "latitude": -37.9416737,
+    "longitude": 145.1239529
   },
   {
     "_id": 235,
@@ -4805,8 +4826,8 @@
     "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
     "Exposure_time_start_24": "14:00:00",
     "Exposure_time_end_24": "15:45:00",
-    "latitude": -38.212189,
-    "longitude": 144.276556
+    "latitude": -38.1996693,
+    "longitude": 144.3174801
   },
   {
     "_id": 239,
@@ -4817,17 +4838,17 @@
     "Site_postcode": "3222",
     "Exposure_date_dtm": "2021-09-03",
     "Exposure_date": "03/09/2021",
-    "Exposure_time": "10:30am - 2:10pm",
+    "Exposure_time": "12:30pm - 2:10pm",
     "Notes": "Case attended venue",
     "Added_date_dtm": "2021-09-11",
     "Added_date": "11/09/2021",
     "Added_time": "11:31:37",
     "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
     "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
-    "Exposure_time_start_24": "10:30:00",
+    "Exposure_time_start_24": "12:30:00",
     "Exposure_time_end_24": "14:10:00",
-    "latitude": -37.014348,
-    "longitude": 143.480452
+    "latitude": -38.168859,
+    "longitude": 144.5426723
   },
   {
     "_id": 240,
@@ -4847,8 +4868,8 @@
     "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
     "Exposure_time_start_24": "16:30:00",
     "Exposure_time_end_24": "18:15:00",
-    "latitude": -37.014348,
-    "longitude": 143.480452
+    "latitude": -38.1734708,
+    "longitude": 144.5664193
   },
   {
     "_id": 241,
@@ -5040,27 +5061,6 @@
     "longitude": 144.660991
   },
   {
-    "_id": 250,
-    "Suburb": "Werribee",
-    "Site_title": "Yummy Bite Fish N Chippery",
-    "Site_streetaddress": "167 Shaws Road ",
-    "Site_state": "VIC",
-    "Site_postcode": "3030",
-    "Exposure_date_dtm": "2021-09-04",
-    "Exposure_date": "04/09/2021",
-    "Exposure_time": "5:00pm - 9:00pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-09-11",
-    "Added_date": "11/09/2021",
-    "Added_time": "09:10:00",
-    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
-    "Exposure_time_start_24": "17:00:00",
-    "Exposure_time_end_24": "21:00:00",
-    "latitude": -37.889388,
-    "longitude": 144.660991
-  },
-  {
     "_id": 251,
     "Suburb": "Werribee",
     "Site_title": "Yummy Bite Fish N Chippery",
@@ -5122,6 +5122,27 @@
     "Exposure_time_end_24": "20:00:00",
     "latitude": -37.772247,
     "longitude": 144.966181
+  },
+  {
+    "_id": 369,
+    "Suburb": "Melbourne",
+    "Site_title": "Ernst and Young ",
+    "Site_streetaddress": "8 Exhibition Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3000",
+    "Exposure_date_dtm": "2021-09-01",
+    "Exposure_date": "01/09/2021",
+    "Exposure_time": "12:00am - 11:59pm",
+    "Notes": "Case attended venue",
+    "Added_date_dtm": "2021-09-10",
+    "Added_date": "10/09/2021",
+    "Added_time": "09:30:00",
+    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
+    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
+    "Exposure_time_start_24": "00:00:00",
+    "Exposure_time_end_24": "23:59:00",
+    "latitude": -37.815543,
+    "longitude": 144.972444
   },
   {
     "_id": 254,
@@ -5330,8 +5351,8 @@
     "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
     "Exposure_time_start_24": "18:30:00",
     "Exposure_time_end_24": "19:00:00",
-    "latitude": -38.150785,
-    "longitude": 144.361579
+    "latitude": -38.1523813,
+    "longitude": 144.3609666
   },
   {
     "_id": 264,
@@ -5792,8 +5813,8 @@
     "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
     "Exposure_time_start_24": "11:30:00",
     "Exposure_time_end_24": "23:30:00",
-    "latitude": -37.590804,
-    "longitude": 144.933042
+    "latitude": -37.596278,
+    "longitude": 144.9192804
   },
   {
     "_id": 285,
@@ -5813,8 +5834,8 @@
     "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
     "Exposure_time_start_24": "07:00:00",
     "Exposure_time_end_24": "20:00:00",
-    "latitude": -37.590804,
-    "longitude": 144.933042
+    "latitude": -37.596278,
+    "longitude": 144.9192804
   },
   {
     "_id": 286,
@@ -5834,8 +5855,8 @@
     "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
     "Exposure_time_start_24": "05:30:00",
     "Exposure_time_end_24": "11:30:00",
-    "latitude": -37.943484,
-    "longitude": 145.127245
+    "latitude": -37.9416737,
+    "longitude": 145.1239529
   },
   {
     "_id": 287,
@@ -5855,8 +5876,8 @@
     "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
     "Exposure_time_start_24": "00:00:00",
     "Exposure_time_end_24": "23:59:00",
-    "latitude": -37.818898,
-    "longitude": 144.948291
+    "latitude": -37.8210514,
+    "longitude": 144.9421895
   },
   {
     "_id": 288,
@@ -5876,8 +5897,8 @@
     "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
     "Exposure_time_start_24": "00:00:00",
     "Exposure_time_end_24": "23:59:00",
-    "latitude": -37.758274,
-    "longitude": 145.005174
+    "latitude": -37.7558531,
+    "longitude": 145.0106488
   },
   {
     "_id": 289,
@@ -5897,8 +5918,8 @@
     "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
     "Exposure_time_start_24": "00:00:00",
     "Exposure_time_end_24": "23:59:00",
-    "latitude": -37.758274,
-    "longitude": 145.005174
+    "latitude": -37.7558531,
+    "longitude": 145.0106488
   },
   {
     "_id": 290,
@@ -5918,8 +5939,8 @@
     "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
     "Exposure_time_start_24": "00:00:00",
     "Exposure_time_end_24": "23:59:00",
-    "latitude": -37.758274,
-    "longitude": 145.005174
+    "latitude": -37.7558531,
+    "longitude": 145.0106488
   },
   {
     "_id": 291,
@@ -5939,8 +5960,8 @@
     "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
     "Exposure_time_start_24": "00:00:00",
     "Exposure_time_end_24": "23:59:00",
-    "latitude": -37.758274,
-    "longitude": 145.005174
+    "latitude": -37.7558531,
+    "longitude": 145.0106488
   },
   {
     "_id": 292,
@@ -5960,8 +5981,8 @@
     "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
     "Exposure_time_start_24": "00:00:00",
     "Exposure_time_end_24": "23:59:00",
-    "latitude": -37.758274,
-    "longitude": 145.005174
+    "latitude": -37.7558531,
+    "longitude": 145.0106488
   },
   {
     "_id": 293,
@@ -6170,8 +6191,8 @@
     "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
     "Exposure_time_start_24": "08:00:00",
     "Exposure_time_end_24": "16:30:00",
-    "latitude": -37.857378,
-    "longitude": 144.774018
+    "latitude": -37.838242,
+    "longitude": 144.7837703
   },
   {
     "_id": 304,
@@ -6233,8 +6254,8 @@
     "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
     "Exposure_time_start_24": "00:00:00",
     "Exposure_time_end_24": "23:59:00",
-    "latitude": -37.870129,
-    "longitude": 144.994832
+    "latitude": -37.872808,
+    "longitude": 144.9952052
   },
   {
     "_id": 307,
@@ -6254,8 +6275,8 @@
     "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
     "Exposure_time_start_24": "00:00:00",
     "Exposure_time_end_24": "23:59:00",
-    "latitude": -37.870129,
-    "longitude": 144.994832
+    "latitude": -37.872808,
+    "longitude": 144.9952052
   },
   {
     "_id": 308,
@@ -6275,8 +6296,8 @@
     "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
     "Exposure_time_start_24": "00:00:00",
     "Exposure_time_end_24": "23:59:00",
-    "latitude": -37.870129,
-    "longitude": 144.994832
+    "latitude": -37.872808,
+    "longitude": 144.9952052
   },
   {
     "_id": 309,
@@ -6296,8 +6317,8 @@
     "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
     "Exposure_time_start_24": "00:00:00",
     "Exposure_time_end_24": "23:59:00",
-    "latitude": -37.870129,
-    "longitude": 144.994832
+    "latitude": -37.872808,
+    "longitude": 144.9952052
   },
   {
     "_id": 310,
@@ -6384,14 +6405,14 @@
     "longitude": 144.758007
   },
   {
-    "_id": 369,
+    "_id": 370,
     "Suburb": "Melbourne",
     "Site_title": "Ernst and Young ",
     "Site_streetaddress": "8 Exhibition Street",
     "Site_state": "VIC",
     "Site_postcode": "3000",
-    "Exposure_date_dtm": "2021-09-01",
-    "Exposure_date": "01/09/2021",
+    "Exposure_date_dtm": "2021-09-02",
+    "Exposure_date": "02/09/2021",
     "Exposure_time": "12:00am - 11:59pm",
     "Notes": "Case attended venue",
     "Added_date_dtm": "2021-09-10",
@@ -6464,8 +6485,8 @@
     "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
     "Exposure_time_start_24": "10:30:00",
     "Exposure_time_end_24": "11:15:00",
-    "latitude": -37.62614,
-    "longitude": 144.926767
+    "latitude": -37.6194907,
+    "longitude": 144.925691
   },
   {
     "_id": 319,
@@ -6510,25 +6531,25 @@
     "longitude": 144.962702
   },
   {
-    "_id": 428,
-    "Suburb": "Doncaster",
-    "Site_title": "Doncaster Land Rover",
-    "Site_streetaddress": "573 Doncaster Road",
+    "_id": 386,
+    "Suburb": "Fawkner",
+    "Site_title": "KFC Fawkner",
+    "Site_streetaddress": "1293 Sydney Road",
     "Site_state": "VIC",
-    "Site_postcode": "3108",
-    "Exposure_date_dtm": "2021-09-02",
-    "Exposure_date": "02/09/2021",
-    "Exposure_time": "8:00am - 1:00pm",
+    "Site_postcode": "3060",
+    "Exposure_date_dtm": "2021-09-05",
+    "Exposure_date": "05/09/2021",
+    "Exposure_time": "8:00am - 5:00pm",
     "Notes": "Case attended venue",
     "Added_date_dtm": "2021-09-09",
     "Added_date": "09/09/2021",
-    "Added_time": "16:38:00",
+    "Added_time": "22:07:00",
     "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
     "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
     "Exposure_time_start_24": "08:00:00",
-    "Exposure_time_end_24": "13:00:00",
-    "latitude": -37.787729,
-    "longitude": 145.121517
+    "Exposure_time_end_24": "17:00:00",
+    "latitude": -37.700777,
+    "longitude": 144.959562
   },
   {
     "_id": 321,
@@ -7136,8 +7157,8 @@
     "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
     "Exposure_time_start_24": "07:15:00",
     "Exposure_time_end_24": "13:00:00",
-    "latitude": -37.857461,
-    "longitude": 145.034939
+    "latitude": -37.865115,
+    "longitude": 145.0249623
   },
   {
     "_id": 352,
@@ -7283,8 +7304,8 @@
     "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
     "Exposure_time_start_24": "16:30:00",
     "Exposure_time_end_24": "21:00:00",
-    "latitude": -37.79613,
-    "longitude": 144.897046
+    "latitude": -37.8007363,
+    "longitude": 144.8977762
   },
   {
     "_id": 359,
@@ -7495,27 +7516,6 @@
     "Exposure_time_end_24": "16:30:00",
     "latitude": -37.6145527,
     "longitude": 144.9413313
-  },
-  {
-    "_id": 370,
-    "Suburb": "Melbourne",
-    "Site_title": "Ernst and Young ",
-    "Site_streetaddress": "8 Exhibition Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3000",
-    "Exposure_date_dtm": "2021-09-02",
-    "Exposure_date": "02/09/2021",
-    "Exposure_time": "12:00am - 11:59pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-09-10",
-    "Added_date": "10/09/2021",
-    "Added_time": "09:30:00",
-    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
-    "Exposure_time_start_24": "00:00:00",
-    "Exposure_time_end_24": "23:59:00",
-    "latitude": -37.815543,
-    "longitude": 144.972444
   },
   {
     "_id": 371,
@@ -7831,27 +7831,6 @@
     "Exposure_time_end_24": "23:30:00",
     "latitude": -36.38143,
     "longitude": 145.40022
-  },
-  {
-    "_id": 386,
-    "Suburb": "Fawkner",
-    "Site_title": "KFC Fawkner",
-    "Site_streetaddress": "1293 Sydney Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3060",
-    "Exposure_date_dtm": "2021-09-05",
-    "Exposure_date": "05/09/2021",
-    "Exposure_time": "8:00am - 5:00pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-09-09",
-    "Added_date": "09/09/2021",
-    "Added_time": "22:07:00",
-    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
-    "Exposure_time_start_24": "08:00:00",
-    "Exposure_time_end_24": "17:00:00",
-    "latitude": -37.700777,
-    "longitude": 144.959562
   },
   {
     "_id": 387,
@@ -8629,6 +8608,27 @@
     "Exposure_time_end_24": "16:00:00",
     "latitude": -37.714812,
     "longitude": 144.983787
+  },
+  {
+    "_id": 428,
+    "Suburb": "Doncaster",
+    "Site_title": "Doncaster Land Rover",
+    "Site_streetaddress": "573 Doncaster Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3108",
+    "Exposure_date_dtm": "2021-09-02",
+    "Exposure_date": "02/09/2021",
+    "Exposure_time": "8:00am - 1:00pm",
+    "Notes": "Case attended venue",
+    "Added_date_dtm": "2021-09-09",
+    "Added_date": "09/09/2021",
+    "Added_time": "16:38:00",
+    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
+    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
+    "Exposure_time_start_24": "08:00:00",
+    "Exposure_time_end_24": "13:00:00",
+    "latitude": -37.787729,
+    "longitude": 145.121517
   },
   {
     "_id": 429,
