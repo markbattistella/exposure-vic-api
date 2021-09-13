@@ -9927,9 +9927,9 @@
     "Site_streetaddress": "343 Thompson Road",
     "Site_state": "VIC",
     "Site_postcode": "3214",
-    "confidence": 0.6,
-    "latitude": -38.091706,
-    "longitude": 144.358735,
+    "confidence": 1,
+    "latitude": -38.1011958,
+    "longitude": 144.3428113,
     "label": "Norlane, VIC, Australia"
   },
   {
@@ -9957,9 +9957,9 @@
     "Site_streetaddress": "133 Yarra Street, Corner Yarra Street and Myers Street",
     "Site_state": "VIC",
     "Site_postcode": "3220",
-    "confidence": 0.6,
-    "latitude": -38.150785,
-    "longitude": 144.361579,
+    "confidence": 1,
+    "latitude": -38.1523813,
+    "longitude": 144.3609666,
     "label": "Geelong, VIC, Australia"
   },
   {
@@ -10087,9 +10087,9 @@
     "Site_streetaddress": "1/7 Palmerston Street",
     "Site_state": "VIC",
     "Site_postcode": "3222",
-    "confidence": 0.3,
-    "latitude": -37.014348,
-    "longitude": 143.480452,
+    "confidence": 1,
+    "latitude": -38.1734708,
+    "longitude": 144.5664193,
     "label": "Victoria, Australia"
   },
   {
@@ -10107,9 +10107,9 @@
     "Site_streetaddress": "Corner Portarlington Road and Moon Street",
     "Site_state": "VIC",
     "Site_postcode": "3224",
-    "confidence": 0.6,
-    "latitude": -38.176192,
-    "longitude": 144.427473,
+    "confidence": 1,
+    "latitude": -38.1641354,
+    "longitude": 144.4117237,
     "label": "Moolap, VIC, Australia"
   },
   {
@@ -10127,9 +10127,9 @@
     "Site_streetaddress": "173-199 Pioneer Road",
     "Site_state": "VIC",
     "Site_postcode": "3216",
-    "confidence": 0.6,
-    "latitude": -38.212189,
-    "longitude": 144.276556,
+    "confidence": 1,
+    "latitude": -38.1996693,
+    "longitude": 144.3174801,
     "label": "Waurn Ponds, VIC, Australia"
   },
   {
@@ -10137,9 +10137,9 @@
     "Site_streetaddress": "8/90 Centennial Boulevard",
     "Site_state": "VIC",
     "Site_postcode": "3222",
-    "confidence": 0.3,
-    "latitude": -37.014348,
-    "longitude": 143.480452,
+    "confidence": 1,
+    "latitude": -38.168859,
+    "longitude": 144.5426723,
     "label": "Victoria, Australia"
   },
   {
@@ -10157,9 +10157,9 @@
     "Site_streetaddress": "47 Momentum Way",
     "Site_state": "VIC",
     "Site_postcode": "3023",
-    "confidence": 0.6,
-    "latitude": -37.787925,
-    "longitude": 144.744794,
+    "confidence": 1,
+    "latitude": -37.7611039,
+    "longitude": 144.7301184,
     "label": "Ravenhall, VIC, Australia"
   },
   {
@@ -10217,9 +10217,9 @@
     "Site_streetaddress": "314 Portalington Road",
     "Site_state": "VIC",
     "Site_postcode": "3224",
-    "confidence": 0.6,
-    "latitude": -38.176192,
-    "longitude": 144.427473,
+    "confidence": 1,
+    "latitude": -38.1673888,
+    "longitude": 144.4182102,
     "label": "Moolap, VIC, Australia"
   },
   {
