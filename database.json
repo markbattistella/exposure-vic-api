@@ -9617,9 +9617,9 @@
     "Site_streetaddress": "16 Paisley Steet",
     "Site_state": "VIC",
     "Site_postcode": "3011",
-    "confidence": 0.6,
-    "latitude": -37.79613,
-    "longitude": 144.897046,
+    "confidence": 1,
+    "latitude": -37.8007363,
+    "longitude": 144.8977762,
     "label": "Footscray, VIC, Australia"
   },
   {
@@ -9657,9 +9657,9 @@
     "Site_streetaddress": "1 Como Street",
     "Site_state": "VIC",
     "Site_postcode": "3144",
-    "confidence": 0.6,
-    "latitude": -37.857461,
-    "longitude": 145.034939,
+    "confidence": 1,
+    "latitude": -37.865115,
+    "longitude": 145.0249623,
     "label": "Malvern, VIC, Australia"
   },
   {
@@ -9767,9 +9767,9 @@
     "Site_streetaddress": "Corner James Mirams Drive and Bridgewater Road",
     "Site_state": "VIC",
     "Site_postcode": "3064",
-    "confidence": 0.6,
-    "latitude": -37.62614,
-    "longitude": 144.926767,
+    "confidence": 1,
+    "latitude": -37.6194907,
+    "longitude": 144.925691,
     "label": "Roxburgh Park, VIC, Australia"
   },
   {
@@ -9777,9 +9777,9 @@
     "Site_streetaddress": "883 Collins Sreet",
     "Site_state": "VIC",
     "Site_postcode": "3008",
-    "confidence": 0.6,
-    "latitude": -37.818898,
-    "longitude": 144.948291,
+    "confidence": 1,
+    "latitude": -37.8210514,
+    "longitude": 144.9421895,
     "label": "Docklands, VIC, Australia"
   },
   {
@@ -9787,9 +9787,9 @@
     "Site_streetaddress": "111 Flinders Sreet",
     "Site_state": "VIC",
     "Site_postcode": "3071",
-    "confidence": 0.6,
-    "latitude": -37.758274,
-    "longitude": 145.005174,
+    "confidence": 1,
+    "latitude": -37.7558531,
+    "longitude": 145.0106488,
     "label": "Thornbury, VIC, Australia"
   },
   {
@@ -9807,9 +9807,9 @@
     "Site_streetaddress": "501/37 Little La Trobe Street",
     "Site_state": "VIC",
     "Site_postcode": "3000",
-    "confidence": 0.6,
-    "latitude": -37.825071,
-    "longitude": 144.978682,
+    "confidence": 1,
+    "latitude": -37.8095064,
+    "longitude": 144.9600031,
     "label": "Melbourne, VIC, Australia"
   },
   {
@@ -9827,9 +9827,9 @@
     "Site_streetaddress": "12-14 Maria Street",
     "Site_state": "VIC",
     "Site_postcode": "3026",
-    "confidence": 0.6,
-    "latitude": -37.857378,
-    "longitude": 144.774018,
+    "confidence": 1,
+    "latitude": -37.838242,
+    "longitude": 144.7837703,
     "label": "Laverton, VIC, Australia"
   },
   {
@@ -9847,9 +9847,9 @@
     "Site_streetaddress": "41 Gourlay Sreet",
     "Site_state": "VIC",
     "Site_postcode": "3183",
-    "confidence": 0.6,
-    "latitude": -37.870129,
-    "longitude": 144.994832,
+    "confidence": 1,
+    "latitude": -37.872808,
+    "longitude": 144.9952052,
     "label": "Balaclava, VIC, Australia"
   },
   {
@@ -9867,9 +9867,9 @@
     "Site_streetaddress": "256 Craigieburn Road West",
     "Site_state": "VIC",
     "Site_postcode": "3064",
-    "confidence": 0.6,
-    "latitude": -37.590804,
-    "longitude": 144.933042,
+    "confidence": 1,
+    "latitude": -37.596278,
+    "longitude": 144.9192804,
     "label": "Craigieburn, VIC, Australia"
   },
   {
@@ -9877,9 +9877,9 @@
     "Site_streetaddress": "102 Fairbank Road",
     "Site_state": "VIC",
     "Site_postcode": "3169",
-    "confidence": 0.6,
-    "latitude": -37.943484,
-    "longitude": 145.127245,
+    "confidence": 1,
+    "latitude": -37.9416737,
+    "longitude": 145.1239529,
     "label": "Clayton, VIC, Australia"
   },
   {
