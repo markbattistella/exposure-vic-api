@@ -10237,9 +10237,9 @@
     "Site_streetaddress": "8 Joseph Road",
     "Site_state": "VIC",
     "Site_postcode": "3011",
-    "confidence": 0.6,
-    "latitude": -37.79613,
-    "longitude": 144.897046,
+    "confidence": 1,
+    "latitude": -37.7990034,
+    "longitude": 144.9081213,
     "label": "Footscray, VIC, Australia"
   },
   {
@@ -10257,9 +10257,9 @@
     "Site_streetaddress": "190 Union Street",
     "Site_state": "VIC",
     "Site_postcode": "3055",
-    "confidence": 0.6,
-    "latitude": -37.766605,
-    "longitude": 144.961005,
+    "confidence": 1,
+    "latitude": -37.771909,
+    "longitude": 144.9465606,
     "label": "Brunswick, VIC, Australia"
   },
   {
@@ -10287,9 +10287,9 @@
     "Site_streetaddress": "40 Highlander Drive",
     "Site_state": "VIC",
     "Site_postcode": "3064",
-    "confidence": 0.6,
-    "latitude": -37.590804,
-    "longitude": 144.933042,
+    "confidence": 1,
+    "latitude": -37.5888345,
+    "longitude": 144.8933269,
     "label": "Craigieburn, VIC, Australia"
   },
   {
@@ -10307,9 +10307,9 @@
     "Site_streetaddress": "31 Sherring Way",
     "Site_state": "VIC",
     "Site_postcode": "3500",
-    "confidence": 0.6,
-    "latitude": -34.199704,
-    "longitude": 142.153732,
+    "confidence": 1,
+    "latitude": -34.200802,
+    "longitude": 142.1172324,
     "label": "Mildura, VIC, Australia"
   },
   {
@@ -10377,9 +10377,9 @@
     "Site_streetaddress": "338-342 McDonalds Road",
     "Site_state": "VIC",
     "Site_postcode": "3752",
-    "confidence": 0.6,
-    "latitude": -37.632398,
-    "longitude": 145.083632,
+    "confidence": 1,
+    "latitude": -37.650051,
+    "longitude": 145.0735453,
     "label": "South Morang, VIC, Australia"
   },
   {
@@ -10387,9 +10387,9 @@
     "Site_streetaddress": "199 Newbury Boulevard",
     "Site_state": "VIC",
     "Site_postcode": "3046",
-    "confidence": 0.3,
-    "latitude": -37.014348,
-    "longitude": 143.480452,
+    "confidence": 1,
+    "latitude": -37.5717199,
+    "longitude": 144.9066111,
     "label": "Victoria, Australia"
   },
   {
@@ -10397,9 +10397,9 @@
     "Site_streetaddress": "Unit 2/45 Adrian Road ",
     "Site_state": "VIC",
     "Site_postcode": "3078",
-    "confidence": 0.6,
-    "latitude": -37.772375,
-    "longitude": 145.021292,
+    "confidence": 1,
+    "latitude": -37.6593386,
+    "longitude": 144.9607589,
     "label": "Fairfield, VIC, Australia"
   },
   {
@@ -10413,64 +10413,13 @@
     "label": "28 Hampton Road, Essendon West, VIC, Australia"
   },
   {
-    "Suburb": "Keilor East",
-    "Site_streetaddress": "250 Spencer Street ",
-    "Site_state": "VIC",
-    "Site_postcode": "3033",
-    "confidence": 0.6,
-    "latitude": -37.738594,
-    "longitude": 144.856096,
-    "label": "Keilor East, VIC, Australia"
-  },
-  {
-    "Suburb": "Thornbury",
+    "Suburb": "Tarneit",
     "Site_streetaddress": "540 Derrimut Road",
     "Site_state": "VIC",
-    "Site_postcode": "3071",
-    "confidence": 0.6,
-    "latitude": -37.758274,
-    "longitude": 145.005174,
-    "label": "Thornbury, VIC, Australia"
-  },
-  {
-    "Suburb": "Altona North",
-    "Site_streetaddress": "Derrimut Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3025",
-    "confidence": 0.6,
-    "latitude": -37.837835,
-    "longitude": 144.834706,
-    "label": "Altona North, VIC, Australia"
-  },
-  {
-    "Suburb": "Coburg",
-    "Site_streetaddress": "14/11 Brand Drive",
-    "Site_state": "VIC",
-    "Site_postcode": "3075",
-    "confidence": 0.6,
-    "latitude": -37.744675,
-    "longitude": 144.964201,
-    "label": "Coburg, VIC, Australia"
-  },
-  {
-    "Suburb": "Windsor",
-    "Site_streetaddress": "891 Canterbury Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3181",
-    "confidence": 0.6,
-    "latitude": -37.8549,
-    "longitude": 144.99348,
-    "label": "Windsor, VIC, Australia"
-  },
-  {
-    "Suburb": "Broadmeadows",
-    "Site_streetaddress": "12 - 14 Nelson Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3047",
-    "confidence": 0.6,
-    "latitude": -37.684973,
-    "longitude": 144.928208,
-    "label": "Broadmeadows, VIC, Australia"
+    "Site_postcode": "3029",
+    "confidence": 1,
+    "latitude": -37.8367692,
+    "longitude": 144.6902651
   },
   {
     "Suburb": "Melbourne",
