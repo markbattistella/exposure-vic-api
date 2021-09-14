@@ -11160,5 +11160,45 @@
     "latitude": -37.676275,
     "longitude": 144.922325,
     "label": "1185-1197 Pascoe Vale Road, Broadmeadows, VIC, Australia"
+  },
+  {
+    "Suburb": "Lake Wendouree",
+    "Site_streetaddress": "22 Wendouree Parade",
+    "Site_state": "VIC",
+    "Site_postcode": "3350",
+    "confidence": 1,
+    "latitude": -37.554223,
+    "longitude": 143.843018,
+    "label": "22 Wendouree Parade, Lake Wendouree, VIC, Australia"
+  },
+  {
+    "Suburb": "Preston",
+    "Site_streetaddress": "378-380 Gilbert Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3072",
+    "confidence": 1,
+    "latitude": -37.736063,
+    "longitude": 144.990608,
+    "label": "378-380 Gilbert Road, Preston, VIC, Australia"
+  },
+  {
+    "Suburb": "Waurn Ponds",
+    "Site_streetaddress": "2/26 Rossack Drive",
+    "Site_state": "VIC",
+    "Site_postcode": "3216",
+    "confidence": 1,
+    "latitude": -38.20226,
+    "longitude": 144.312025,
+    "label": "2-26 Rossack Drive, Waurn Ponds, VIC, Australia"
+  },
+  {
+    "Suburb": "Ocean Grove",
+    "Site_streetaddress": "77 The Terrace",
+    "Site_state": "VIC",
+    "Site_postcode": "3226",
+    "confidence": 1,
+    "latitude": -38.267722,
+    "longitude": 144.523858,
+    "label": "77 The Terrace, Ocean Grove, VIC, Australia"
   }
 ]
