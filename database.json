@@ -11095,7 +11095,11 @@
     "Suburb": "Meadow Heights",
     "Site_streetaddress": "42 Paringa Boulevard",
     "Site_state": "VIC",
-    "Site_postcode": "3048"
+    "Site_postcode": "3048",
+    "confidence": 0.3,
+    "latitude": -37.014348,
+    "longitude": 143.480452,
+    "label": "Victoria, Australia"
   },
   {
     "Suburb": "Campbellfield",
