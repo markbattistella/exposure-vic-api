@@ -11350,5 +11350,15 @@
     "latitude": -37.862378,
     "longitude": 145.000012,
     "label": "154 Alma Road, St Kilda East, VIC, Australia"
+  },
+  {
+    "Suburb": "Thornbury",
+    "Site_streetaddress": "105 Flinders Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3071",
+    "confidence": 1,
+    "latitude": -37.756477,
+    "longitude": 145.010793,
+    "label": "105 Flinders Street, Thornbury, VIC, Australia"
   }
 ]
