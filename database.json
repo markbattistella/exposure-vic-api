@@ -11210,5 +11210,45 @@
     "latitude": -37.769057,
     "longitude": 145.021136,
     "label": "283-285 Arthur Street, Fairfield, VIC, Australia"
+  },
+  {
+    "Suburb": "Ballarat",
+    "Site_streetaddress": "14 Armstrong Street North",
+    "Site_state": "VIC",
+    "Site_postcode": "3350",
+    "confidence": 0.4,
+    "latitude": -37.563892,
+    "longitude": 143.852395,
+    "label": "Ballarat, VIC, Australia"
+  },
+  {
+    "Suburb": "Ballarat",
+    "Site_streetaddress": "Greenville and Curtis Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3350",
+    "confidence": 0.4,
+    "latitude": -37.563892,
+    "longitude": 143.852395,
+    "label": "Ballarat, VIC, Australia"
+  },
+  {
+    "Suburb": "South Melbourne",
+    "Site_streetaddress": "60 Albert Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3205",
+    "confidence": 1,
+    "latitude": -37.834397,
+    "longitude": 144.971122,
+    "label": "60 Albert Road, South Melbourne, VIC, Australia"
+  },
+  {
+    "Suburb": "Thomastown",
+    "Site_streetaddress": "59/7 Dalton Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3074",
+    "confidence": 1,
+    "latitude": -37.6942,
+    "longitude": 145.02354,
+    "label": "7/7 Dalton Road, Thomastown, VIC, Australia"
   }
 ]
