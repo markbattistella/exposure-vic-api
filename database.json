@@ -11080,5 +11080,31 @@
     "latitude": -37.014348,
     "longitude": 143.480452,
     "label": "Victoria, Australia"
+  },
+  {
+    "Suburb": "Narre Warren",
+    "Site_streetaddress": "352 Princes Highway",
+    "Site_state": "VIC",
+    "Site_postcode": "3805",
+    "confidence": 1,
+    "latitude": -38.018329,
+    "longitude": 145.302095,
+    "label": "352 Princes Highway, Narre Warren, VIC, Australia"
+  },
+  {
+    "Suburb": "Meadow Heights",
+    "Site_streetaddress": "42 Paringa Boulevard",
+    "Site_state": "VIC",
+    "Site_postcode": "3048"
+  },
+  {
+    "Suburb": "Campbellfield",
+    "Site_streetaddress": "1484 Sydney Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3061",
+    "confidence": 1,
+    "latitude": -37.685148,
+    "longitude": 144.95787,
+    "label": "1484-1486 Sydney Road, Campbellfield, VIC, Australia"
   }
 ]
