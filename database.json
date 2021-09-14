@@ -11150,5 +11150,15 @@
     "latitude": -38.17359,
     "longitude": 144.401402,
     "label": "144-146 Bellarine Highway, Newcomb, VIC, Australia"
+  },
+  {
+    "Suburb": "Broadmeadows",
+    "Site_streetaddress": "1185-1197 Pascoe Vale Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3047",
+    "confidence": 1,
+    "latitude": -37.676275,
+    "longitude": 144.922325,
+    "label": "1185-1197 Pascoe Vale Road, Broadmeadows, VIC, Australia"
   }
 ]
