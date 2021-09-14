@@ -11250,5 +11250,15 @@
     "latitude": -37.6942,
     "longitude": 145.02354,
     "label": "7/7 Dalton Road, Thomastown, VIC, Australia"
+  },
+  {
+    "Suburb": "Campbellfield",
+    "Site_streetaddress": "2/89 Somerset Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3061",
+    "confidence": 1,
+    "latitude": -37.679086,
+    "longitude": 144.964307,
+    "label": "89 Somerset Road, Campbellfield, VIC, Australia"
   }
 ]
