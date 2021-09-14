@@ -11120,5 +11120,35 @@
     "latitude": -37.781357,
     "longitude": 144.977613,
     "label": "765A Nicholson Street, Carlton North, VIC, Australia"
+  },
+  {
+    "Suburb": "Ascot Vale",
+    "Site_streetaddress": "1 Langs Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3032",
+    "confidence": 1,
+    "latitude": -37.783204,
+    "longitude": 144.907428,
+    "label": "1/1 Langs Road, Ascot Vale, VIC, Australia"
+  },
+  {
+    "Suburb": "Drysdale",
+    "Site_streetaddress": "110 High Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3222",
+    "confidence": 0.3,
+    "latitude": -37.014348,
+    "longitude": 143.480452,
+    "label": "Victoria, Australia"
+  },
+  {
+    "Suburb": "Newcomb",
+    "Site_streetaddress": "144-146 Bellarine Highway",
+    "Site_state": "VIC",
+    "Site_postcode": "3219",
+    "confidence": 1,
+    "latitude": -38.17359,
+    "longitude": 144.401402,
+    "label": "144-146 Bellarine Highway, Newcomb, VIC, Australia"
   }
 ]
