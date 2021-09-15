@@ -11360,5 +11360,25 @@
     "latitude": -37.756477,
     "longitude": 145.010793,
     "label": "105 Flinders Street, Thornbury, VIC, Australia"
+  },
+  {
+    "Suburb": "Tullamarine",
+    "Site_streetaddress": "2/39 Barrie Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3043",
+    "confidence": 1,
+    "latitude": -37.713651,
+    "longitude": 144.875126,
+    "label": "39 Barrie Road, Tullamarine, VIC, Australia"
+  },
+  {
+    "Suburb": "Highett",
+    "Site_streetaddress": "284/286 Highett Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3190",
+    "confidence": 1,
+    "latitude": -37.948792,
+    "longitude": 145.041036,
+    "label": "286 Highett Road, Highett, VIC, Australia"
   }
 ]
