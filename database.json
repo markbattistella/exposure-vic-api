@@ -11400,5 +11400,65 @@
     "latitude": -37.682595,
     "longitude": 144.914968,
     "label": "11-17 Pearcedale Parade, Broadmeadows, VIC, Australia"
+  },
+  {
+    "Suburb": "Ballarat Central",
+    "Site_streetaddress": "Corner Sturt Street & Pleasant Street ",
+    "Site_state": "VIC",
+    "Site_postcode": "3350",
+    "confidence": 0.8,
+    "latitude": -37.550664,
+    "longitude": 143.882101,
+    "label": "3350, Nerrina, VIC, Australia"
+  },
+  {
+    "Suburb": "Coolaroo",
+    "Site_streetaddress": "Level 1/1540 Pascoe Vale Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3048",
+    "confidence": 1,
+    "latitude": -37.648021,
+    "longitude": 144.93229,
+    "label": "1/1540 Pascoe Vale Road, Coolaroo, VIC, Australia"
+  },
+  {
+    "Suburb": "Ballarat Central",
+    "Site_streetaddress": "Bridge Mall, Ballarat Central",
+    "Site_state": "VIC",
+    "Site_postcode": "3350",
+    "confidence": 0.6,
+    "latitude": -37.563892,
+    "longitude": 143.852395,
+    "label": "Ballarat Central, VIC, Australia"
+  },
+  {
+    "Suburb": "Ballarat Central",
+    "Site_streetaddress": "7/1/15 Bridge Mall",
+    "Site_state": "VIC",
+    "Site_postcode": "3350",
+    "confidence": 0.6,
+    "latitude": -37.563892,
+    "longitude": 143.852395,
+    "label": "Ballarat Central, VIC, Australia"
+  },
+  {
+    "Suburb": "Ballarat Central",
+    "Site_streetaddress": "31 Bridge Mall",
+    "Site_state": "VIC",
+    "Site_postcode": "3350",
+    "confidence": 1,
+    "latitude": -37.562306,
+    "longitude": 143.862027,
+    "label": "31 Bridge Mall, Ballarat Central, VIC, Australia"
+  },
+  {
+    "Suburb": "Ballarat",
+    "Site_streetaddress": "614 Mair Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3350",
+    "confidence": 0.4,
+    "latitude": -37.563892,
+    "longitude": 143.852395,
+    "label": "Ballarat, VIC, Australia"
   }
 ]
