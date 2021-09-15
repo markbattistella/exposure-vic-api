@@ -11465,6 +11465,10 @@
     "Suburb": "Wendouree",
     "Site_streetaddress": "Unit 8/18 Coronet Street",
     "Site_state": "VIC",
-    "Site_postcode": "3355"
+    "Site_postcode": "3355",
+    "confidence": 1,
+    "latitude": -37.527589,
+    "longitude": 143.844353,
+    "label": "18 Coronet Street, Wendouree, VIC, Australia"
   }
 ]
