@@ -11491,5 +11491,35 @@
     "latitude": -37.883325,
     "longitude": 145.109041,
     "label": "436-442 Huntingdale Road, Mount Waverley, VIC, Australia"
+  },
+  {
+    "Suburb": "Moonee Ponds",
+    "Site_streetaddress": "Corner Homer Street & Eddy Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3039",
+    "confidence": 0.6,
+    "latitude": -37.765075,
+    "longitude": 144.922941,
+    "label": "Moonee Ponds, VIC, Australia"
+  },
+  {
+    "Suburb": "Delacombe",
+    "Site_streetaddress": "155 Majestic Way",
+    "Site_state": "VIC",
+    "Site_postcode": "3356",
+    "confidence": 1,
+    "latitude": -37.577374,
+    "longitude": 143.798438,
+    "label": "155 Majestic Way, Delacombe, VIC, Australia"
+  },
+  {
+    "Suburb": "Cranbourne North",
+    "Site_streetaddress": "William Thwaites Boulevard",
+    "Site_state": "VIC",
+    "Site_postcode": "3977",
+    "confidence": 0.6,
+    "latitude": -38.077939,
+    "longitude": 145.302481,
+    "label": "Cranbourne North, VIC, Australia"
   }
 ]
