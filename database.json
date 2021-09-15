@@ -10946,10 +10946,9 @@
     "Site_streetaddress": "ILK Apartments, 227-229 Toorak Road",
     "Site_state": "VIC",
     "Site_postcode": "3141",
-    "confidence": 0.8,
-    "latitude": -37.839174,
-    "longitude": 144.991484,
-    "label": "3141, South Yarra, VIC, Australia"
+    "confidence": 1,
+    "latitude": -37.8387913,
+    "longitude": 144.9925591
   },
   {
     "Suburb": "Campbellfield",
@@ -10976,30 +10975,27 @@
     "Site_streetaddress": "Sydney Street & Clarke Street",
     "Site_state": "VIC",
     "Site_postcode": "3764",
-    "confidence": 0.8,
-    "latitude": -37.776998,
-    "longitude": 144.997463,
-    "label": "Clarke & High Streets, Northcote, VIC, Australia"
+    "confidence": 1,
+    "latitude": -37.2868867,
+    "longitude": 144.9479995
   },
   {
     "Suburb": "Kilmore",
     "Site_streetaddress": "109 Northen Highway",
     "Site_state": "VIC",
     "Site_postcode": "3764",
-    "confidence": 0.6,
-    "latitude": -37.30756,
-    "longitude": 144.949372,
-    "label": "Kilmore, VIC, Australia"
+    "confidence": 1,
+    "latitude": -37.2862025,
+    "longitude": 144.9473665
   },
   {
     "Suburb": "Seymour",
     "Site_streetaddress": "18-24 Tallarook Street",
     "Site_state": "VIC",
     "Site_postcode": "3660",
-    "confidence": 0.6,
-    "latitude": -37.026005,
-    "longitude": 145.14639,
-    "label": "Seymour, VIC, Australia"
+    "confidence": 1,
+    "latitude": -37.0237832,
+    "longitude": 145.1314525
   },
   {
     "Suburb": "Broadford",
@@ -11066,20 +11062,18 @@
     "Site_streetaddress": "Unit 3/11-13 Thompson Street",
     "Site_state": "VIC",
     "Site_postcode": "3061",
-    "confidence": 0.3,
-    "latitude": -37.014348,
-    "longitude": 143.480452,
-    "label": "Victoria, Australia"
+    "confidence": 1,
+    "latitude": -37.6850933,
+    "longitude": 144.954284
   },
   {
     "Suburb": "Seymore",
     "Site_streetaddress": "18-24 Tallarook Street",
     "Site_state": "VIC",
     "Site_postcode": "3660",
-    "confidence": 0.3,
-    "latitude": -37.014348,
-    "longitude": 143.480452,
-    "label": "Victoria, Australia"
+    "confidence": 1,
+    "latitude": -37.0237832,
+    "longitude": 145.1314525
   },
   {
     "Suburb": "Narre Warren",
@@ -11096,10 +11090,9 @@
     "Site_streetaddress": "42 Paringa Boulevard",
     "Site_state": "VIC",
     "Site_postcode": "3048",
-    "confidence": 0.3,
-    "latitude": -37.014348,
-    "longitude": 143.480452,
-    "label": "Victoria, Australia"
+    "confidence": 1,
+    "latitude": -37.6504067,
+    "longitude": 144.9221463
   },
   {
     "Suburb": "Campbellfield",
@@ -11136,10 +11129,9 @@
     "Site_streetaddress": "110 High Street",
     "Site_state": "VIC",
     "Site_postcode": "3222",
-    "confidence": 0.3,
-    "latitude": -37.014348,
-    "longitude": 143.480452,
-    "label": "Victoria, Australia"
+    "confidence": 1,
+    "latitude": -38.1784763,
+    "longitude": 144.5591029
   },
   {
     "Suburb": "Newcomb",
@@ -11216,20 +11208,18 @@
     "Site_streetaddress": "14 Armstrong Street North",
     "Site_state": "VIC",
     "Site_postcode": "3350",
-    "confidence": 0.4,
-    "latitude": -37.563892,
-    "longitude": 143.852395,
-    "label": "Ballarat, VIC, Australia"
+    "confidence": 1,
+    "latitude": -37.560879,
+    "longitude": 143.8545669
   },
   {
     "Suburb": "Ballarat",
     "Site_streetaddress": "Greenville and Curtis Street",
     "Site_state": "VIC",
     "Site_postcode": "3350",
-    "confidence": 0.4,
-    "latitude": -37.563892,
-    "longitude": 143.852395,
-    "label": "Ballarat, VIC, Australia"
+    "confidence": 1,
+    "latitude": -37.56189,
+    "longitude": 143.8555435
   },
   {
     "Suburb": "South Melbourne",
@@ -11266,30 +11256,27 @@
     "Site_streetaddress": "173- 199 Pioneer Road",
     "Site_state": "VIC",
     "Site_postcode": "3216",
-    "confidence": 0.6,
-    "latitude": -38.212189,
-    "longitude": 144.276556,
-    "label": "Waurn Ponds, VIC, Australia"
+    "confidence": 1,
+	"latitude": -38.199201384,
+    "longitude": 144.31892313
   },
   {
     "Suburb": "Waurn Ponds",
     "Site_streetaddress": "173 - 199 Pioneer Road",
     "Site_state": "VIC",
     "Site_postcode": "3216",
-    "confidence": 0.6,
-    "latitude": -38.212189,
-    "longitude": 144.276556,
-    "label": "Waurn Ponds, VIC, Australia"
+	"confidence": 1,
+    "latitude": -38.199201384,
+    "longitude": 144.31892313
   },
   {
     "Suburb": "Craigieburn",
     "Site_streetaddress": "1 Mackillop Street",
     "Site_state": "VIC",
     "Site_postcode": "3064",
-    "confidence": 0.6,
-    "latitude": -37.590804,
-    "longitude": 144.933042,
-    "label": "Craigieburn, VIC, Australia"
+    "confidence": 1,
+    "latitude": -37.582074,
+    "longitude": 144.895414
   },
   {
     "Suburb": "Torquay",
@@ -11336,10 +11323,9 @@
     "Site_streetaddress": "416 Heidleberg Road",
     "Site_state": "VIC",
     "Site_postcode": "3078",
-    "confidence": 0.6,
-    "latitude": -37.772375,
-    "longitude": 145.021292,
-    "label": "Fairfield, VIC, Australia"
+    "confidence": 1,
+    "latitude": -37.7837353,
+    "longitude": 145.0142354
   },
   {
     "Suburb": "St Kilda East",
@@ -11406,10 +11392,9 @@
     "Site_streetaddress": "Corner Sturt Street & Pleasant Street ",
     "Site_state": "VIC",
     "Site_postcode": "3350",
-    "confidence": 0.8,
-    "latitude": -37.550664,
-    "longitude": 143.882101,
-    "label": "3350, Nerrina, VIC, Australia"
+    "confidence": 1,
+    "latitude": -37.5600306,
+    "longitude": 143.8367683
   },
   {
     "Suburb": "Coolaroo",
@@ -11426,20 +11411,18 @@
     "Site_streetaddress": "Bridge Mall, Ballarat Central",
     "Site_state": "VIC",
     "Site_postcode": "3350",
-    "confidence": 0.6,
-    "latitude": -37.563892,
-    "longitude": 143.852395,
-    "label": "Ballarat Central, VIC, Australia"
+    "confidence": 1,
+    "latitude": -37.5471001,
+    "longitude": 143.8217139
   },
   {
     "Suburb": "Ballarat Central",
     "Site_streetaddress": "7/1/15 Bridge Mall",
     "Site_state": "VIC",
     "Site_postcode": "3350",
-    "confidence": 0.6,
-    "latitude": -37.563892,
-    "longitude": 143.852395,
-    "label": "Ballarat Central, VIC, Australia"
+    "confidence": 1,
+    "latitude": -37.562261,
+    "longitude": 143.8592455
   },
   {
     "Suburb": "Ballarat Central",
@@ -11456,10 +11439,9 @@
     "Site_streetaddress": "614 Mair Street",
     "Site_state": "VIC",
     "Site_postcode": "3350",
-    "confidence": 0.4,
-    "latitude": -37.563892,
-    "longitude": 143.852395,
-    "label": "Ballarat, VIC, Australia"
+    "confidence": 1,
+    "latitude": -37.5597107,
+    "longitude": 143.8315363
   },
   {
     "Suburb": "Wendouree",
@@ -11496,10 +11478,9 @@
     "Site_streetaddress": "3 Nexus Street",
     "Site_state": "VIC",
     "Site_postcode": "3023",
-    "confidence": 0.6,
-    "latitude": -37.787925,
-    "longitude": 144.744794,
-    "label": "Ravenhall, VIC, Australia"
+    "confidence": 1,
+    "latitude": -37.7744999,
+    "longitude": 144.7527665
   },
   {
     "Suburb": "Mount Waverley",
