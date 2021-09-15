@@ -11561,5 +11561,55 @@
     "latitude": -37.786833,
     "longitude": 144.951322,
     "label": "Parkville, VIC, Australia"
+  },
+  {
+    "Suburb": "Chirnside Park",
+    "Site_streetaddress": "Chirnside Park Shopping Centre, Shop 633/288 Maroondah Highway",
+    "Site_state": "VIC",
+    "Site_postcode": "3116",
+    "confidence": 0.6,
+    "latitude": -37.739195,
+    "longitude": 145.313315,
+    "label": "Chirnside Park, VIC, Australia"
+  },
+  {
+    "Suburb": "Yarraville",
+    "Site_streetaddress": "18 Anderson Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3013",
+    "confidence": 1,
+    "latitude": -37.81654,
+    "longitude": 144.89082,
+    "label": "18 Anderson Street, Yarraville, VIC, Australia"
+  },
+  {
+    "Suburb": "Fawkner",
+    "Site_streetaddress": "65 Alec Crescent",
+    "Site_state": "VIC",
+    "Site_postcode": "3060",
+    "confidence": 1,
+    "latitude": -37.694511,
+    "longitude": 144.968242,
+    "label": "65 Alec Crescent, Fawkner, VIC, Australia"
+  },
+  {
+    "Suburb": "Meadow Heights",
+    "Site_streetaddress": "63 Woodburn Crescent",
+    "Site_state": "VIC",
+    "Site_postcode": "3048",
+    "confidence": 1,
+    "latitude": -37.655554,
+    "longitude": 144.915699,
+    "label": "63 Woodburn Crescent, Meadow Heights, VIC, Australia"
+  },
+  {
+    "Suburb": "Coburg",
+    "Site_streetaddress": "44 Ohea Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3058",
+    "confidence": 1,
+    "latitude": -37.737216,
+    "longitude": 144.962874,
+    "label": "44 Ohea Street, Coburg, VIC, Australia"
   }
 ]
