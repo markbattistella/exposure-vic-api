@@ -11531,5 +11531,25 @@
     "latitude": -37.014348,
     "longitude": 143.480452,
     "label": "Victoria, Australia"
+  },
+  {
+    "Suburb": "Melbourne",
+    "Site_streetaddress": "55 Commercial Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3004",
+    "confidence": 1,
+    "latitude": -37.845604,
+    "longitude": 144.982784,
+    "label": "55 Commercial Road, Melbourne, VIC, Australia"
+  },
+  {
+    "Suburb": "Canadian",
+    "Site_streetaddress": "Lot 5 Cerberus Lane",
+    "Site_state": "VIC",
+    "Site_postcode": "3350",
+    "confidence": 0.6,
+    "latitude": -37.583979,
+    "longitude": 143.885723,
+    "label": "Canadian, VIC, Australia"
   }
 ]
