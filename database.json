@@ -11611,5 +11611,25 @@
     "latitude": -37.737216,
     "longitude": 144.962874,
     "label": "44 Ohea Street, Coburg, VIC, Australia"
+  },
+  {
+    "Suburb": "West Melbourne",
+    "Site_streetaddress": "45-55 Dudley Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3003",
+    "confidence": 1,
+    "latitude": -37.809993,
+    "longitude": 144.950967,
+    "label": "45-55 Dudley Street, West Melbourne, VIC, Australia"
+  },
+  {
+    "Suburb": "Tarrneit",
+    "Site_streetaddress": "466/468 Sayers Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3029",
+    "confidence": 0.3,
+    "latitude": -37.014348,
+    "longitude": 143.480452,
+    "label": "Victoria, Australia"
   }
 ]
