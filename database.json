@@ -11521,5 +11521,15 @@
     "latitude": -38.077939,
     "longitude": 145.302481,
     "label": "Cranbourne North, VIC, Australia"
+  },
+  {
+    "Suburb": "Winter Valley",
+    "Site_streetaddress": "Lot 626 Nozawa Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3358",
+    "confidence": 0.3,
+    "latitude": -37.014348,
+    "longitude": 143.480452,
+    "label": "Victoria, Australia"
   }
 ]

@@ -44,6 +44,28 @@
     "longitude": 144.922941
   },
   {
+    "_id": 3,
+    "Suburb": "Winter Valley",
+    "Site_title": "Construction Site",
+    "Site_streetaddress": "Lot 626 Nozawa Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3358",
+    "Exposure_date_dtm": "2021-09-06",
+    "Exposure_date": "06/09/2021",
+    "Exposure_time": "7:00am - 3:00pm",
+    "Notes": "Case attended site",
+    "Added_date_dtm": "2021-09-15",
+    "Added_date": "15/09/2021",
+    "Added_time": "21:08:47",
+    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
+    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
+    "Exposure_time_start_24": "07:00:00",
+    "Exposure_time_end_24": "15:00:00",
+    "dhid": "C5C3",
+    "latitude": -37.014348,
+    "longitude": 143.480452
+  },
+  {
     "_id": 4,
     "Suburb": "Delacombe",
     "Site_title": "Construction Site",
