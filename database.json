@@ -11551,5 +11551,15 @@
     "latitude": -37.583979,
     "longitude": 143.885723,
     "label": "Canadian, VIC, Australia"
+  },
+  {
+    "Suburb": "Parkville",
+    "Site_streetaddress": "Flemington Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3052",
+    "confidence": 0.6,
+    "latitude": -37.786833,
+    "longitude": 144.951322,
+    "label": "Parkville, VIC, Australia"
   }
 ]
