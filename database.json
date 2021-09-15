@@ -11460,5 +11460,11 @@
     "latitude": -37.563892,
     "longitude": 143.852395,
     "label": "Ballarat, VIC, Australia"
+  },
+  {
+    "Suburb": "Wendouree",
+    "Site_streetaddress": "Unit 8/18 Coronet Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3355"
   }
 ]
