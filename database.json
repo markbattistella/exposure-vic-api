@@ -11470,5 +11470,15 @@
     "latitude": -37.527589,
     "longitude": 143.844353,
     "label": "18 Coronet Street, Wendouree, VIC, Australia"
+  },
+  {
+    "Suburb": "North Melbourne",
+    "Site_streetaddress": "163-173 Boundary Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3051",
+    "confidence": 1,
+    "latitude": -37.789479,
+    "longitude": 144.93975,
+    "label": "163-173 Boundary Road, North Melbourne, VIC, Australia"
   }
 ]
