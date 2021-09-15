@@ -11480,5 +11480,35 @@
     "latitude": -37.789479,
     "longitude": 144.93975,
     "label": "163-173 Boundary Road, North Melbourne, VIC, Australia"
+  },
+  {
+    "Suburb": "Broadmeadows",
+    "Site_streetaddress": "1099/1169 Pascoe Vale Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3047",
+    "confidence": 1,
+    "latitude": -37.678089,
+    "longitude": 144.921653,
+    "label": "1169 Pascoe Vale Road, Broadmeadows, VIC, Australia"
+  },
+  {
+    "Suburb": "Ravenhall",
+    "Site_streetaddress": "3 Nexus Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3023",
+    "confidence": 0.6,
+    "latitude": -37.787925,
+    "longitude": 144.744794,
+    "label": "Ravenhall, VIC, Australia"
+  },
+  {
+    "Suburb": "Mount Waverley",
+    "Site_streetaddress": "436 - 442 Huntingdale Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3149",
+    "confidence": 1,
+    "latitude": -37.883325,
+    "longitude": 145.109041,
+    "label": "436-442 Huntingdale Road, Mount Waverley, VIC, Australia"
   }
 ]
