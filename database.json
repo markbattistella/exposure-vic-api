@@ -11380,5 +11380,15 @@
     "latitude": -37.948792,
     "longitude": 145.041036,
     "label": "286 Highett Road, Highett, VIC, Australia"
+  },
+  {
+    "Suburb": "Elwood",
+    "Site_streetaddress": "4/122 Ormond Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3184",
+    "confidence": 1,
+    "latitude": -37.886031,
+    "longitude": 144.988322,
+    "label": "122 Ormond Road, Elwood, VIC, Australia"
   }
 ]
