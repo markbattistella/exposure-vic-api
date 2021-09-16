@@ -11802,5 +11802,15 @@
     "latitude": -38.045255,
     "longitude": 145.345815,
     "label": "62-70 Kangan Drive, Berwick, VIC, Australia"
+  },
+  {
+    "Suburb": "Delacombe",
+    "Site_streetaddress": "830 La Trobe Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3356",
+    "confidence": 1,
+    "latitude": -37.571325,
+    "longitude": 143.825432,
+    "label": "830 La Trobe Street, Delacombe, VIC, Australia"
   }
 ]
