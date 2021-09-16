@@ -12022,5 +12022,45 @@
     "latitude": -37.857378,
     "longitude": 144.774018,
     "label": "Laverton, VIC, Australia"
+  },
+  {
+    "Suburb": "Sebastopol",
+    "Site_streetaddress": "56 Albert Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3356",
+    "confidence": 1,
+    "latitude": -37.586858,
+    "longitude": 143.840603,
+    "label": "56 Albert Street, Sebastopol, VIC, Australia"
+  },
+  {
+    "Suburb": "Wodonga",
+    "Site_streetaddress": "112-114 High Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3690",
+    "confidence": 1,
+    "latitude": -36.119643,
+    "longitude": 146.888861,
+    "label": "112-114 High Street, Wodonga, VIC, Australia"
+  },
+  {
+    "Suburb": "Airport West",
+    "Site_streetaddress": "9-21 Hood Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3042",
+    "confidence": 1,
+    "latitude": -37.725664,
+    "longitude": 144.888862,
+    "label": "9-21 Hood Street, Airport West, VIC, Australia"
+  },
+  {
+    "Suburb": "Footscray",
+    "Site_streetaddress": "Corner Albert and Paisley Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3011",
+    "confidence": 0.8,
+    "latitude": -37.770389,
+    "longitude": 144.979795,
+    "label": "Albert & Nicholson Streets, Brunswick East, VIC, Australia"
   }
 ]
