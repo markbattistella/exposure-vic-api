@@ -112,14 +112,18 @@ function fetchExposures() {
 
 	// api check
 	if( apiKey === 1 ) {
-        return console.error(
+        console.error(
 			'[x] Exiting: API argument not declared!'
 		);
+		process.exit( 1 );
+		return;
     }
     if( apiKey === 2 ) {
-        return console.error(
+        console.error(
 			'[x] Exiting: API key not provided!'
 		);
+		process.exit( 1 );
+		return;
     }
 
 	// url: Data Victoria API
@@ -160,6 +164,7 @@ function fetchExposures() {
 
 		.catch( err => {
 			console.error( `[x] Error: ${ err }` );
+			process.exit( 1 );
 		});
 }
 
@@ -263,6 +268,7 @@ async function fetchCoordinates( input ) {
 			geocodedSites.push( result );
 		} catch( err ) {
 			console.log( `[x] Error: ${ err }` );
+			process.exit( 1 );
 		}
 	}
 
