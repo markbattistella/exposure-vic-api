@@ -11872,5 +11872,75 @@
     "latitude": -37.563892,
     "longitude": 143.852395,
     "label": "Ballarat, VIC, Australia"
+  },
+  {
+    "Suburb": "Wendouree",
+    "Site_streetaddress": "Shop 105, Gillies Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3355",
+    "confidence": 0.8,
+    "latitude": -37.515733,
+    "longitude": 143.796111,
+    "label": "3355, Mitchell Park, VIC, Australia"
+  },
+  {
+    "Suburb": "Wendouree",
+    "Site_streetaddress": "Gillies Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3355",
+    "confidence": 0.6,
+    "latitude": -37.528719,
+    "longitude": 143.828534,
+    "label": "Wendouree, VIC, Australia"
+  },
+  {
+    "Suburb": "Delacombe",
+    "Site_streetaddress": "307 Smythes Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3356",
+    "confidence": 1,
+    "latitude": -37.59196,
+    "longitude": 143.806626,
+    "label": "307 Smythes Road, Delacombe, VIC, Australia"
+  },
+  {
+    "Suburb": "Sebastopol",
+    "Site_streetaddress": "Albert Street and Hertford Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3356",
+    "confidence": 0.8,
+    "latitude": -37.770389,
+    "longitude": 144.979795,
+    "label": "Albert & Nicholson Streets, Brunswick East, VIC, Australia"
+  },
+  {
+    "Suburb": "Ballarat",
+    "Site_streetaddress": "Corner Sturt and Lydiard Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3350",
+    "confidence": 0.8,
+    "latitude": -37.823948,
+    "longitude": 144.967217,
+    "label": "Stop 17: Sturt Street & Southbank Boulevard, Southbank, VIC, Australia"
+  },
+  {
+    "Suburb": "Wendouree",
+    "Site_streetaddress": "Shop 25, Gillies Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3355",
+    "confidence": 0.6,
+    "latitude": -37.528719,
+    "longitude": 143.828534,
+    "label": "Wendouree, VIC, Australia"
+  },
+  {
+    "Suburb": "Ballarat",
+    "Site_streetaddress": "Sturt Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3350",
+    "confidence": 0.4,
+    "latitude": -37.563892,
+    "longitude": 143.852395,
+    "label": "Ballarat, VIC, Australia"
   }
 ]
