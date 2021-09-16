@@ -11631,5 +11631,35 @@
     "latitude": -37.014348,
     "longitude": 143.480452,
     "label": "Victoria, Australia"
+  },
+  {
+    "Suburb": "Sebastapol",
+    "Site_streetaddress": "112 Albert Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3356",
+    "confidence": 0.3,
+    "latitude": -37.014348,
+    "longitude": 143.480452,
+    "label": "Victoria, Australia"
+  },
+  {
+    "Suburb": "Ballarat Central",
+    "Site_streetaddress": "717 Sturt Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3350",
+    "confidence": 1,
+    "latitude": -37.561374,
+    "longitude": 143.849724,
+    "label": "717 Sturt Street, Ballarat Central, VIC, Australia"
+  },
+  {
+    "Suburb": "Sebastapol",
+    "Site_streetaddress": "109 Hertford Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3356",
+    "confidence": 0.3,
+    "latitude": -37.014348,
+    "longitude": 143.480452,
+    "label": "Victoria, Australia"
   }
 ]
