@@ -11762,5 +11762,45 @@
     "latitude": -37.674828,
     "longitude": 145.162663,
     "label": "104-106 Main Hurstbridge Road, Diamond Creek, VIC, Australia"
+  },
+  {
+    "Suburb": "Cranbourne North",
+    "Site_streetaddress": "2 Woodbine Avenue",
+    "Site_state": "VIC",
+    "Site_postcode": "3977",
+    "confidence": 0.6,
+    "latitude": -38.077939,
+    "longitude": 145.302481,
+    "label": "Cranbourne North, VIC, Australia"
+  },
+  {
+    "Suburb": "Cranbourne North",
+    "Site_streetaddress": "3-7 Kingdom Drive",
+    "Site_state": "VIC",
+    "Site_postcode": "3977",
+    "confidence": 0.6,
+    "latitude": -38.077939,
+    "longitude": 145.302481,
+    "label": "Cranbourne North, VIC, Australia"
+  },
+  {
+    "Suburb": "South Yarra",
+    "Site_streetaddress": "191-193 Commercial Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3141",
+    "confidence": 1,
+    "latitude": -37.846538,
+    "longitude": 144.992884,
+    "label": "191-193 Commercial Road, South Yarra, VIC, Australia"
+  },
+  {
+    "Suburb": "Berwick",
+    "Site_streetaddress": "62-70 Kangan Drive",
+    "Site_state": "VIC",
+    "Site_postcode": "3806",
+    "confidence": 1,
+    "latitude": -38.045255,
+    "longitude": 145.345815,
+    "label": "62-70 Kangan Drive, Berwick, VIC, Australia"
   }
 ]
