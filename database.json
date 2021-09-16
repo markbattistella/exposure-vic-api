@@ -11742,5 +11742,25 @@
     "latitude": -38.112333,
     "longitude": 144.344597,
     "label": "14 Shepherd Court, North Geelong, VIC, Australia"
+  },
+  {
+    "Suburb": "Sunshine",
+    "Site_streetaddress": "21 Dickson Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3020",
+    "confidence": 1,
+    "latitude": -37.786605,
+    "longitude": 144.832958,
+    "label": "21 Dickson Street, Sunshine, VIC, Australia"
+  },
+  {
+    "Suburb": "Diamond Creek",
+    "Site_streetaddress": "104-106 Main Hurstbridge Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3089",
+    "confidence": 1,
+    "latitude": -37.674828,
+    "longitude": 145.162663,
+    "label": "104-106 Main Hurstbridge Road, Diamond Creek, VIC, Australia"
   }
 ]
