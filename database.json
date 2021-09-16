@@ -11702,5 +11702,45 @@
     "latitude": -37.849231,
     "longitude": 144.698991,
     "label": "468 Sayers Road, Tarneit, VIC, Australia"
+  },
+  {
+    "Suburb": "Campbellfield",
+    "Site_streetaddress": "362 Barry Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3061",
+    "confidence": 0.6,
+    "latitude": -37.662653,
+    "longitude": 144.959231,
+    "label": "Campbellfield, VIC, Australia"
+  },
+  {
+    "Suburb": "Heidelberg West",
+    "Site_streetaddress": "619 Waterdale Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3081",
+    "confidence": 1,
+    "latitude": -37.732659,
+    "longitude": 145.049138,
+    "label": "619 Waterdale Road, Heidelberg West, VIC, Australia"
+  },
+  {
+    "Suburb": "Fairfield",
+    "Site_streetaddress": "40 Gillies Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3078",
+    "confidence": 1,
+    "latitude": -37.780495,
+    "longitude": 145.016512,
+    "label": "40 Gillies Street, Fairfield, VIC, Australia"
+  },
+  {
+    "Suburb": "North Geelong",
+    "Site_streetaddress": "14 Shepherd Court",
+    "Site_state": "VIC",
+    "Site_postcode": "3215",
+    "confidence": 1,
+    "latitude": -38.112333,
+    "longitude": 144.344597,
+    "label": "14 Shepherd Court, North Geelong, VIC, Australia"
   }
 ]
