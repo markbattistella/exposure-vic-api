@@ -595,7 +595,7 @@
   },
   {
     "_id": 27,
-    "Suburb": "Sebastapol",
+    "Suburb": "Sebastopol",
     "Site_title": "Chemist Warehouse",
     "Site_streetaddress": "112 Albert Street",
     "Site_state": "VIC",
@@ -612,8 +612,8 @@
     "Exposure_time_start_24": "11:25:00",
     "Exposure_time_end_24": "12:20:00",
     "dhid": "B9W9",
-    "latitude": -37.5914807,
-    "longitude": 143.8384997
+    "latitude": -37.591289,
+    "longitude": 143.840684
   },
   {
     "_id": 28,
@@ -639,7 +639,7 @@
   },
   {
     "_id": 29,
-    "Suburb": "Sebastapol",
+    "Suburb": "Sebastopol",
     "Site_title": "Ballarat Brick Cleaning",
     "Site_streetaddress": "109 Hertford Street",
     "Site_state": "VIC",
@@ -656,8 +656,8 @@
     "Exposure_time_start_24": "07:45:00",
     "Exposure_time_end_24": "08:30:00",
     "dhid": "E4T9",
-    "latitude": -37.5877823,
-    "longitude": 143.8264889
+    "latitude": -37.587443,
+    "longitude": 143.826913
   },
   {
     "_id": 30,

@@ -11812,5 +11812,25 @@
     "latitude": -37.571325,
     "longitude": 143.825432,
     "label": "830 La Trobe Street, Delacombe, VIC, Australia"
+  },
+  {
+    "Suburb": "Sebastopol",
+    "Site_streetaddress": "112 Albert Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3356",
+    "confidence": 1,
+    "latitude": -37.591289,
+    "longitude": 143.840684,
+    "label": "112 Albert Street, Sebastopol, VIC, Australia"
+  },
+  {
+    "Suburb": "Sebastopol",
+    "Site_streetaddress": "109 Hertford Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3356",
+    "confidence": 1,
+    "latitude": -37.587443,
+    "longitude": 143.826913,
+    "label": "109 Hertford Street, Sebastopol, VIC, Australia"
   }
 ]
