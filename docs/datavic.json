@@ -1,6 +1,28 @@
 [
   {
     "_id": 1,
+    "Suburb": "Ballarat",
+    "Site_title": "New Generation Clothing Ballarat",
+    "Site_streetaddress": "26 Doveton Street South",
+    "Site_state": "VIC",
+    "Site_postcode": "3350",
+    "Exposure_date_dtm": "2021-09-12",
+    "Exposure_date": "12/09/2021",
+    "Exposure_time": "12:30pm - 1:20pm",
+    "Notes": "Case attended venue",
+    "Added_date_dtm": "2021-09-16",
+    "Added_date": "16/09/2021",
+    "Added_time": "19:07:00",
+    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
+    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
+    "Exposure_time_start_24": "12:30:00",
+    "Exposure_time_end_24": "13:20:00",
+    "dhid": "D9U4",
+    "latitude": -37.563892,
+    "longitude": 143.852395
+  },
+  {
+    "_id": 2,
     "Suburb": "Delacombe",
     "Site_title": "The Butcher Club - Delacombe Town Centre ",
     "Site_streetaddress": "315 Glenelg Highway",
@@ -22,7 +44,7 @@
     "longitude": 143.806578
   },
   {
-    "_id": 2,
+    "_id": 3,
     "Suburb": "Ballarat",
     "Site_title": "Phoenix Alternative Body and Soul",
     "Site_streetaddress": "107 Sturt Street",
@@ -44,7 +66,7 @@
     "longitude": 143.852395
   },
   {
-    "_id": 3,
+    "_id": 4,
     "Suburb": "Ballarat",
     "Site_title": "Big W Ballarat",
     "Site_streetaddress": "Corner Curtis Street and Grenville Street",
@@ -62,28 +84,6 @@
     "Exposure_time_start_24": "15:10:00",
     "Exposure_time_end_24": "16:10:00",
     "dhid": "B6D9",
-    "latitude": -37.563892,
-    "longitude": 143.852395
-  },
-  {
-    "_id": 4,
-    "Suburb": "Ballarat",
-    "Site_title": "New Generation Clothing Ballarat",
-    "Site_streetaddress": "26 Doveton Street South",
-    "Site_state": "VIC",
-    "Site_postcode": "3350",
-    "Exposure_date_dtm": "2021-09-12",
-    "Exposure_date": "12/09/2021",
-    "Exposure_time": "12:30pm - 1:20pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-09-16",
-    "Added_date": "16/09/2021",
-    "Added_time": "18:45:00",
-    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
-    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
-    "Exposure_time_start_24": "12:30:00",
-    "Exposure_time_end_24": "13:20:00",
-    "dhid": "D9U4",
     "latitude": -37.563892,
     "longitude": 143.852395
   },
