@@ -12002,5 +12002,25 @@
     "latitude": -37.563892,
     "longitude": 143.852395,
     "label": "Ballarat, VIC, Australia"
+  },
+  {
+    "Suburb": "Brunswick East",
+    "Site_streetaddress": "Corner Holmes Street and Albion Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3057",
+    "confidence": 0.6,
+    "latitude": -37.76783,
+    "longitude": 144.978224,
+    "label": "Brunswick East, VIC, Australia"
+  },
+  {
+    "Suburb": "Laverton",
+    "Site_streetaddress": "Shop 3, 2 Little Boundary Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3026",
+    "confidence": 0.6,
+    "latitude": -37.857378,
+    "longitude": 144.774018,
+    "label": "Laverton, VIC, Australia"
   }
 ]
