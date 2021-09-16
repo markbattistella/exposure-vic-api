@@ -11497,10 +11497,9 @@
     "Site_streetaddress": "Corner Homer Street & Eddy Street",
     "Site_state": "VIC",
     "Site_postcode": "3039",
-    "confidence": 0.6,
-    "latitude": -37.765075,
-    "longitude": 144.922941,
-    "label": "Moonee Ponds, VIC, Australia"
+    "confidence": 1,
+    "latitude": -37.764419,
+    "longitude": 144.919798
   },
   {
     "Suburb": "Delacombe",
@@ -11517,20 +11516,18 @@
     "Site_streetaddress": "William Thwaites Boulevard",
     "Site_state": "VIC",
     "Site_postcode": "3977",
-    "confidence": 0.6,
-    "latitude": -38.077939,
-    "longitude": 145.302481,
-    "label": "Cranbourne North, VIC, Australia"
+    "confidence": 1,
+    "latitude": -38.0856967,
+    "longitude": 145.3150262
   },
   {
     "Suburb": "Winter Valley",
     "Site_streetaddress": "Lot 626 Nozawa Street",
     "Site_state": "VIC",
     "Site_postcode": "3358",
-    "confidence": 0.3,
-    "latitude": -37.014348,
-    "longitude": 143.480452,
-    "label": "Victoria, Australia"
+    "confidence": 1,
+    "latitude": -37.583651,
+    "longitude": 143.798469
   },
   {
     "Suburb": "Melbourne",
@@ -11547,30 +11544,27 @@
     "Site_streetaddress": "Lot 5 Cerberus Lane",
     "Site_state": "VIC",
     "Site_postcode": "3350",
-    "confidence": 0.6,
-    "latitude": -37.583979,
-    "longitude": 143.885723,
-    "label": "Canadian, VIC, Australia"
+    "confidence": 1,
+    "latitude": -37.394847,
+    "longitude": 145.709429
   },
   {
     "Suburb": "Parkville",
     "Site_streetaddress": "Flemington Road",
     "Site_state": "VIC",
     "Site_postcode": "3052",
-    "confidence": 0.6,
-    "latitude": -37.786833,
-    "longitude": 144.951322,
-    "label": "Parkville, VIC, Australia"
+    "confidence": 1,
+    "latitude": -37.7911809,
+    "longitude": 144.936397
   },
   {
     "Suburb": "Chirnside Park",
     "Site_streetaddress": "Chirnside Park Shopping Centre, Shop 633/288 Maroondah Highway",
     "Site_state": "VIC",
     "Site_postcode": "3116",
-    "confidence": 0.6,
-    "latitude": -37.739195,
-    "longitude": 145.313315,
-    "label": "Chirnside Park, VIC, Australia"
+    "confidence": 1,
+    "latitude": -37.7572551,
+    "longitude": 145.3107065
   },
   {
     "Suburb": "Yarraville",
@@ -11627,20 +11621,18 @@
     "Site_streetaddress": "466/468 Sayers Road",
     "Site_state": "VIC",
     "Site_postcode": "3029",
-    "confidence": 0.3,
-    "latitude": -37.014348,
-    "longitude": 143.480452,
-    "label": "Victoria, Australia"
+    "confidence": 1,
+    "latitude": -37.848932,
+    "longitude": 144.6968414
   },
   {
     "Suburb": "Sebastapol",
     "Site_streetaddress": "112 Albert Street",
     "Site_state": "VIC",
     "Site_postcode": "3356",
-    "confidence": 0.3,
-    "latitude": -37.014348,
-    "longitude": 143.480452,
-    "label": "Victoria, Australia"
+    "confidence": 1,
+    "latitude": -37.5914807,
+    "longitude": 143.8384997
   },
   {
     "Suburb": "Ballarat Central",
@@ -11657,10 +11649,9 @@
     "Site_streetaddress": "109 Hertford Street",
     "Site_state": "VIC",
     "Site_postcode": "3356",
-    "confidence": 0.3,
-    "latitude": -37.014348,
-    "longitude": 143.480452,
-    "label": "Victoria, Australia"
+    "confidence": 1,
+    "latitude": -37.5877823,
+    "longitude": 143.8264889
   },
   {
     "Suburb": "Delacombe",
