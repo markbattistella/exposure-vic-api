@@ -12242,5 +12242,25 @@
     "latitude": -36.352192,
     "longitude": 146.331644,
     "label": "1 Parfitt Road, Wangaratta, VIC, Australia"
+  },
+  {
+    "Suburb": "Fawkner",
+    "Site_streetaddress": "36 Bonwick Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3060",
+    "confidence": 1,
+    "latitude": -37.702668,
+    "longitude": 144.965715,
+    "label": "36 Bonwick Street, Fawkner, VIC, Australia"
+  },
+  {
+    "Suburb": "Southbank",
+    "Site_streetaddress": "70 Southbank Boulevard",
+    "Site_state": "VIC",
+    "Site_postcode": "3006",
+    "confidence": 1,
+    "latitude": -37.823119,
+    "longitude": 144.963784,
+    "label": "70 Southbank Boulevard, Southbank, VIC, Australia"
   }
 ]
