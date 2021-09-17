@@ -12202,5 +12202,45 @@
     "latitude": -37.798946,
     "longitude": 144.893924,
     "label": "298 Barkly Street, Footscray, VIC, Australia"
+  },
+  {
+    "Suburb": "Wollert",
+    "Site_streetaddress": "18 Matilda Avenue",
+    "Site_state": "VIC",
+    "Site_postcode": "3750",
+    "confidence": 1,
+    "latitude": -37.616153,
+    "longitude": 145.030931,
+    "label": "18 Matilda Avenue, Wollert, VIC, Australia"
+  },
+  {
+    "Suburb": "Daylesford",
+    "Site_streetaddress": "4 King Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3460",
+    "confidence": 1,
+    "latitude": -37.349253,
+    "longitude": 144.141406,
+    "label": "4 King Street, Daylesford, VIC, Australia"
+  },
+  {
+    "Suburb": "Kilsyth",
+    "Site_streetaddress": "48 Gladesville Drive",
+    "Site_state": "VIC",
+    "Site_postcode": "3137",
+    "confidence": 1,
+    "latitude": -37.811101,
+    "longitude": 145.322912,
+    "label": "48 Gladesville Drive, Kilsyth, VIC, Australia"
+  },
+  {
+    "Suburb": "Wangaratta",
+    "Site_streetaddress": "1 Parfitt Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3677",
+    "confidence": 1,
+    "latitude": -36.352192,
+    "longitude": 146.331644,
+    "label": "1 Parfitt Road, Wangaratta, VIC, Australia"
   }
 ]
