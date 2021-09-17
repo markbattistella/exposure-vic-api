@@ -12082,5 +12082,35 @@
     "latitude": -38.103688,
     "longitude": 147.063641,
     "label": "Sale, VIC, Australia"
+  },
+  {
+    "Suburb": "Ballarat Central",
+    "Site_streetaddress": "Grenville and Curtis Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3350",
+    "confidence": 0.6,
+    "latitude": -37.563892,
+    "longitude": 143.852395,
+    "label": "Ballarat Central, VIC, Australia"
+  },
+  {
+    "Suburb": "Ballarat Central",
+    "Site_streetaddress": "Little Bridge Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3350",
+    "confidence": 0.6,
+    "latitude": -37.563892,
+    "longitude": 143.852395,
+    "label": "Ballarat Central, VIC, Australia"
+  },
+  {
+    "Suburb": "Clyde North",
+    "Site_streetaddress": "34 Thoroughbred Drive",
+    "Site_state": "VIC",
+    "Site_postcode": "3978",
+    "confidence": 1,
+    "latitude": -38.115124,
+    "longitude": 145.340034,
+    "label": "34 Thoroughbred Drive, Cranbourne East, VIC, Australia"
   }
 ]
