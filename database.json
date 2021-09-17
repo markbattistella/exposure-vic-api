@@ -12062,5 +12062,25 @@
     "latitude": -37.770389,
     "longitude": 144.979795,
     "label": "Albert & Nicholson Streets, Brunswick East, VIC, Australia"
+  },
+  {
+    "Suburb": "Sale",
+    "Site_streetaddress": "68 Cunninghame Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3850",
+    "confidence": 1,
+    "latitude": -38.107568,
+    "longitude": 147.06447,
+    "label": "68 Cunninghame Street, Sale, VIC, Australia"
+  },
+  {
+    "Suburb": "Sale",
+    "Site_streetaddress": "Princess Highway & Raymond Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3850",
+    "confidence": 0.6,
+    "latitude": -38.103688,
+    "longitude": 147.063641,
+    "label": "Sale, VIC, Australia"
   }
 ]
