@@ -12172,5 +12172,35 @@
     "latitude": -37.639123,
     "longitude": 145.026623,
     "label": "3076, Epping, VIC, Australia"
+  },
+  {
+    "Suburb": "Cheltenham",
+    "Site_streetaddress": "337 Bay Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3192",
+    "confidence": 0.6,
+    "latitude": -37.964053,
+    "longitude": 145.064727,
+    "label": "Cheltenham, VIC, Australia"
+  },
+  {
+    "Suburb": "Footscray",
+    "Site_streetaddress": "1 Kinnear Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3011",
+    "confidence": 1,
+    "latitude": -37.791006,
+    "longitude": 144.893847,
+    "label": "1 Kinnear Street, Footscray, VIC, Australia"
+  },
+  {
+    "Suburb": "Footscray",
+    "Site_streetaddress": "298 Barkly Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3011",
+    "confidence": 1,
+    "latitude": -37.798946,
+    "longitude": 144.893924,
+    "label": "298 Barkly Street, Footscray, VIC, Australia"
   }
 ]
