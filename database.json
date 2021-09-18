@@ -12462,5 +12462,25 @@
     "latitude": -37.773401,
     "longitude": 144.915673,
     "label": "185 Union Road, Ascot Vale, VIC, Australia"
+  },
+  {
+    "Suburb": "Burnside",
+    "Site_streetaddress": "978 Western Highway",
+    "Site_state": "VIC",
+    "Site_postcode": "3023",
+    "confidence": 1,
+    "latitude": -37.762186,
+    "longitude": 144.75555,
+    "label": "978 Western Highway, Burnside, VIC, Australia"
+  },
+  {
+    "Suburb": "Mill Park",
+    "Site_streetaddress": "252 Childs Road & Morang Drive",
+    "Site_state": "VIC",
+    "Site_postcode": "3082",
+    "confidence": 0.8,
+    "latitude": -37.821883,
+    "longitude": 145.023111,
+    "label": "Hawthorn Station, Elgin Street, Morang & Burwood Roads, Hawthorn, VIC, Australia"
   }
 ]
