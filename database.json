@@ -12382,5 +12382,15 @@
     "latitude": -37.358635,
     "longitude": 144.528798,
     "label": "Woodend, VIC, Australia"
+  },
+  {
+    "Suburb": "Fawkner",
+    "Site_streetaddress": "111 Anderson Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3060",
+    "confidence": 1,
+    "latitude": -37.695737,
+    "longitude": 144.966698,
+    "label": "111 Anderson Road, Fawkner, VIC, Australia"
   }
 ]
