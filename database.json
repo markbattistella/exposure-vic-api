@@ -12362,5 +12362,25 @@
     "latitude": -38.175515,
     "longitude": 144.567881,
     "label": "Drysdale, VIC, Australia"
+  },
+  {
+    "Suburb": "Woodend",
+    "Site_streetaddress": "71 High Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3442",
+    "confidence": 1,
+    "latitude": -37.357449,
+    "longitude": 144.526854,
+    "label": "71 High Street, Woodend, VIC, Australia"
+  },
+  {
+    "Suburb": "Woodend",
+    "Site_streetaddress": "59-61 High Street, Main Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3442",
+    "confidence": 0.6,
+    "latitude": -37.358635,
+    "longitude": 144.528798,
+    "label": "Woodend, VIC, Australia"
   }
 ]
