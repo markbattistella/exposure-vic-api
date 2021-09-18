@@ -12392,5 +12392,15 @@
     "latitude": -37.695737,
     "longitude": 144.966698,
     "label": "111 Anderson Road, Fawkner, VIC, Australia"
+  },
+  {
+    "Suburb": "Campbelfield",
+    "Site_streetaddress": "58-64 Glenbarry Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3064",
+    "confidence": 0.3,
+    "latitude": -37.014348,
+    "longitude": 143.480452,
+    "label": "Victoria, Australia"
   }
 ]
