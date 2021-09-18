@@ -12482,5 +12482,25 @@
     "latitude": -37.821883,
     "longitude": 145.023111,
     "label": "Hawthorn Station, Elgin Street, Morang & Burwood Roads, Hawthorn, VIC, Australia"
+  },
+  {
+    "Suburb": "North Melbourne",
+    "Site_streetaddress": "2/243 - 251 Flemington Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3051",
+    "confidence": 1,
+    "latitude": -37.793548,
+    "longitude": 144.946735,
+    "label": "243-251 Flemington Road, North Melbourne, VIC, Australia"
+  },
+  {
+    "Suburb": "Essendon",
+    "Site_streetaddress": "25 Rose Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3040",
+    "confidence": 1,
+    "latitude": -37.756065,
+    "longitude": 144.915536,
+    "label": "25-29 Rose Street, Essendon, VIC, Australia"
   }
 ]
