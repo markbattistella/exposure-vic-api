@@ -12332,5 +12332,25 @@
     "latitude": -37.932677,
     "longitude": 145.056385,
     "label": "31 East Boundary Road, Bentleigh East, VIC, Australia"
+  },
+  {
+    "Suburb": "Woodend",
+    "Site_streetaddress": "12 Nicholson Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3442",
+    "confidence": 0.6,
+    "latitude": -37.358635,
+    "longitude": 144.528798,
+    "label": "Woodend, VIC, Australia"
+  },
+  {
+    "Suburb": "Footscray",
+    "Site_streetaddress": "2 Joseph Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3011",
+    "confidence": 1,
+    "latitude": -37.80034,
+    "longitude": 144.909552,
+    "label": "2 Joseph Road, Footscray, VIC, Australia"
   }
 ]
