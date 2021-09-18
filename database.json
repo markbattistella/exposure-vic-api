@@ -12412,5 +12412,25 @@
     "latitude": -37.822692,
     "longitude": 144.952518,
     "label": "60 Siddeley Street, Docklands, VIC, Australia"
+  },
+  {
+    "Suburb": "Wangaratta",
+    "Site_streetaddress": "73 Tone Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3677",
+    "confidence": 1,
+    "latitude": -36.363934,
+    "longitude": 146.302992,
+    "label": "73 Tone Road, Wangaratta, VIC, Australia"
+  },
+  {
+    "Suburb": "Wangaratta",
+    "Site_streetaddress": "2A Edwards Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3677",
+    "confidence": 1,
+    "latitude": -36.345226,
+    "longitude": 146.311464,
+    "label": "2 Edwards Street, Wangaratta, VIC, Australia"
   }
 ]
