@@ -12262,5 +12262,65 @@
     "latitude": -37.823119,
     "longitude": 144.963784,
     "label": "70 Southbank Boulevard, Southbank, VIC, Australia"
+  },
+  {
+    "Suburb": "Grovedale",
+    "Site_streetaddress": "173-199 Pioneer Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3216",
+    "confidence": 1,
+    "latitude": -38.198779,
+    "longitude": 144.315907,
+    "label": "173-199 Pioneer Road, Grovedale, VIC, Australia"
+  },
+  {
+    "Suburb": "Melbourne",
+    "Site_streetaddress": "425 St Kilda Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3004",
+    "confidence": 1,
+    "latitude": -37.83827,
+    "longitude": 144.976721,
+    "label": "425 St Kilda Road, Melbourne, VIC, Australia"
+  },
+  {
+    "Suburb": "Geelong",
+    "Site_streetaddress": "240 Pakington Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3218",
+    "confidence": 0.6,
+    "latitude": -38.150785,
+    "longitude": 144.361579,
+    "label": "Geelong, VIC, Australia"
+  },
+  {
+    "Suburb": "Geelong",
+    "Site_streetaddress": "179-181 Little Malop Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3220",
+    "confidence": 1,
+    "latitude": -38.149174,
+    "longitude": 144.364342,
+    "label": "179-181 Little Malop Street, Geelong, VIC, Australia"
+  },
+  {
+    "Suburb": "Werribee",
+    "Site_streetaddress": "Princes Highway and Wests Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3030",
+    "confidence": 0.6,
+    "latitude": -37.89479,
+    "longitude": 144.661343,
+    "label": "Werribee, VIC, Australia"
+  },
+  {
+    "Suburb": "Sunbury",
+    "Site_streetaddress": "7-11 Horne Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3429",
+    "confidence": 1,
+    "latitude": -37.576479,
+    "longitude": 144.728439,
+    "label": "7-11 Horne Street, Sunbury, VIC, Australia"
   }
 ]
