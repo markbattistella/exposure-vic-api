@@ -12502,5 +12502,25 @@
     "latitude": -37.756065,
     "longitude": 144.915536,
     "label": "25-29 Rose Street, Essendon, VIC, Australia"
+  },
+  {
+    "Suburb": "Tarneit",
+    "Site_streetaddress": "51-71 Hummingbird Boulevard",
+    "Site_state": "VIC",
+    "Site_postcode": "3029",
+    "confidence": 1,
+    "latitude": -37.836147,
+    "longitude": 144.665784,
+    "label": "51-71 Hummingbird Boulevard, Tarneit, VIC, Australia"
+  },
+  {
+    "Suburb": "Reservoir",
+    "Site_streetaddress": "763 Gilbert Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3073",
+    "confidence": 1,
+    "latitude": -37.722805,
+    "longitude": 144.99267,
+    "label": "763 Gilbert Road, Reservoir, VIC, Australia"
   }
 ]
