@@ -12741,5 +12741,65 @@
     "latitude": -37.716573,
     "longitude": 144.835736,
     "label": "25 Kennedy Street, Keilor, VIC, Australia"
+  },
+  {
+    "Suburb": "Kyneton",
+    "Site_streetaddress": "107 Mollison Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3444",
+    "confidence": 1,
+    "latitude": -37.248444,
+    "longitude": 144.453054,
+    "label": "107 Mollison Street, Kyneton, VIC, Australia"
+  },
+  {
+    "Suburb": "Kyneton",
+    "Site_streetaddress": "7/11 Jennings Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3444",
+    "confidence": 1,
+    "latitude": -37.248035,
+    "longitude": 144.452017,
+    "label": "11 Jennings Street, Kyneton, VIC, Australia"
+  },
+  {
+    "Suburb": "Kyneton",
+    "Site_streetaddress": "142 Mollison Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3444",
+    "confidence": 1,
+    "latitude": -37.246967,
+    "longitude": 144.453824,
+    "label": "142 Mollison Street, Kyneton, VIC, Australia"
+  },
+  {
+    "Suburb": "Kyneton",
+    "Site_streetaddress": "55 High Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3444",
+    "confidence": 1,
+    "latitude": -37.250269,
+    "longitude": 144.455741,
+    "label": "55 High Street, Kyneton, VIC, Australia"
+  },
+  {
+    "Suburb": "Kyneton",
+    "Site_streetaddress": "164 Mollison Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3444",
+    "confidence": 1,
+    "latitude": -37.246073,
+    "longitude": 144.45401,
+    "label": "164 Mollison Street, Kyneton, VIC, Australia"
+  },
+  {
+    "Suburb": "Geelong West",
+    "Site_streetaddress": "3/226 Pakington Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3218",
+    "confidence": 1,
+    "latitude": -38.143236,
+    "longitude": 144.34803,
+    "label": "226 Pakington Street, Geelong West, VIC, Australia"
   }
 ]
