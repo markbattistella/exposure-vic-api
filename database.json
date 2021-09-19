@@ -12601,5 +12601,35 @@
     "latitude": -37.825071,
     "longitude": 144.978682,
     "label": "Melbourne, VIC, Australia"
+  },
+  {
+    "Suburb": "Bendigo",
+    "Site_streetaddress": "321-323 Hargreaves Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3550",
+    "confidence": 1,
+    "latitude": -36.760524,
+    "longitude": 144.279885,
+    "label": "321-323 Hargreaves Street, Bendigo, VIC, Australia"
+  },
+  {
+    "Suburb": "Bendigo",
+    "Site_streetaddress": "Kiosk 7, 116/120 Mitchell Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3550",
+    "confidence": 1,
+    "latitude": -36.765044,
+    "longitude": 144.281431,
+    "label": "116 – 120 Mitchell Street, Bendigo, VIC, Australia"
+  },
+  {
+    "Suburb": "Mill Park",
+    "Site_streetaddress": "250 Childs Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3082",
+    "confidence": 1,
+    "latitude": -37.662094,
+    "longitude": 145.051693,
+    "label": "250T Childs Road, Mill Park, VIC, Australia"
   }
 ]
