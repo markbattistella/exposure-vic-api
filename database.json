@@ -12711,5 +12711,35 @@
     "latitude": -37.592875,
     "longitude": 145.105213,
     "label": "Mernda, VIC, Australia"
+  },
+  {
+    "Suburb": "Caroline Springs",
+    "Site_streetaddress": "183-191 Caroline Springs Boulevard",
+    "Site_state": "VIC",
+    "Site_postcode": "3023",
+    "confidence": 1,
+    "latitude": -37.73427,
+    "longitude": 144.740668,
+    "label": "183-191 Caroline Springs Boulevard, Caroline Springs, VIC, Australia"
+  },
+  {
+    "Suburb": "Mill Park",
+    "Site_streetaddress": "2/10 Blamey Avenue",
+    "Site_state": "VIC",
+    "Site_postcode": "3082",
+    "confidence": 1,
+    "latitude": -37.67471,
+    "longitude": 145.065688,
+    "label": "10 Blamey Avenue, Mill Park, VIC, Australia"
+  },
+  {
+    "Suburb": "Keilor",
+    "Site_streetaddress": "25 Kennedy Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3036",
+    "confidence": 1,
+    "latitude": -37.716573,
+    "longitude": 144.835736,
+    "label": "25 Kennedy Street, Keilor, VIC, Australia"
   }
 ]
