@@ -11708,10 +11708,9 @@
     "Site_streetaddress": "362 Barry Road",
     "Site_state": "VIC",
     "Site_postcode": "3061",
-    "confidence": 0.6,
-    "latitude": -37.662653,
-    "longitude": 144.959231,
-    "label": "Campbellfield, VIC, Australia"
+    "confidence": 1,
+    "latitude": -37.666172,
+    "longitude": 144.943612
   },
   {
     "Suburb": "Heidelberg West",
@@ -11768,20 +11767,18 @@
     "Site_streetaddress": "2 Woodbine Avenue",
     "Site_state": "VIC",
     "Site_postcode": "3977",
-    "confidence": 0.6,
-    "latitude": -38.077939,
-    "longitude": 145.302481,
-    "label": "Cranbourne North, VIC, Australia"
+    "confidence": 1,
+    "latitude": -38.082115,
+    "longitude": 145.2773913
   },
   {
     "Suburb": "Cranbourne North",
     "Site_streetaddress": "3-7 Kingdom Drive",
     "Site_state": "VIC",
     "Site_postcode": "3977",
-    "confidence": 0.6,
-    "latitude": -38.077939,
-    "longitude": 145.302481,
-    "label": "Cranbourne North, VIC, Australia"
+    "confidence": 1,
+    "latitude": -38.0931631,
+    "longitude": 145.2909517
   },
   {
     "Suburb": "South Yarra",
@@ -11838,60 +11835,54 @@
     "Site_streetaddress": "315 Glenelg Highway",
     "Site_state": "VIC",
     "Site_postcode": "3356",
-    "confidence": 0.6,
-    "latitude": -37.57993,
-    "longitude": 143.806578,
-    "label": "Delacombe, VIC, Australia"
+    "confidence": 1,
+    "latitude": -37.5908102,
+    "longitude": 143.8043701
   },
   {
     "Suburb": "Ballarat",
     "Site_streetaddress": "107 Sturt Street",
     "Site_state": "VIC",
     "Site_postcode": "3350",
-    "confidence": 0.4,
-    "latitude": -37.563892,
-    "longitude": 143.852395,
-    "label": "Ballarat, VIC, Australia"
+    "confidence": 1,
+    "latitude": -37.5624559,
+    "longitude": 143.8566993
   },
   {
     "Suburb": "Ballarat",
     "Site_streetaddress": "Corner Curtis Street and Grenville Street",
     "Site_state": "VIC",
     "Site_postcode": "3350",
-    "confidence": 0.4,
-    "latitude": -37.563892,
-    "longitude": 143.852395,
-    "label": "Ballarat, VIC, Australia"
+    "confidence": 1,
+    "latitude": -37.5617932,
+    "longitude": 143.8607104
   },
   {
     "Suburb": "Ballarat",
     "Site_streetaddress": "26 Doveton Street South",
     "Site_state": "VIC",
     "Site_postcode": "3350",
-    "confidence": 0.4,
-    "latitude": -37.563892,
-    "longitude": 143.852395,
-    "label": "Ballarat, VIC, Australia"
+    "confidence": 1,
+    "latitude": -37.5631966,
+    "longitude": 143.8518846
   },
   {
     "Suburb": "Wendouree",
     "Site_streetaddress": "Shop 105, Gillies Street",
     "Site_state": "VIC",
     "Site_postcode": "3355",
-    "confidence": 0.8,
-    "latitude": -37.515733,
-    "longitude": 143.796111,
-    "label": "3355, Mitchell Park, VIC, Australia"
+    "confidence": 1,
+    "latitude": -37.5343102,
+    "longitude": 143.8225372
   },
   {
     "Suburb": "Wendouree",
     "Site_streetaddress": "Gillies Street",
     "Site_state": "VIC",
     "Site_postcode": "3355",
-    "confidence": 0.6,
-    "latitude": -37.528719,
-    "longitude": 143.828534,
-    "label": "Wendouree, VIC, Australia"
+    "confidence": 1,
+    "latitude": -37.5343847,
+    "longitude": 143.8217538
   },
   {
     "Suburb": "Delacombe",
@@ -11908,40 +11899,36 @@
     "Site_streetaddress": "Albert Street and Hertford Street",
     "Site_state": "VIC",
     "Site_postcode": "3356",
-    "confidence": 0.8,
-    "latitude": -37.770389,
-    "longitude": 144.979795,
-    "label": "Albert & Nicholson Streets, Brunswick East, VIC, Australia"
+    "confidence": 1,
+    "latitude": -37.5862961,
+    "longitude": 143.8380365
   },
   {
     "Suburb": "Ballarat",
     "Site_streetaddress": "Corner Sturt and Lydiard Street",
     "Site_state": "VIC",
     "Site_postcode": "3350",
-    "confidence": 0.8,
-    "latitude": -37.823948,
-    "longitude": 144.967217,
-    "label": "Stop 17: Sturt Street & Southbank Boulevard, Southbank, VIC, Australia"
+    "confidence": 1,
+    "latitude": -37.5623238,
+    "longitude": 143.8557887
   },
   {
     "Suburb": "Wendouree",
     "Site_streetaddress": "Shop 25, Gillies Street",
     "Site_state": "VIC",
     "Site_postcode": "3355",
-    "confidence": 0.6,
-    "latitude": -37.528719,
-    "longitude": 143.828534,
-    "label": "Wendouree, VIC, Australia"
+    "confidence": 1,
+    "latitude": -37.5338433,
+    "longitude": 143.8230554
   },
   {
     "Suburb": "Ballarat",
     "Site_streetaddress": "Sturt Street",
     "Site_state": "VIC",
     "Site_postcode": "3350",
-    "confidence": 0.4,
-    "latitude": -37.563892,
-    "longitude": 143.852395,
-    "label": "Ballarat, VIC, Australia"
+    "confidence": 1,
+    "latitude": -37.5622101,
+    "longitude": 143.8537683
   },
   {
     "Suburb": "Preston",
@@ -11958,10 +11945,9 @@
     "Site_streetaddress": "882-900 Cooper Street",
     "Site_state": "VIC",
     "Site_postcode": "3062",
-    "confidence": 0.6,
-    "latitude": -37.632394,
-    "longitude": 144.947227,
-    "label": "Somerton, VIC, Australia"
+    "confidence": 1,
+    "latitude": -37.6429474,
+    "longitude": 144.9512602
   },
   {
     "Suburb": "Keilor East",
@@ -11998,30 +11984,27 @@
     "Site_streetaddress": "5 Doveton Street",
     "Site_state": "VIC",
     "Site_postcode": "3350",
-    "confidence": 0.4,
-    "latitude": -37.563892,
-    "longitude": 143.852395,
-    "label": "Ballarat, VIC, Australia"
+    "confidence": 1,
+    "latitude": -37.5631334,
+    "longitude": 143.8545733
   },
   {
     "Suburb": "Brunswick East",
     "Site_streetaddress": "Corner Holmes Street and Albion Street",
     "Site_state": "VIC",
     "Site_postcode": "3057",
-    "confidence": 0.6,
-    "latitude": -37.76783,
-    "longitude": 144.978224,
-    "label": "Brunswick East, VIC, Australia"
+    "confidence": 1,
+    "latitude": -37.7620744,
+    "longitude": 144.9717044
   },
   {
     "Suburb": "Laverton",
     "Site_streetaddress": "Shop 3, 2 Little Boundary Road",
     "Site_state": "VIC",
     "Site_postcode": "3026",
-    "confidence": 0.6,
-    "latitude": -37.857378,
-    "longitude": 144.774018,
-    "label": "Laverton, VIC, Australia"
+    "confidence": 1,
+    "latitude": -37.82314,
+    "longitude": 144.8223413
   },
   {
     "Suburb": "Sebastopol",
@@ -12058,10 +12041,9 @@
     "Site_streetaddress": "Corner Albert and Paisley Street",
     "Site_state": "VIC",
     "Site_postcode": "3011",
-    "confidence": 0.8,
-    "latitude": -37.770389,
-    "longitude": 144.979795,
-    "label": "Albert & Nicholson Streets, Brunswick East, VIC, Australia"
+    "confidence": 1,
+    "latitude": -37.8009549,
+    "longitude": 144.8976049
   },
   {
     "Suburb": "Sale",
@@ -12078,30 +12060,27 @@
     "Site_streetaddress": "Princess Highway & Raymond Street",
     "Site_state": "VIC",
     "Site_postcode": "3850",
-    "confidence": 0.6,
-    "latitude": -38.103688,
-    "longitude": 147.063641,
-    "label": "Sale, VIC, Australia"
+    "confidence": 1,
+    "latitude": -38.1114623,
+    "longitude": 147.065703
   },
   {
     "Suburb": "Ballarat Central",
     "Site_streetaddress": "Grenville and Curtis Street",
     "Site_state": "VIC",
     "Site_postcode": "3350",
-    "confidence": 0.6,
-    "latitude": -37.563892,
-    "longitude": 143.852395,
-    "label": "Ballarat Central, VIC, Australia"
+    "confidence": 1,
+    "latitude": -37.5612595,
+    "longitude": 143.8594661
   },
   {
     "Suburb": "Ballarat Central",
     "Site_streetaddress": "Little Bridge Street",
     "Site_state": "VIC",
     "Site_postcode": "3350",
-    "confidence": 0.6,
-    "latitude": -37.563892,
-    "longitude": 143.852395,
-    "label": "Ballarat Central, VIC, Australia"
+    "confidence": 1,
+    "latitude": -37.5624047,
+    "longitude": 143.8605157
   },
   {
     "Suburb": "Clyde North",
@@ -12118,10 +12097,9 @@
     "Site_streetaddress": "Spencer Street",
     "Site_state": "VIC",
     "Site_postcode": "3008",
-    "confidence": 0.6,
-    "latitude": -37.818898,
-    "longitude": 144.948291,
-    "label": "Docklands, VIC, Australia"
+    "confidence": 1,
+    "latitude": -37.8172221,
+    "longitude": 144.9505739
   },
   {
     "Suburb": "Bentleigh East",
@@ -12168,20 +12146,18 @@
     "Site_streetaddress": "Corner High Street and Childs Road",
     "Site_state": "VIC",
     "Site_postcode": "3076",
-    "confidence": 0.8,
-    "latitude": -37.639123,
-    "longitude": 145.026623,
-    "label": "3076, Epping, VIC, Australia"
+    "confidence": 1,
+    "latitude": -37.6596949,
+    "longitude": 145.0168023
   },
   {
     "Suburb": "Cheltenham",
     "Site_streetaddress": "337 Bay Road",
     "Site_state": "VIC",
     "Site_postcode": "3192",
-    "confidence": 0.6,
-    "latitude": -37.964053,
-    "longitude": 145.064727,
-    "label": "Cheltenham, VIC, Australia"
+    "confidence": 1,
+    "latitude": -37.9556154,
+    "longitude": 145.0374164
   },
   {
     "Suburb": "Footscray",
@@ -12288,10 +12264,9 @@
     "Site_streetaddress": "240 Pakington Street",
     "Site_state": "VIC",
     "Site_postcode": "3218",
-    "confidence": 0.6,
-    "latitude": -38.150785,
-    "longitude": 144.361579,
-    "label": "Geelong, VIC, Australia"
+    "confidence": 1,
+    "latitude": -38.1439489,
+    "longitude": 144.3456171
   },
   {
     "Suburb": "Geelong",
@@ -12308,10 +12283,9 @@
     "Site_streetaddress": "Princes Highway and Wests Road",
     "Site_state": "VIC",
     "Site_postcode": "3030",
-    "confidence": 0.6,
-    "latitude": -37.89479,
-    "longitude": 144.661343,
-    "label": "Werribee, VIC, Australia"
+    "confidence": 1,
+    "latitude": -37.9276464,
+    "longitude": 144.6292433
   },
   {
     "Suburb": "Sunbury",
@@ -12338,10 +12312,9 @@
     "Site_streetaddress": "12 Nicholson Street",
     "Site_state": "VIC",
     "Site_postcode": "3442",
-    "confidence": 0.6,
-    "latitude": -37.358635,
-    "longitude": 144.528798,
-    "label": "Woodend, VIC, Australia"
+    "confidence": 1,
+    "latitude": -37.3555754,
+    "longitude": 144.5281794
   },
   {
     "Suburb": "Footscray",
@@ -12358,10 +12331,9 @@
     "Site_streetaddress": "Murradoc Road",
     "Site_state": "VIC",
     "Site_postcode": "3222",
-    "confidence": 0.6,
-    "latitude": -38.175515,
-    "longitude": 144.567881,
-    "label": "Drysdale, VIC, Australia"
+    "confidence": 1,
+    "latitude": -38.173851,
+    "longitude": 144.5706415
   },
   {
     "Suburb": "Woodend",
@@ -12378,10 +12350,9 @@
     "Site_streetaddress": "59-61 High Street, Main Street",
     "Site_state": "VIC",
     "Site_postcode": "3442",
-    "confidence": 0.6,
-    "latitude": -37.358635,
-    "longitude": 144.528798,
-    "label": "Woodend, VIC, Australia"
+    "confidence": 1,
+    "latitude": -37.3582412,
+    "longitude": 144.5235864
   },
   {
     "Suburb": "Fawkner",
@@ -12398,10 +12369,9 @@
     "Site_streetaddress": "58-64 Glenbarry Road",
     "Site_state": "VIC",
     "Site_postcode": "3064",
-    "confidence": 0.3,
-    "latitude": -37.014348,
-    "longitude": 143.480452,
-    "label": "Victoria, Australia"
+    "confidence": 1,
+    "latitude": -37.662794,
+    "longitude": 144.9554001
   },
   {
     "Suburb": "Docklands",
@@ -12478,10 +12448,9 @@
     "Site_streetaddress": "252 Childs Road & Morang Drive",
     "Site_state": "VIC",
     "Site_postcode": "3082",
-    "confidence": 0.8,
-    "latitude": -37.821883,
-    "longitude": 145.023111,
-    "label": "Hawthorn Station, Elgin Street, Morang & Burwood Roads, Hawthorn, VIC, Australia"
+    "confidence": 1,
+    "latitude": -37.661934,
+    "longitude": 145.0512675
   },
   {
     "Suburb": "North Melbourne",
