@@ -12501,5 +12501,105 @@
     "latitude": -37.777855,
     "longitude": 144.853146,
     "label": "129-131 Cranwell Street, Braybrook, VIC, Australia"
+  },
+  {
+    "Suburb": "Bendigo",
+    "Site_streetaddress": "116-120 Mitchell Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3550",
+    "confidence": 1,
+    "latitude": -36.765044,
+    "longitude": 144.281431,
+    "label": "116 – 120 Mitchell Street, Bendigo, VIC, Australia"
+  },
+  {
+    "Suburb": "Bendigo",
+    "Site_streetaddress": "Shop G019, 116-120 Mitchell Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3550",
+    "confidence": 1,
+    "latitude": -36.765044,
+    "longitude": 144.281431,
+    "label": "116 – 120 Mitchell Street, Bendigo, VIC, Australia"
+  },
+  {
+    "Suburb": "Bendigo",
+    "Site_streetaddress": "Shop M002, 116-120 Mitchell Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3550",
+    "confidence": 1,
+    "latitude": -36.765044,
+    "longitude": 144.281431,
+    "label": "116 – 120 Mitchell Street, Bendigo, VIC, Australia"
+  },
+  {
+    "Suburb": "Bendigo",
+    "Site_streetaddress": "Shop G018, 116/120 Mitchell Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3550",
+    "confidence": 1,
+    "latitude": -36.765044,
+    "longitude": 144.281431,
+    "label": "116 – 120 Mitchell Street, Bendigo, VIC, Australia"
+  },
+  {
+    "Suburb": "Bendigo",
+    "Site_streetaddress": "339-355 Hargreaves Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3550",
+    "confidence": 1,
+    "latitude": -36.761138,
+    "longitude": 144.279101,
+    "label": "339-355 Hargreaves Street, Bendigo, VIC, Australia"
+  },
+  {
+    "Suburb": "Lalor",
+    "Site_streetaddress": "434/436 High Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3075",
+    "confidence": 1,
+    "latitude": -37.661258,
+    "longitude": 145.018907,
+    "label": "436 High Street, Lalor, VIC, Australia"
+  },
+  {
+    "Suburb": "Geelong",
+    "Site_streetaddress": "15 Eastern Beach Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3220",
+    "confidence": 1,
+    "latitude": -38.142772,
+    "longitude": 144.361521,
+    "label": "15A Eastern Beach Road, Geelong, VIC, Australia"
+  },
+  {
+    "Suburb": "Geelong",
+    "Site_streetaddress": "103 Mercer Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3220",
+    "confidence": 1,
+    "latitude": -38.144084,
+    "longitude": 144.357043,
+    "label": "103 Mercer Street, Geelong, VIC, Australia"
+  },
+  {
+    "Suburb": "Thomastown",
+    "Site_streetaddress": "98-112 Main Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3074",
+    "confidence": 1,
+    "latitude": -37.6789,
+    "longitude": 145.002004,
+    "label": "98-112 Main Street, Thomastown, VIC, Australia"
+  },
+  {
+    "Suburb": "Melbourne",
+    "Site_streetaddress": "227 Collins Street Corner, Swanston Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3000",
+    "confidence": 0.6,
+    "latitude": -37.825071,
+    "longitude": 144.978682,
+    "label": "Melbourne, VIC, Australia"
   }
 ]
