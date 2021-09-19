@@ -12631,5 +12631,15 @@
     "latitude": -37.662094,
     "longitude": 145.051693,
     "label": "250T Childs Road, Mill Park, VIC, Australia"
+  },
+  {
+    "Suburb": "Epping",
+    "Site_streetaddress": "Pacific Epping, 571-583 High Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3076",
+    "confidence": 0.8,
+    "latitude": -37.639123,
+    "longitude": 145.026623,
+    "label": "3076, Epping, VIC, Australia"
   }
 ]
