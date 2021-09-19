@@ -12641,5 +12641,75 @@
     "latitude": -37.639123,
     "longitude": 145.026623,
     "label": "3076, Epping, VIC, Australia"
+  },
+  {
+    "Suburb": "Sebastopol",
+    "Site_streetaddress": "Corner Albert & Hertford Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3356",
+    "confidence": 0.8,
+    "latitude": -37.770389,
+    "longitude": 144.979795,
+    "label": "Albert & Nicholson Streets, Brunswick East, VIC, Australia"
+  },
+  {
+    "Suburb": "Ballarat Central",
+    "Site_streetaddress": "7/25 Eastwood Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3350",
+    "confidence": 1,
+    "latitude": -37.564517,
+    "longitude": 143.862043,
+    "label": "7-25 Eastwood Street, Ballarat Central, VIC, Australia"
+  },
+  {
+    "Suburb": "Ballarat Central",
+    "Site_streetaddress": "58-60 Lydiard Street North",
+    "Site_state": "VIC",
+    "Site_postcode": "3350",
+    "confidence": 1,
+    "latitude": -37.559978,
+    "longitude": 143.858379,
+    "label": "58-60 Lydiard Street North, Ballarat Central, VIC, Australia"
+  },
+  {
+    "Suburb": "Ballarat Central",
+    "Site_streetaddress": "201 Mair Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3350",
+    "confidence": 1,
+    "latitude": -37.559933,
+    "longitude": 143.857799,
+    "label": "201 Mair Street, Ballarat Central, VIC, Australia"
+  },
+  {
+    "Suburb": "Brunswick",
+    "Site_streetaddress": "1/800 Sydney Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3056",
+    "confidence": 1,
+    "latitude": -37.758361,
+    "longitude": 144.963833,
+    "label": "800 Sydney Road, Brunswick, VIC, Australia"
+  },
+  {
+    "Suburb": "Wendouree",
+    "Site_streetaddress": "330 Gillies St North",
+    "Site_state": "VIC",
+    "Site_postcode": "3355",
+    "confidence": 1,
+    "latitude": -37.534032,
+    "longitude": 143.823454,
+    "label": "330 Gillies Street North, Wendouree, VIC, Australia"
+  },
+  {
+    "Suburb": "Mernda",
+    "Site_streetaddress": "2 Goulburn Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3754",
+    "confidence": 0.6,
+    "latitude": -37.592875,
+    "longitude": 145.105213,
+    "label": "Mernda, VIC, Australia"
   }
 ]
