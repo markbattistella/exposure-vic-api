@@ -12938,5 +12938,25 @@
     "latitude": -37.778466,
     "longitude": 144.978183,
     "label": "39 Nicholson Street, Brunswick East, VIC, Australia"
+  },
+  {
+    "Suburb": "Preston",
+    "Site_streetaddress": "411-423 Bell Street (Corner St Georges Road)",
+    "Site_state": "VIC",
+    "Site_postcode": "3072",
+    "confidence": 0.6,
+    "latitude": -37.741694,
+    "longitude": 145.007808,
+    "label": "Preston, VIC, Australia"
+  },
+  {
+    "Suburb": "Pakenham",
+    "Site_streetaddress": "55 Slattery Place",
+    "Site_state": "VIC",
+    "Site_postcode": "3810",
+    "confidence": 0.6,
+    "latitude": -38.069973,
+    "longitude": 145.481144,
+    "label": "Pakenham, VIC, Australia"
   }
 ]
