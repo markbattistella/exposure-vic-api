@@ -13168,5 +13168,75 @@
     "latitude": -37.821758,
     "longitude": 144.919601,
     "label": "15 Central Boulevard, Port Melbourne, VIC, Australia"
+  },
+  {
+    "Suburb": "Campbellfield",
+    "Site_streetaddress": "29 Lara Way",
+    "Site_state": "VIC",
+    "Site_postcode": "3061",
+    "confidence": 1,
+    "latitude": -37.658173,
+    "longitude": 144.967829,
+    "label": "29 Lara Way, Campbellfield, VIC, Australia"
+  },
+  {
+    "Suburb": "Campbellfield",
+    "Site_streetaddress": "3/1488 Sydney Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3061",
+    "confidence": 1,
+    "latitude": -37.684579,
+    "longitude": 144.95803,
+    "label": "1488 Sydney Road, Campbellfield, VIC, Australia"
+  },
+  {
+    "Suburb": "Epping",
+    "Site_streetaddress": "8/17 Lydia Court",
+    "Site_state": "VIC",
+    "Site_postcode": "3076",
+    "confidence": 1,
+    "latitude": -37.647297,
+    "longitude": 145.002174,
+    "label": "17 Lydia Court, Epping, VIC, Australia"
+  },
+  {
+    "Suburb": "Tullamarine",
+    "Site_streetaddress": "76 - 80 Lambeck Drive",
+    "Site_state": "VIC",
+    "Site_postcode": "3043",
+    "confidence": 1,
+    "latitude": -37.709148,
+    "longitude": 144.852968,
+    "label": "76-80 Lambeck Drive, Tullamarine, VIC, Australia"
+  },
+  {
+    "Suburb": "Craigeburn",
+    "Site_streetaddress": "Shop BOO-07, 340 Craigeburn Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3064",
+    "confidence": 0.3,
+    "latitude": -37.014348,
+    "longitude": 143.480452,
+    "label": "Victoria, Australia"
+  },
+  {
+    "Suburb": "Mill Park",
+    "Site_streetaddress": "25 Moorhead Drive",
+    "Site_state": "VIC",
+    "Site_postcode": "3082",
+    "confidence": 1,
+    "latitude": -37.66383,
+    "longitude": 145.062923,
+    "label": "9-25 Moorhead Drive, Mill Park, VIC, Australia"
+  },
+  {
+    "Suburb": "Melbourne",
+    "Site_streetaddress": "Level 4, 3/206-218 Bourke Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3000",
+    "confidence": 0.6,
+    "latitude": -37.825071,
+    "longitude": 144.978682,
+    "label": "Melbourne, VIC, Australia"
   }
 ]
