@@ -12998,5 +12998,95 @@
     "latitude": -37.864426,
     "longitude": 145.050131,
     "label": "153 Burke Road, Glen Iris, VIC, Australia"
+  },
+  {
+    "Suburb": "Koo Wee Rup",
+    "Site_streetaddress": "26 - 65 Station Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3981",
+    "confidence": 0.6,
+    "latitude": -38.199694,
+    "longitude": 145.488786,
+    "label": "Koo Wee Rup, VIC, Australia"
+  },
+  {
+    "Suburb": "Glen Forbes",
+    "Site_streetaddress": "1685 Bass Highway",
+    "Site_state": "VIC",
+    "Site_postcode": "3990",
+    "confidence": 0.6,
+    "latitude": -38.45,
+    "longitude": 145.53333,
+    "label": "Glen Forbes, VIC, Australia"
+  },
+  {
+    "Suburb": "Newhaven",
+    "Site_streetaddress": "886 Phillip Island Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3925",
+    "confidence": 1,
+    "latitude": -38.514447,
+    "longitude": 145.350628,
+    "label": "886 Phillip Island Road, Newhaven, VIC, Australia"
+  },
+  {
+    "Suburb": "Wonthaggi",
+    "Site_streetaddress": "45 - 61 McKenzie Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3995",
+    "confidence": 1,
+    "latitude": -38.603047,
+    "longitude": 145.59299,
+    "label": "45-61 Mckenzie Street, Wonthaggi, VIC, Australia"
+  },
+  {
+    "Suburb": "Traralgon",
+    "Site_streetaddress": "191-193 Argyle Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3844",
+    "confidence": 0.6,
+    "latitude": -38.196566,
+    "longitude": 146.533757,
+    "label": "Traralgon, VIC, Australia"
+  },
+  {
+    "Suburb": "Ballarat",
+    "Site_streetaddress": "101 Armstrong Street North",
+    "Site_state": "VIC",
+    "Site_postcode": "3350",
+    "confidence": 0.4,
+    "latitude": -37.563892,
+    "longitude": 143.852395,
+    "label": "Ballarat, VIC, Australia"
+  },
+  {
+    "Suburb": "Sunshine West",
+    "Site_streetaddress": "2-10 Grace Court",
+    "Site_state": "VIC",
+    "Site_postcode": "3020",
+    "confidence": 1,
+    "latitude": -37.804496,
+    "longitude": 144.831786,
+    "label": "2-10 Grace Court, Sunshine West, VIC, Australia"
+  },
+  {
+    "Suburb": "Glen Forbes",
+    "Site_streetaddress": "2185 Dalyston - Glen Forbes Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3990",
+    "confidence": 0.6,
+    "latitude": -38.45,
+    "longitude": 145.53333,
+    "label": "Glen Forbes, VIC, Australia"
+  },
+  {
+    "Suburb": "Glen Forbes",
+    "Site_streetaddress": "Cnr Bass Highway & Dalyston-Glen Forbes",
+    "Site_state": "VIC",
+    "Site_postcode": "3990",
+    "confidence": 0.3,
+    "latitude": -37.014348,
+    "longitude": 143.480452,
+    "label": "Victoria, Australia"
   }
 ]
