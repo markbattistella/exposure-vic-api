@@ -13098,5 +13098,45 @@
     "latitude": -37.763082,
     "longitude": 144.962993,
     "label": "614 Sydney Road, Brunswick, VIC, Australia"
+  },
+  {
+    "Suburb": "Pakenham",
+    "Site_streetaddress": "67-69 Main Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3810",
+    "confidence": 1,
+    "latitude": -38.078392,
+    "longitude": 145.48051,
+    "label": "67-69 Main Street, Pakenham, VIC, Australia"
+  },
+  {
+    "Suburb": "Craigeburn",
+    "Site_streetaddress": "Unit 2 No.8 Poa Court",
+    "Site_state": "VIC",
+    "Site_postcode": "3064",
+    "confidence": 0.3,
+    "latitude": -37.014348,
+    "longitude": 143.480452,
+    "label": "Victoria, Australia"
+  },
+  {
+    "Suburb": "Campbellfield",
+    "Site_streetaddress": "40 Randor Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3061",
+    "confidence": 1,
+    "latitude": -37.661364,
+    "longitude": 144.967139,
+    "label": "40 Randor Street, Campbellfield, VIC, Australia"
+  },
+  {
+    "Suburb": "Wendouree",
+    "Site_streetaddress": "Corner Norman and Gillies Streets",
+    "Site_state": "VIC",
+    "Site_postcode": "3350",
+    "confidence": 0.8,
+    "latitude": -37.825839,
+    "longitude": 144.956491,
+    "label": "Clarendon Street Junction, Normanby Road, Clarendon & Whiteman Streets, South Wharf, VIC, Australia"
   }
 ]
