@@ -12988,5 +12988,15 @@
     "latitude": -37.563892,
     "longitude": 143.852395,
     "label": "Ballarat, VIC, Australia"
+  },
+  {
+    "Suburb": "Glen Iris",
+    "Site_streetaddress": "153 Burke Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3146",
+    "confidence": 1,
+    "latitude": -37.864426,
+    "longitude": 145.050131,
+    "label": "153 Burke Road, Glen Iris, VIC, Australia"
   }
 ]

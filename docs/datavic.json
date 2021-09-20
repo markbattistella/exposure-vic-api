@@ -681,7 +681,7 @@
     "_id": 28,
     "Suburb": "Glen Iris",
     "Site_title": "Heathershaws Compounding Pharmacy",
-    "Site_streetaddress": "153 Bourke Road",
+    "Site_streetaddress": "153 Burke Road",
     "Site_state": "VIC",
     "Site_postcode": "3146",
     "Exposure_date_dtm": "2021-09-10",
@@ -696,14 +696,14 @@
     "Exposure_time_start_24": "09:00:00",
     "Exposure_time_end_24": "17:30:00",
     "dhid": "C8Z7",
-    "latitude": -37.857269,
-    "longitude": 145.06516
+    "latitude": -37.864426,
+    "longitude": 145.050131
   },
   {
     "_id": 29,
     "Suburb": "Glen Iris",
     "Site_title": "Heathershaws Compounding Pharmacy",
-    "Site_streetaddress": "153 Bourke Road",
+    "Site_streetaddress": "153 Burke Road",
     "Site_state": "VIC",
     "Site_postcode": "3146",
     "Exposure_date_dtm": "2021-09-13",
@@ -718,8 +718,8 @@
     "Exposure_time_start_24": "09:00:00",
     "Exposure_time_end_24": "17:30:00",
     "dhid": "E8L7",
-    "latitude": -37.857269,
-    "longitude": 145.06516
+    "latitude": -37.864426,
+    "longitude": 145.050131
   },
   {
     "_id": 281,
@@ -747,7 +747,7 @@
     "_id": 30,
     "Suburb": "Glen Iris",
     "Site_title": "Heathershaws Compounding Pharmacy",
-    "Site_streetaddress": "153 Bourke Road",
+    "Site_streetaddress": "153 Burke Road",
     "Site_state": "VIC",
     "Site_postcode": "3146",
     "Exposure_date_dtm": "2021-09-14",
@@ -762,14 +762,14 @@
     "Exposure_time_start_24": "09:00:00",
     "Exposure_time_end_24": "17:30:00",
     "dhid": "B9Q6",
-    "latitude": -37.857269,
-    "longitude": 145.06516
+    "latitude": -37.864426,
+    "longitude": 145.050131
   },
   {
     "_id": 31,
     "Suburb": "Glen Iris",
     "Site_title": "Heathershaws Compounding Pharmacy",
-    "Site_streetaddress": "153 Bourke Road",
+    "Site_streetaddress": "153 Burke Road",
     "Site_state": "VIC",
     "Site_postcode": "3146",
     "Exposure_date_dtm": "2021-09-15",
@@ -784,14 +784,14 @@
     "Exposure_time_start_24": "09:00:00",
     "Exposure_time_end_24": "17:30:00",
     "dhid": "D4X6",
-    "latitude": -37.857269,
-    "longitude": 145.06516
+    "latitude": -37.864426,
+    "longitude": 145.050131
   },
   {
     "_id": 32,
     "Suburb": "Glen Iris",
     "Site_title": "Heathershaws Compounding Pharmacy",
-    "Site_streetaddress": "153 Bourke Road",
+    "Site_streetaddress": "153 Burke Road",
     "Site_state": "VIC",
     "Site_postcode": "3146",
     "Exposure_date_dtm": "2021-09-16",
@@ -806,14 +806,14 @@
     "Exposure_time_start_24": "09:00:00",
     "Exposure_time_end_24": "17:30:00",
     "dhid": "E3N3",
-    "latitude": -37.857269,
-    "longitude": 145.06516
+    "latitude": -37.864426,
+    "longitude": 145.050131
   },
   {
     "_id": 33,
     "Suburb": "Glen Iris",
     "Site_title": "Heathershaws Compounding Pharmacy",
-    "Site_streetaddress": "153 Bourke Road",
+    "Site_streetaddress": "153 Burke Road",
     "Site_state": "VIC",
     "Site_postcode": "3146",
     "Exposure_date_dtm": "2021-09-17",
@@ -828,8 +828,8 @@
     "Exposure_time_start_24": "09:00:00",
     "Exposure_time_end_24": "17:30:00",
     "dhid": "B3N6",
-    "latitude": -37.857269,
-    "longitude": 145.06516
+    "latitude": -37.864426,
+    "longitude": 145.050131
   },
   {
     "_id": 34,
