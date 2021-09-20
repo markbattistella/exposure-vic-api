@@ -12848,5 +12848,35 @@
     "latitude": -37.857269,
     "longitude": 145.06516,
     "label": "Glen Iris, VIC, Australia"
+  },
+  {
+    "Suburb": "Maribyrnong",
+    "Site_streetaddress": "120-200 Rosamond Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3032",
+    "confidence": 1,
+    "latitude": -37.772907,
+    "longitude": 144.886355,
+    "label": "120-200 Rosamond Road, Maribyrnong, VIC, Australia"
+  },
+  {
+    "Suburb": "Airport West",
+    "Site_streetaddress": "212A/B, 29-35 Louis Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3042",
+    "confidence": 1,
+    "latitude": -37.712873,
+    "longitude": 144.889386,
+    "label": "29-35 Louis Street, Airport West, VIC, Australia"
+  },
+  {
+    "Suburb": "Coolaroo",
+    "Site_streetaddress": "185-195 Somerton Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3064",
+    "confidence": 0.6,
+    "latitude": -37.657848,
+    "longitude": 144.935832,
+    "label": "Coolaroo, VIC, Australia"
   }
 ]
