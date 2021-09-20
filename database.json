@@ -13138,5 +13138,35 @@
     "latitude": -37.825839,
     "longitude": 144.956491,
     "label": "Clarendon Street Junction, Normanby Road, Clarendon & Whiteman Streets, South Wharf, VIC, Australia"
+  },
+  {
+    "Suburb": "Epping",
+    "Site_streetaddress": "45 Harvest Home Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3076",
+    "confidence": 1,
+    "latitude": -37.624141,
+    "longitude": 145.03668,
+    "label": "45 Harvest Home Road, Epping, VIC, Australia"
+  },
+  {
+    "Suburb": "Ravenhall",
+    "Site_streetaddress": "2/13 Katherine Drive",
+    "Site_state": "VIC",
+    "Site_postcode": "3023",
+    "confidence": 0.6,
+    "latitude": -37.787925,
+    "longitude": 144.744794,
+    "label": "Ravenhall, VIC, Australia"
+  },
+  {
+    "Suburb": "Port Melbourne",
+    "Site_streetaddress": "15 Central Boulevard",
+    "Site_state": "VIC",
+    "Site_postcode": "3207",
+    "confidence": 1,
+    "latitude": -37.821758,
+    "longitude": 144.919601,
+    "label": "15 Central Boulevard, Port Melbourne, VIC, Australia"
   }
 ]
