@@ -12958,5 +12958,35 @@
     "latitude": -38.069973,
     "longitude": 145.481144,
     "label": "Pakenham, VIC, Australia"
+  },
+  {
+    "Suburb": "Alfredton",
+    "Site_streetaddress": "Dyson and Rememberance Drive",
+    "Site_state": "VIC",
+    "Site_postcode": "3350",
+    "confidence": 0.8,
+    "latitude": -37.828527,
+    "longitude": 144.971396,
+    "label": "Shrine of Rememberance, Dorcas & Coventry Streets & St Kilda Road, Melbourne, VIC, Australia"
+  },
+  {
+    "Suburb": "Alfredton",
+    "Site_streetaddress": "1611-1616 Sturt Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3350",
+    "confidence": 0.6,
+    "latitude": -37.552989,
+    "longitude": 143.819151,
+    "label": "Alfredton, Lake Gardens, VIC, Australia"
+  },
+  {
+    "Suburb": "Ballarat",
+    "Site_streetaddress": "8 Mair Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3350",
+    "confidence": 0.4,
+    "latitude": -37.563892,
+    "longitude": 143.852395,
+    "label": "Ballarat, VIC, Australia"
   }
 ]
