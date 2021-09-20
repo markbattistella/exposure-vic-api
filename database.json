@@ -12878,5 +12878,65 @@
     "latitude": -37.657848,
     "longitude": 144.935832,
     "label": "Coolaroo, VIC, Australia"
+  },
+  {
+    "Suburb": "Hadfield",
+    "Site_streetaddress": "90 East Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3046",
+    "confidence": 1,
+    "latitude": -37.709302,
+    "longitude": 144.950673,
+    "label": "90 East Street, Hadfield, VIC, Australia"
+  },
+  {
+    "Suburb": "Sunshine West",
+    "Site_streetaddress": "26 Strzelecki Avenue",
+    "Site_state": "VIC",
+    "Site_postcode": "3020",
+    "confidence": 1,
+    "latitude": -37.808872,
+    "longitude": 144.827967,
+    "label": "26 Strzelecki Avenue, Sunshine West, VIC, Australia"
+  },
+  {
+    "Suburb": "Narre Warren South",
+    "Site_streetaddress": "400 Narre Warren-Cranbourne Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3805",
+    "confidence": 1,
+    "latitude": -38.067238,
+    "longitude": 145.300074,
+    "label": "Shop F115, 400 Narre Warren - Cranbourne Road, Narre Warren South, VIC, Australia"
+  },
+  {
+    "Suburb": "Noble Park",
+    "Site_streetaddress": "7 Ian Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3174",
+    "confidence": 1,
+    "latitude": -37.966381,
+    "longitude": 145.176875,
+    "label": "7 Ian Street, Noble Park, VIC, Australia"
+  },
+  {
+    "Suburb": "Point Cook",
+    "Site_streetaddress": "Suite B, Building 2/1-11 Dunnings Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3030",
+    "confidence": 0.6,
+    "latitude": -37.904705,
+    "longitude": 144.751267,
+    "label": "Point Cook, VIC, Australia"
+  },
+  {
+    "Suburb": "Brunswick East",
+    "Site_streetaddress": "39 Nicholson Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3057",
+    "confidence": 1,
+    "latitude": -37.778466,
+    "longitude": 144.978183,
+    "label": "39 Nicholson Street, Brunswick East, VIC, Australia"
   }
 ]
