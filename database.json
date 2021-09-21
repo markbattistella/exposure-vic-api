@@ -13448,5 +13448,135 @@
     "latitude": -36.365515,
     "longitude": 146.300309,
     "label": "95-103 Tone Road, Wangaratta, VIC, Australia"
+  },
+  {
+    "Suburb": "Wangaratta",
+    "Site_streetaddress": "69 Applin Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3677",
+    "confidence": 0.6,
+    "latitude": -36.363389,
+    "longitude": 146.314859,
+    "label": "Wangaratta, VIC, Australia"
+  },
+  {
+    "Suburb": "Hamilton",
+    "Site_streetaddress": "362/364 North Boundary Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3300",
+    "confidence": 1,
+    "latitude": -37.726948,
+    "longitude": 142.029789,
+    "label": "364 North Boundary Road, Hamilton, VIC, Australia"
+  },
+  {
+    "Suburb": "Wangaratta",
+    "Site_streetaddress": "Ryley Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3677",
+    "confidence": 0.6,
+    "latitude": -36.363389,
+    "longitude": 146.314859,
+    "label": "Wangaratta, VIC, Australia"
+  },
+  {
+    "Suburb": "Hamilton",
+    "Site_streetaddress": "27 Shakespeare Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3300",
+    "confidence": 1,
+    "latitude": -37.737006,
+    "longitude": 142.022846,
+    "label": "27 Shakespeare Street, Hamilton, VIC, Australia"
+  },
+  {
+    "Suburb": "Sebastopol",
+    "Site_streetaddress": "176 Albert Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3356",
+    "confidence": 1,
+    "latitude": -37.596648,
+    "longitude": 143.840786,
+    "label": "176 Albert Street, Sebastopol, VIC, Australia"
+  },
+  {
+    "Suburb": "Wangaratta",
+    "Site_streetaddress": "86/90 Ovens Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3677",
+    "confidence": 1,
+    "latitude": -36.352745,
+    "longitude": 146.326945,
+    "label": "90-100B Ovens Street, Wangaratta, VIC, Australia"
+  },
+  {
+    "Suburb": "Wangaratta",
+    "Site_streetaddress": "Shop MM1/80 Ovens Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3677",
+    "confidence": 1,
+    "latitude": -36.354164,
+    "longitude": 146.324687,
+    "label": "80 Ovens Street, Wangaratta, VIC, Australia"
+  },
+  {
+    "Suburb": "Wangaratta",
+    "Site_streetaddress": "45-49 Ovens Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3677",
+    "confidence": 0.6,
+    "latitude": -36.363389,
+    "longitude": 146.314859,
+    "label": "Wangaratta, VIC, Australia"
+  },
+  {
+    "Suburb": "Derrimut",
+    "Site_streetaddress": "40 Lennon Parkway",
+    "Site_state": "VIC",
+    "Site_postcode": "3030",
+    "confidence": 1,
+    "latitude": -37.789503,
+    "longitude": 144.763139,
+    "label": "40 Lennon Parkway, Derrimut, VIC, Australia"
+  },
+  {
+    "Suburb": "Preston",
+    "Site_streetaddress": "50 Murray Road East",
+    "Site_state": "VIC",
+    "Site_postcode": "3072",
+    "confidence": 0.6,
+    "latitude": -37.741694,
+    "longitude": 145.007808,
+    "label": "Preston, VIC, Australia"
+  },
+  {
+    "Suburb": "Tarneit",
+    "Site_streetaddress": "Shop 17-18, 742 Tarneit Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3029",
+    "confidence": 0.8,
+    "latitude": -37.840418,
+    "longitude": 144.703389,
+    "label": "3029, Tarneit, VIC, Australia"
+  },
+  {
+    "Suburb": "Darley",
+    "Site_streetaddress": "138 Halletts Way",
+    "Site_state": "VIC",
+    "Site_postcode": "3340",
+    "confidence": 1,
+    "latitude": -37.656917,
+    "longitude": 144.424599,
+    "label": "138 Halletts Way, Darley, VIC, Australia"
+  },
+  {
+    "Suburb": "St Albans",
+    "Site_streetaddress": "101-103 Main Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3021",
+    "confidence": 0.6,
+    "latitude": -37.743656,
+    "longitude": 144.8071,
+    "label": "St Albans, VIC, Australia"
   }
 ]
