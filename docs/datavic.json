@@ -5079,7 +5079,7 @@
   },
   {
     "_id": 228,
-    "Suburb": "Campbelfield",
+    "Suburb": "Campbellfield",
     "Site_title": "Fonterra Campbellfield Manufacturing",
     "Site_streetaddress": "58-64 Glenbarry Road",
     "Site_state": "VIC",
@@ -5096,12 +5096,12 @@
     "Exposure_time_start_24": "17:00:00",
     "Exposure_time_end_24": "23:59:00",
     "dhid": "E2L6",
-    "latitude": -37.662794,
-    "longitude": 144.9554001
+    "latitude": -37.663027,
+    "longitude": 144.956515
   },
   {
     "_id": 229,
-    "Suburb": "Campbelfield",
+    "Suburb": "Campbellfield",
     "Site_title": "Fonterra Campbellfield Manufacturing",
     "Site_streetaddress": "58-64 Glenbarry Road",
     "Site_state": "VIC",
@@ -5118,12 +5118,12 @@
     "Exposure_time_start_24": "00:00:00",
     "Exposure_time_end_24": "03:30:00",
     "dhid": "D8T7",
-    "latitude": -37.662794,
-    "longitude": 144.9554001
+    "latitude": -37.663027,
+    "longitude": 144.956515
   },
   {
     "_id": 230,
-    "Suburb": "Campbelfield",
+    "Suburb": "Campbellfield",
     "Site_title": "Fonterra Campbellfield Manufacturing",
     "Site_streetaddress": "58-64 Glenbarry Road",
     "Site_state": "VIC",
@@ -5140,12 +5140,12 @@
     "Exposure_time_start_24": "17:00:00",
     "Exposure_time_end_24": "23:59:00",
     "dhid": "C3B8",
-    "latitude": -37.662794,
-    "longitude": 144.9554001
+    "latitude": -37.663027,
+    "longitude": 144.956515
   },
   {
     "_id": 231,
-    "Suburb": "Campbelfield",
+    "Suburb": "Campbellfield",
     "Site_title": "Fonterra Campbellfield Manufacturing",
     "Site_streetaddress": "58-64 Glenbarry Road",
     "Site_state": "VIC",
@@ -5162,12 +5162,12 @@
     "Exposure_time_start_24": "00:00:00",
     "Exposure_time_end_24": "03:30:00",
     "dhid": "A4Z4",
-    "latitude": -37.662794,
-    "longitude": 144.9554001
+    "latitude": -37.663027,
+    "longitude": 144.956515
   },
   {
     "_id": 232,
-    "Suburb": "Campbelfield",
+    "Suburb": "Campbellfield",
     "Site_title": "Fonterra Campbellfield Manufacturing",
     "Site_streetaddress": "58-64 Glenbarry Road",
     "Site_state": "VIC",
@@ -5184,8 +5184,8 @@
     "Exposure_time_start_24": "17:00:00",
     "Exposure_time_end_24": "19:45:00",
     "dhid": "E4F5",
-    "latitude": -37.662794,
-    "longitude": 144.9554001
+    "latitude": -37.663027,
+    "longitude": 144.956515
   },
   {
     "_id": 233,
