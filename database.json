@@ -13248,5 +13248,25 @@
     "latitude": -37.903384,
     "longitude": 144.658087,
     "label": "175A Watton Street, Werribee, VIC, Australia"
+  },
+  {
+    "Suburb": "Pakenham",
+    "Site_streetaddress": "2-6 Princes Highway",
+    "Site_state": "VIC",
+    "Site_postcode": "3810",
+    "confidence": 1,
+    "latitude": -38.071714,
+    "longitude": 145.488227,
+    "label": "2-6 Princes Highway, Pakenham, VIC, Australia"
+  },
+  {
+    "Suburb": "Torquay",
+    "Site_streetaddress": "1/61 Surf Coast Highway",
+    "Site_state": "VIC",
+    "Site_postcode": "3228",
+    "confidence": 0.6,
+    "latitude": -38.326049,
+    "longitude": 144.316288,
+    "label": "Torquay, VIC, Australia"
   }
 ]
