@@ -13388,5 +13388,15 @@
     "latitude": -37.595504,
     "longitude": 144.915623,
     "label": "340 Craigieburn Road, Craigieburn, VIC, Australia"
+  },
+  {
+    "Suburb": "Koo Wee Rup",
+    "Site_streetaddress": "344 Rossiter Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3981",
+    "confidence": 1,
+    "latitude": -38.198632,
+    "longitude": 145.492996,
+    "label": "344 Rossiter Road, Koo Wee Rup, VIC, Australia"
   }
 ]
