@@ -13278,5 +13278,115 @@
     "latitude": -38.140536,
     "longitude": 144.348727,
     "label": "156 Pakington Street, Geelong West, VIC, Australia"
+  },
+  {
+    "Suburb": "St Arnaud",
+    "Site_streetaddress": "5948 Sunraysia Highway",
+    "Site_state": "VIC",
+    "Site_postcode": "3478",
+    "confidence": 1,
+    "latitude": -36.631585,
+    "longitude": 143.263237,
+    "label": "5948 Sunraysia Highway, St Arnaud, VIC, Australia"
+  },
+  {
+    "Suburb": "Corio",
+    "Site_streetaddress": "7/470-490 Princes Highway",
+    "Site_state": "VIC",
+    "Site_postcode": "3214",
+    "confidence": 0.6,
+    "latitude": -38.068084,
+    "longitude": 144.374986,
+    "label": "Corio, VIC, Australia"
+  },
+  {
+    "Suburb": "Geelong",
+    "Site_streetaddress": "Shop 153 4/144-145 Malop Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3220",
+    "confidence": 0.6,
+    "latitude": -38.150785,
+    "longitude": 144.361579,
+    "label": "Geelong, VIC, Australia"
+  },
+  {
+    "Suburb": "Geelong",
+    "Site_streetaddress": "95 Malop Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3220",
+    "confidence": 1,
+    "latitude": -38.147906,
+    "longitude": 144.359687,
+    "label": "95 Little Malop Street, Geelong, VIC, Australia"
+  },
+  {
+    "Suburb": "Corio",
+    "Site_streetaddress": "Corner Bacchus Marsh & Purnell Roads",
+    "Site_state": "VIC",
+    "Site_postcode": "3214",
+    "confidence": 0.6,
+    "latitude": -38.068084,
+    "longitude": 144.374986,
+    "label": "Corio, VIC, Australia"
+  },
+  {
+    "Suburb": "Craigieburn",
+    "Site_streetaddress": "Unit 2 No.8 Poa Court",
+    "Site_state": "VIC",
+    "Site_postcode": "3064",
+    "confidence": 0.6,
+    "latitude": -37.590804,
+    "longitude": 144.933042,
+    "label": "Craigieburn, VIC, Australia"
+  },
+  {
+    "Suburb": "Lara",
+    "Site_streetaddress": "48/50 The Centre Way",
+    "Site_state": "VIC",
+    "Site_postcode": "3212",
+    "confidence": 1,
+    "latitude": -38.022907,
+    "longitude": 144.408169,
+    "label": "48-50 The Centreway, Lara, VIC, Australia"
+  },
+  {
+    "Suburb": "Lara",
+    "Site_streetaddress": "2-4 Waverly Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3212",
+    "confidence": 1,
+    "latitude": -37.87543,
+    "longitude": 145.044577,
+    "label": "41 Waverly Road, Malvern East, VIC, Australia"
+  },
+  {
+    "Suburb": "Bacchus Marsh",
+    "Site_streetaddress": "8 Grant Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3340",
+    "confidence": 1,
+    "latitude": -37.676312,
+    "longitude": 144.435439,
+    "label": "8 Grant Street, Bacchus Marsh, VIC, Australia"
+  },
+  {
+    "Suburb": "Lara",
+    "Site_streetaddress": "20 Patullos Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3212",
+    "confidence": 1,
+    "latitude": -38.023022,
+    "longitude": 144.39553,
+    "label": "20 Patullos Road, Lara, VIC, Australia"
+  },
+  {
+    "Suburb": "Craigieburn",
+    "Site_streetaddress": "Shop BOO-07, 340 Craigieburn Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3064",
+    "confidence": 1,
+    "latitude": -37.595504,
+    "longitude": 144.915623,
+    "label": "340 Craigieburn Road, Craigieburn, VIC, Australia"
   }
 ]
