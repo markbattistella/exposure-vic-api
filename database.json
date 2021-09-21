@@ -13268,5 +13268,15 @@
     "latitude": -38.326049,
     "longitude": 144.316288,
     "label": "Torquay, VIC, Australia"
+  },
+  {
+    "Suburb": "Geelong West",
+    "Site_streetaddress": "156 Pakington Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3218",
+    "confidence": 1,
+    "latitude": -38.140536,
+    "longitude": 144.348727,
+    "label": "156 Pakington Street, Geelong West, VIC, Australia"
   }
 ]
