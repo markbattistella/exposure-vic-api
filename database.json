@@ -13778,5 +13778,15 @@
     "latitude": -37.845604,
     "longitude": 144.982784,
     "label": "55 Commercial Road, Melbourne, VIC, Australia"
+  },
+  {
+    "Suburb": "Seaford",
+    "Site_streetaddress": "164 Nepean Highway",
+    "Site_state": "VIC",
+    "Site_postcode": "3198",
+    "confidence": 1,
+    "latitude": -38.108542,
+    "longitude": 145.126956,
+    "label": "164R Nepean Highway, Seaford, VIC, Australia"
   }
 ]
