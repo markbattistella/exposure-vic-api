@@ -13588,5 +13588,45 @@
     "latitude": -37.663027,
     "longitude": 144.956515,
     "label": "58-64 Glenbarry Road, Campbellfield, VIC, Australia"
+  },
+  {
+    "Suburb": "Mansfield",
+    "Site_streetaddress": "23 Highett Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3722",
+    "confidence": 1,
+    "latitude": -37.051249,
+    "longitude": 146.087841,
+    "label": "23 Highett Street, Mansfield, VIC, Australia"
+  },
+  {
+    "Suburb": "Mansfield",
+    "Site_streetaddress": "119 High Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3722",
+    "confidence": 1,
+    "latitude": -37.051613,
+    "longitude": 146.086902,
+    "label": "119 High Street, Mansfield, VIC, Australia"
+  },
+  {
+    "Suburb": "Mansfield",
+    "Site_streetaddress": "145 Mount Buller Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3722",
+    "confidence": 1,
+    "latitude": -37.06059,
+    "longitude": 146.09831,
+    "label": "145 Mt Buller Road, Mansfield, VIC, Australia"
+  },
+  {
+    "Suburb": "Mansfield",
+    "Site_streetaddress": "69 High Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3722",
+    "confidence": 1,
+    "latitude": -37.051951,
+    "longitude": 146.089487,
+    "label": "69 High Street, Mansfield, VIC, Australia"
   }
 ]
