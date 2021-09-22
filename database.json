@@ -13768,5 +13768,15 @@
     "latitude": -37.889039,
     "longitude": 145.056914,
     "label": "Thompson & Thompson, Carnegie, VIC, Australia"
+  },
+  {
+    "Suburb": "Melbourne",
+    "Site_streetaddress": "Ground Floor, 55 Commercial Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3004",
+    "confidence": 1,
+    "latitude": -37.845604,
+    "longitude": 144.982784,
+    "label": "55 Commercial Road, Melbourne, VIC, Australia"
   }
 ]
