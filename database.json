@@ -13628,5 +13628,35 @@
     "latitude": -37.051951,
     "longitude": 146.089487,
     "label": "69 High Street, Mansfield, VIC, Australia"
+  },
+  {
+    "Suburb": "Broadmeadows",
+    "Site_streetaddress": "30-54 Dimboola Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3047",
+    "confidence": 0.6,
+    "latitude": -37.684973,
+    "longitude": 144.928208,
+    "label": "Broadmeadows, VIC, Australia"
+  },
+  {
+    "Suburb": "Bundoora",
+    "Site_streetaddress": "289 McKimmies Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3083",
+    "confidence": 1,
+    "latitude": -37.677746,
+    "longitude": 145.056062,
+    "label": "289C Mckimmies Road, Bundoora, VIC, Australia"
+  },
+  {
+    "Suburb": "Wangaratta",
+    "Site_streetaddress": "Corner Ryley Street and Greta Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3677",
+    "confidence": 0.6,
+    "latitude": -36.363389,
+    "longitude": 146.314859,
+    "label": "Wangaratta, VIC, Australia"
   }
 ]
