@@ -13708,5 +13708,65 @@
     "latitude": -37.677977,
     "longitude": 144.435114,
     "label": "28 Grant Street, Bacchus Marsh, VIC, Australia"
+  },
+  {
+    "Suburb": "Narre Warren",
+    "Site_streetaddress": "68 Victor Crescent",
+    "Site_state": "VIC",
+    "Site_postcode": "3805",
+    "confidence": 1,
+    "latitude": -38.023784,
+    "longitude": 145.31345,
+    "label": "68 Victor Crescent, Narre Warren, VIC, Australia"
+  },
+  {
+    "Suburb": "Hamilton",
+    "Site_streetaddress": "120 Thompson Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3300",
+    "confidence": 1,
+    "latitude": -37.742821,
+    "longitude": 142.022518,
+    "label": "120 Thompson Street, Hamilton, VIC, Australia"
+  },
+  {
+    "Suburb": "Hamilton",
+    "Site_streetaddress": "335 Henty Highway",
+    "Site_state": "VIC",
+    "Site_postcode": "3300",
+    "confidence": 1,
+    "latitude": -37.722097,
+    "longitude": 141.99425,
+    "label": "335 Henty Highway, Hamilton, VIC, Australia"
+  },
+  {
+    "Suburb": "Hamilton",
+    "Site_streetaddress": "179-193 Gray Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3300",
+    "confidence": 1,
+    "latitude": -37.74239,
+    "longitude": 142.02568,
+    "label": "179 - 193 Gray Street, Hamilton, VIC, Australia"
+  },
+  {
+    "Suburb": "Hamilton",
+    "Site_streetaddress": "263 Gray Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3300",
+    "confidence": 1,
+    "latitude": -37.741191,
+    "longitude": 142.027775,
+    "label": "263 Gray Street, Hamilton, VIC, Australia"
+  },
+  {
+    "Suburb": "Hamilton",
+    "Site_streetaddress": "Corner Thompson & Lonsdale street",
+    "Site_state": "VIC",
+    "Site_postcode": "3300",
+    "confidence": 0.8,
+    "latitude": -37.889039,
+    "longitude": 145.056914,
+    "label": "Thompson & Thompson, Carnegie, VIC, Australia"
   }
 ]
