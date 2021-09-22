@@ -13658,5 +13658,35 @@
     "latitude": -36.363389,
     "longitude": 146.314859,
     "label": "Wangaratta, VIC, Australia"
+  },
+  {
+    "Suburb": "Beveridge",
+    "Site_streetaddress": "2 Flagstone Lane",
+    "Site_state": "VIC",
+    "Site_postcode": "3753",
+    "confidence": 1,
+    "latitude": -37.471295,
+    "longitude": 144.955289,
+    "label": "2 Flagstone Lane, Beveridge, VIC, Australia"
+  },
+  {
+    "Suburb": "Epping",
+    "Site_streetaddress": "22-48 Meadow Glen Drive",
+    "Site_state": "VIC",
+    "Site_postcode": "3076",
+    "confidence": 1,
+    "latitude": -37.642692,
+    "longitude": 145.053237,
+    "label": "22-48 Meadow Glen Drive, Epping, VIC, Australia"
+  },
+  {
+    "Suburb": "Hamilton",
+    "Site_streetaddress": "349 North Boundary Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3300",
+    "confidence": 1,
+    "latitude": -37.726448,
+    "longitude": 142.028313,
+    "label": "349 North Boundary Road, Hamilton, VIC, Australia"
   }
 ]
