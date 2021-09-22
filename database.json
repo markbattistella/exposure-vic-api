@@ -13838,5 +13838,15 @@
     "latitude": -37.673102,
     "longitude": 144.443101,
     "label": "56-62 Lerderderg Street, Bacchus Marsh, VIC, Australia"
+  },
+  {
+    "Suburb": "Deer Park",
+    "Site_streetaddress": "803-805 Ballarat Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3023",
+    "confidence": 1,
+    "latitude": -37.770533,
+    "longitude": 144.774018,
+    "label": "803-805 Ballarat Road, Deer Park, VIC, Australia"
   }
 ]
