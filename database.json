@@ -13818,5 +13818,25 @@
     "latitude": -37.664217,
     "longitude": 145.028358,
     "label": "2 Derna Crescent, Lalor, VIC, Australia"
+  },
+  {
+    "Suburb": "Elsternwick",
+    "Site_streetaddress": "Glen Huntly Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3185",
+    "confidence": 0.6,
+    "latitude": -37.885409,
+    "longitude": 145.00719,
+    "label": "Elsternwick, VIC, Australia"
+  },
+  {
+    "Suburb": "Bacchus Marsh",
+    "Site_streetaddress": "56-62 Lerderderg Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3340",
+    "confidence": 1,
+    "latitude": -37.673102,
+    "longitude": 144.443101,
+    "label": "56-62 Lerderderg Street, Bacchus Marsh, VIC, Australia"
   }
 ]
