@@ -12597,10 +12597,9 @@
     "Site_streetaddress": "227 Collins Street Corner, Swanston Street",
     "Site_state": "VIC",
     "Site_postcode": "3000",
-    "confidence": 0.6,
-    "latitude": -37.825071,
-    "longitude": 144.978682,
-    "label": "Melbourne, VIC, Australia"
+    "confidence": 1,
+    "latitude": -37.8158276,
+    "longitude": 144.9641146
   },
   {
     "Suburb": "Bendigo",
@@ -12637,20 +12636,18 @@
     "Site_streetaddress": "Pacific Epping, 571-583 High Street",
     "Site_state": "VIC",
     "Site_postcode": "3076",
-    "confidence": 0.8,
-    "latitude": -37.639123,
-    "longitude": 145.026623,
-    "label": "3076, Epping, VIC, Australia"
+    "confidence": 1,
+    "latitude": -37.6555822,
+    "longitude": 145.0145075
   },
   {
     "Suburb": "Sebastopol",
     "Site_streetaddress": "Corner Albert & Hertford Street",
     "Site_state": "VIC",
     "Site_postcode": "3356",
-    "confidence": 0.8,
-    "latitude": -37.770389,
-    "longitude": 144.979795,
-    "label": "Albert & Nicholson Streets, Brunswick East, VIC, Australia"
+    "confidence": 1,
+    "latitude": -37.5862961,
+    "longitude": 143.8380365
   },
   {
     "Suburb": "Ballarat Central",
@@ -12707,10 +12704,9 @@
     "Site_streetaddress": "2 Goulburn Street",
     "Site_state": "VIC",
     "Site_postcode": "3754",
-    "confidence": 0.6,
-    "latitude": -37.592875,
-    "longitude": 145.105213,
-    "label": "Mernda, VIC, Australia"
+    "confidence": 1,
+    "latitude": -37.6138216,
+    "longitude": 145.0943365
   },
   {
     "Suburb": "Caroline Springs",
@@ -12837,17 +12833,18 @@
     "Site_streetaddress": "421-421a Centre Toda",
     "Site_state": "VIC",
     "Site_postcode": "3204",
-    "skip": true
+    "confidence": 1,
+    "latitude": -37.9180903,
+    "longitude": 145.0394047
   },
   {
     "Suburb": "Glen Iris",
     "Site_streetaddress": "153 Bourke Road",
     "Site_state": "VIC",
     "Site_postcode": "3146",
-    "confidence": 0.6,
-    "latitude": -37.857269,
-    "longitude": 145.06516,
-    "label": "Glen Iris, VIC, Australia"
+    "confidence": 1,
+    "latitude": -37.8644194,
+    "longitude": 145.0479456
   },
   {
     "Suburb": "Maribyrnong",
@@ -12874,10 +12871,9 @@
     "Site_streetaddress": "185-195 Somerton Road",
     "Site_state": "VIC",
     "Site_postcode": "3064",
-    "confidence": 0.6,
-    "latitude": -37.657848,
-    "longitude": 144.935832,
-    "label": "Coolaroo, VIC, Australia"
+    "confidence": 1,
+    "latitude": -37.641391,
+    "longitude": 144.9311883
   },
   {
     "Suburb": "Hadfield",
@@ -12924,10 +12920,9 @@
     "Site_streetaddress": "Suite B, Building 2/1-11 Dunnings Road",
     "Site_state": "VIC",
     "Site_postcode": "3030",
-    "confidence": 0.6,
-    "latitude": -37.904705,
-    "longitude": 144.751267,
-    "label": "Point Cook, VIC, Australia"
+    "confidence": 1,
+    "latitude": -37.8878937,
+    "longitude": 144.7531433
   },
   {
     "Suburb": "Brunswick East",
@@ -12944,50 +12939,45 @@
     "Site_streetaddress": "411-423 Bell Street (Corner St Georges Road)",
     "Site_state": "VIC",
     "Site_postcode": "3072",
-    "confidence": 0.6,
-    "latitude": -37.741694,
-    "longitude": 145.007808,
-    "label": "Preston, VIC, Australia"
+    "confidence": 1,
+    "latitude": -37.7449148,
+    "longitude": 144.9967913
   },
   {
     "Suburb": "Pakenham",
     "Site_streetaddress": "55 Slattery Place",
     "Site_state": "VIC",
     "Site_postcode": "3810",
-    "confidence": 0.6,
-    "latitude": -38.069973,
-    "longitude": 145.481144,
-    "label": "Pakenham, VIC, Australia"
+    "confidence": 1,
+    "latitude": -38.0776236,
+    "longitude": 145.4818714
   },
   {
     "Suburb": "Alfredton",
     "Site_streetaddress": "Dyson and Rememberance Drive",
     "Site_state": "VIC",
     "Site_postcode": "3350",
-    "confidence": 0.8,
-    "latitude": -37.828527,
-    "longitude": 144.971396,
-    "label": "Shrine of Rememberance, Dorcas & Coventry Streets & St Kilda Road, Melbourne, VIC, Australia"
+    "confidence": 1,
+    "latitude": -37.5424063,
+    "longitude": 143.7850621
   },
   {
     "Suburb": "Alfredton",
     "Site_streetaddress": "1611-1616 Sturt Street",
     "Site_state": "VIC",
     "Site_postcode": "3350",
-    "confidence": 0.6,
-    "latitude": -37.552989,
-    "longitude": 143.819151,
-    "label": "Alfredton, Lake Gardens, VIC, Australia"
+    "confidence": 1,
+    "latitude": -37.5555376,
+    "longitude": 143.814591
   },
   {
     "Suburb": "Ballarat",
     "Site_streetaddress": "8 Mair Street",
     "Site_state": "VIC",
     "Site_postcode": "3350",
-    "confidence": 0.4,
-    "latitude": -37.563892,
-    "longitude": 143.852395,
-    "label": "Ballarat, VIC, Australia"
+    "confidence": 1,
+    "latitude": -37.5595912,
+    "longitude": 143.8568921
   },
   {
     "Suburb": "Glen Iris",
@@ -13004,20 +12994,18 @@
     "Site_streetaddress": "26 - 65 Station Street",
     "Site_state": "VIC",
     "Site_postcode": "3981",
-    "confidence": 0.6,
-    "latitude": -38.199694,
-    "longitude": 145.488786,
-    "label": "Koo Wee Rup, VIC, Australia"
+    "confidence": 1,
+    "latitude": -38.1986111,
+    "longitude": 145.4853113
   },
   {
     "Suburb": "Glen Forbes",
     "Site_streetaddress": "1685 Bass Highway",
     "Site_state": "VIC",
     "Site_postcode": "3990",
-    "confidence": 0.6,
-    "latitude": -38.45,
-    "longitude": 145.53333,
-    "label": "Glen Forbes, VIC, Australia"
+    "confidence": 1,
+    "latitude": -38.4208877,
+    "longitude": 145.5174112
   },
   {
     "Suburb": "Newhaven",
@@ -13044,20 +13032,18 @@
     "Site_streetaddress": "191-193 Argyle Street",
     "Site_state": "VIC",
     "Site_postcode": "3844",
-    "confidence": 0.6,
-    "latitude": -38.196566,
-    "longitude": 146.533757,
-    "label": "Traralgon, VIC, Australia"
+    "confidence": 1,
+    "latitude": -38.1919142,
+    "longitude": 146.5584824
   },
   {
     "Suburb": "Ballarat",
     "Site_streetaddress": "101 Armstrong Street North",
     "Site_state": "VIC",
     "Site_postcode": "3350",
-    "confidence": 0.4,
-    "latitude": -37.563892,
-    "longitude": 143.852395,
-    "label": "Ballarat, VIC, Australia"
+    "confidence": 1,
+    "latitude": -37.5590797,
+    "longitude": 143.8550467
   },
   {
     "Suburb": "Sunshine West",
@@ -13074,20 +13060,18 @@
     "Site_streetaddress": "2185 Dalyston - Glen Forbes Road",
     "Site_state": "VIC",
     "Site_postcode": "3990",
-    "confidence": 0.6,
-    "latitude": -38.45,
-    "longitude": 145.53333,
-    "label": "Glen Forbes, VIC, Australia"
+    "confidence": 1,
+    "latitude": -38.4373345,
+    "longitude": 145.5003921
   },
   {
     "Suburb": "Glen Forbes",
     "Site_streetaddress": "Cnr Bass Highway & Dalyston-Glen Forbes",
     "Site_state": "VIC",
     "Site_postcode": "3990",
-    "confidence": 0.3,
-    "latitude": -37.014348,
-    "longitude": 143.480452,
-    "label": "Victoria, Australia"
+    "confidence": 1,
+    "latitude": -38.433213,
+    "longitude": 145.4957363
   },
   {
     "Suburb": "Brunswick",
@@ -13114,10 +13098,9 @@
     "Site_streetaddress": "Unit 2 No.8 Poa Court",
     "Site_state": "VIC",
     "Site_postcode": "3064",
-    "confidence": 0.3,
-    "latitude": -37.014348,
-    "longitude": 143.480452,
-    "label": "Victoria, Australia"
+    "confidence": 1,
+    "latitude": -37.6153204,
+    "longitude": 144.9421226
   },
   {
     "Suburb": "Campbellfield",
@@ -13134,10 +13117,9 @@
     "Site_streetaddress": "Corner Norman and Gillies Streets",
     "Site_state": "VIC",
     "Site_postcode": "3350",
-    "confidence": 0.8,
-    "latitude": -37.825839,
-    "longitude": 144.956491,
-    "label": "Clarendon Street Junction, Normanby Road, Clarendon & Whiteman Streets, South Wharf, VIC, Australia"
+    "confidence": 1,
+    "latitude": -37.5344381,
+    "longitude": 143.8225679
   },
   {
     "Suburb": "Epping",
@@ -13154,10 +13136,9 @@
     "Site_streetaddress": "2/13 Katherine Drive",
     "Site_state": "VIC",
     "Site_postcode": "3023",
-    "confidence": 0.6,
-    "latitude": -37.787925,
-    "longitude": 144.744794,
-    "label": "Ravenhall, VIC, Australia"
+    "confidence": 1,
+    "latitude": -37.764424,
+    "longitude": 144.7422319
   },
   {
     "Suburb": "Port Melbourne",
@@ -13214,10 +13195,9 @@
     "Site_streetaddress": "Shop BOO-07, 340 Craigeburn Road",
     "Site_state": "VIC",
     "Site_postcode": "3064",
-    "confidence": 0.3,
-    "latitude": -37.014348,
-    "longitude": 143.480452,
-    "label": "Victoria, Australia"
+    "confidence": 1,
+    "latitude": -37.5938263,
+    "longitude": 144.9113
   },
   {
     "Suburb": "Mill Park",
@@ -13234,10 +13214,9 @@
     "Site_streetaddress": "Level 4, 3/206-218 Bourke Street",
     "Site_state": "VIC",
     "Site_postcode": "3000",
-    "confidence": 0.6,
-    "latitude": -37.825071,
-    "longitude": 144.978682,
-    "label": "Melbourne, VIC, Australia"
+    "confidence": 1,
+    "latitude": -37.8213282,
+    "longitude": 144.9602597
   },
   {
     "Suburb": "Werribee",
@@ -13264,10 +13243,9 @@
     "Site_streetaddress": "1/61 Surf Coast Highway",
     "Site_state": "VIC",
     "Site_postcode": "3228",
-    "confidence": 0.6,
-    "latitude": -38.326049,
-    "longitude": 144.316288,
-    "label": "Torquay, VIC, Australia"
+    "confidence": 1,
+    "latitude": -38.3262557,
+    "longitude": 144.3148279
   },
   {
     "Suburb": "Geelong West",
@@ -13294,20 +13272,18 @@
     "Site_streetaddress": "7/470-490 Princes Highway",
     "Site_state": "VIC",
     "Site_postcode": "3214",
-    "confidence": 0.6,
-    "latitude": -38.068084,
-    "longitude": 144.374986,
-    "label": "Corio, VIC, Australia"
+    "confidence": 1,
+    "latitude": -38.0657784,
+    "longitude": 144.3806681
   },
   {
     "Suburb": "Geelong",
     "Site_streetaddress": "Shop 153 4/144-145 Malop Street",
     "Site_state": "VIC",
     "Site_postcode": "3220",
-    "confidence": 0.6,
-    "latitude": -38.150785,
-    "longitude": 144.361579,
-    "label": "Geelong, VIC, Australia"
+    "confidence": 1,
+    "latitude": -38.1467684,
+    "longitude": 144.3599212
   },
   {
     "Suburb": "Geelong",
@@ -13324,20 +13300,18 @@
     "Site_streetaddress": "Corner Bacchus Marsh & Purnell Roads",
     "Site_state": "VIC",
     "Site_postcode": "3214",
-    "confidence": 0.6,
-    "latitude": -38.068084,
-    "longitude": 144.374986,
-    "label": "Corio, VIC, Australia"
+    "confidence": 1,
+    "latitude": -38.0754553,
+    "longitude": 144.3561581
   },
   {
     "Suburb": "Craigieburn",
     "Site_streetaddress": "Unit 2 No.8 Poa Court",
     "Site_state": "VIC",
     "Site_postcode": "3064",
-    "confidence": 0.6,
-    "latitude": -37.590804,
-    "longitude": 144.933042,
-    "label": "Craigieburn, VIC, Australia"
+    "confidence": 1,
+    "latitude": -37.6153204,
+    "longitude": 144.9421226
   },
   {
     "Suburb": "Lara",
@@ -13434,10 +13408,9 @@
     "Site_streetaddress": "24 Faithreetfull St",
     "Site_state": "VIC",
     "Site_postcode": "3677",
-    "confidence": 0.6,
-    "latitude": -36.363389,
-    "longitude": 146.314859,
-    "label": "Wangaratta, VIC, Australia"
+    "confidence": 1,
+    "latitude": -36.3536486,
+    "longitude": 146.3264254
   },
   {
     "Suburb": "Wangaratta",
@@ -13454,10 +13427,9 @@
     "Site_streetaddress": "69 Applin Street",
     "Site_state": "VIC",
     "Site_postcode": "3677",
-    "confidence": 0.6,
-    "latitude": -36.363389,
-    "longitude": 146.314859,
-    "label": "Wangaratta, VIC, Australia"
+    "confidence": 1,
+    "latitude": -36.3536685,
+    "longitude": 146.2896766
   },
   {
     "Suburb": "Hamilton",
@@ -13474,10 +13446,9 @@
     "Site_streetaddress": "Ryley Street",
     "Site_state": "VIC",
     "Site_postcode": "3677",
-    "confidence": 0.6,
-    "latitude": -36.363389,
-    "longitude": 146.314859,
-    "label": "Wangaratta, VIC, Australia"
+    "confidence": 1,
+    "latitude": -36.3536685,
+    "longitude": 146.2896766
   },
   {
     "Suburb": "Hamilton",
@@ -13524,10 +13495,9 @@
     "Site_streetaddress": "45-49 Ovens Street",
     "Site_state": "VIC",
     "Site_postcode": "3677",
-    "confidence": 0.6,
-    "latitude": -36.363389,
-    "longitude": 146.314859,
-    "label": "Wangaratta, VIC, Australia"
+    "confidence": 1,
+    "latitude": -36.3538397,
+    "longitude": 146.3212623
   },
   {
     "Suburb": "Derrimut",
@@ -13544,20 +13514,18 @@
     "Site_streetaddress": "50 Murray Road East",
     "Site_state": "VIC",
     "Site_postcode": "3072",
-    "confidence": 0.6,
-    "latitude": -37.741694,
-    "longitude": 145.007808,
-    "label": "Preston, VIC, Australia"
+    "confidence": 1,
+    "latitude": -37.7378166,
+    "longitude": 145.0070925
   },
   {
     "Suburb": "Tarneit",
     "Site_streetaddress": "Shop 17-18, 742 Tarneit Road",
     "Site_state": "VIC",
     "Site_postcode": "3029",
-    "confidence": 0.8,
-    "latitude": -37.840418,
-    "longitude": 144.703389,
-    "label": "3029, Tarneit, VIC, Australia"
+    "confidence": 1,
+    "latitude": -37.8411623,
+    "longitude": 144.6727134
   },
   {
     "Suburb": "Darley",
@@ -13574,10 +13542,9 @@
     "Site_streetaddress": "101-103 Main Road",
     "Site_state": "VIC",
     "Site_postcode": "3021",
-    "confidence": 0.6,
-    "latitude": -37.743656,
-    "longitude": 144.8071,
-    "label": "St Albans, VIC, Australia"
+    "confidence": 1,
+    "latitude": -37.743962,
+    "longitude": 144.7943943
   },
   {
     "Suburb": "Campbellfield",
@@ -13634,10 +13601,9 @@
     "Site_streetaddress": "30-54 Dimboola Road",
     "Site_state": "VIC",
     "Site_postcode": "3047",
-    "confidence": 0.6,
-    "latitude": -37.684973,
-    "longitude": 144.928208,
-    "label": "Broadmeadows, VIC, Australia"
+    "confidence": 1,
+    "latitude": -37.680221,
+    "longitude": 144.9133663
   },
   {
     "Suburb": "Bundoora",
@@ -13654,10 +13620,9 @@
     "Site_streetaddress": "Corner Ryley Street and Greta Road",
     "Site_state": "VIC",
     "Site_postcode": "3677",
-    "confidence": 0.6,
-    "latitude": -36.363389,
-    "longitude": 146.314859,
-    "label": "Wangaratta, VIC, Australia"
+    "confidence": 1,
+    "latitude": -36.3599547,
+    "longitude": 146.3149309
   },
   {
     "Suburb": "Beveridge",
@@ -13764,10 +13729,9 @@
     "Site_streetaddress": "Corner Thompson & Lonsdale street",
     "Site_state": "VIC",
     "Site_postcode": "3300",
-    "confidence": 0.8,
-    "latitude": -37.889039,
-    "longitude": 145.056914,
-    "label": "Thompson & Thompson, Carnegie, VIC, Australia"
+    "confidence": 1,
+    "latitude": -37.7425534,
+    "longitude": 142.0212487
   },
   {
     "Suburb": "Melbourne",
@@ -13804,10 +13768,9 @@
     "Site_streetaddress": "281 Marathon Boulevard",
     "Site_state": "VIC",
     "Site_postcode": "3064",
-    "confidence": 0.6,
-    "latitude": -37.590804,
-    "longitude": 144.933042,
-    "label": "Craigieburn, VIC, Australia"
+    "confidence": 1,
+    "latitude": -37.5827494,
+    "longitude": 144.8940686
   },
   {
     "Suburb": "Lalor",
@@ -13824,10 +13787,9 @@
     "Site_streetaddress": "Glen Huntly Road",
     "Site_state": "VIC",
     "Site_postcode": "3185",
-    "confidence": 0.6,
-    "latitude": -37.885409,
-    "longitude": 145.00719,
-    "label": "Elsternwick, VIC, Australia"
+    "confidence": 1,
+    "latitude": -37.8843822,
+    "longitude": 144.9959019
   },
   {
     "Suburb": "Bacchus Marsh",
@@ -13874,30 +13836,27 @@
     "Site_streetaddress": "West Street and 10 Geum Street",
     "Site_state": "VIC",
     "Site_postcode": "3046",
-    "confidence": 0.6,
-    "latitude": -37.709373,
-    "longitude": 144.949997,
-    "label": "Hadfield, VIC, Australia"
+    "confidence": 1,
+    "latitude": -37.707133,
+    "longitude": 144.9364363
   },
   {
     "Suburb": "Cranbourne West",
     "Site_streetaddress": "Corner Hall and Evans Road",
     "Site_state": "VIC",
     "Site_postcode": "3977",
-    "confidence": 0.6,
-    "latitude": -38.095746,
-    "longitude": 145.250187,
-    "label": "Cranbourne West, VIC, Australia"
+    "confidence": 1,
+    "latitude": -38.1093362,
+    "longitude": 145.2502333
   },
   {
     "Suburb": "Epping",
     "Site_streetaddress": "Pacific Epping, Corner Cooper and High Street",
     "Site_state": "VIC",
     "Site_postcode": "3076",
-    "confidence": 0.8,
-    "latitude": -37.652151,
-    "longitude": 145.032297,
-    "label": "Epping Station, Dalton Road & Cooper Street, Epping, VIC, Australia"
+    "confidence": 1,
+    "latitude": -37.6535058,
+    "longitude": 145.0161746
   },
   {
     "Suburb": "Brighton East",
@@ -13954,10 +13913,9 @@
     "Site_streetaddress": "55 Paringa Boulevard",
     "Site_state": "VIC",
     "Site_postcode": "3048",
-    "confidence": 0.3,
-    "latitude": -37.014348,
-    "longitude": 143.480452,
-    "label": "Victoria, Australia"
+    "confidence": 1,
+    "latitude": -37.6507564,
+    "longitude": 144.9200265
   },
   {
     "Suburb": "Roxburgh Park",
@@ -13974,10 +13932,9 @@
     "Site_streetaddress": "5/12/20 Reservoir Drive",
     "Site_state": "VIC",
     "Site_postcode": "3064",
-    "confidence": 0.6,
-    "latitude": -37.62614,
-    "longitude": 144.926767,
-    "label": "Roxburgh Park, VIC, Australia"
+    "confidence": 1,
+    "latitude": -37.6437017,
+    "longitude": 144.9289047
   },
   {
     "Suburb": "Fawkner",
@@ -14004,10 +13961,9 @@
     "Site_streetaddress": "56 Bakers Road",
     "Site_state": "VIC",
     "Site_postcode": "3058",
-    "confidence": 0.6,
-    "latitude": -37.744675,
-    "longitude": 144.964201,
-    "label": "Coburg, VIC, Australia"
+    "confidence": 1,
+    "latitude": -37.7265328,
+    "longitude": 144.9563276
   },
   {
     "Suburb": "Sunshine North",
@@ -14024,9 +13980,8 @@
     "Site_streetaddress": "101 Ravenhille Boulevard",
     "Site_state": "VIC",
     "Site_postcode": "3064",
-    "confidence": 0.6,
-    "latitude": -37.62614,
-    "longitude": 144.926767,
-    "label": "Roxburgh Park, VIC, Australia"
+    "confidence": 1,
+    "latitude": -37.6326499,
+    "longitude": 144.9162425
   }
 ]
