@@ -13918,5 +13918,15 @@
     "latitude": -37.250152,
     "longitude": 144.454812,
     "label": "44 High Street, Kyneton, VIC, Australia"
+  },
+  {
+    "Suburb": "North Melbourne",
+    "Site_streetaddress": "21 Bedford Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3051",
+    "confidence": 1,
+    "latitude": -37.802158,
+    "longitude": 144.95573,
+    "label": "21 Bedford Street, North Melbourne, VIC, Australia"
   }
 ]
