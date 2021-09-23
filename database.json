@@ -13848,5 +13848,55 @@
     "latitude": -37.770533,
     "longitude": 144.774018,
     "label": "803-805 Ballarat Road, Deer Park, VIC, Australia"
+  },
+  {
+    "Suburb": "Wallan",
+    "Site_streetaddress": "81-99 High Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3756",
+    "confidence": 1,
+    "latitude": -37.41282,
+    "longitude": 144.978439,
+    "label": "81-99 High Street, Wallan, VIC, Australia"
+  },
+  {
+    "Suburb": "Thomastown",
+    "Site_streetaddress": "319 Settlement Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3074",
+    "confidence": 1,
+    "latitude": -37.689408,
+    "longitude": 145.0249,
+    "label": "319 Settlement Road, Thomastown, VIC, Australia"
+  },
+  {
+    "Suburb": "Hadfield",
+    "Site_streetaddress": "West Street and 10 Geum Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3046",
+    "confidence": 0.6,
+    "latitude": -37.709373,
+    "longitude": 144.949997,
+    "label": "Hadfield, VIC, Australia"
+  },
+  {
+    "Suburb": "Cranbourne West",
+    "Site_streetaddress": "Corner Hall and Evans Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3977",
+    "confidence": 0.6,
+    "latitude": -38.095746,
+    "longitude": 145.250187,
+    "label": "Cranbourne West, VIC, Australia"
+  },
+  {
+    "Suburb": "Epping",
+    "Site_streetaddress": "Pacific Epping, Corner Cooper and High Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3076",
+    "confidence": 0.8,
+    "latitude": -37.652151,
+    "longitude": 145.032297,
+    "label": "Epping Station, Dalton Road & Cooper Street, Epping, VIC, Australia"
   }
 ]
