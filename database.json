@@ -13908,5 +13908,15 @@
     "latitude": -37.919458,
     "longitude": 145.021937,
     "label": "761 Nepean Highway, Brighton East, VIC, Australia"
+  },
+  {
+    "Suburb": "Kyneton",
+    "Site_streetaddress": "44 High Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3444",
+    "confidence": 1,
+    "latitude": -37.250152,
+    "longitude": 144.454812,
+    "label": "44 High Street, Kyneton, VIC, Australia"
   }
 ]
