@@ -14003,7 +14003,11 @@
     "Suburb": "North Coburg",
     "Site_streetaddress": "56 Bakers Road",
     "Site_state": "VIC",
-    "Site_postcode": "3058"
+    "Site_postcode": "3058",
+    "confidence": 0.6,
+    "latitude": -37.744675,
+    "longitude": 144.964201,
+    "label": "Coburg, VIC, Australia"
   },
   {
     "Suburb": "Sunshine North",
