@@ -14009,6 +14009,20 @@
     "Suburb": "Sunshine North",
     "Site_streetaddress": "65-71 Suffolk Road",
     "Site_state": "VIC",
-    "Site_postcode": "3020"
+    "Site_postcode": "3020",
+    "confidence": 1,
+    "latitude": -37.772228,
+    "longitude": 144.836952,
+    "label": "65-71 Suffolk Road, Sunshine North, VIC, Australia"
+  },
+  {
+    "Suburb": "Roxburgh Park",
+    "Site_streetaddress": "101 Ravenhille Boulevard",
+    "Site_state": "VIC",
+    "Site_postcode": "3064",
+    "confidence": 0.6,
+    "latitude": -37.62614,
+    "longitude": 144.926767,
+    "label": "Roxburgh Park, VIC, Australia"
   }
 ]
