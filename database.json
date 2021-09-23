@@ -13988,5 +13988,15 @@
     "latitude": -37.695114,
     "longitude": 144.959366,
     "label": "1346 Sydney Road, Fawkner, VIC, Australia"
+  },
+  {
+    "Suburb": "Lara",
+    "Site_streetaddress": "4/2 Waverley Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3213",
+    "confidence": 1,
+    "latitude": -38.023235,
+    "longitude": 144.409358,
+    "label": "2-4 Waverley Road, Lara, VIC, Australia"
   }
 ]
