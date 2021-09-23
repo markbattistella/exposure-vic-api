@@ -13948,5 +13948,25 @@
     "latitude": -36.748043,
     "longitude": 144.292386,
     "label": "286 Napier Street, Bendigo, VIC, Australia"
+  },
+  {
+    "Suburb": "Meadow Heights",
+    "Site_streetaddress": "55 Paringa Boulevard",
+    "Site_state": "VIC",
+    "Site_postcode": "3048",
+    "confidence": 0.3,
+    "latitude": -37.014348,
+    "longitude": 143.480452,
+    "label": "Victoria, Australia"
+  },
+  {
+    "Suburb": "Roxburgh Park",
+    "Site_streetaddress": "101 Ravenhill Boulevard",
+    "Site_state": "VIC",
+    "Site_postcode": "3064",
+    "confidence": 1,
+    "latitude": -37.632613,
+    "longitude": 144.918626,
+    "label": "101 Ravenhill Boulevard, Roxburgh Park, VIC, Australia"
   }
 ]
