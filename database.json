@@ -13898,5 +13898,15 @@
     "latitude": -37.652151,
     "longitude": 145.032297,
     "label": "Epping Station, Dalton Road & Cooper Street, Epping, VIC, Australia"
+  },
+  {
+    "Suburb": "Brighton East",
+    "Site_streetaddress": "761 Nepean Highway",
+    "Site_state": "VIC",
+    "Site_postcode": "3187",
+    "confidence": 1,
+    "latitude": -37.919458,
+    "longitude": 145.021937,
+    "label": "761 Nepean Highway, Brighton East, VIC, Australia"
   }
 ]
