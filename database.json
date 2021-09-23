@@ -13968,5 +13968,25 @@
     "latitude": -37.632613,
     "longitude": 144.918626,
     "label": "101 Ravenhill Boulevard, Roxburgh Park, VIC, Australia"
+  },
+  {
+    "Suburb": "Roxburgh Park",
+    "Site_streetaddress": "5/12/20 Reservoir Drive",
+    "Site_state": "VIC",
+    "Site_postcode": "3064",
+    "confidence": 0.6,
+    "latitude": -37.62614,
+    "longitude": 144.926767,
+    "label": "Roxburgh Park, VIC, Australia"
+  },
+  {
+    "Suburb": "Fawkner",
+    "Site_streetaddress": "1346 Sydney Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3060",
+    "confidence": 1,
+    "latitude": -37.695114,
+    "longitude": 144.959366,
+    "label": "1346 Sydney Road, Fawkner, VIC, Australia"
   }
 ]
