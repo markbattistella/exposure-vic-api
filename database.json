@@ -14413,7 +14413,11 @@
     "Suburb": "Camperdown",
     "Site_streetaddress": "179 Manifold Street",
     "Site_state": "VIC",
-    "Site_postcode": "3260"
+    "Site_postcode": "3260",
+    "confidence": 1,
+    "latitude": -38.23262,
+    "longitude": 143.146453,
+    "label": "179 Manifold Street, Camperdown, VIC, Australia"
   },
   {
     "Suburb": "Camperdown",
@@ -14614,5 +14618,75 @@
     "latitude": -38.383229,
     "longitude": 142.483219,
     "label": "136 Koroit Street, Warrnambool, VIC, Australia"
+  },
+  {
+    "Suburb": "Warrnambool",
+    "Site_streetaddress": "130 Lava Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3280",
+    "confidence": 1,
+    "latitude": -38.381124,
+    "longitude": 142.483933,
+    "label": "130 Lava Street, Warrnambool, VIC, Australia"
+  },
+  {
+    "Suburb": "Warrnambool",
+    "Site_streetaddress": "125 Leibig Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3280",
+    "confidence": 0.6,
+    "latitude": -38.3777,
+    "longitude": 142.480446,
+    "label": "Warrnambool, VIC, Australia"
+  },
+  {
+    "Suburb": "Camperdown",
+    "Site_streetaddress": "217 Manifold Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3260",
+    "confidence": 1,
+    "latitude": -38.231755,
+    "longitude": 143.145051,
+    "label": "217 Manifold Street, Camperdown, VIC, Australia"
+  },
+  {
+    "Suburb": "Werribee",
+    "Site_streetaddress": "169A Watton Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3030",
+    "confidence": 1,
+    "latitude": -37.903169,
+    "longitude": 144.65846,
+    "label": "169 Watton Street, Werribee, VIC, Australia"
+  },
+  {
+    "Suburb": "Shepparton",
+    "Site_streetaddress": "Corner of Vaughan and Maude Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3630",
+    "confidence": 0.8,
+    "latitude": -36.383865,
+    "longitude": 145.405928,
+    "label": "Shepparton Station, Vaughan & Purcell Streets, Shepparton, VIC, Australia"
+  },
+  {
+    "Suburb": "Shepparton",
+    "Site_streetaddress": "127 Numurkah Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3630",
+    "confidence": 1,
+    "latitude": -36.357039,
+    "longitude": 145.402491,
+    "label": "127 Numurkah Road, Shepparton, VIC, Australia"
+  },
+  {
+    "Suburb": "Bell Park",
+    "Site_streetaddress": "135 Separation Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3215",
+    "confidence": 1,
+    "latitude": -38.110673,
+    "longitude": 144.340353,
+    "label": "135 Separation Street, Bell Park, VIC, Australia"
   }
 ]
