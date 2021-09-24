@@ -14083,5 +14083,25 @@
     "latitude": -37.772573,
     "longitude": 144.949313,
     "label": "Stop 30: Union Square Shopping Centre, Brunswick West, VIC, Australia"
+  },
+  {
+    "Suburb": "Corio",
+    "Site_streetaddress": "Corner Bacchua Marsh & Purnell Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3214",
+    "confidence": 0.8,
+    "latitude": -37.718569,
+    "longitude": 144.891953,
+    "label": "Marshall Road & Matthews Avenue, Airport West, VIC, Australia"
+  },
+  {
+    "Suburb": "Bell Park",
+    "Site_streetaddress": "135 Separation Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3125",
+    "confidence": 1,
+    "latitude": -38.110673,
+    "longitude": 144.340353,
+    "label": "135 Separation Street, Bell Park, VIC, Australia"
   }
 ]
