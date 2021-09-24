@@ -14328,5 +14328,75 @@
     "latitude": -38.240379,
     "longitude": 142.919477,
     "label": "30-38 High Street, Terang, VIC, Australia"
+  },
+  {
+    "Suburb": "Warrnambool",
+    "Site_streetaddress": "Unit 1/49 Kepler Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3280",
+    "confidence": 1,
+    "latitude": -38.384649,
+    "longitude": 142.479612,
+    "label": "1/49 Kepler Street, Warrnambool, VIC, Australia"
+  },
+  {
+    "Suburb": "Warrnambool",
+    "Site_streetaddress": "54 Kepler Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3280",
+    "confidence": 1,
+    "latitude": -38.383159,
+    "longitude": 142.481312,
+    "label": "54 Kepler Street, Warrnambool, VIC, Australia"
+  },
+  {
+    "Suburb": "Warrnambool",
+    "Site_streetaddress": "98 Liebig Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3280",
+    "confidence": 1,
+    "latitude": -38.384125,
+    "longitude": 142.483647,
+    "label": "98 Liebig Street, Warrnambool, VIC, Australia"
+  },
+  {
+    "Suburb": "Camperdown",
+    "Site_streetaddress": "162 Manifold Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3260",
+    "confidence": 1,
+    "latitude": -38.232665,
+    "longitude": 143.147845,
+    "label": "162 Manifold Street, Camperdown, VIC, Australia"
+  },
+  {
+    "Suburb": "Camperdown",
+    "Site_streetaddress": "223 Manifold Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3260",
+    "confidence": 1,
+    "latitude": -38.231643,
+    "longitude": 143.144882,
+    "label": "223 Manifold Street, Camperdown, VIC, Australia"
+  },
+  {
+    "Suburb": "Warrnambool",
+    "Site_streetaddress": "127 Kepler Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3280",
+    "confidence": 1,
+    "latitude": -38.381917,
+    "longitude": 142.4816,
+    "label": "127 Kepler Street, Warrnambool, VIC, Australia"
+  },
+  {
+    "Suburb": "Warnambool",
+    "Site_streetaddress": "Merri Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3280",
+    "confidence": 0.3,
+    "latitude": -37.014348,
+    "longitude": 143.480452,
+    "label": "Victoria, Australia"
   }
 ]
