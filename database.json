@@ -14098,5 +14098,15 @@
     "latitude": -38.110673,
     "longitude": 144.340353,
     "label": "135 Separation Street, Bell Park, VIC, Australia"
+  },
+  {
+    "Suburb": "Berwick",
+    "Site_streetaddress": "50 Kangan Drive",
+    "Site_state": "VIC",
+    "Site_postcode": "3806",
+    "confidence": 1,
+    "latitude": -38.046918,
+    "longitude": 145.351381,
+    "label": "50/72 Kangan Drive, Berwick, VIC, Australia"
   }
 ]
