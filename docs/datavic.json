@@ -18,8 +18,8 @@
     "Exposure_time_start_24": "19:00:00",
     "Exposure_time_end_24": "19:55:00",
     "dhid": "C2B4",
-    "latitude": -37.718569,
-    "longitude": 144.891953
+    "latitude": -38.0754553,
+    "longitude": 144.3561581
   },
   {
     "_id": 2,
@@ -106,8 +106,8 @@
     "Exposure_time_start_24": "13:35:00",
     "Exposure_time_end_24": "14:25:00",
     "dhid": "B9G8",
-    "latitude": -38.138976,
-    "longitude": 144.34493
+    "latitude": -38.1459517,
+    "longitude": 144.3391891
   },
   {
     "_id": 6,
@@ -194,8 +194,8 @@
     "Exposure_time_start_24": "11:15:00",
     "Exposure_time_end_24": "12:00:00",
     "dhid": "E6J2",
-    "latitude": -38.107327,
-    "longitude": 144.338233
+    "latitude": -38.0969806,
+    "longitude": 144.3325542
   },
   {
     "_id": 10,
@@ -216,8 +216,8 @@
     "Exposure_time_start_24": "13:15:00",
     "Exposure_time_end_24": "13:55:00",
     "dhid": "D8U5",
-    "latitude": -38.107327,
-    "longitude": 144.338233
+    "latitude": -38.0966513,
+    "longitude": 144.3326163
   },
   {
     "_id": 11,
@@ -260,8 +260,8 @@
     "Exposure_time_start_24": "11:35:00",
     "Exposure_time_end_24": "12:35:00",
     "dhid": "B9B9",
-    "latitude": -38.138976,
-    "longitude": 144.34493
+    "latitude": -38.1459517,
+    "longitude": 144.3391891
   },
   {
     "_id": 13,
@@ -326,8 +326,8 @@
     "Exposure_time_start_24": "13:10:00",
     "Exposure_time_end_24": "14:10:00",
     "dhid": "A2N9",
-    "latitude": -38.107327,
-    "longitude": 144.338233
+    "latitude": -38.0966513,
+    "longitude": 144.3326163
   },
   {
     "_id": 16,
@@ -392,8 +392,8 @@
     "Exposure_time_start_24": "12:55:00",
     "Exposure_time_end_24": "13:40:00",
     "dhid": "B5N5",
-    "latitude": -37.014348,
-    "longitude": 143.480452
+    "latitude": -38.0228155,
+    "longitude": 144.4059685
   },
   {
     "_id": 19,
@@ -546,8 +546,8 @@
     "Exposure_time_start_24": "19:20:00",
     "Exposure_time_end_24": "20:20:00",
     "dhid": "A7V3",
-    "latitude": -37.014348,
-    "longitude": 143.480452
+    "latitude": -38.0228155,
+    "longitude": 144.4059685
   },
   {
     "_id": 25,
