@@ -1058,8 +1058,8 @@
   {
     "_id": 49,
     "Suburb": "Bendigo",
-    "Site_title": "Advantage Pharmacy",
-    "Site_streetaddress": "310 Hargreaves Street",
+    "Site_title": "Chemist Discount Centre Bendigo",
+    "Site_streetaddress": "7 Queen Street",
     "Site_state": "VIC",
     "Site_postcode": "3550",
     "Exposure_date_dtm": "2021-09-21",
@@ -1074,8 +1074,8 @@
     "Exposure_time_start_24": "09:15:00",
     "Exposure_time_end_24": "09:50:00",
     "dhid": "D5H4",
-    "latitude": -36.759928,
-    "longitude": 144.279951
+    "latitude": -36.760716,
+    "longitude": 144.281533
   },
   {
     "_id": 50,

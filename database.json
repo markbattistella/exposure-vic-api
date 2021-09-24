@@ -14708,5 +14708,15 @@
     "latitude": -36.113064,
     "longitude": 146.891839,
     "label": "11-13 High Street, Wodonga, VIC, Australia"
+  },
+  {
+    "Suburb": "Bendigo",
+    "Site_streetaddress": "7 Queen Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3550",
+    "confidence": 1,
+    "latitude": -36.760716,
+    "longitude": 144.281533,
+    "label": "7 Queen Street, Bendigo, VIC, Australia"
   }
 ]
