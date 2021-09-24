@@ -14258,5 +14258,71 @@
     "latitude": -38.096965,
     "longitude": 144.334395,
     "label": "222 Anakie Road, Bell Park, VIC, Australia"
+  },
+  {
+    "Suburb": "Geelong",
+    "Site_streetaddress": "265 Ryrie Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3220",
+    "confidence": 1,
+    "latitude": -38.150232,
+    "longitude": 144.364508,
+    "label": "265A Ryrie Street, Geelong, VIC, Australia"
+  },
+  {
+    "Suburb": "Berwick",
+    "Site_streetaddress": "13 Clyde Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3806",
+    "confidence": 1,
+    "latitude": -38.032678,
+    "longitude": 145.343681,
+    "label": "13 Clyde Road, Berwick, VIC, Australia"
+  },
+  {
+    "Suburb": "Point Cook",
+    "Site_streetaddress": "RAAF Base Point Cook, Building 450",
+    "Site_state": "VIC",
+    "Site_postcode": "3030",
+    "confidence": 0.8,
+    "latitude": -37.93113,
+    "longitude": 144.75389,
+    "label": "RAAF Williams Point Cook Base, Point Cook, VIC, Australia"
+  },
+  {
+    "Suburb": "Bundoora",
+    "Site_streetaddress": "5 Janefield Drive",
+    "Site_state": "VIC",
+    "Site_postcode": "3083",
+    "confidence": 1,
+    "latitude": -37.682508,
+    "longitude": 145.071018,
+    "label": "5/5 Janefield Drive, Bundoora, VIC, Australia"
+  },
+  {
+    "Suburb": "Shepparton",
+    "Site_streetaddress": "278 Wyndham Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3630",
+    "confidence": 1,
+    "latitude": -36.379248,
+    "longitude": 145.399396,
+    "label": "278B Wyndham Street, Shepparton, VIC, Australia"
+  },
+  {
+    "Suburb": "Melton",
+    "Site_streetaddress": "4/66-84 High Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3337",
+    "confidence": 0.6,
+    "latitude": -37.684986,
+    "longitude": 144.588885,
+    "label": "Melton, VIC, Australia"
+  },
+  {
+    "Suburb": "Terang",
+    "Site_streetaddress": "30/38 High Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3264"
   }
 ]
