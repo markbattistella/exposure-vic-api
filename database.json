@@ -14009,30 +14009,27 @@
     "Site_streetaddress": "Shop 5 & 6, 222 Anakie Road",
     "Site_state": "VIC",
     "Site_postcode": "3125",
-    "confidence": 0.6,
-    "latitude": -38.107327,
-    "longitude": 144.338233,
-    "label": "Bell Park, VIC, Australia"
+    "confidence": 1,
+    "latitude": -38.0969806,
+    "longitude": 144.3325542
   },
   {
     "Suburb": "Bell Park",
     "Site_streetaddress": "9/222 Anakie Road",
     "Site_state": "VIC",
     "Site_postcode": "3125",
-    "confidence": 0.6,
-    "latitude": -38.107327,
-    "longitude": 144.338233,
-    "label": "Bell Park, VIC, Australia"
+    "confidence": 1,
+    "latitude": -38.0966513,
+    "longitude": 144.3326163
   },
   {
     "Suburb": "Geelong West",
     "Site_streetaddress": "132 Arberdeen Street",
     "Site_state": "VIC",
     "Site_postcode": "3218",
-    "confidence": 0.6,
-    "latitude": -38.138976,
-    "longitude": 144.34493,
-    "label": "Geelong West, VIC, Australia"
+    "confidence": 1,
+    "latitude": -38.1459517,
+    "longitude": 144.3391891
   },
   {
     "Suburb": "Corio",
@@ -14069,10 +14066,9 @@
     "Site_streetaddress": "50 The Centre Way Lara",
     "Site_state": "VIC",
     "Site_postcode": "3212",
-    "confidence": 0.3,
-    "latitude": -37.014348,
-    "longitude": 143.480452,
-    "label": "Victoria, Australia"
+    "confidence": 1,
+    "latitude": -38.0228155,
+    "longitude": 144.4059685
   },
   {
     "Suburb": "Brunswick West",
@@ -14089,10 +14085,9 @@
     "Site_streetaddress": "Corner Bacchua Marsh & Purnell Road",
     "Site_state": "VIC",
     "Site_postcode": "3214",
-    "confidence": 0.8,
-    "latitude": -37.718569,
-    "longitude": 144.891953,
-    "label": "Marshall Road & Matthews Avenue, Airport West, VIC, Australia"
+    "confidence": 1,
+    "latitude": -38.0754553,
+    "longitude": 144.3561581
   },
   {
     "Suburb": "Bell Park",
