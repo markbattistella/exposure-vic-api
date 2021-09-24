@@ -14408,5 +14408,211 @@
     "latitude": -38.11059,
     "longitude": 144.340211,
     "label": "139 Separation Street, Bell Park, VIC, Australia"
+  },
+  {
+    "Suburb": "Camperdown",
+    "Site_streetaddress": "179 Manifold Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3260"
+  },
+  {
+    "Suburb": "Camperdown",
+    "Site_streetaddress": "139 Manifold Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3260",
+    "confidence": 1,
+    "latitude": -38.233617,
+    "longitude": 143.148063,
+    "label": "139 Manifold Street, Camperdown, VIC, Australia"
+  },
+  {
+    "Suburb": "Camperdown",
+    "Site_streetaddress": "111 Manifold Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3260",
+    "confidence": 1,
+    "latitude": -38.234418,
+    "longitude": 143.149355,
+    "label": "111 Manifold Street, Camperdown, VIC, Australia"
+  },
+  {
+    "Suburb": "Camperdown",
+    "Site_streetaddress": "211 Manifold Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3260",
+    "confidence": 1,
+    "latitude": -38.231865,
+    "longitude": 143.145229,
+    "label": "211 Manifold Street, Camperdown, VIC, Australia"
+  },
+  {
+    "Suburb": "Camperdown",
+    "Site_streetaddress": "243 Manifold Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3260",
+    "confidence": 1,
+    "latitude": -38.231196,
+    "longitude": 143.144139,
+    "label": "243 Manifold Street, Camperdown, VIC, Australia"
+  },
+  {
+    "Suburb": "Warrnambool",
+    "Site_streetaddress": "77 Hider Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3280",
+    "confidence": 1,
+    "latitude": -38.374274,
+    "longitude": 142.476912,
+    "label": "77 Hider Street, Warrnambool, VIC, Australia"
+  },
+  {
+    "Suburb": "Warrnambool",
+    "Site_streetaddress": "Ozone car park, Timor Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3280",
+    "confidence": 0.8,
+    "latitude": -38.366756,
+    "longitude": 142.488194,
+    "label": "3280, Warrnambool, VIC, Australia"
+  },
+  {
+    "Suburb": "Camperdown",
+    "Site_streetaddress": "178 Manifold Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3260",
+    "confidence": 1,
+    "latitude": -38.232172,
+    "longitude": 143.147144,
+    "label": "178 Manifold Street, Camperdown, VIC, Australia"
+  },
+  {
+    "Suburb": "Warrnambool",
+    "Site_streetaddress": "5/125-139 Leibig Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3280",
+    "confidence": 0.6,
+    "latitude": -38.3777,
+    "longitude": 142.480446,
+    "label": "Warrnambool, VIC, Australia"
+  },
+  {
+    "Suburb": "Warrnambool",
+    "Site_streetaddress": "16A, 125-139 & 141-143 Liebig St",
+    "Site_state": "VIC",
+    "Site_postcode": "3280",
+    "confidence": 0.6,
+    "latitude": -38.3777,
+    "longitude": 142.480446,
+    "label": "Warrnambool, VIC, Australia"
+  },
+  {
+    "Suburb": "Warrnambool",
+    "Site_streetaddress": "70 Leibig Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3280",
+    "confidence": 0.6,
+    "latitude": -38.3777,
+    "longitude": 142.480446,
+    "label": "Warrnambool, VIC, Australia"
+  },
+  {
+    "Suburb": "Warrnambool",
+    "Site_streetaddress": "56 Leibig Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3280",
+    "confidence": 0.6,
+    "latitude": -38.3777,
+    "longitude": 142.480446,
+    "label": "Warrnambool, VIC, Australia"
+  },
+  {
+    "Suburb": "Camperdown",
+    "Site_streetaddress": "184 Manifold Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3260",
+    "confidence": 1,
+    "latitude": -38.232112,
+    "longitude": 143.147046,
+    "label": "184 Manifold Street, Camperdown, VIC, Australia"
+  },
+  {
+    "Suburb": "Camperdown",
+    "Site_streetaddress": "12 Church Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3260",
+    "confidence": 1,
+    "latitude": -38.231626,
+    "longitude": 143.147024,
+    "label": "12 Church Street, Camperdown, VIC, Australia"
+  },
+  {
+    "Suburb": "Camperdown",
+    "Site_streetaddress": "114 Manifold Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3260",
+    "confidence": 1,
+    "latitude": -38.233483,
+    "longitude": 143.149256,
+    "label": "114 Manifold Street, Camperdown, VIC, Australia"
+  },
+  {
+    "Suburb": "Camperdown",
+    "Site_streetaddress": "156 Manifold Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3260",
+    "confidence": 1,
+    "latitude": -38.232682,
+    "longitude": 143.147978,
+    "label": "156 Manifold Street, Camperdown, VIC, Australia"
+  },
+  {
+    "Suburb": "Warrnambool",
+    "Site_streetaddress": "132 Liebig Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3280",
+    "confidence": 1,
+    "latitude": -38.382904,
+    "longitude": 142.484537,
+    "label": "132 Liebig Street, Warrnambool, VIC, Australia"
+  },
+  {
+    "Suburb": "Warrnambool",
+    "Site_streetaddress": "178-180 Fairy Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3280",
+    "confidence": 1,
+    "latitude": -38.37895,
+    "longitude": 142.481307,
+    "label": "178-180 Fairy Street, Warrnambool, VIC, Australia"
+  },
+  {
+    "Suburb": "Warrnambool",
+    "Site_streetaddress": "99-101 Leibig Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3280",
+    "confidence": 0.6,
+    "latitude": -38.3777,
+    "longitude": 142.480446,
+    "label": "Warrnambool, VIC, Australia"
+  },
+  {
+    "Suburb": "Warrnambool",
+    "Site_streetaddress": "Merri Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3280",
+    "confidence": 0.6,
+    "latitude": -38.3777,
+    "longitude": 142.480446,
+    "label": "Warrnambool, VIC, Australia"
+  },
+  {
+    "Suburb": "Warrnambool",
+    "Site_streetaddress": "136 Koroit Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3280",
+    "confidence": 1,
+    "latitude": -38.383229,
+    "longitude": 142.483219,
+    "label": "136 Koroit Street, Warrnambool, VIC, Australia"
   }
 ]
