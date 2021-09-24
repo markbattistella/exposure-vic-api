@@ -13983,5 +13983,105 @@
     "confidence": 1,
     "latitude": -37.6326499,
     "longitude": 144.9162425
+  },
+  {
+    "Suburb": "Doncaster",
+    "Site_streetaddress": "619 Doncaster Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3108",
+    "confidence": 1,
+    "latitude": -37.78342,
+    "longitude": 145.127761,
+    "label": "619 Doncaster Road, Doncaster, VIC, Australia"
+  },
+  {
+    "Suburb": "Norlane",
+    "Site_streetaddress": "290-306 Anakie Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3124",
+    "confidence": 1,
+    "latitude": -38.089601,
+    "longitude": 144.335814,
+    "label": "290-306 Anakie Road, Norlane, VIC, Australia"
+  },
+  {
+    "Suburb": "Bell Park",
+    "Site_streetaddress": "Shop 5 & 6, 222 Anakie Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3125",
+    "confidence": 0.6,
+    "latitude": -38.107327,
+    "longitude": 144.338233,
+    "label": "Bell Park, VIC, Australia"
+  },
+  {
+    "Suburb": "Bell Park",
+    "Site_streetaddress": "9/222 Anakie Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3125",
+    "confidence": 0.6,
+    "latitude": -38.107327,
+    "longitude": 144.338233,
+    "label": "Bell Park, VIC, Australia"
+  },
+  {
+    "Suburb": "Geelong West",
+    "Site_streetaddress": "132 Arberdeen Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3218",
+    "confidence": 0.6,
+    "latitude": -38.138976,
+    "longitude": 144.34493,
+    "label": "Geelong West, VIC, Australia"
+  },
+  {
+    "Suburb": "Corio",
+    "Site_streetaddress": "83C Purnell Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3214",
+    "confidence": 1,
+    "latitude": -38.073944,
+    "longitude": 144.355496,
+    "label": "83A Purnell Road, Corio, VIC, Australia"
+  },
+  {
+    "Suburb": "Corio",
+    "Site_streetaddress": "13 Detroit Crescent",
+    "Site_state": "VIC",
+    "Site_postcode": "3214",
+    "confidence": 1,
+    "latitude": -38.077845,
+    "longitude": 144.361882,
+    "label": "13 Detroit Crescent, Corio, VIC, Australia"
+  },
+  {
+    "Suburb": "Bell Park",
+    "Site_streetaddress": "139 Separation Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3125",
+    "confidence": 1,
+    "latitude": -38.11059,
+    "longitude": 144.340211,
+    "label": "139 Separation Street, Bell Park, VIC, Australia"
+  },
+  {
+    "Suburb": "Lara",
+    "Site_streetaddress": "50 The Centre Way Lara",
+    "Site_state": "VIC",
+    "Site_postcode": "3212",
+    "confidence": 0.3,
+    "latitude": -37.014348,
+    "longitude": 143.480452,
+    "label": "Victoria, Australia"
+  },
+  {
+    "Suburb": "Brunswick West",
+    "Site_streetaddress": "Union Square Shopping Centre, Shop 11, 190 Union Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3055",
+    "confidence": 1,
+    "latitude": -37.772573,
+    "longitude": 144.949313,
+    "label": "Stop 30: Union Square Shopping Centre, Brunswick West, VIC, Australia"
   }
 ]
