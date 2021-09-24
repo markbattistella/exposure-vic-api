@@ -14718,5 +14718,25 @@
     "latitude": -36.760716,
     "longitude": 144.281533,
     "label": "7 Queen Street, Bendigo, VIC, Australia"
+  },
+  {
+    "Suburb": "Wodonga",
+    "Site_streetaddress": "1-13 South Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3690",
+    "confidence": 1,
+    "latitude": -36.119728,
+    "longitude": 146.888801,
+    "label": "1-13 South Street, Wodonga, VIC, Australia"
+  },
+  {
+    "Suburb": "Wodonga",
+    "Site_streetaddress": "71 Elgin Boulevard",
+    "Site_state": "VIC",
+    "Site_postcode": "3690",
+    "confidence": 1,
+    "latitude": -36.120573,
+    "longitude": 146.883315,
+    "label": "55-71 Elgin Boulevard, Wodonga, VIC, Australia"
   }
 ]
