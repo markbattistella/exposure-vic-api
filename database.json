@@ -14118,5 +14118,145 @@
     "latitude": -36.127609,
     "longitude": 146.89372,
     "label": "Wodonga, VIC, Australia"
+  },
+  {
+    "Suburb": "Bendigo",
+    "Site_streetaddress": "Unit 3/295 Lyttleton Terrace",
+    "Site_state": "VIC",
+    "Site_postcode": "3550",
+    "confidence": 1,
+    "latitude": -36.761197,
+    "longitude": 144.282072,
+    "label": "295 Lyttleton Terrace, Bendigo, VIC, Australia"
+  },
+  {
+    "Suburb": "Bendigo",
+    "Site_streetaddress": "310 Hargreaves Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3550",
+    "confidence": 1,
+    "latitude": -36.759928,
+    "longitude": 144.279951,
+    "label": "310 Hargreaves Street, Bendigo, VIC, Australia"
+  },
+  {
+    "Suburb": "Bendigo",
+    "Site_streetaddress": "107 Williamson Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3550",
+    "confidence": 1,
+    "latitude": -36.762596,
+    "longitude": 144.285445,
+    "label": "105-107 Williamson Street, Bendigo, VIC, Australia"
+  },
+  {
+    "Suburb": "Wodonga",
+    "Site_streetaddress": "3690/46 Wilson Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3690",
+    "confidence": 1,
+    "latitude": -36.130324,
+    "longitude": 146.880571,
+    "label": "46 Wilson Street, Wodonga, VIC, Australia"
+  },
+  {
+    "Suburb": "Bendigo",
+    "Site_streetaddress": "21-35 Garsed Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3550",
+    "confidence": 1,
+    "latitude": -36.764063,
+    "longitude": 144.281117,
+    "label": "21-35 Garsed Street, Bendigo, VIC, Australia"
+  },
+  {
+    "Suburb": "Kilmore",
+    "Site_streetaddress": "97 Sydney Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3764",
+    "confidence": 1,
+    "latitude": -37.28811,
+    "longitude": 144.949223,
+    "label": "97 Sydney Street, Kilmore, VIC, Australia"
+  },
+  {
+    "Suburb": "Kilmore",
+    "Site_streetaddress": "109 Northern Highway",
+    "Site_state": "VIC",
+    "Site_postcode": "3764",
+    "confidence": 1,
+    "latitude": -37.286197,
+    "longitude": 144.948837,
+    "label": "109 Northern Highway, Kilmore, VIC, Australia"
+  },
+  {
+    "Suburb": "Breakwater",
+    "Site_streetaddress": "18-20 Leather Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3219",
+    "confidence": 1,
+    "latitude": -38.185994,
+    "longitude": 144.368542,
+    "label": "18-20 Leather Street, Breakwater, VIC, Australia"
+  },
+  {
+    "Suburb": "Leopold",
+    "Site_streetaddress": "621 Bellarine Highway",
+    "Site_state": "VIC",
+    "Site_postcode": "3224",
+    "confidence": 1,
+    "latitude": -38.186267,
+    "longitude": 144.453464,
+    "label": "621-659 Bellarine Highway, Leopold, VIC, Australia"
+  },
+  {
+    "Suburb": "Newcomb",
+    "Site_streetaddress": "142 Bellarine Highway",
+    "Site_state": "VIC",
+    "Site_postcode": "3219",
+    "confidence": 1,
+    "latitude": -38.173412,
+    "longitude": 144.400996,
+    "label": "142 Bellarine Highway, Newcomb, VIC, Australia"
+  },
+  {
+    "Suburb": "Coburg North",
+    "Site_streetaddress": "700 Sydney Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3058",
+    "confidence": 1,
+    "latitude": -37.733773,
+    "longitude": 144.965488,
+    "label": "700 Sydney Road, Coburg North, VIC, Australia"
+  },
+  {
+    "Suburb": "Norlane",
+    "Site_streetaddress": "290-306 Anakie Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3214",
+    "confidence": 1,
+    "latitude": -38.089601,
+    "longitude": 144.335814,
+    "label": "290-306 Anakie Road, Norlane, VIC, Australia"
+  },
+  {
+    "Suburb": "Bell Park",
+    "Site_streetaddress": "Shop 5 & 6, 222 Anakie Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3215",
+    "confidence": 1,
+    "latitude": -38.096965,
+    "longitude": 144.334395,
+    "label": "222 Anakie Road, Bell Park, VIC, Australia"
+  },
+  {
+    "Suburb": "Bell Park",
+    "Site_streetaddress": "9/222 Anakie Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3215",
+    "confidence": 1,
+    "latitude": -38.096965,
+    "longitude": 144.334395,
+    "label": "222 Anakie Road, Bell Park, VIC, Australia"
   }
 ]
