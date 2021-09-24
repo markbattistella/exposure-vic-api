@@ -14108,5 +14108,15 @@
     "latitude": -38.046918,
     "longitude": 145.351381,
     "label": "50/72 Kangan Drive, Berwick, VIC, Australia"
+  },
+  {
+    "Suburb": "Wodonga",
+    "Site_streetaddress": "Corner Victoria Cross Parade & Kelliher Avenue",
+    "Site_state": "VIC",
+    "Site_postcode": "3690",
+    "confidence": 0.6,
+    "latitude": -36.127609,
+    "longitude": 146.89372,
+    "label": "Wodonga, VIC, Australia"
   }
 ]
