@@ -171,7 +171,9 @@
     "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
     "Exposure_time_start_24": "18:30:00",
     "Exposure_time_end_24": "19:15:00",
-    "dhid": "B5N9"
+    "dhid": "B5N9",
+    "latitude": -38.240379,
+    "longitude": 142.919477
   },
   {
     "_id": 8,

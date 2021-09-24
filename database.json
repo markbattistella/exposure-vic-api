@@ -14323,6 +14323,10 @@
     "Suburb": "Terang",
     "Site_streetaddress": "30/38 High Street",
     "Site_state": "VIC",
-    "Site_postcode": "3264"
+    "Site_postcode": "3264",
+    "confidence": 1,
+    "latitude": -38.240379,
+    "longitude": 142.919477,
+    "label": "30-38 High Street, Terang, VIC, Australia"
   }
 ]
