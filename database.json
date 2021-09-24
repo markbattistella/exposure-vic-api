@@ -14698,5 +14698,15 @@
     "latitude": -37.759154,
     "longitude": 144.963278,
     "label": "753-755 Sydney Road, Brunswick, VIC, Australia"
+  },
+  {
+    "Suburb": "Wodonga",
+    "Site_streetaddress": "13 High Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3690",
+    "confidence": 1,
+    "latitude": -36.113064,
+    "longitude": 146.891839,
+    "label": "11-13 High Street, Wodonga, VIC, Australia"
   }
 ]
