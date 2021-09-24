@@ -14688,5 +14688,15 @@
     "latitude": -38.110673,
     "longitude": 144.340353,
     "label": "135 Separation Street, Bell Park, VIC, Australia"
+  },
+  {
+    "Suburb": "Brunswick",
+    "Site_streetaddress": "755 Sydney Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3056",
+    "confidence": 1,
+    "latitude": -37.759154,
+    "longitude": 144.963278,
+    "label": "753-755 Sydney Road, Brunswick, VIC, Australia"
   }
 ]
