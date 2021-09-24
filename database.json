@@ -14738,5 +14738,15 @@
     "latitude": -36.120573,
     "longitude": 146.883315,
     "label": "55-71 Elgin Boulevard, Wodonga, VIC, Australia"
+  },
+  {
+    "Suburb": "Hampton Park",
+    "Site_streetaddress": "107-113 Hallam Road ",
+    "Site_state": "VIC",
+    "Site_postcode": "3976",
+    "confidence": 1,
+    "latitude": -38.037796,
+    "longitude": 145.266535,
+    "label": "107-113 Hallam Road, Hampton Park, VIC, Australia"
   }
 ]
