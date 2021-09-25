@@ -15065,5 +15065,55 @@
     "latitude": -36.615576,
     "longitude": 144.511436,
     "label": "Goornong, VIC, Australia"
+  },
+  {
+    "Suburb": "White Hills",
+    "Site_streetaddress": "582-586 Napier Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3550",
+    "confidence": 1,
+    "latitude": -36.722214,
+    "longitude": 144.312335,
+    "label": "582-586 Napier Street, White Hills, VIC, Australia"
+  },
+  {
+    "Suburb": "Epsom",
+    "Site_streetaddress": "Midland Highway",
+    "Site_state": "VIC",
+    "Site_postcode": "3551",
+    "confidence": 0.6,
+    "latitude": -36.694378,
+    "longitude": 144.31761,
+    "label": "Epsom, VIC, Australia"
+  },
+  {
+    "Suburb": "White Hills",
+    "Site_streetaddress": "539 Napier Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3550",
+    "confidence": 1,
+    "latitude": -36.725816,
+    "longitude": 144.308935,
+    "label": "539 Napier Street, White Hills, VIC, Australia"
+  },
+  {
+    "Suburb": "Bendigo",
+    "Site_streetaddress": "204 McCrae Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3550",
+    "confidence": 1,
+    "latitude": -36.753737,
+    "longitude": 144.287076,
+    "label": "204 Mccrae Street, Bendigo, VIC, Australia"
+  },
+  {
+    "Suburb": "Melbourne",
+    "Site_streetaddress": "80-92 Victoria Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3000",
+    "confidence": 0.6,
+    "latitude": -37.825071,
+    "longitude": 144.978682,
+    "label": "Melbourne, VIC, Australia"
   }
 ]
