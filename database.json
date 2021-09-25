@@ -14798,5 +14798,25 @@
     "latitude": -37.831419,
     "longitude": 144.966831,
     "label": "75 Dorcas Street, South Melbourne, VIC, Australia"
+  },
+  {
+    "Suburb": "Bundoora",
+    "Site_streetaddress": "5 Janefield Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3083",
+    "confidence": 0.6,
+    "latitude": -37.695471,
+    "longitude": 145.063341,
+    "label": "Bundoora, VIC, Australia"
+  },
+  {
+    "Suburb": "Greenvale",
+    "Site_streetaddress": "Corner Mickleham Road and Greenvale Drive",
+    "Site_state": "VIC",
+    "Site_postcode": "3059",
+    "confidence": 0.6,
+    "latitude": -37.646114,
+    "longitude": 144.872819,
+    "label": "Greenvale, VIC, Australia"
   }
 ]
