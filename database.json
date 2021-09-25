@@ -14975,5 +14975,25 @@
     "latitude": -37.542884,
     "longitude": 143.850603,
     "label": "620A Creswick Road, Soldiers Hill, VIC, Australia"
+  },
+  {
+    "Suburb": "Corio",
+    "Site_streetaddress": "83 Purnell Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3214",
+    "confidence": 1,
+    "latitude": -38.073944,
+    "longitude": 144.355496,
+    "label": "83A Purnell Road, Corio, VIC, Australia"
+  },
+  {
+    "Suburb": "Grovedale",
+    "Site_streetaddress": "3/174-178 Torquay Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3216",
+    "confidence": 1,
+    "latitude": -38.196649,
+    "longitude": 144.342408,
+    "label": "174-178 Torquay Road, Grovedale, VIC, Australia"
   }
 ]
