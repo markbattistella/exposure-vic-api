@@ -15115,5 +15115,35 @@
     "latitude": -37.825071,
     "longitude": 144.978682,
     "label": "Melbourne, VIC, Australia"
+  },
+  {
+    "Suburb": "Wendouree",
+    "Site_streetaddress": "300B Gillies Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3355",
+    "confidence": 1,
+    "latitude": -37.537077,
+    "longitude": 143.822871,
+    "label": "300B Gillies Street North, Wendouree, VIC, Australia"
+  },
+  {
+    "Suburb": "Mickleham",
+    "Site_streetaddress": "250-270 Donnybrook Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3064",
+    "confidence": 1,
+    "latitude": -37.537476,
+    "longitude": 144.922564,
+    "label": "250-270 Donnybrook Road, Mickleham, VIC, Australia"
+  },
+  {
+    "Suburb": "Watsonia",
+    "Site_streetaddress": "361 Greensborough Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3087",
+    "confidence": 1,
+    "latitude": -37.713531,
+    "longitude": 145.082013,
+    "label": "361 Greensborough Road, Watsonia, VIC, Australia"
   }
 ]
