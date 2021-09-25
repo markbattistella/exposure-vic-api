@@ -14748,5 +14748,25 @@
     "latitude": -38.037796,
     "longitude": 145.266535,
     "label": "107-113 Hallam Road, Hampton Park, VIC, Australia"
+  },
+  {
+    "Suburb": "Taylor Lakes",
+    "Site_streetaddress": "399 Melton Highway",
+    "Site_state": "VIC",
+    "Site_postcode": "3038",
+    "confidence": 0.3,
+    "latitude": -37.014348,
+    "longitude": 143.480452,
+    "label": "Victoria, Australia"
+  },
+  {
+    "Suburb": "Bundoora",
+    "Site_streetaddress": "224 Plenty Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3083",
+    "confidence": 1,
+    "latitude": -37.678476,
+    "longitude": 145.069938,
+    "label": "224F Plenty Road, Bundoora, VIC, Australia"
   }
 ]
