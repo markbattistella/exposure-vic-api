@@ -83,7 +83,9 @@
     "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
     "Exposure_time_start_24": "09:00:00",
     "Exposure_time_end_24": "17:30:00",
-    "dhid": "D5D8"
+    "dhid": "D5D8",
+    "latitude": -37.722518,
+    "longitude": 144.890723
   },
   {
     "_id": 5,
@@ -103,7 +105,9 @@
     "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
     "Exposure_time_start_24": "17:45:00",
     "Exposure_time_end_24": "21:30:00",
-    "dhid": "A8Q8"
+    "dhid": "A8Q8",
+    "latitude": -37.542884,
+    "longitude": 143.850603
   },
   {
     "_id": 6,

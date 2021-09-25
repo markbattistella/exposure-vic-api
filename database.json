@@ -14960,12 +14960,20 @@
     "Suburb": "Airport West",
     "Site_streetaddress": "6 Hawker Street",
     "Site_state": "VIC",
-    "Site_postcode": "3042"
+    "Site_postcode": "3042",
+    "confidence": 1,
+    "latitude": -37.722518,
+    "longitude": 144.890723,
+    "label": "6 Hawker Street, Airport West, VIC, Australia"
   },
   {
     "Suburb": "Soldiers Hill",
     "Site_streetaddress": "620 Creswick Road",
     "Site_state": "VIC",
-    "Site_postcode": "3350"
+    "Site_postcode": "3350",
+    "confidence": 1,
+    "latitude": -37.542884,
+    "longitude": 143.850603,
+    "label": "620A Creswick Road, Soldiers Hill, VIC, Australia"
   }
 ]
