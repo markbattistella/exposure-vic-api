@@ -14855,5 +14855,35 @@
     "Site_state": "VIC",
     "Site_postcode": "3429",
     "skip": true
+  },
+  {
+    "Suburb": "Carnegie",
+    "Site_streetaddress": "86 Koornang Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3163",
+    "confidence": 1,
+    "latitude": -37.887485,
+    "longitude": 145.057585,
+    "label": "86 Koornang Road, Carnegie, VIC, Australia"
+  },
+  {
+    "Suburb": "Werribee",
+    "Site_streetaddress": "225 Hoppers Lane",
+    "Site_state": "VIC",
+    "Site_postcode": "3030",
+    "confidence": 1,
+    "latitude": -37.893906,
+    "longitude": 144.700794,
+    "label": "225 Hoppers Lane, Werribee, VIC, Australia"
+  },
+  {
+    "Suburb": "Wodonga",
+    "Site_streetaddress": "Elgin Boulevard & Hume Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3030",
+    "confidence": 0.6,
+    "latitude": -36.127609,
+    "longitude": 146.89372,
+    "label": "Wodonga, VIC, Australia"
   }
 ]
