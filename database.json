@@ -14995,5 +14995,75 @@
     "latitude": -38.196649,
     "longitude": 144.342408,
     "label": "174-178 Torquay Road, Grovedale, VIC, Australia"
+  },
+  {
+    "Suburb": "Lara",
+    "Site_streetaddress": "5 Mill Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3212",
+    "confidence": 1,
+    "latitude": -38.018438,
+    "longitude": 144.418659,
+    "label": "5 Mill Road, Lara, VIC, Australia"
+  },
+  {
+    "Suburb": "Lara",
+    "Site_streetaddress": "43 The Centreway ",
+    "Site_state": "VIC",
+    "Site_postcode": "3212",
+    "confidence": 1,
+    "latitude": -38.022483,
+    "longitude": 144.408197,
+    "label": "43 The Centreway, Lara, VIC, Australia"
+  },
+  {
+    "Suburb": "Lara",
+    "Site_streetaddress": "10/120 Station Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3212",
+    "confidence": 0.6,
+    "latitude": -38.02363,
+    "longitude": 144.418757,
+    "label": "Lara, VIC, Australia"
+  },
+  {
+    "Suburb": "Lara",
+    "Site_streetaddress": "2-4 Waverley Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3212",
+    "confidence": 1,
+    "latitude": -38.023235,
+    "longitude": 144.409358,
+    "label": "2-4 Waverley Road, Lara, VIC, Australia"
+  },
+  {
+    "Suburb": "Romsey",
+    "Site_streetaddress": "29-31 Corner Main Street & Gordon Cresent",
+    "Site_state": "VIC",
+    "Site_postcode": "3434",
+    "confidence": 0.6,
+    "latitude": -37.350891,
+    "longitude": 144.743168,
+    "label": "Romsey, VIC, Australia"
+  },
+  {
+    "Suburb": "Kangaroo Flat",
+    "Site_streetaddress": "267-285 High Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3555",
+    "confidence": 0.6,
+    "latitude": -36.801798,
+    "longitude": 144.236396,
+    "label": "Kangaroo Flat, VIC, Australia"
+  },
+  {
+    "Suburb": "Goornong",
+    "Site_streetaddress": "Mulcairs Lane Railway Crossing",
+    "Site_state": "VIC",
+    "Site_postcode": "3557",
+    "confidence": 0.6,
+    "latitude": -36.615576,
+    "longitude": 144.511436,
+    "label": "Goornong, VIC, Australia"
   }
 ]
