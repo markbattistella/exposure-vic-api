@@ -14925,5 +14925,47 @@
     "latitude": -37.644384,
     "longitude": 145.017785,
     "label": "8 Dream Haven Court, Epping, VIC, Australia"
+  },
+  {
+    "Suburb": "Airport West",
+    "Site_streetaddress": "91 McNamara Avenue",
+    "Site_state": "VIC",
+    "Site_postcode": "3042",
+    "confidence": 1,
+    "latitude": -37.723982,
+    "longitude": 144.881367,
+    "label": "91 Mcnamara Avenue, Airport West, VIC, Australia"
+  },
+  {
+    "Suburb": "Croydon",
+    "Site_streetaddress": "47 Maroondah Highway",
+    "Site_state": "VIC",
+    "Site_postcode": "3136",
+    "confidence": 1,
+    "latitude": -37.790911,
+    "longitude": 145.263146,
+    "label": "47 Maroondah Highway, Croydon, VIC, Australia"
+  },
+  {
+    "Suburb": "Roxburgh Park",
+    "Site_streetaddress": "Shop 4/22 Hollywood Drive",
+    "Site_state": "VIC",
+    "Site_postcode": "3064",
+    "confidence": 1,
+    "latitude": -37.620426,
+    "longitude": 144.928913,
+    "label": "22 Hollywood Drive, Roxburgh Park, VIC, Australia"
+  },
+  {
+    "Suburb": "Airport West",
+    "Site_streetaddress": "6 Hawker Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3042"
+  },
+  {
+    "Suburb": "Soldiers Hill",
+    "Site_streetaddress": "620 Creswick Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3350"
   }
 ]
