@@ -14895,5 +14895,35 @@
     "latitude": -36.127609,
     "longitude": 146.89372,
     "label": "Wodonga, VIC, Australia"
+  },
+  {
+    "Suburb": "Dallas",
+    "Site_streetaddress": "149 Dallas Drive",
+    "Site_state": "VIC",
+    "Site_postcode": "3047",
+    "confidence": 1,
+    "latitude": -37.668396,
+    "longitude": 144.9362,
+    "label": "149 Dallas Drive, Dallas, VIC, Australia"
+  },
+  {
+    "Suburb": "Reservoir",
+    "Site_streetaddress": "91-93 Hughes Parade",
+    "Site_state": "VIC",
+    "Site_postcode": "3073",
+    "confidence": 1,
+    "latitude": -37.699763,
+    "longitude": 144.996764,
+    "label": "91-93 Hughes Parade, Reservoir, VIC, Australia"
+  },
+  {
+    "Suburb": "Epping",
+    "Site_streetaddress": "8 Dream Haven Court",
+    "Site_state": "VIC",
+    "Site_postcode": "3076",
+    "confidence": 1,
+    "latitude": -37.644384,
+    "longitude": 145.017785,
+    "label": "8 Dream Haven Court, Epping, VIC, Australia"
   }
 ]
