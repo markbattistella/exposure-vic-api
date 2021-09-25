@@ -15145,5 +15145,35 @@
     "latitude": -37.713531,
     "longitude": 145.082013,
     "label": "361 Greensborough Road, Watsonia, VIC, Australia"
+  },
+  {
+    "Suburb": "Roxburgh Park",
+    "Site_streetaddress": "2/200-230 James Mirams Drive",
+    "Site_state": "VIC",
+    "Site_postcode": "3064",
+    "confidence": 1,
+    "latitude": -37.616315,
+    "longitude": 144.914773,
+    "label": "200-230 James Mirams Drive, Roxburgh Park, VIC, Australia"
+  },
+  {
+    "Suburb": "Campbellfield",
+    "Site_streetaddress": "49-53 Capital Link Drive",
+    "Site_state": "VIC",
+    "Site_postcode": "3061",
+    "confidence": 0.6,
+    "latitude": -37.662653,
+    "longitude": 144.959231,
+    "label": "Campbellfield, VIC, Australia"
+  },
+  {
+    "Suburb": "Alfredton",
+    "Site_streetaddress": "1728 Sturt Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3350",
+    "confidence": 1,
+    "latitude": -37.552802,
+    "longitude": 143.812986,
+    "label": "1728A Sturt Street, Alfredton, VIC, Australia"
   }
 ]
