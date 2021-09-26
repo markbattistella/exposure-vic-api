@@ -15270,5 +15270,15 @@
     "latitude": -37.778475,
     "longitude": 145.017989,
     "label": "86 Station Street, Fairfield, VIC, Australia"
+  },
+  {
+    "Suburb": "Sunshine North",
+    "Site_streetaddress": "438 - 460 Ballarat Road,",
+    "Site_state": "VIC",
+    "Site_postcode": "3020",
+    "confidence": 0.6,
+    "latitude": -37.764378,
+    "longitude": 144.83582,
+    "label": "Sunshine North, VIC, Australia"
   }
 ]
