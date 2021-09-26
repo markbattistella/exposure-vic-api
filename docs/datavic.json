@@ -3273,7 +3273,7 @@
   },
   {
     "_id": 151,
-    "Suburb": "Warnambool",
+    "Suburb": "Warrnambool",
     "Site_title": "Warrnambool Train Station",
     "Site_streetaddress": "Merri Street",
     "Site_state": "VIC",
@@ -3290,8 +3290,8 @@
     "Exposure_time_start_24": "11:00:00",
     "Exposure_time_end_24": "11:40:00",
     "dhid": "E3T7",
-    "latitude": -37.014348,
-    "longitude": 143.480452
+    "latitude": -38.3777,
+    "longitude": 142.480446
   },
   {
     "_id": 152,
