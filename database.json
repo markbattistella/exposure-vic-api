@@ -15195,5 +15195,55 @@
     "latitude": -37.943484,
     "longitude": 145.127245,
     "label": "Clayton, VIC, Australia"
+  },
+  {
+    "Suburb": "Soldiers Hill",
+    "Site_streetaddress": "1213 Sturt Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3350",
+    "confidence": 0.6,
+    "latitude": -37.549274,
+    "longitude": 143.85927,
+    "label": "Soldiers Hill, VIC, Australia"
+  },
+  {
+    "Suburb": "Breakwater",
+    "Site_streetaddress": "63 Leather Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3219",
+    "confidence": 1,
+    "latitude": -38.185494,
+    "longitude": 144.379987,
+    "label": "63 Leather Street, Breakwater, VIC, Australia"
+  },
+  {
+    "Suburb": "Oakleigh",
+    "Site_streetaddress": "22-24 Ferntree Gully Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3166",
+    "confidence": 0.6,
+    "latitude": -37.902868,
+    "longitude": 145.094384,
+    "label": "Oakleigh, VIC, Australia"
+  },
+  {
+    "Suburb": "Tullamarine",
+    "Site_streetaddress": "Arrival Drive",
+    "Site_state": "VIC",
+    "Site_postcode": "3045",
+    "confidence": 0.6,
+    "latitude": -37.702605,
+    "longitude": 144.879115,
+    "label": "Tullamarine, VIC, Australia"
+  },
+  {
+    "Suburb": "Roxburgh Park",
+    "Site_streetaddress": "15 Fouz Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3064",
+    "confidence": 1,
+    "latitude": -37.621068,
+    "longitude": 144.928746,
+    "label": "15 Fouz Street, Roxburgh Park, VIC, Australia"
   }
 ]
