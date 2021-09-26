@@ -14114,10 +14114,9 @@
     "Site_streetaddress": "Corner Victoria Cross Parade & Kelliher Avenue",
     "Site_state": "VIC",
     "Site_postcode": "3690",
-    "confidence": 0.6,
-    "latitude": -36.127609,
-    "longitude": 146.89372,
-    "label": "Wodonga, VIC, Australia"
+    "confidence": 1,
+    "latitude": -36.1392732,
+    "longitude": 146.8904264
   },
   {
     "Suburb": "Bendigo",
@@ -14284,10 +14283,9 @@
     "Site_streetaddress": "RAAF Base Point Cook, Building 450",
     "Site_state": "VIC",
     "Site_postcode": "3030",
-    "confidence": 0.8,
-    "latitude": -37.93113,
-    "longitude": 144.75389,
-    "label": "RAAF Williams Point Cook Base, Point Cook, VIC, Australia"
+    "confidence": 1,
+    "latitude": -37.9288458,
+    "longitude": 144.7468892
   },
   {
     "Suburb": "Bundoora",
@@ -14314,10 +14312,9 @@
     "Site_streetaddress": "4/66-84 High Street",
     "Site_state": "VIC",
     "Site_postcode": "3337",
-    "confidence": 0.6,
-    "latitude": -37.684986,
-    "longitude": 144.588885,
-    "label": "Melton, VIC, Australia"
+    "confidence": 1,
+    "latitude": -37.6887581,
+    "longitude": 144.6016099
   },
   {
     "Suburb": "Terang",
@@ -14394,10 +14391,9 @@
     "Site_streetaddress": "Merri Street",
     "Site_state": "VIC",
     "Site_postcode": "3280",
-    "confidence": 0.3,
-    "latitude": -37.014348,
-    "longitude": 143.480452,
-    "label": "Victoria, Australia"
+    "confidence": 1,
+    "latitude": -38.3851623,
+    "longitude": 142.4733427
   },
   {
     "Suburb": "Bell Park",
@@ -14474,10 +14470,9 @@
     "Site_streetaddress": "Ozone car park, Timor Street",
     "Site_state": "VIC",
     "Site_postcode": "3280",
-    "confidence": 0.8,
-    "latitude": -38.366756,
-    "longitude": 142.488194,
-    "label": "3280, Warrnambool, VIC, Australia"
+    "confidence": 1,
+    "latitude": -38.3841009,
+    "longitude": 142.4810154
   },
   {
     "Suburb": "Camperdown",
@@ -14494,40 +14489,36 @@
     "Site_streetaddress": "5/125-139 Leibig Street",
     "Site_state": "VIC",
     "Site_postcode": "3280",
-    "confidence": 0.6,
-    "latitude": -38.3777,
-    "longitude": 142.480446,
-    "label": "Warrnambool, VIC, Australia"
+    "confidence": 1,
+    "latitude": -38.3827541,
+    "longitude": 142.4816962
   },
   {
     "Suburb": "Warrnambool",
     "Site_streetaddress": "16A, 125-139 & 141-143 Liebig St",
     "Site_state": "VIC",
     "Site_postcode": "3280",
-    "confidence": 0.6,
-    "latitude": -38.3777,
-    "longitude": 142.480446,
-    "label": "Warrnambool, VIC, Australia"
+    "confidence": 1,
+    "latitude": -38.3825031,
+    "longitude": 142.4820252
   },
   {
     "Suburb": "Warrnambool",
     "Site_streetaddress": "70 Leibig Street",
     "Site_state": "VIC",
     "Site_postcode": "3280",
-    "confidence": 0.6,
-    "latitude": -38.3777,
-    "longitude": 142.480446,
-    "label": "Warrnambool, VIC, Australia"
+    "confidence": 1,
+    "latitude": -38.3850668,
+    "longitude": 142.4808737
   },
   {
     "Suburb": "Warrnambool",
     "Site_streetaddress": "56 Leibig Street",
     "Site_state": "VIC",
     "Site_postcode": "3280",
-    "confidence": 0.6,
-    "latitude": -38.3777,
-    "longitude": 142.480446,
-    "label": "Warrnambool, VIC, Australia"
+    "confidence": 1,
+    "latitude": -38.3853728,
+    "longitude": 142.4805434
   },
   {
     "Suburb": "Camperdown",
@@ -14594,20 +14585,18 @@
     "Site_streetaddress": "99-101 Leibig Street",
     "Site_state": "VIC",
     "Site_postcode": "3280",
-    "confidence": 0.6,
-    "latitude": -38.3777,
-    "longitude": 142.480446,
-    "label": "Warrnambool, VIC, Australia"
+    "confidence": 1,
+    "latitude": -38.3841371,
+    "longitude": 142.4808364
   },
   {
     "Suburb": "Warrnambool",
     "Site_streetaddress": "Merri Street",
     "Site_state": "VIC",
     "Site_postcode": "3280",
-    "confidence": 0.6,
-    "latitude": -38.3777,
-    "longitude": 142.480446,
-    "label": "Warrnambool, VIC, Australia"
+    "confidence": 1,
+    "latitude": -38.3851623,
+    "longitude": 142.4733427
   },
   {
     "Suburb": "Warrnambool",
@@ -14634,10 +14623,9 @@
     "Site_streetaddress": "125 Leibig Street",
     "Site_state": "VIC",
     "Site_postcode": "3280",
-    "confidence": 0.6,
-    "latitude": -38.3777,
-    "longitude": 142.480446,
-    "label": "Warrnambool, VIC, Australia"
+    "confidence": 1,
+    "latitude": -38.3826987,
+    "longitude": 142.4840064
   },
   {
     "Suburb": "Camperdown",
@@ -14664,10 +14652,9 @@
     "Site_streetaddress": "Corner of Vaughan and Maude Street",
     "Site_state": "VIC",
     "Site_postcode": "3630",
-    "confidence": 0.8,
-    "latitude": -36.383865,
-    "longitude": 145.405928,
-    "label": "Shepparton Station, Vaughan & Purcell Streets, Shepparton, VIC, Australia"
+    "confidence": 1,
+    "latitude": -36.3834901,
+    "longitude": 145.3985294
   },
   {
     "Suburb": "Shepparton",
@@ -14754,10 +14741,9 @@
     "Site_streetaddress": "399 Melton Highway",
     "Site_state": "VIC",
     "Site_postcode": "3038",
-    "confidence": 0.3,
-    "latitude": -37.014348,
-    "longitude": 143.480452,
-    "label": "Victoria, Australia"
+    "confidence": 1,
+    "latitude": -37.6997104,
+    "longitude": 144.7738467
   },
   {
     "Suburb": "Bundoora",
@@ -14804,20 +14790,18 @@
     "Site_streetaddress": "5 Janefield Road",
     "Site_state": "VIC",
     "Site_postcode": "3083",
-    "confidence": 0.6,
-    "latitude": -37.695471,
-    "longitude": 145.063341,
-    "label": "Bundoora, VIC, Australia"
+    "confidence": 1,
+    "latitude": -37.6823708,
+    "longitude": 145.0682706
   },
   {
     "Suburb": "Greenvale",
     "Site_streetaddress": "Corner Mickleham Road and Greenvale Drive",
     "Site_state": "VIC",
     "Site_postcode": "3059",
-    "confidence": 0.6,
-    "latitude": -37.646114,
-    "longitude": 144.872819,
-    "label": "Greenvale, VIC, Australia"
+    "confidence": 1,
+    "latitude": -37.6394862,
+    "longitude": 144.879622
   },
   {
     "Suburb": "Derrimut",
@@ -14834,27 +14818,27 @@
     "Site_streetaddress": "M2/1-13 South Street",
     "Site_state": "VIC",
     "Site_postcode": "3690",
-    "confidence": 0.6,
-    "latitude": -36.127609,
-    "longitude": 146.89372,
-    "label": "Wodonga, VIC, Australia"
+    "confidence": 1,
+    "latitude": -36.1193473,
+    "longitude": 146.8881254
   },
   {
     "Suburb": "Wodonga",
     "Site_streetaddress": "Corner Elgin Boulevard & Hume Street",
     "Site_state": "VIC",
     "Site_postcode": "3690",
-    "confidence": 0.6,
-    "latitude": -36.127609,
-    "longitude": 146.89372,
-    "label": "Wodonga, VIC, Australia"
+    "confidence": 1,
+    "latitude": -36.1201834,
+    "longitude": 146.8855289
   },
   {
     "Suburb": "Sunbury",
     "Site_streetaddress": "Phillip Drive Carpark and Entrance on 2-4 Emma Court",
     "Site_state": "VIC",
     "Site_postcode": "3429",
-    "skip": true
+	"confidence": 1,
+    "latitude": -37.5685038,
+    "longitude": 144.6938966
   },
   {
     "Suburb": "Carnegie",
@@ -14881,20 +14865,18 @@
     "Site_streetaddress": "Elgin Boulevard & Hume Street",
     "Site_state": "VIC",
     "Site_postcode": "3030",
-    "confidence": 0.6,
-    "latitude": -36.127609,
-    "longitude": 146.89372,
-    "label": "Wodonga, VIC, Australia"
+    "confidence": 1,
+    "latitude": -36.1209163,
+    "longitude": 146.8846213
   },
   {
     "Suburb": "Wodonga",
     "Site_streetaddress": "Elgin Boulevard & Hume Street",
     "Site_state": "VIC",
     "Site_postcode": "3690",
-    "confidence": 0.6,
-    "latitude": -36.127609,
-    "longitude": 146.89372,
-    "label": "Wodonga, VIC, Australia"
+	"confidence": 1,
+    "latitude": -36.1209163,
+    "longitude": 146.8846213
   },
   {
     "Suburb": "Dallas",
@@ -15021,10 +15003,9 @@
     "Site_streetaddress": "10/120 Station Street",
     "Site_state": "VIC",
     "Site_postcode": "3212",
-    "confidence": 0.6,
-    "latitude": -38.02363,
-    "longitude": 144.418757,
-    "label": "Lara, VIC, Australia"
+    "confidence": 1,
+    "latitude": -38.0238538,
+    "longitude": 144.4073043
   },
   {
     "Suburb": "Lara",
@@ -15041,30 +15022,27 @@
     "Site_streetaddress": "29-31 Corner Main Street & Gordon Cresent",
     "Site_state": "VIC",
     "Site_postcode": "3434",
-    "confidence": 0.6,
-    "latitude": -37.350891,
-    "longitude": 144.743168,
-    "label": "Romsey, VIC, Australia"
+    "confidence": 1,
+    "latitude": -37.3578742,
+    "longitude": 144.7410233
   },
   {
     "Suburb": "Kangaroo Flat",
     "Site_streetaddress": "267-285 High Street",
     "Site_state": "VIC",
     "Site_postcode": "3555",
-    "confidence": 0.6,
-    "latitude": -36.801798,
-    "longitude": 144.236396,
-    "label": "Kangaroo Flat, VIC, Australia"
+    "confidence": 1,
+    "latitude": -36.8107576,
+    "longitude": 144.2412552
   },
   {
     "Suburb": "Goornong",
     "Site_streetaddress": "Mulcairs Lane Railway Crossing",
     "Site_state": "VIC",
     "Site_postcode": "3557",
-    "confidence": 0.6,
-    "latitude": -36.615576,
-    "longitude": 144.511436,
-    "label": "Goornong, VIC, Australia"
+    "confidence": 1,
+    "latitude": -36.6156754,
+    "longitude": 144.5026342
   },
   {
     "Suburb": "White Hills",
@@ -15081,10 +15059,9 @@
     "Site_streetaddress": "Midland Highway",
     "Site_state": "VIC",
     "Site_postcode": "3551",
-    "confidence": 0.6,
-    "latitude": -36.694378,
-    "longitude": 144.31761,
-    "label": "Epsom, VIC, Australia"
+    "confidence": 1,
+    "latitude": -36.7169957,
+    "longitude": 144.311506
   },
   {
     "Suburb": "White Hills",
@@ -15111,10 +15088,9 @@
     "Site_streetaddress": "80-92 Victoria Street",
     "Site_state": "VIC",
     "Site_postcode": "3000",
-    "confidence": 0.6,
-    "latitude": -37.825071,
-    "longitude": 144.978682,
-    "label": "Melbourne, VIC, Australia"
+    "confidence": 1,
+    "latitude": -37.8066432,
+    "longitude": 144.9625941
   },
   {
     "Suburb": "Wendouree",
@@ -15161,10 +15137,9 @@
     "Site_streetaddress": "49-53 Capital Link Drive",
     "Site_state": "VIC",
     "Site_postcode": "3061",
-    "confidence": 0.6,
-    "latitude": -37.662653,
-    "longitude": 144.959231,
-    "label": "Campbellfield, VIC, Australia"
+    "confidence": 1,
+    "latitude": -37.6534087,
+    "longitude": 144.9592047
   },
   {
     "Suburb": "Alfredton",
@@ -15181,30 +15156,27 @@
     "Site_streetaddress": "55 Produce Drive",
     "Site_state": "VIC",
     "Site_postcode": "3076",
-    "confidence": 0.6,
-    "latitude": -37.641564,
-    "longitude": 145.025908,
-    "label": "Epping, VIC, Australia"
+    "confidence": 1,
+    "latitude": -37.652977,
+    "longitude": 144.9927651
   },
   {
     "Suburb": "Clayton South",
     "Site_streetaddress": "Simpson Road",
     "Site_state": "VIC",
     "Site_postcode": "3169",
-    "confidence": 0.6,
-    "latitude": -37.943484,
-    "longitude": 145.127245,
-    "label": "Clayton, VIC, Australia"
+    "confidence": 1,
+    "latitude": -37.9538128,
+    "longitude": 145.1213074
   },
   {
     "Suburb": "Soldiers Hill",
     "Site_streetaddress": "1213 Sturt Street",
     "Site_state": "VIC",
     "Site_postcode": "3350",
-    "confidence": 0.6,
-    "latitude": -37.549274,
-    "longitude": 143.85927,
-    "label": "Soldiers Hill, VIC, Australia"
+    "confidence": 1,
+    "latitude": -37.5605269,
+    "longitude": 143.8400316
   },
   {
     "Suburb": "Breakwater",
@@ -15221,20 +15193,18 @@
     "Site_streetaddress": "22-24 Ferntree Gully Road",
     "Site_state": "VIC",
     "Site_postcode": "3166",
-    "confidence": 0.6,
-    "latitude": -37.902868,
-    "longitude": 145.094384,
-    "label": "Oakleigh, VIC, Australia"
+    "confidence": 1,
+    "latitude": -37.8967417,
+    "longitude": 145.099619
   },
   {
     "Suburb": "Tullamarine",
     "Site_streetaddress": "Arrival Drive",
     "Site_state": "VIC",
     "Site_postcode": "3045",
-    "confidence": 0.6,
-    "latitude": -37.702605,
-    "longitude": 144.879115,
-    "label": "Tullamarine, VIC, Australia"
+    "confidence": 1,
+    "latitude": -37.6721702,
+    "longitude": 144.8481179
   },
   {
     "Suburb": "Roxburgh Park",
@@ -15251,50 +15221,45 @@
     "Site_streetaddress": "1213 Sturt Street",
     "Site_state": "VIC",
     "Site_postcode": "3350",
-    "confidence": 0.4,
-    "latitude": -37.563892,
-    "longitude": 143.852395,
-    "label": "Ballarat, VIC, Australia"
+    "confidence": 1,
+    "latitude": -37.5605269,
+    "longitude": 143.8400316
   },
   {
     "Suburb": "Craigieburn",
     "Site_streetaddress": "8 Aitken Boulevard",
     "Site_state": "VIC",
     "Site_postcode": "3064",
-    "confidence": 0.6,
-    "latitude": -37.590804,
-    "longitude": 144.933042,
-    "label": "Craigieburn, VIC, Australia"
+    "confidence": 1,
+    "latitude": -37.5739811,
+    "longitude": 144.9180383
   },
   {
     "Suburb": "Wodonga",
     "Site_streetaddress": "51-71 Elgin Boulevard",
     "Site_state": "VIC",
     "Site_postcode": "3960",
-    "confidence": 0.6,
-    "latitude": -36.127609,
-    "longitude": 146.89372,
-    "label": "Wodonga, VIC, Australia"
+    "confidence": 1,
+    "latitude": -36.1207117,
+    "longitude": 146.8819051
   },
   {
     "Suburb": "Wodonga",
     "Site_streetaddress": "Elgin Blvd & Hume Street",
     "Site_state": "VIC",
     "Site_postcode": "3960",
-    "confidence": 0.6,
-    "latitude": -36.127609,
-    "longitude": 146.89372,
-    "label": "Wodonga, VIC, Australia"
+    "confidence": 1,
+    "latitude": -36.12026,
+    "longitude": 146.8853748
   },
   {
     "Suburb": "Sunshine North 3020",
     "Site_streetaddress": "438 - 460 Ballarat Road,",
     "Site_state": "VIC",
     "Site_postcode": "3020",
-    "confidence": 0.6,
-    "latitude": -37.764378,
-    "longitude": 144.83582,
-    "label": "Sunshine North, VIC, Australia"
+    "confidence": 1,
+    "latitude": -37.7776561,
+    "longitude": 144.8346285
   },
   {
     "Suburb": "Fairfield",
