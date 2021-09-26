@@ -15275,5 +15275,25 @@
     "latitude": -36.127609,
     "longitude": 146.89372,
     "label": "Wodonga, VIC, Australia"
+  },
+  {
+    "Suburb": "Wodonga",
+    "Site_streetaddress": "Elgin Blvd & Hume Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3960",
+    "confidence": 0.6,
+    "latitude": -36.127609,
+    "longitude": 146.89372,
+    "label": "Wodonga, VIC, Australia"
+  },
+  {
+    "Suburb": "Sunshine North 3020",
+    "Site_streetaddress": "438 - 460 Ballarat Road,",
+    "Site_state": "VIC",
+    "Site_postcode": "3020",
+    "confidence": 0.6,
+    "latitude": -37.764378,
+    "longitude": 144.83582,
+    "label": "Sunshine North, VIC, Australia"
   }
 ]
