@@ -15175,5 +15175,25 @@
     "latitude": -37.552802,
     "longitude": 143.812986,
     "label": "1728A Sturt Street, Alfredton, VIC, Australia"
+  },
+  {
+    "Suburb": "Epping",
+    "Site_streetaddress": "55 Produce Drive",
+    "Site_state": "VIC",
+    "Site_postcode": "3076",
+    "confidence": 0.6,
+    "latitude": -37.641564,
+    "longitude": 145.025908,
+    "label": "Epping, VIC, Australia"
+  },
+  {
+    "Suburb": "Clayton South",
+    "Site_streetaddress": "Simpson Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3169",
+    "confidence": 0.6,
+    "latitude": -37.943484,
+    "longitude": 145.127245,
+    "label": "Clayton, VIC, Australia"
   }
 ]
