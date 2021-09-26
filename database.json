@@ -15265,5 +15265,15 @@
     "latitude": -37.590804,
     "longitude": 144.933042,
     "label": "Craigieburn, VIC, Australia"
+  },
+  {
+    "Suburb": "Wodonga",
+    "Site_streetaddress": "51-71 Elgin Boulevard",
+    "Site_state": "VIC",
+    "Site_postcode": "3960",
+    "confidence": 0.6,
+    "latitude": -36.127609,
+    "longitude": 146.89372,
+    "label": "Wodonga, VIC, Australia"
   }
 ]
