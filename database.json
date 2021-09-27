@@ -15320,5 +15320,45 @@
     "latitude": -37.286197,
     "longitude": 144.948837,
     "label": "109 Northern Highway, Kilmore, VIC, Australia"
+  },
+  {
+    "Suburb": "Herne Hill",
+    "Site_streetaddress": "11 Minerva Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3218",
+    "confidence": 1,
+    "latitude": -38.130321,
+    "longitude": 144.33156,
+    "label": "11 Minerva Road, Herne Hill, VIC, Australia"
+  },
+  {
+    "Suburb": "Geelong",
+    "Site_streetaddress": "Corner Pakington Street and Aberdeen Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3218",
+    "confidence": 0.6,
+    "latitude": -38.150785,
+    "longitude": 144.361579,
+    "label": "Geelong, VIC, Australia"
+  },
+  {
+    "Suburb": "Geelong West ",
+    "Site_streetaddress": "3/95-103 Pakington Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3218",
+    "confidence": 1,
+    "latitude": -38.137645,
+    "longitude": 144.348654,
+    "label": "95-103 Pakington Street, Geelong West, VIC, Australia"
+  },
+  {
+    "Suburb": "Geelong",
+    "Site_streetaddress": "58 Corio Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3220",
+    "confidence": 1,
+    "latitude": -38.146176,
+    "longitude": 144.360464,
+    "label": "58 Corio Street, Geelong, VIC, Australia"
   }
 ]
