@@ -15450,5 +15450,195 @@
     "latitude": -37.801445,
     "longitude": 145.0627,
     "label": "1030-1050 Burke Road, Balwyn, VIC, Australia"
+  },
+  {
+    "Suburb": "Bundoora",
+    "Site_streetaddress": "Shop 3A/42-44 Copernicus Cresent",
+    "Site_state": "VIC",
+    "Site_postcode": "3083",
+    "confidence": 0.6,
+    "latitude": -37.695471,
+    "longitude": 145.063341,
+    "label": "Bundoora, VIC, Australia"
+  },
+  {
+    "Suburb": "Warragul",
+    "Site_streetaddress": "Corner of Queen Street and Hazel Drive",
+    "Site_state": "VIC",
+    "Site_postcode": "3820",
+    "confidence": 0.6,
+    "latitude": -38.161766,
+    "longitude": 145.934879,
+    "label": "Warragul, VIC, Australia"
+  },
+  {
+    "Suburb": "Keilor",
+    "Site_streetaddress": "36 Kennedy Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3036",
+    "confidence": 1,
+    "latitude": -37.716828,
+    "longitude": 144.836046,
+    "label": "36 Kennedy Street, Keilor, VIC, Australia"
+  },
+  {
+    "Suburb": "Moonee Ponds",
+    "Site_streetaddress": "20 Homer Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3039",
+    "confidence": 1,
+    "latitude": -37.764776,
+    "longitude": 144.920776,
+    "label": "20 Homer Street, Moonee Ponds, VIC, Australia"
+  },
+  {
+    "Suburb": "Bayswater North",
+    "Site_streetaddress": "291 Canterbury Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3153",
+    "confidence": 1,
+    "latitude": -37.832164,
+    "longitude": 145.270438,
+    "label": "291 Canterbury Road, Bayswater North, VIC, Australia"
+  },
+  {
+    "Suburb": "Drouin",
+    "Site_streetaddress": "72-100 Young Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3818",
+    "confidence": 0.3,
+    "latitude": -37.014348,
+    "longitude": 143.480452,
+    "label": "Victoria, Australia"
+  },
+  {
+    "Suburb": "Kinglake",
+    "Site_streetaddress": "28 Whittlesea-Kinglake Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3763",
+    "confidence": 1,
+    "latitude": -37.530274,
+    "longitude": 145.339974,
+    "label": "28 Whittlesea-kinglake Road, Kinglake, VIC, Australia"
+  },
+  {
+    "Suburb": "Morwell",
+    "Site_streetaddress": "82 George Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3840",
+    "confidence": 1,
+    "latitude": -38.238884,
+    "longitude": 146.398361,
+    "label": "82 George Street, Morwell, VIC, Australia"
+  },
+  {
+    "Suburb": "Morwell",
+    "Site_streetaddress": "Mid Valley Shopping Centre, Midvalley Drive",
+    "Site_state": "VIC",
+    "Site_postcode": "3840",
+    "confidence": 1,
+    "latitude": -38.236572,
+    "longitude": 146.430468,
+    "label": "Mid Valley Shopping Centre, Morwell, VIC, Australia"
+  },
+  {
+    "Suburb": "Traralgon",
+    "Site_streetaddress": "Corner Grey Street and Franklin Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3844",
+    "confidence": 0.6,
+    "latitude": -38.196566,
+    "longitude": 146.533757,
+    "label": "Traralgon, VIC, Australia"
+  },
+  {
+    "Suburb": "Moe",
+    "Site_streetaddress": "92 Albert Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3825",
+    "confidence": 1,
+    "latitude": -38.174267,
+    "longitude": 146.259512,
+    "label": "92 Albert Street, Yallourn, VIC, Australia"
+  },
+  {
+    "Suburb": "Morwell",
+    "Site_streetaddress": "Mid Valley Shopping Centre, Princes Highway",
+    "Site_state": "VIC",
+    "Site_postcode": "3840",
+    "confidence": 1,
+    "latitude": -38.236572,
+    "longitude": 146.430468,
+    "label": "Mid Valley Shopping Centre, Morwell, VIC, Australia"
+  },
+  {
+    "Suburb": "Pascoe Vale",
+    "Site_streetaddress": "105 Cumberland Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3044",
+    "confidence": 1,
+    "latitude": -37.729548,
+    "longitude": 144.938599,
+    "label": "105 Cumberland Road, Pascoe Vale, VIC, Australia"
+  },
+  {
+    "Suburb": "Kilmore",
+    "Site_streetaddress": "54 Sydney Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3764",
+    "confidence": 1,
+    "latitude": -37.292081,
+    "longitude": 144.951241,
+    "label": "54 Sydney Street, Kilmore, VIC, Australia"
+  },
+  {
+    "Suburb": "Geelong",
+    "Site_streetaddress": "73-79 Little Ryrie Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3220",
+    "confidence": 1,
+    "latitude": -38.150946,
+    "longitude": 144.362667,
+    "label": "73-79 Little Ryrie Street, Geelong, VIC, Australia"
+  },
+  {
+    "Suburb": "Geelong",
+    "Site_streetaddress": "Suite 1, Level 3/73 Little Ryrie Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3220",
+    "confidence": 0.6,
+    "latitude": -38.150785,
+    "longitude": 144.361579,
+    "label": "Geelong, VIC, Australia"
+  },
+  {
+    "Suburb": "Brunswick West",
+    "Site_streetaddress": "488 Albion Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3055",
+    "confidence": 1,
+    "latitude": -37.758246,
+    "longitude": 144.939993,
+    "label": "488 Albion Street, Brunswick West, VIC, Australia"
+  },
+  {
+    "Suburb": "Morwell",
+    "Site_streetaddress": "19 Rintoull Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3840",
+    "confidence": 1,
+    "latitude": -38.233085,
+    "longitude": 146.414487,
+    "label": "19 Rintoull Street, Morwell, VIC, Australia"
+  },
+  {
+    "Suburb": "Traralgon",
+    "Site_streetaddress": "115 Princes Highway Corner Breed Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3844",
+    "confidence": 0.6,
+    "latitude": -38.196566,
+    "longitude": 146.533757,
+    "label": "Traralgon, VIC, Australia"
   }
 ]
