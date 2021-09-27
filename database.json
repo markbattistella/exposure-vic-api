@@ -15400,5 +15400,35 @@
     "latitude": -38.13841,
     "longitude": 144.348955,
     "label": "7/112 Pakington Street, Geelong West, VIC, Australia"
+  },
+  {
+    "Suburb": "Myrtleford",
+    "Site_streetaddress": "151 Myrtle Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3737",
+    "confidence": 1,
+    "latitude": -36.561212,
+    "longitude": 146.723867,
+    "label": "151 Myrtle Street, Myrtleford, VIC, Australia"
+  },
+  {
+    "Suburb": "Myrtleford",
+    "Site_streetaddress": "37 Clyde Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3737",
+    "confidence": 1,
+    "latitude": -36.56144,
+    "longitude": 146.726173,
+    "label": "37-41 Clyde Street, Myrtleford, VIC, Australia"
+  },
+  {
+    "Suburb": "Beechworth",
+    "Site_streetaddress": "4 High Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3747",
+    "confidence": 1,
+    "latitude": -36.365009,
+    "longitude": 146.682698,
+    "label": "4 High Street, Beechworth, VIC, Australia"
   }
 ]
