@@ -15430,5 +15430,25 @@
     "latitude": -36.365009,
     "longitude": 146.682698,
     "label": "4 High Street, Beechworth, VIC, Australia"
+  },
+  {
+    "Suburb": "Epping",
+    "Site_streetaddress": "Corner Miller Street and Wedge Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3076",
+    "confidence": 0.6,
+    "latitude": -37.641564,
+    "longitude": 145.025908,
+    "label": "Epping, VIC, Australia"
+  },
+  {
+    "Suburb": "Balwyn",
+    "Site_streetaddress": "1030-1050 Burke Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3103",
+    "confidence": 1,
+    "latitude": -37.801445,
+    "longitude": 145.0627,
+    "label": "1030-1050 Burke Road, Balwyn, VIC, Australia"
   }
 ]
