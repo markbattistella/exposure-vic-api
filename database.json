@@ -15640,5 +15640,65 @@
     "latitude": -38.196566,
     "longitude": 146.533757,
     "label": "Traralgon, VIC, Australia"
+  },
+  {
+    "Suburb": "Officer",
+    "Site_streetaddress": "1 Damon Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3809",
+    "confidence": 1,
+    "latitude": -38.065197,
+    "longitude": 145.435982,
+    "label": "1 Damon Street, Officer, VIC, Australia"
+  },
+  {
+    "Suburb": "Sunbury",
+    "Site_streetaddress": "25-47 Horne Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3429",
+    "confidence": 0.6,
+    "latitude": -37.578841,
+    "longitude": 144.72144,
+    "label": "Sunbury, VIC, Australia"
+  },
+  {
+    "Suburb": "Gisborne",
+    "Site_streetaddress": "Corner Aitken and Robertson Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3447",
+    "confidence": 0.8,
+    "latitude": -37.60682,
+    "longitude": 144.895706,
+    "label": "Aitken Hill Conference & Events Centre, Yuroke, VIC, Australia"
+  },
+  {
+    "Suburb": "Pakenham",
+    "Site_streetaddress": "56-58 Bald Hill Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3810",
+    "confidence": 0.6,
+    "latitude": -38.069973,
+    "longitude": 145.481144,
+    "label": "Pakenham, VIC, Australia"
+  },
+  {
+    "Suburb": "Caroline Springs",
+    "Site_streetaddress": "2 Lake Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3023",
+    "confidence": 1,
+    "latitude": -37.733988,
+    "longitude": 144.741654,
+    "label": "2 Lake Street, Caroline Springs, VIC, Australia"
+  },
+  {
+    "Suburb": "Gisborne",
+    "Site_streetaddress": "23 Robertson Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3447",
+    "confidence": 1,
+    "latitude": -37.485624,
+    "longitude": 144.587728,
+    "label": "23A Robertson Street, Gisborne, VIC, Australia"
   }
 ]
