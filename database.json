@@ -15360,5 +15360,35 @@
     "latitude": -38.146176,
     "longitude": 144.360464,
     "label": "58 Corio Street, Geelong, VIC, Australia"
+  },
+  {
+    "Suburb": "Wendouree",
+    "Site_streetaddress": "1229 Howitt Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3355",
+    "confidence": 0.6,
+    "latitude": -37.528719,
+    "longitude": 143.828534,
+    "label": "Wendouree, VIC, Australia"
+  },
+  {
+    "Suburb": "Bakery Hill",
+    "Site_streetaddress": "48 Humffray Street North",
+    "Site_state": "VIC",
+    "Site_postcode": "3350",
+    "confidence": 1,
+    "latitude": -37.56094,
+    "longitude": 143.866323,
+    "label": "48 Humffray Street North, Bakery Hill, VIC, Australia"
+  },
+  {
+    "Suburb": "Ballarat",
+    "Site_streetaddress": "116 Creswick Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3350",
+    "confidence": 0.4,
+    "latitude": -37.563892,
+    "longitude": 143.852395,
+    "label": "Ballarat, VIC, Australia"
   }
 ]
