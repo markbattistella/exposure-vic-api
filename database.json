@@ -15300,5 +15300,25 @@
     "latitude": -37.014348,
     "longitude": 143.480452,
     "label": "Victoria, Australia"
+  },
+  {
+    "Suburb": "Point Cook",
+    "Site_streetaddress": "Suite 803, Level 1, Murnong Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3030",
+    "confidence": 0.6,
+    "latitude": -37.90884,
+    "longitude": 144.752587,
+    "label": "Point Cook, VIC, Australia"
+  },
+  {
+    "Suburb": "Kilmore",
+    "Site_streetaddress": "Shop 1, Kilmore Village Shopping Centre, 109 Northern Highway",
+    "Site_state": "VIC",
+    "Site_postcode": "3764",
+    "confidence": 0.8,
+    "latitude": -37.286197,
+    "longitude": 144.948837,
+    "label": "109 Northern Highway, Kilmore, VIC, Australia"
   }
 ]
