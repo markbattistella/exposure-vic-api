@@ -15280,5 +15280,25 @@
     "latitude": -37.764378,
     "longitude": 144.83582,
     "label": "Sunshine North, VIC, Australia"
+  },
+  {
+    "Suburb": "Romsey",
+    "Site_streetaddress": "117 Main Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3434",
+    "confidence": 1,
+    "latitude": -37.34747,
+    "longitude": 144.742149,
+    "label": "117 Main Street, Romsey, VIC, Australia"
+  },
+  {
+    "Suburb": "Riddles Creek",
+    "Site_streetaddress": "8 Station Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3431",
+    "confidence": 0.3,
+    "latitude": -37.014348,
+    "longitude": 143.480452,
+    "label": "Victoria, Australia"
   }
 ]
