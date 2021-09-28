@@ -804,9 +804,8 @@
     "Site_state": "VIC",
     "Site_postcode": "3149",
     "confidence": 1,
-    "latitude": -37.8913889,
-    "longitude": 145.1417002,
-    "label": "Victoria, Australia"
+    "latitude": -37.8915404,
+    "longitude": 145.1439947
   },
   {
     "Suburb": "Footscray",
@@ -2043,9 +2042,8 @@
     "Site_state": "VIC",
     "Site_postcode": "3011",
     "confidence": 1,
-    "latitude": -37.7992425,
-    "longitude": 144.8957295,
-    "label": "Victoria Place Footscray, Footscray, VIC, Australia"
+    "latitude": -37.7992382,
+    "longitude": 144.8957242
   },
   {
     "Suburb": "West Footscray",
@@ -6788,9 +6786,8 @@
     "Site_state": "VIC",
     "Site_postcode": "3013",
     "confidence": 1,
-    "latitude": -37.813434,
-    "longitude": 144.8610063,
-    "label": "Victoria, Australia"
+    "latitude": -37.8132029,
+    "longitude": 144.8629208
   },
   {
     "Suburb": "Sunshine West",
@@ -6938,9 +6935,8 @@
     "Site_state": "VIC",
     "Site_postcode": "3061",
     "confidence": 1,
-    "latitude": -37.6885,
-    "longitude": 144.958402,
-    "label": "Victoria, Australia"
+    "latitude": -37.6880745,
+    "longitude": 144.9576463
   },
   {
     "Suburb": "West Footscray",
@@ -7948,9 +7944,8 @@
     "Site_state": "VIC",
     "Site_postcode": "3802",
     "confidence": 1,
-    "latitude": -37.9777085,
-    "longitude": 145.2556832,
-    "label": "Victoria, Australia"
+    "latitude": -37.9811819,
+    "longitude": 145.2537548
   },
   {
     "Suburb": "Essendon Fields",
@@ -8439,8 +8434,7 @@
     "Site_postcode": "3057",
     "confidence": 1,
     "latitude": -37.7687077,
-    "longitude": 144.9711273,
-    "label": "Victoria, Australia"
+    "longitude": 144.971122
   },
   {
     "Suburb": "Thomastown",
@@ -8618,9 +8612,8 @@
     "Site_state": "VIC",
     "Site_postcode": "3061",
     "confidence": 1,
-    "latitude": -37.7057511,
-    "longitude": 144.9436353,
-    "label": "Victoria, Australia"
+    "latitude": -37.6914554,
+    "longitude": 144.9651575
   },
   {
     "Suburb": "Mornington",
@@ -8781,16 +8774,6 @@
     "latitude": -37.768712,
     "longitude": 144.973316,
     "label": "38-40 Gale Street, Brunswick East, VIC, Australia"
-  },
-  {
-    "Suburb": null,
-    "Site_streetaddress": "Mahoneys Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3061",
-    "confidence": 1,
-    "latitude": -37.7057511,
-    "longitude": 144.9436353,
-    "label": "Victoria, Australia"
   },
   {
     "Suburb": "Camberwell",
@@ -8958,9 +8941,8 @@
     "Site_state": "VIC",
     "Site_postcode": "3064",
     "confidence": 1,
-    "latitude": -37.5931972,
-    "longitude": 144.9130822,
-    "label": "Victoria, Australia"
+    "latitude": -37.5922769,
+    "longitude": 144.9077641
   },
   {
     "Suburb": "Thomastown",
@@ -9421,16 +9403,6 @@
     "latitude": -37.5000971,
     "longitude": 144.589497,
     "label": "Gisborne - Macedon, VIC, Australia"
-  },
-  {
-    "Suburb": "Deanside",
-    "Site_streetaddress": "38 Conservatory Drive",
-    "Site_state": "VIC",
-    "Site_postcode": "3336",
-    "confidence": 1,
-    "latitude": -37.734529,
-    "longitude": 144.775054,
-    "label": "Victoria, Australia"
   },
   {
     "Suburb": "Reservoir",
@@ -10088,9 +10060,8 @@
     "Site_state": "VIC",
     "Site_postcode": "3222",
     "confidence": 1,
-    "latitude": -38.1734708,
-    "longitude": 144.5664193,
-    "label": "Victoria, Australia"
+    "latitude": -38.1734829,
+    "longitude": 144.5663541
   },
   {
     "Suburb": "Flemington",
@@ -10138,9 +10109,8 @@
     "Site_state": "VIC",
     "Site_postcode": "3222",
     "confidence": 1,
-    "latitude": -38.168859,
-    "longitude": 144.5426723,
-    "label": "Victoria, Australia"
+    "latitude": -38.1688548,
+    "longitude": 144.542667
   },
   {
     "Suburb": "Reservoir",
@@ -10381,26 +10351,6 @@
     "latitude": -37.650051,
     "longitude": 145.0735453,
     "label": "South Morang, VIC, Australia"
-  },
-  {
-    "Suburb": "Hadfield",
-    "Site_streetaddress": "199 Newbury Boulevard",
-    "Site_state": "VIC",
-    "Site_postcode": "3046",
-    "confidence": 1,
-    "latitude": -37.5717199,
-    "longitude": 144.9066111,
-    "label": "Victoria, Australia"
-  },
-  {
-    "Suburb": "Fairfield",
-    "Site_streetaddress": "Unit 2/45 Adrian Road ",
-    "Site_state": "VIC",
-    "Site_postcode": "3078",
-    "confidence": 1,
-    "latitude": -37.6593386,
-    "longitude": 144.9607589,
-    "label": "Fairfield, VIC, Australia"
   },
   {
     "Suburb": "Essendon West",
@@ -10739,9 +10689,8 @@
     "Site_state": "VIC",
     "Site_postcode": "3011",
     "confidence": 1,
-    "latitude": -37.800727,
-    "longitude": 144.901361,
-    "label": "Victoria Cake Shop, Footscray, VIC, Australia"
+    "latitude": -37.8009405,
+    "longitude": 144.8962259
   },
   {
     "Suburb": "Brunswick East",
@@ -15276,10 +15225,9 @@
     "Site_streetaddress": "438 - 460 Ballarat Road,",
     "Site_state": "VIC",
     "Site_postcode": "3020",
-    "confidence": 0.6,
-    "latitude": -37.764378,
-    "longitude": 144.83582,
-    "label": "Sunshine North, VIC, Australia"
+    "confidence": 1,
+    "latitude": -37.7764084,
+    "longitude": 144.8344256
   },
   {
     "Suburb": "Romsey",
@@ -15296,30 +15244,27 @@
     "Site_streetaddress": "8 Station Street",
     "Site_state": "VIC",
     "Site_postcode": "3431",
-    "confidence": 0.3,
-    "latitude": -37.014348,
-    "longitude": 143.480452,
-    "label": "Victoria, Australia"
+    "confidence": 1,
+    "latitude": -37.4635398,
+    "longitude": 144.6756618
   },
   {
     "Suburb": "Point Cook",
     "Site_streetaddress": "Suite 803, Level 1, Murnong Street",
     "Site_state": "VIC",
     "Site_postcode": "3030",
-    "confidence": 0.6,
-    "latitude": -37.90884,
-    "longitude": 144.752587,
-    "label": "Point Cook, VIC, Australia"
+    "confidence": 1,
+    "latitude": -37.8829631,
+    "longitude":144.732452
   },
   {
     "Suburb": "Kilmore",
     "Site_streetaddress": "Shop 1, Kilmore Village Shopping Centre, 109 Northern Highway",
     "Site_state": "VIC",
     "Site_postcode": "3764",
-    "confidence": 0.8,
-    "latitude": -37.286197,
-    "longitude": 144.948837,
-    "label": "109 Northern Highway, Kilmore, VIC, Australia"
+    "confidence": 1,
+    "latitude": -37.2862003,
+    "longitude": 144.9462668
   },
   {
     "Suburb": "Herne Hill",
@@ -15336,10 +15281,9 @@
     "Site_streetaddress": "Corner Pakington Street and Aberdeen Street",
     "Site_state": "VIC",
     "Site_postcode": "3218",
-    "confidence": 0.6,
-    "latitude": -38.150785,
-    "longitude": 144.361579,
-    "label": "Geelong, VIC, Australia"
+    "confidence": 1,
+    "latitude": -38.1466098,
+    "longitude": 144.3457591
   },
   {
     "Suburb": "Geelong West ",
@@ -15366,10 +15310,9 @@
     "Site_streetaddress": "1229 Howitt Street",
     "Site_state": "VIC",
     "Site_postcode": "3355",
-    "confidence": 0.6,
-    "latitude": -37.528719,
-    "longitude": 143.828534,
-    "label": "Wendouree, VIC, Australia"
+    "confidence": 1,
+    "latitude": -37.5404416,
+    "longitude": 143.8254895
   },
   {
     "Suburb": "Bakery Hill",
@@ -15386,10 +15329,9 @@
     "Site_streetaddress": "116 Creswick Road",
     "Site_state": "VIC",
     "Site_postcode": "3350",
-    "confidence": 0.4,
-    "latitude": -37.563892,
-    "longitude": 143.852395,
-    "label": "Ballarat, VIC, Australia"
+    "confidence": 1,
+    "latitude": -37.5549583,
+    "longitude": 143.8525159
   },
   {
     "Suburb": "Geelong West ",
@@ -15436,10 +15378,9 @@
     "Site_streetaddress": "Corner Miller Street and Wedge Street",
     "Site_state": "VIC",
     "Site_postcode": "3076",
-    "confidence": 0.6,
-    "latitude": -37.641564,
-    "longitude": 145.025908,
-    "label": "Epping, VIC, Australia"
+    "confidence": 1,
+    "latitude": -37.6503743,
+    "longitude": 145.0189258
   },
   {
     "Suburb": "Balwyn",
@@ -15456,20 +15397,18 @@
     "Site_streetaddress": "Shop 3A/42-44 Copernicus Cresent",
     "Site_state": "VIC",
     "Site_postcode": "3083",
-    "confidence": 0.6,
-    "latitude": -37.695471,
-    "longitude": 145.063341,
-    "label": "Bundoora, VIC, Australia"
+    "confidence": 1,
+    "latitude": -37.7118763,
+    "longitude": 145.0456145
   },
   {
     "Suburb": "Warragul",
     "Site_streetaddress": "Corner of Queen Street and Hazel Drive",
     "Site_state": "VIC",
     "Site_postcode": "3820",
-    "confidence": 0.6,
-    "latitude": -38.161766,
-    "longitude": 145.934879,
-    "label": "Warragul, VIC, Australia"
+    "confidence": 1,
+    "latitude": -38.1676303,
+    "longitude": 145.9503551
   },
   {
     "Suburb": "Keilor",
@@ -15506,10 +15445,9 @@
     "Site_streetaddress": "72-100 Young Street",
     "Site_state": "VIC",
     "Site_postcode": "3818",
-    "confidence": 0.3,
-    "latitude": -37.014348,
-    "longitude": 143.480452,
-    "label": "Victoria, Australia"
+    "confidence": 1,
+    "latitude": -38.1355534,
+    "longitude": 145.8556184
   },
   {
     "Suburb": "Kinglake",
@@ -15546,10 +15484,9 @@
     "Site_streetaddress": "Corner Grey Street and Franklin Street",
     "Site_state": "VIC",
     "Site_postcode": "3844",
-    "confidence": 0.6,
-    "latitude": -38.196566,
-    "longitude": 146.533757,
-    "label": "Traralgon, VIC, Australia"
+    "confidence": 1,
+    "latitude": -38.1940098,
+    "longitude": 146.5369489
   },
   {
     "Suburb": "Moe",
@@ -15606,10 +15543,9 @@
     "Site_streetaddress": "Suite 1, Level 3/73 Little Ryrie Street",
     "Site_state": "VIC",
     "Site_postcode": "3220",
-    "confidence": 0.6,
-    "latitude": -38.150785,
-    "longitude": 144.361579,
-    "label": "Geelong, VIC, Australia"
+    "confidence": 1,
+    "latitude": -38.1512548,
+    "longitude": 144.360615
   },
   {
     "Suburb": "Brunswick West",
@@ -15636,10 +15572,9 @@
     "Site_streetaddress": "115 Princes Highway Corner Breed Street",
     "Site_state": "VIC",
     "Site_postcode": "3844",
-    "confidence": 0.6,
-    "latitude": -38.196566,
-    "longitude": 146.533757,
-    "label": "Traralgon, VIC, Australia"
+    "confidence": 1,
+    "latitude": -38.199326,
+    "longitude": 146.5320405
   },
   {
     "Suburb": "Officer",
@@ -15656,30 +15591,27 @@
     "Site_streetaddress": "25-47 Horne Street",
     "Site_state": "VIC",
     "Site_postcode": "3429",
-    "confidence": 0.6,
-    "latitude": -37.578841,
-    "longitude": 144.72144,
-    "label": "Sunbury, VIC, Australia"
+    "confidence": 1,
+    "latitude": -37.5781327,
+    "longitude": 144.7253294
   },
   {
     "Suburb": "Gisborne",
     "Site_streetaddress": "Corner Aitken and Robertson Street",
     "Site_state": "VIC",
     "Site_postcode": "3447",
-    "confidence": 0.8,
-    "latitude": -37.60682,
-    "longitude": 144.895706,
-    "label": "Aitken Hill Conference & Events Centre, Yuroke, VIC, Australia"
+    "confidence": 1,
+    "latitude": -37.4860133,
+    "longitude": 144.5909273
   },
   {
     "Suburb": "Pakenham",
     "Site_streetaddress": "56-58 Bald Hill Road",
     "Site_state": "VIC",
     "Site_postcode": "3810",
-    "confidence": 0.6,
-    "latitude": -38.069973,
-    "longitude": 145.481144,
-    "label": "Pakenham, VIC, Australia"
+    "confidence": 1,
+    "latitude": -38.0838111,
+    "longitude": 145.491445
   },
   {
     "Suburb": "Caroline Springs",
@@ -15716,10 +15648,9 @@
     "Site_streetaddress": "Craigieburn Road and Aitken Boulevard",
     "Site_state": "VIC",
     "Site_postcode": "3064",
-    "confidence": 0.6,
-    "latitude": -37.590804,
-    "longitude": 144.933042,
-    "label": "Craigieburn, VIC, Australia"
+    "confidence": 1,
+    "latitude": -37.5931637,
+    "longitude": 144.912764
   },
   {
     "Suburb": "Craigieburn",
@@ -15786,10 +15717,9 @@
     "Site_streetaddress": "Seymour Street",
     "Site_state": "VIC",
     "Site_postcode": "3844",
-    "confidence": 0.6,
-    "latitude": -38.196566,
-    "longitude": 146.533757,
-    "label": "Traralgon, VIC, Australia"
+    "confidence": 1,
+    "latitude": -38.1962542,
+    "longitude": 146.5317429
   },
   {
     "Suburb": "Melbourne",
@@ -15826,30 +15756,27 @@
     "Site_streetaddress": "Corner Vestan Drive and Hollie Drive",
     "Site_state": "VIC",
     "Site_postcode": "3840",
-    "confidence": 0.6,
-    "latitude": -38.230813,
-    "longitude": 146.414345,
-    "label": "Morwell, VIC, Australia"
+    "confidence": 1,
+    "latitude": -38.2343784,
+    "longitude": 146.432373
   },
   {
     "Suburb": "Traralgon",
     "Site_streetaddress": "19-17 Princes Highway",
     "Site_state": "VIC",
     "Site_postcode": "3844",
-    "confidence": 0.6,
-    "latitude": -38.196566,
-    "longitude": 146.533757,
-    "label": "Traralgon, VIC, Australia"
+    "confidence": 1,
+    "latitude": -38.1978366,
+    "longitude": 146.5386517
   },
   {
     "Suburb": "Daylesford",
     "Site_streetaddress": "Bridport Street",
     "Site_state": "VIC",
     "Site_postcode": "3460",
-    "confidence": 0.6,
-    "latitude": -37.355599,
-    "longitude": 144.13905,
-    "label": "Daylesford, VIC, Australia"
+    "confidence": 1,
+    "latitude": -37.3424105,
+    "longitude": 144.1404966
   },
   {
     "Suburb": "Daylesford",
@@ -15876,20 +15803,18 @@
     "Site_streetaddress": "133 Inglis Street",
     "Site_state": "VIC",
     "Site_postcode": "3342",
-    "confidence": 0.3,
-    "latitude": -37.014348,
-    "longitude": 143.480452,
-    "label": "Victoria, Australia"
+    "confidence": 1,
+    "latitude": -37.6004171,
+    "longitude": 144.2230232
   },
   {
     "Suburb": "Ballan",
     "Site_streetaddress": "135 Inglis Street",
     "Site_state": "VIC",
     "Site_postcode": "3342",
-    "confidence": 0.3,
-    "latitude": -37.014348,
-    "longitude": 143.480452,
-    "label": "Victoria, Australia"
+    "confidence": 1,
+    "latitude": -37.6004443,
+    "longitude": 144.2227629
   },
   {
     "Suburb": "Werribee",
