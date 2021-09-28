@@ -15700,5 +15700,25 @@
     "latitude": -37.485624,
     "longitude": 144.587728,
     "label": "23A Robertson Street, Gisborne, VIC, Australia"
+  },
+  {
+    "Suburb": "Kerang",
+    "Site_streetaddress": "12 Nolan Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3579",
+    "confidence": 1,
+    "latitude": -35.734029,
+    "longitude": 143.917156,
+    "label": "12 Nolan Street, Kerang, VIC, Australia"
+  },
+  {
+    "Suburb": "Craigieburn",
+    "Site_streetaddress": "Craigieburn Road and Aitken Boulevard",
+    "Site_state": "VIC",
+    "Site_postcode": "3064",
+    "confidence": 0.6,
+    "latitude": -37.590804,
+    "longitude": 144.933042,
+    "label": "Craigieburn, VIC, Australia"
   }
 ]
