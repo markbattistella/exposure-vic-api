@@ -1,5 +1,27 @@
 [
   {
+    "_id": 8,
+    "Suburb": "Shepparton",
+    "Site_title": "Male Staff Toilet - Shepparton Marketplace",
+    "Site_streetaddress": "110 Benalla Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3630",
+    "Exposure_date_dtm": "2021-09-25",
+    "Exposure_date": "25/09/2021",
+    "Exposure_time": "9:00am - 4:00pm",
+    "Notes": "Case attended venue",
+    "Added_date_dtm": "2021-09-28",
+    "Added_date": "28/09/2021",
+    "Added_time": "17:52:00",
+    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
+    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
+    "Exposure_time_start_24": "09:00:00",
+    "Exposure_time_end_24": "16:00:00",
+    "dhid": "C8F4",
+    "latitude": -36.386532,
+    "longitude": 145.424029
+  },
+  {
     "_id": 1,
     "Suburb": "Coolaroo",
     "Site_title": "Bushfield Crescent Fish and Chips",
@@ -150,28 +172,6 @@
     "Exposure_time_start_24": "10:00:00",
     "Exposure_time_end_24": "16:00:00",
     "dhid": "B9F6",
-    "latitude": -36.386532,
-    "longitude": 145.424029
-  },
-  {
-    "_id": 8,
-    "Suburb": "Shepparton",
-    "Site_title": "Male Staff Toilet - Shepparton Marketplace",
-    "Site_streetaddress": "110 Benalla Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3630",
-    "Exposure_date_dtm": "2021-09-25",
-    "Exposure_date": "25/09/2021",
-    "Exposure_time": "9:00am - 4:00pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-09-28",
-    "Added_date": "28/09/2021",
-    "Added_time": "17:52:00",
-    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
-    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
-    "Exposure_time_start_24": "09:00:00",
-    "Exposure_time_end_24": "16:00:00",
-    "dhid": "C8F4",
     "latitude": -36.386532,
     "longitude": 145.424029
   },
@@ -394,28 +394,6 @@
     "dhid": "E8B8",
     "latitude": -37.772988,
     "longitude": 144.915731
-  },
-  {
-    "_id": 43,
-    "Suburb": "Moonee Ponds",
-    "Site_title": "Godfrey's Butcher - Moonee Ponds Central Shopping Centre",
-    "Site_streetaddress": "20 Homer Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3039",
-    "Exposure_date_dtm": "2021-09-22",
-    "Exposure_date": "22/09/2021",
-    "Exposure_time": "9:30am - 6:30pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-09-27",
-    "Added_date": "27/09/2021",
-    "Added_time": "19:49:00",
-    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
-    "Exposure_time_start_24": "09:30:00",
-    "Exposure_time_end_24": "18:30:00",
-    "dhid": "E9B2",
-    "latitude": -37.764776,
-    "longitude": 144.920776
   },
   {
     "_id": 20,
@@ -792,28 +770,6 @@
     "longitude": 145.047809
   },
   {
-    "_id": 44,
-    "Suburb": "Moonee Ponds",
-    "Site_title": "Godfrey's Butcher - Moonee Ponds Central Shopping Centre",
-    "Site_streetaddress": "20 Homer Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3039",
-    "Exposure_date_dtm": "2021-09-23",
-    "Exposure_date": "23/09/2021",
-    "Exposure_time": "9:30am - 4:30pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-09-27",
-    "Added_date": "27/09/2021",
-    "Added_time": "19:49:00",
-    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
-    "Exposure_time_start_24": "09:30:00",
-    "Exposure_time_end_24": "16:30:00",
-    "dhid": "E6E5",
-    "latitude": -37.764776,
-    "longitude": 144.920776
-  },
-  {
     "_id": 37,
     "Suburb": "Bundoora",
     "Site_title": "We Meat Again - Polaris",
@@ -834,6 +790,28 @@
     "dhid": "B6K5",
     "latitude": -37.711881,
     "longitude": 145.047809
+  },
+  {
+    "_id": 44,
+    "Suburb": "Moonee Ponds",
+    "Site_title": "Godfrey's Butcher - Moonee Ponds Central Shopping Centre",
+    "Site_streetaddress": "20 Homer Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3039",
+    "Exposure_date_dtm": "2021-09-23",
+    "Exposure_date": "23/09/2021",
+    "Exposure_time": "9:30am - 4:30pm",
+    "Notes": "Case attended venue",
+    "Added_date_dtm": "2021-09-27",
+    "Added_date": "27/09/2021",
+    "Added_time": "19:49:00",
+    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
+    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
+    "Exposure_time_start_24": "09:30:00",
+    "Exposure_time_end_24": "16:30:00",
+    "dhid": "E6E5",
+    "latitude": -37.764776,
+    "longitude": 144.920776
   },
   {
     "_id": 38,
@@ -944,6 +922,50 @@
     "dhid": "A2P7",
     "latitude": -37.716828,
     "longitude": 144.836046
+  },
+  {
+    "_id": 43,
+    "Suburb": "Moonee Ponds",
+    "Site_title": "Godfrey's Butcher - Moonee Ponds Central Shopping Centre",
+    "Site_streetaddress": "20 Homer Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3039",
+    "Exposure_date_dtm": "2021-09-22",
+    "Exposure_date": "22/09/2021",
+    "Exposure_time": "9:30am - 6:30pm",
+    "Notes": "Case attended venue",
+    "Added_date_dtm": "2021-09-27",
+    "Added_date": "27/09/2021",
+    "Added_time": "19:49:00",
+    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
+    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
+    "Exposure_time_start_24": "09:30:00",
+    "Exposure_time_end_24": "18:30:00",
+    "dhid": "E9B2",
+    "latitude": -37.764776,
+    "longitude": 144.920776
+  },
+  {
+    "_id": 75,
+    "Suburb": "Herne Hill",
+    "Site_title": "Bottlemart Express",
+    "Site_streetaddress": "11 Minerva Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3218",
+    "Exposure_date_dtm": "2021-09-19",
+    "Exposure_date": "19/09/2021",
+    "Exposure_time": "8:00pm - 8:40pm",
+    "Notes": "Case attended venue",
+    "Added_date_dtm": "2021-09-27",
+    "Added_date": "27/09/2021",
+    "Added_time": "14:06:00",
+    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
+    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
+    "Exposure_time_start_24": "20:00:00",
+    "Exposure_time_end_24": "20:40:00",
+    "dhid": "A7N2",
+    "latitude": -38.130321,
+    "longitude": 144.33156
   },
   {
     "_id": 45,
@@ -1474,26 +1496,26 @@
     "longitude": 146.723867
   },
   {
-    "_id": 75,
-    "Suburb": "Herne Hill",
-    "Site_title": "Bottlemart Express",
-    "Site_streetaddress": "11 Minerva Road",
+    "_id": 76,
+    "Suburb": "Geelong",
+    "Site_title": "Bendigo Bank",
+    "Site_streetaddress": "Corner Pakington Street and Aberdeen Street",
     "Site_state": "VIC",
     "Site_postcode": "3218",
-    "Exposure_date_dtm": "2021-09-19",
-    "Exposure_date": "19/09/2021",
-    "Exposure_time": "8:00pm - 8:40pm",
+    "Exposure_date_dtm": "2021-09-23",
+    "Exposure_date": "23/09/2021",
+    "Exposure_time": "4:45pm - 5:20pm",
     "Notes": "Case attended venue",
     "Added_date_dtm": "2021-09-27",
     "Added_date": "27/09/2021",
     "Added_time": "14:06:00",
     "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
     "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
-    "Exposure_time_start_24": "20:00:00",
-    "Exposure_time_end_24": "20:40:00",
-    "dhid": "A7N2",
-    "latitude": -38.130321,
-    "longitude": 144.33156
+    "Exposure_time_start_24": "16:45:00",
+    "Exposure_time_end_24": "17:20:00",
+    "dhid": "C5V2",
+    "latitude": -38.150785,
+    "longitude": 144.361579
   },
   {
     "_id": 69,
@@ -1626,28 +1648,6 @@
     "dhid": "A9R5",
     "latitude": -37.563892,
     "longitude": 143.852395
-  },
-  {
-    "_id": 76,
-    "Suburb": "Geelong",
-    "Site_title": "Bendigo Bank",
-    "Site_streetaddress": "Corner Pakington Street and Aberdeen Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3218",
-    "Exposure_date_dtm": "2021-09-23",
-    "Exposure_date": "23/09/2021",
-    "Exposure_time": "4:45pm - 5:20pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-09-27",
-    "Added_date": "27/09/2021",
-    "Added_time": "14:06:00",
-    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
-    "Exposure_time_start_24": "16:45:00",
-    "Exposure_time_end_24": "17:20:00",
-    "dhid": "C5V2",
-    "latitude": -38.150785,
-    "longitude": 144.361579
   },
   {
     "_id": 77,
@@ -1912,28 +1912,6 @@
     "dhid": "D6H5",
     "latitude": -38.1949535,
     "longitude": 146.5376644
-  },
-  {
-    "_id": 150,
-    "Suburb": "Goornong",
-    "Site_title": "Construction Site",
-    "Site_streetaddress": "Mulcairs Lane Railway Crossing",
-    "Site_state": "VIC",
-    "Site_postcode": "3557",
-    "Exposure_date_dtm": "2021-09-21",
-    "Exposure_date": "21/09/2021",
-    "Exposure_time": "6:20am - 6:00pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-09-25",
-    "Added_date": "25/09/2021",
-    "Added_time": "20:20:00",
-    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
-    "Exposure_time_start_24": "06:20:00",
-    "Exposure_time_end_24": "18:00:00",
-    "dhid": "D4A5",
-    "latitude": -36.6156754,
-    "longitude": 144.5026342
   },
   {
     "_id": 89,
@@ -2442,28 +2420,6 @@
     "longitude": 144.9927651
   },
   {
-    "_id": 129,
-    "Suburb": "Mickleham",
-    "Site_title": "Chemist Warehouse - Merrifield City Shopping Centre",
-    "Site_streetaddress": "250-270 Donnybrook Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3064",
-    "Exposure_date_dtm": "2021-09-21",
-    "Exposure_date": "21/09/2021",
-    "Exposure_time": "1:00pm - 9:30pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-09-25",
-    "Added_date": "25/09/2021",
-    "Added_time": "21:00:00",
-    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
-    "Exposure_time_start_24": "13:00:00",
-    "Exposure_time_end_24": "21:30:00",
-    "dhid": "D2D4",
-    "latitude": -37.537476,
-    "longitude": 144.922564
-  },
-  {
     "_id": 112,
     "Suburb": "Epping",
     "Site_title": "Melbourne Marketplace",
@@ -2484,6 +2440,28 @@
     "dhid": "B7C6",
     "latitude": -37.652977,
     "longitude": 144.9927651
+  },
+  {
+    "_id": 130,
+    "Suburb": "Watsonia",
+    "Site_title": "Da Vinci Pizza & Pasta Gallery Watsonia",
+    "Site_streetaddress": "361 Greensborough Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3087",
+    "Exposure_date_dtm": "2021-09-19",
+    "Exposure_date": "19/09/2021",
+    "Exposure_time": "5:30pm - 8:30pm",
+    "Notes": "Case attended venue",
+    "Added_date_dtm": "2021-09-25",
+    "Added_date": "25/09/2021",
+    "Added_time": "21:00:00",
+    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
+    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
+    "Exposure_time_start_24": "17:30:00",
+    "Exposure_time_end_24": "20:30:00",
+    "dhid": "D2H8",
+    "latitude": -37.713531,
+    "longitude": 145.082013
   },
   {
     "_id": 113,
@@ -2706,28 +2684,6 @@
     "longitude": 143.812986
   },
   {
-    "_id": 130,
-    "Suburb": "Watsonia",
-    "Site_title": "Da Vinci Pizza & Pasta Gallery Watsonia",
-    "Site_streetaddress": "361 Greensborough Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3087",
-    "Exposure_date_dtm": "2021-09-19",
-    "Exposure_date": "19/09/2021",
-    "Exposure_time": "5:30pm - 8:30pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-09-25",
-    "Added_date": "25/09/2021",
-    "Added_time": "21:00:00",
-    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
-    "Exposure_time_start_24": "17:30:00",
-    "Exposure_time_end_24": "20:30:00",
-    "dhid": "D2H8",
-    "latitude": -37.713531,
-    "longitude": 145.082013
-  },
-  {
     "_id": 123,
     "Suburb": "Alfredton",
     "Site_title": "Arch View Cafe",
@@ -2748,6 +2704,28 @@
     "dhid": "A9C9",
     "latitude": -37.552802,
     "longitude": 143.812986
+  },
+  {
+    "_id": 150,
+    "Suburb": "Goornong",
+    "Site_title": "Construction Site",
+    "Site_streetaddress": "Mulcairs Lane Railway Crossing",
+    "Site_state": "VIC",
+    "Site_postcode": "3557",
+    "Exposure_date_dtm": "2021-09-21",
+    "Exposure_date": "21/09/2021",
+    "Exposure_time": "6:20am - 6:00pm",
+    "Notes": "Case attended venue",
+    "Added_date_dtm": "2021-09-25",
+    "Added_date": "25/09/2021",
+    "Added_time": "20:20:00",
+    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
+    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
+    "Exposure_time_start_24": "06:20:00",
+    "Exposure_time_end_24": "18:00:00",
+    "dhid": "D4A5",
+    "latitude": -36.6156754,
+    "longitude": 144.5026342
   },
   {
     "_id": 124,
@@ -2858,6 +2836,28 @@
     "dhid": "C9A5",
     "latitude": -37.537077,
     "longitude": 143.822871
+  },
+  {
+    "_id": 129,
+    "Suburb": "Mickleham",
+    "Site_title": "Chemist Warehouse - Merrifield City Shopping Centre",
+    "Site_streetaddress": "250-270 Donnybrook Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3064",
+    "Exposure_date_dtm": "2021-09-21",
+    "Exposure_date": "21/09/2021",
+    "Exposure_time": "1:00pm - 9:30pm",
+    "Notes": "Case attended venue",
+    "Added_date_dtm": "2021-09-25",
+    "Added_date": "25/09/2021",
+    "Added_time": "21:00:00",
+    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
+    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
+    "Exposure_time_start_24": "13:00:00",
+    "Exposure_time_end_24": "21:30:00",
+    "dhid": "D2D4",
+    "latitude": -37.537476,
+    "longitude": 144.922564
   },
   {
     "_id": 131,
@@ -4582,8 +4582,8 @@
     "Site_streetaddress": "337 Bay Road",
     "Site_state": "VIC",
     "Site_postcode": "3192",
-    "Exposure_date_dtm": "2021-09-14",
-    "Exposure_date": "14/09/2021",
+    "Exposure_date_dtm": "2021-09-15",
+    "Exposure_date": "15/09/2021",
     "Exposure_time": "6:30am - 6:30pm",
     "Notes": "Case attended venue",
     "Added_date_dtm": "2021-09-17",
@@ -4593,7 +4593,7 @@
     "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
     "Exposure_time_start_24": "06:30:00",
     "Exposure_time_end_24": "18:30:00",
-    "dhid": "A8E2",
+    "dhid": "B3K4",
     "latitude": -37.9556154,
     "longitude": 145.0374164
   },
@@ -8933,28 +8933,6 @@
   },
   {
     "_id": 412,
-    "Suburb": "Wangaratta",
-    "Site_title": "Coles Wangaratta",
-    "Site_streetaddress": "Ryley Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3677",
-    "Exposure_date_dtm": "2021-09-19",
-    "Exposure_date": "19/09/2021",
-    "Exposure_time": "7:40pm - 8:50pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-09-21",
-    "Added_date": "21/09/2021",
-    "Added_time": "22:25:00",
-    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
-    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
-    "Exposure_time_start_24": "19:40:00",
-    "Exposure_time_end_24": "20:50:00",
-    "dhid": "A7R8",
-    "latitude": -36.3536685,
-    "longitude": 146.2896766
-  },
-  {
-    "_id": 413,
     "Suburb": "Hamilton",
     "Site_title": "Hamilton Townhouse Motel",
     "Site_streetaddress": "27 Shakespeare Street",
@@ -8976,7 +8954,7 @@
     "longitude": 142.022846
   },
   {
-    "_id": 414,
+    "_id": 413,
     "Suburb": "Hamilton",
     "Site_title": "Hamilton Townhouse Motel",
     "Site_streetaddress": "27 Shakespeare Street",
@@ -8998,7 +8976,7 @@
     "longitude": 142.022846
   },
   {
-    "_id": 415,
+    "_id": 414,
     "Suburb": "Hamilton",
     "Site_title": "Hamilton Townhouse Motel",
     "Site_streetaddress": "27 Shakespeare Street",
@@ -9020,7 +8998,7 @@
     "longitude": 142.022846
   },
   {
-    "_id": 416,
+    "_id": 415,
     "Suburb": "Bacchus Marsh",
     "Site_title": "The Shine Centre",
     "Site_streetaddress": "28 Grant Street",
@@ -9042,7 +9020,7 @@
     "longitude": 144.435114
   },
   {
-    "_id": 417,
+    "_id": 416,
     "Suburb": "Wangaratta",
     "Site_title": "Target Wangaratta",
     "Site_streetaddress": "86/90 Ovens Street",
@@ -9064,7 +9042,7 @@
     "longitude": 146.326945
   },
   {
-    "_id": 418,
+    "_id": 417,
     "Suburb": "Wangaratta",
     "Site_title": "Reject Shop Wangaratta",
     "Site_streetaddress": "Shop MM1/80 Ovens Street",
@@ -9086,7 +9064,7 @@
     "longitude": 146.324687
   },
   {
-    "_id": 419,
+    "_id": 418,
     "Suburb": "Wangaratta",
     "Site_title": "Woolworths Wangaratta",
     "Site_streetaddress": "45-49 Ovens Street",
@@ -9108,7 +9086,7 @@
     "longitude": 146.3212623
   },
   {
-    "_id": 420,
+    "_id": 419,
     "Suburb": "Derrimut",
     "Site_title": "Derrimut Primary School",
     "Site_streetaddress": "40 Lennon Parkway",
@@ -9130,7 +9108,7 @@
     "longitude": 144.763139
   },
   {
-    "_id": 421,
+    "_id": 420,
     "Suburb": "Preston",
     "Site_title": "Woolworths Northland Shopping Centre",
     "Site_streetaddress": "50 Murray Road East",
@@ -9152,29 +9130,7 @@
     "longitude": 145.0070925
   },
   {
-    "_id": 576,
-    "Suburb": "Cheltenham",
-    "Site_title": "Kids House Early Learning Cheltenham ",
-    "Site_streetaddress": "337 Bay Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3192",
-    "Exposure_date_dtm": "2021-09-15",
-    "Exposure_date": "15/09/2021",
-    "Exposure_time": "6:30am - 6:30pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-09-17",
-    "Added_date": "17/09/2021",
-    "Added_time": "21:20:00",
-    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
-    "Exposure_time_start_24": "06:30:00",
-    "Exposure_time_end_24": "18:30:00",
-    "dhid": "B3K4",
-    "latitude": -37.9556154,
-    "longitude": 145.0374164
-  },
-  {
-    "_id": 422,
+    "_id": 421,
     "Suburb": "Preston",
     "Site_title": "Woolworths Northland Shopping Centre",
     "Site_streetaddress": "50 Murray Road East",
@@ -9196,7 +9152,7 @@
     "longitude": 145.0070925
   },
   {
-    "_id": 423,
+    "_id": 422,
     "Suburb": "Preston",
     "Site_title": "Woolworths Northland Shopping Centre",
     "Site_streetaddress": "50 Murray Road East",
@@ -9218,7 +9174,7 @@
     "longitude": 145.0070925
   },
   {
-    "_id": 424,
+    "_id": 423,
     "Suburb": "Tarneit",
     "Site_title": "Chemist Warehouse - Tarneit Gardens Shopping Centre",
     "Site_streetaddress": "Shop 17-18, 742 Tarneit Road",
@@ -9240,7 +9196,7 @@
     "longitude": 144.6727134
   },
   {
-    "_id": 425,
+    "_id": 424,
     "Suburb": "Darley",
     "Site_title": "Pentland Childcare and Kindergarten",
     "Site_streetaddress": "138 Halletts Way",
@@ -9262,7 +9218,7 @@
     "longitude": 144.424599
   },
   {
-    "_id": 426,
+    "_id": 425,
     "Suburb": "St Albans",
     "Site_title": "Future Medical Imaging Group St Albans",
     "Site_streetaddress": "101-103 Main Road",
@@ -9284,7 +9240,7 @@
     "longitude": 144.7943943
   },
   {
-    "_id": 427,
+    "_id": 426,
     "Suburb": "Melbourne",
     "Site_title": "The Alfred Hospital ED Main Wait Room",
     "Site_streetaddress": "Ground Floor, 55 Commercial Road",
@@ -9306,7 +9262,7 @@
     "longitude": 144.982784
   },
   {
-    "_id": 428,
+    "_id": 427,
     "Suburb": "Berwick",
     "Site_title": "Casey Hospital Emergency Department Waiting Room",
     "Site_streetaddress": "62-70 Kangan Drive",
@@ -9328,7 +9284,7 @@
     "longitude": 145.345815
   },
   {
-    "_id": 429,
+    "_id": 428,
     "Suburb": "Dandenong",
     "Site_title": "Dandenong Hospital Emergency Main Waiting Room",
     "Site_streetaddress": "135 David Street",
@@ -9350,7 +9306,7 @@
     "longitude": 145.220576
   },
   {
-    "_id": 430,
+    "_id": 429,
     "Suburb": "Dandenong",
     "Site_title": "Dandenong Hospital Emergency Clinic Waiting Room",
     "Site_streetaddress": "135 David Street",
@@ -9372,7 +9328,7 @@
     "longitude": 145.220576
   },
   {
-    "_id": 431,
+    "_id": 430,
     "Suburb": "Mickleham",
     "Site_title": "Daniel's Donuts Merrifield",
     "Site_streetaddress": "270 Donnybrook Road",
@@ -9394,7 +9350,7 @@
     "longitude": 144.921456
   },
   {
-    "_id": 432,
+    "_id": 431,
     "Suburb": "Mickleham",
     "Site_title": "Daniel's Donuts Merrifield",
     "Site_streetaddress": "270 Donnybrook Road",
@@ -9416,7 +9372,7 @@
     "longitude": 144.921456
   },
   {
-    "_id": 433,
+    "_id": 432,
     "Suburb": "Wangaratta",
     "Site_title": "Supercheap Auto Wangaratta",
     "Site_streetaddress": "14-24 Parfitt Road",
@@ -9438,7 +9394,7 @@
     "longitude": 146.333119
   },
   {
-    "_id": 434,
+    "_id": 433,
     "Suburb": "Wangaratta",
     "Site_title": "Officeworks Wangaratta",
     "Site_streetaddress": "14/24 Parfitt Road",
@@ -9460,7 +9416,7 @@
     "longitude": 146.333119
   },
   {
-    "_id": 435,
+    "_id": 434,
     "Suburb": "Wangaratta",
     "Site_title": "Aldi Wangaratta",
     "Site_streetaddress": "13/15 Chisholm Street",
@@ -9482,7 +9438,7 @@
     "longitude": 146.32828
   },
   {
-    "_id": 436,
+    "_id": 435,
     "Suburb": "Wangaratta",
     "Site_title": "Chicken Time Wangaratta",
     "Site_streetaddress": "24 Faithreetfull St",
@@ -9504,7 +9460,7 @@
     "longitude": 146.3264254
   },
   {
-    "_id": 437,
+    "_id": 436,
     "Suburb": "Wangaratta",
     "Site_title": "Bunnings Wangaratta",
     "Site_streetaddress": "95/103 Tone Road",
@@ -9526,7 +9482,7 @@
     "longitude": 146.300309
   },
   {
-    "_id": 438,
+    "_id": 437,
     "Suburb": "Koo Wee Rup",
     "Site_title": "Westernport Child Care Centre & Kindergarten",
     "Site_streetaddress": "344 Rossiter Road",
@@ -9548,7 +9504,7 @@
     "longitude": 145.492996
   },
   {
-    "_id": 439,
+    "_id": 438,
     "Suburb": "Mill Park",
     "Site_title": "Mill Park Superclinic Pharmacy",
     "Site_streetaddress": "250 Childs Road",
@@ -9570,7 +9526,7 @@
     "longitude": 145.051693
   },
   {
-    "_id": 440,
+    "_id": 439,
     "Suburb": "Airport West",
     "Site_title": "ALDI Airport West",
     "Site_streetaddress": "29-35 Louis Street",
@@ -9592,7 +9548,7 @@
     "longitude": 144.889386
   },
   {
-    "_id": 441,
+    "_id": 440,
     "Suburb": "Ballarat",
     "Site_title": "Ballarat GovHub",
     "Site_streetaddress": "101 Armstrong Street North",
@@ -9614,7 +9570,7 @@
     "longitude": 143.8550467
   },
   {
-    "_id": 442,
+    "_id": 441,
     "Suburb": "Ballarat",
     "Site_title": "Ballarat GovHub",
     "Site_streetaddress": "101 Armstrong Street North",
@@ -9636,7 +9592,7 @@
     "longitude": 143.8550467
   },
   {
-    "_id": 443,
+    "_id": 442,
     "Suburb": "Ballarat",
     "Site_title": "Ballarat GovHub",
     "Site_streetaddress": "101 Armstrong Street North",
@@ -9658,7 +9614,7 @@
     "longitude": 143.8550467
   },
   {
-    "_id": 444,
+    "_id": 443,
     "Suburb": "Ballarat",
     "Site_title": "Ballarat GovHub",
     "Site_streetaddress": "101 Armstrong Street North",
@@ -9680,7 +9636,7 @@
     "longitude": 143.8550467
   },
   {
-    "_id": 445,
+    "_id": 444,
     "Suburb": "Ballarat",
     "Site_title": "Ballarat GovHub",
     "Site_streetaddress": "101 Armstrong Street North",
@@ -9702,7 +9658,7 @@
     "longitude": 143.8550467
   },
   {
-    "_id": 446,
+    "_id": 445,
     "Suburb": "Lara",
     "Site_title": "Coles Lara Village Shopping Centre",
     "Site_streetaddress": "2-4 Waverly Road",
@@ -9724,7 +9680,7 @@
     "longitude": 145.044577
   },
   {
-    "_id": 447,
+    "_id": 446,
     "Suburb": "Bacchus Marsh",
     "Site_title": "Vinnies Bacchus Marsh",
     "Site_streetaddress": "8 Grant Street",
@@ -9746,7 +9702,7 @@
     "longitude": 144.435439
   },
   {
-    "_id": 448,
+    "_id": 447,
     "Suburb": "Lara",
     "Site_title": "Rods Bakery",
     "Site_streetaddress": "20 Patullos Road",
@@ -9768,7 +9724,7 @@
     "longitude": 144.39553
   },
   {
-    "_id": 449,
+    "_id": 448,
     "Suburb": "Corio",
     "Site_title": "Kmart Corio Villiage Shopping Centre",
     "Site_streetaddress": "Corner Bacchus Marsh & Purnell Roads",
@@ -9790,7 +9746,7 @@
     "longitude": 144.3561581
   },
   {
-    "_id": 450,
+    "_id": 449,
     "Suburb": "Corio",
     "Site_title": "Peak Pharmacy Corio Village Shopping Centre",
     "Site_streetaddress": "Corner Bacchus Marsh & Purnell Roads",
@@ -9812,7 +9768,7 @@
     "longitude": 144.3561581
   },
   {
-    "_id": 451,
+    "_id": 450,
     "Suburb": "Geelong West",
     "Site_title": "The Village Door",
     "Site_streetaddress": "156 Pakington Street",
@@ -9834,7 +9790,7 @@
     "longitude": 144.348727
   },
   {
-    "_id": 452,
+    "_id": 451,
     "Suburb": "Campbellfield",
     "Site_title": "Burgies Campbellfield",
     "Site_streetaddress": "3/1488 Sydney Road",
@@ -9856,7 +9812,7 @@
     "longitude": 144.95803
   },
   {
-    "_id": 453,
+    "_id": 452,
     "Suburb": "Pakenham",
     "Site_title": "St. Antony Medical Centre",
     "Site_streetaddress": "2-6 Princes Highway",
@@ -9878,7 +9834,7 @@
     "longitude": 145.488227
   },
   {
-    "_id": 454,
+    "_id": 453,
     "Suburb": "Torquay",
     "Site_title": "4 Pines Torquay",
     "Site_streetaddress": "1/61 Surf Coast Highway",
@@ -9900,7 +9856,7 @@
     "longitude": 144.3148279
   },
   {
-    "_id": 455,
+    "_id": 454,
     "Suburb": "Werribee",
     "Site_title": "Werribee Post Shop",
     "Site_streetaddress": "175 Watton Street",
@@ -9922,7 +9878,7 @@
     "longitude": 144.658087
   },
   {
-    "_id": 456,
+    "_id": 455,
     "Suburb": "Campbellfield",
     "Site_title": "Raptor Gas Springs",
     "Site_streetaddress": "29 Lara Way",
@@ -9944,7 +9900,7 @@
     "longitude": 144.967829
   },
   {
-    "_id": 457,
+    "_id": 456,
     "Suburb": "Campbellfield",
     "Site_title": "Raptor Gas Springs",
     "Site_streetaddress": "29 Lara Way",
@@ -9966,7 +9922,7 @@
     "longitude": 144.967829
   },
   {
-    "_id": 458,
+    "_id": 457,
     "Suburb": "Campbellfield",
     "Site_title": "Burgies Campbellfield",
     "Site_streetaddress": "3/1488 Sydney Road",
@@ -9988,29 +9944,7 @@
     "longitude": 144.95803
   },
   {
-    "_id": 465,
-    "Suburb": "Tullamarine",
-    "Site_title": "NCI Packaging",
-    "Site_streetaddress": "76 - 80 Lambeck Drive",
-    "Site_state": "VIC",
-    "Site_postcode": "3043",
-    "Exposure_date_dtm": "2021-09-16",
-    "Exposure_date": "16/09/2021",
-    "Exposure_time": "7:00am - 3:30pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-09-20",
-    "Added_date": "20/09/2021",
-    "Added_time": "22:22:00",
-    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
-    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
-    "Exposure_time_start_24": "07:00:00",
-    "Exposure_time_end_24": "15:30:00",
-    "dhid": "B7B8",
-    "latitude": -37.709148,
-    "longitude": 144.852968
-  },
-  {
-    "_id": 459,
+    "_id": 458,
     "Suburb": "Campbellfield",
     "Site_title": "Burgies Campbellfield",
     "Site_streetaddress": "3/1488 Sydney Road",
@@ -10032,117 +9966,7 @@
     "longitude": 144.95803
   },
   {
-    "_id": 460,
-    "Suburb": "Epping",
-    "Site_title": "EU Automotive Industries Epping",
-    "Site_streetaddress": "8/17 Lydia Court",
-    "Site_state": "VIC",
-    "Site_postcode": "3076",
-    "Exposure_date_dtm": "2021-09-14",
-    "Exposure_date": "14/09/2021",
-    "Exposure_time": "9:00am - 5:30pm",
-    "Notes": "Case attended venue. Some individuals will be Tier 1 contacts required to quarantine for 14 days and the Department will contact them directly with this advice.",
-    "Added_date_dtm": "2021-09-20",
-    "Added_date": "20/09/2021",
-    "Added_time": "22:22:00",
-    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
-    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
-    "Exposure_time_start_24": "09:00:00",
-    "Exposure_time_end_24": "17:30:00",
-    "dhid": "C7N9",
-    "latitude": -37.647297,
-    "longitude": 145.002174
-  },
-  {
-    "_id": 461,
-    "Suburb": "Epping",
-    "Site_title": "EU Automotive Industries Epping",
-    "Site_streetaddress": "8/17 Lydia Court",
-    "Site_state": "VIC",
-    "Site_postcode": "3076",
-    "Exposure_date_dtm": "2021-09-15",
-    "Exposure_date": "15/09/2021",
-    "Exposure_time": "9:00am - 5:30pm",
-    "Notes": "Case attended venue. Some individuals will be Tier 1 contacts required to quarantine for 14 days and the Department will contact them directly with this advice.",
-    "Added_date_dtm": "2021-09-20",
-    "Added_date": "20/09/2021",
-    "Added_time": "22:22:00",
-    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
-    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
-    "Exposure_time_start_24": "09:00:00",
-    "Exposure_time_end_24": "17:30:00",
-    "dhid": "D9D8",
-    "latitude": -37.647297,
-    "longitude": 145.002174
-  },
-  {
-    "_id": 462,
-    "Suburb": "Epping",
-    "Site_title": "EU Automotive Industries Epping",
-    "Site_streetaddress": "8/17 Lydia Court",
-    "Site_state": "VIC",
-    "Site_postcode": "3076",
-    "Exposure_date_dtm": "2021-09-16",
-    "Exposure_date": "16/09/2021",
-    "Exposure_time": "9:00am - 5:30pm",
-    "Notes": "Case attended venue. Some individuals will be Tier 1 contacts required to quarantine for 14 days and the Department will contact them directly with this advice.",
-    "Added_date_dtm": "2021-09-20",
-    "Added_date": "20/09/2021",
-    "Added_time": "22:22:00",
-    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
-    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
-    "Exposure_time_start_24": "09:00:00",
-    "Exposure_time_end_24": "17:30:00",
-    "dhid": "C8M2",
-    "latitude": -37.647297,
-    "longitude": 145.002174
-  },
-  {
-    "_id": 463,
-    "Suburb": "Epping",
-    "Site_title": "EU Automotive Industries Epping",
-    "Site_streetaddress": "8/17 Lydia Court",
-    "Site_state": "VIC",
-    "Site_postcode": "3076",
-    "Exposure_date_dtm": "2021-09-17",
-    "Exposure_date": "17/09/2021",
-    "Exposure_time": "9:00am - 5:30pm",
-    "Notes": "Case attended venue. Some individuals will be Tier 1 contacts required to quarantine for 14 days and the Department will contact them directly with this advice.",
-    "Added_date_dtm": "2021-09-20",
-    "Added_date": "20/09/2021",
-    "Added_time": "22:22:00",
-    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
-    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
-    "Exposure_time_start_24": "09:00:00",
-    "Exposure_time_end_24": "17:30:00",
-    "dhid": "C5T2",
-    "latitude": -37.647297,
-    "longitude": 145.002174
-  },
-  {
-    "_id": 464,
-    "Suburb": "Tullamarine",
-    "Site_title": "NCI Packaging",
-    "Site_streetaddress": "76 - 80 Lambeck Drive",
-    "Site_state": "VIC",
-    "Site_postcode": "3043",
-    "Exposure_date_dtm": "2021-09-15",
-    "Exposure_date": "15/09/2021",
-    "Exposure_time": "7:00am - 3:30pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-09-20",
-    "Added_date": "20/09/2021",
-    "Added_time": "22:22:00",
-    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
-    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
-    "Exposure_time_start_24": "07:00:00",
-    "Exposure_time_end_24": "15:30:00",
-    "dhid": "C3T4",
-    "latitude": -37.709148,
-    "longitude": 144.852968
-  },
-  {
-    "_id": 466,
+    "_id": 465,
     "Suburb": "Craigieburn",
     "Site_title": "Ribs & Burgers - Craigieburn Central",
     "Site_streetaddress": "Shop BOO-07, 340 Craigieburn Road",
@@ -10164,7 +9988,139 @@
     "longitude": 144.915623
   },
   {
-    "_id": 467,
+    "_id": 459,
+    "Suburb": "Epping",
+    "Site_title": "EU Automotive Industries Epping",
+    "Site_streetaddress": "8/17 Lydia Court",
+    "Site_state": "VIC",
+    "Site_postcode": "3076",
+    "Exposure_date_dtm": "2021-09-14",
+    "Exposure_date": "14/09/2021",
+    "Exposure_time": "9:00am - 5:30pm",
+    "Notes": "Case attended venue. Some individuals will be Tier 1 contacts required to quarantine for 14 days and the Department will contact them directly with this advice.",
+    "Added_date_dtm": "2021-09-20",
+    "Added_date": "20/09/2021",
+    "Added_time": "22:22:00",
+    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
+    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
+    "Exposure_time_start_24": "09:00:00",
+    "Exposure_time_end_24": "17:30:00",
+    "dhid": "C7N9",
+    "latitude": -37.647297,
+    "longitude": 145.002174
+  },
+  {
+    "_id": 460,
+    "Suburb": "Epping",
+    "Site_title": "EU Automotive Industries Epping",
+    "Site_streetaddress": "8/17 Lydia Court",
+    "Site_state": "VIC",
+    "Site_postcode": "3076",
+    "Exposure_date_dtm": "2021-09-15",
+    "Exposure_date": "15/09/2021",
+    "Exposure_time": "9:00am - 5:30pm",
+    "Notes": "Case attended venue. Some individuals will be Tier 1 contacts required to quarantine for 14 days and the Department will contact them directly with this advice.",
+    "Added_date_dtm": "2021-09-20",
+    "Added_date": "20/09/2021",
+    "Added_time": "22:22:00",
+    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
+    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
+    "Exposure_time_start_24": "09:00:00",
+    "Exposure_time_end_24": "17:30:00",
+    "dhid": "D9D8",
+    "latitude": -37.647297,
+    "longitude": 145.002174
+  },
+  {
+    "_id": 461,
+    "Suburb": "Epping",
+    "Site_title": "EU Automotive Industries Epping",
+    "Site_streetaddress": "8/17 Lydia Court",
+    "Site_state": "VIC",
+    "Site_postcode": "3076",
+    "Exposure_date_dtm": "2021-09-16",
+    "Exposure_date": "16/09/2021",
+    "Exposure_time": "9:00am - 5:30pm",
+    "Notes": "Case attended venue. Some individuals will be Tier 1 contacts required to quarantine for 14 days and the Department will contact them directly with this advice.",
+    "Added_date_dtm": "2021-09-20",
+    "Added_date": "20/09/2021",
+    "Added_time": "22:22:00",
+    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
+    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
+    "Exposure_time_start_24": "09:00:00",
+    "Exposure_time_end_24": "17:30:00",
+    "dhid": "C8M2",
+    "latitude": -37.647297,
+    "longitude": 145.002174
+  },
+  {
+    "_id": 462,
+    "Suburb": "Epping",
+    "Site_title": "EU Automotive Industries Epping",
+    "Site_streetaddress": "8/17 Lydia Court",
+    "Site_state": "VIC",
+    "Site_postcode": "3076",
+    "Exposure_date_dtm": "2021-09-17",
+    "Exposure_date": "17/09/2021",
+    "Exposure_time": "9:00am - 5:30pm",
+    "Notes": "Case attended venue. Some individuals will be Tier 1 contacts required to quarantine for 14 days and the Department will contact them directly with this advice.",
+    "Added_date_dtm": "2021-09-20",
+    "Added_date": "20/09/2021",
+    "Added_time": "22:22:00",
+    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
+    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
+    "Exposure_time_start_24": "09:00:00",
+    "Exposure_time_end_24": "17:30:00",
+    "dhid": "C5T2",
+    "latitude": -37.647297,
+    "longitude": 145.002174
+  },
+  {
+    "_id": 463,
+    "Suburb": "Tullamarine",
+    "Site_title": "NCI Packaging",
+    "Site_streetaddress": "76 - 80 Lambeck Drive",
+    "Site_state": "VIC",
+    "Site_postcode": "3043",
+    "Exposure_date_dtm": "2021-09-15",
+    "Exposure_date": "15/09/2021",
+    "Exposure_time": "7:00am - 3:30pm",
+    "Notes": "Case attended venue",
+    "Added_date_dtm": "2021-09-20",
+    "Added_date": "20/09/2021",
+    "Added_time": "22:22:00",
+    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
+    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
+    "Exposure_time_start_24": "07:00:00",
+    "Exposure_time_end_24": "15:30:00",
+    "dhid": "C3T4",
+    "latitude": -37.709148,
+    "longitude": 144.852968
+  },
+  {
+    "_id": 464,
+    "Suburb": "Tullamarine",
+    "Site_title": "NCI Packaging",
+    "Site_streetaddress": "76 - 80 Lambeck Drive",
+    "Site_state": "VIC",
+    "Site_postcode": "3043",
+    "Exposure_date_dtm": "2021-09-16",
+    "Exposure_date": "16/09/2021",
+    "Exposure_time": "7:00am - 3:30pm",
+    "Notes": "Case attended venue",
+    "Added_date_dtm": "2021-09-20",
+    "Added_date": "20/09/2021",
+    "Added_time": "22:22:00",
+    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
+    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
+    "Exposure_time_start_24": "07:00:00",
+    "Exposure_time_end_24": "15:30:00",
+    "dhid": "B7B8",
+    "latitude": -37.709148,
+    "longitude": 144.852968
+  },
+  {
+    "_id": 466,
     "Suburb": "Mill Park",
     "Site_title": "Mill Park Secondary College",
     "Site_streetaddress": "25 Moorhead Drive",
@@ -10186,7 +10142,7 @@
     "longitude": 145.062923
   },
   {
-    "_id": 468,
+    "_id": 467,
     "Suburb": "Epping",
     "Site_title": "Al Siraat College",
     "Site_streetaddress": "45 Harvest Home Road",
@@ -10208,7 +10164,7 @@
     "longitude": 145.03668
   },
   {
-    "_id": 469,
+    "_id": 468,
     "Suburb": "Melbourne",
     "Site_title": "Holmesglen Institute - Bourke Street Campus",
     "Site_streetaddress": "Level 4, 3/206-218 Bourke Street",
@@ -10230,7 +10186,7 @@
     "longitude": 144.9602597
   },
   {
-    "_id": 470,
+    "_id": 469,
     "Suburb": "Ravenhall",
     "Site_title": "DS Autocare",
     "Site_streetaddress": "2/13 Katherine Drive",
@@ -10252,29 +10208,7 @@
     "longitude": 144.7422319
   },
   {
-    "_id": 518,
-    "Suburb": "Kyneton",
-    "Site_title": "BP Service Station Kyneton",
-    "Site_streetaddress": "55 High Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3444",
-    "Exposure_date_dtm": "2021-09-17",
-    "Exposure_date": "17/09/2021",
-    "Exposure_time": "3:30pm - 4:10pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-09-19",
-    "Added_date": "19/09/2021",
-    "Added_time": "22:37:00",
-    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
-    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
-    "Exposure_time_start_24": "15:30:00",
-    "Exposure_time_end_24": "16:10:00",
-    "dhid": "B2T9",
-    "latitude": -37.250269,
-    "longitude": 144.455741
-  },
-  {
-    "_id": 471,
+    "_id": 470,
     "Suburb": "Ravenhall",
     "Site_title": "DS Autocare",
     "Site_streetaddress": "2/13 Katherine Drive",
@@ -10296,95 +10230,7 @@
     "longitude": 144.7422319
   },
   {
-    "_id": 472,
-    "Suburb": "Port Melbourne",
-    "Site_title": "The Chocolate Box",
-    "Site_streetaddress": "15 Central Boulevard",
-    "Site_state": "VIC",
-    "Site_postcode": "3207",
-    "Exposure_date_dtm": "2021-09-14",
-    "Exposure_date": "14/09/2021",
-    "Exposure_time": "9:00am - 5:30pm",
-    "Notes": "Case attended venue. Some individuals will be Tier 1 contacts required to quarantine for 14 days and the Department will contact them directly with this advice.",
-    "Added_date_dtm": "2021-09-20",
-    "Added_date": "20/09/2021",
-    "Added_time": "21:27:00",
-    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
-    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
-    "Exposure_time_start_24": "09:00:00",
-    "Exposure_time_end_24": "17:30:00",
-    "dhid": "B6Y3",
-    "latitude": -37.821758,
-    "longitude": 144.919601
-  },
-  {
-    "_id": 473,
-    "Suburb": "Port Melbourne",
-    "Site_title": "The Chocolate Box",
-    "Site_streetaddress": "15 Central Boulevard",
-    "Site_state": "VIC",
-    "Site_postcode": "3207",
-    "Exposure_date_dtm": "2021-09-15",
-    "Exposure_date": "15/09/2021",
-    "Exposure_time": "9:00am - 5:30pm",
-    "Notes": "Case attended venue. Some individuals will be Tier 1 contacts required to quarantine for 14 days and the Department will contact them directly with this advice.",
-    "Added_date_dtm": "2021-09-20",
-    "Added_date": "20/09/2021",
-    "Added_time": "21:27:00",
-    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
-    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
-    "Exposure_time_start_24": "09:00:00",
-    "Exposure_time_end_24": "17:30:00",
-    "dhid": "A6T9",
-    "latitude": -37.821758,
-    "longitude": 144.919601
-  },
-  {
-    "_id": 474,
-    "Suburb": "Keilor East",
-    "Site_title": "Centreway Fish & Chips",
-    "Site_streetaddress": "39 Wyong Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3033",
-    "Exposure_date_dtm": "2021-09-15",
-    "Exposure_date": "15/09/2021",
-    "Exposure_time": "4:00pm - 9:30pm",
-    "Notes": "Case attended venue. Some individuals will be Tier 1, contacts required to isolate for 14 days and the Department will contact them directly with this advice",
-    "Added_date_dtm": "2021-09-20",
-    "Added_date": "20/09/2021",
-    "Added_time": "21:27:00",
-    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
-    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
-    "Exposure_time_start_24": "16:00:00",
-    "Exposure_time_end_24": "21:30:00",
-    "dhid": "D5B6",
-    "latitude": -37.733138,
-    "longitude": 144.865946
-  },
-  {
-    "_id": 475,
-    "Suburb": "Pakenham",
-    "Site_title": "Coles Pakenham Place Shopping Centre",
-    "Site_streetaddress": "67-69 Main Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3810",
-    "Exposure_date_dtm": "2021-09-14",
-    "Exposure_date": "14/09/2021",
-    "Exposure_time": "5:30pm - 9:00pm",
-    "Notes": "Case attended venue. Some individuals will be Tier 1 contacts required to quarantine for 14 days and the Department will contact them directly with this advice.",
-    "Added_date_dtm": "2021-09-20",
-    "Added_date": "20/09/2021",
-    "Added_time": "20:16:00",
-    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
-    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
-    "Exposure_time_start_24": "17:30:00",
-    "Exposure_time_end_24": "21:00:00",
-    "dhid": "D4C7",
-    "latitude": -38.078392,
-    "longitude": 145.48051
-  },
-  {
-    "_id": 519,
+    "_id": 518,
     "Suburb": "Kyneton",
     "Site_title": "Mollison's Fish & Chips",
     "Site_streetaddress": "164 Mollison Street",
@@ -10406,7 +10252,95 @@
     "longitude": 144.45401
   },
   {
-    "_id": 476,
+    "_id": 471,
+    "Suburb": "Port Melbourne",
+    "Site_title": "The Chocolate Box",
+    "Site_streetaddress": "15 Central Boulevard",
+    "Site_state": "VIC",
+    "Site_postcode": "3207",
+    "Exposure_date_dtm": "2021-09-14",
+    "Exposure_date": "14/09/2021",
+    "Exposure_time": "9:00am - 5:30pm",
+    "Notes": "Case attended venue. Some individuals will be Tier 1 contacts required to quarantine for 14 days and the Department will contact them directly with this advice.",
+    "Added_date_dtm": "2021-09-20",
+    "Added_date": "20/09/2021",
+    "Added_time": "21:27:00",
+    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
+    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
+    "Exposure_time_start_24": "09:00:00",
+    "Exposure_time_end_24": "17:30:00",
+    "dhid": "B6Y3",
+    "latitude": -37.821758,
+    "longitude": 144.919601
+  },
+  {
+    "_id": 472,
+    "Suburb": "Port Melbourne",
+    "Site_title": "The Chocolate Box",
+    "Site_streetaddress": "15 Central Boulevard",
+    "Site_state": "VIC",
+    "Site_postcode": "3207",
+    "Exposure_date_dtm": "2021-09-15",
+    "Exposure_date": "15/09/2021",
+    "Exposure_time": "9:00am - 5:30pm",
+    "Notes": "Case attended venue. Some individuals will be Tier 1 contacts required to quarantine for 14 days and the Department will contact them directly with this advice.",
+    "Added_date_dtm": "2021-09-20",
+    "Added_date": "20/09/2021",
+    "Added_time": "21:27:00",
+    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
+    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
+    "Exposure_time_start_24": "09:00:00",
+    "Exposure_time_end_24": "17:30:00",
+    "dhid": "A6T9",
+    "latitude": -37.821758,
+    "longitude": 144.919601
+  },
+  {
+    "_id": 473,
+    "Suburb": "Keilor East",
+    "Site_title": "Centreway Fish & Chips",
+    "Site_streetaddress": "39 Wyong Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3033",
+    "Exposure_date_dtm": "2021-09-15",
+    "Exposure_date": "15/09/2021",
+    "Exposure_time": "4:00pm - 9:30pm",
+    "Notes": "Case attended venue. Some individuals will be Tier 1, contacts required to isolate for 14 days and the Department will contact them directly with this advice",
+    "Added_date_dtm": "2021-09-20",
+    "Added_date": "20/09/2021",
+    "Added_time": "21:27:00",
+    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
+    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
+    "Exposure_time_start_24": "16:00:00",
+    "Exposure_time_end_24": "21:30:00",
+    "dhid": "D5B6",
+    "latitude": -37.733138,
+    "longitude": 144.865946
+  },
+  {
+    "_id": 474,
+    "Suburb": "Pakenham",
+    "Site_title": "Coles Pakenham Place Shopping Centre",
+    "Site_streetaddress": "67-69 Main Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3810",
+    "Exposure_date_dtm": "2021-09-14",
+    "Exposure_date": "14/09/2021",
+    "Exposure_time": "5:30pm - 9:00pm",
+    "Notes": "Case attended venue. Some individuals will be Tier 1 contacts required to quarantine for 14 days and the Department will contact them directly with this advice.",
+    "Added_date_dtm": "2021-09-20",
+    "Added_date": "20/09/2021",
+    "Added_time": "20:16:00",
+    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
+    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
+    "Exposure_time_start_24": "17:30:00",
+    "Exposure_time_end_24": "21:00:00",
+    "dhid": "D4C7",
+    "latitude": -38.078392,
+    "longitude": 145.48051
+  },
+  {
+    "_id": 475,
     "Suburb": "Pakenham",
     "Site_title": "Coles Pakenham Place Shopping Centre",
     "Site_streetaddress": "67-69 Main Street",
@@ -10428,7 +10362,29 @@
     "longitude": 145.48051
   },
   {
-    "_id": 477,
+    "_id": 576,
+    "Suburb": "Bentleigh East",
+    "Site_title": "Guardian Childcare & Education Bentleigh",
+    "Site_streetaddress": "31 E Boundary Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3165",
+    "Exposure_date_dtm": "2021-09-14",
+    "Exposure_date": "14/09/2021",
+    "Exposure_time": "8:30am - 4:45pm",
+    "Notes": "Case attended venue",
+    "Added_date_dtm": "2021-09-17",
+    "Added_date": "17/09/2021",
+    "Added_time": "18:00:00",
+    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
+    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
+    "Exposure_time_start_24": "08:30:00",
+    "Exposure_time_end_24": "16:45:00",
+    "dhid": "E4X8",
+    "latitude": -37.932677,
+    "longitude": 145.056385
+  },
+  {
+    "_id": 476,
     "Suburb": "Pakenham",
     "Site_title": "Coles Pakenham Place Shopping Centre",
     "Site_streetaddress": "67-69 Main Street",
@@ -10450,7 +10406,7 @@
     "longitude": 145.48051
   },
   {
-    "_id": 478,
+    "_id": 477,
     "Suburb": "Pakenham",
     "Site_title": "Coles Pakenham Place Shopping Centre",
     "Site_streetaddress": "67-69 Main Street",
@@ -10472,7 +10428,7 @@
     "longitude": 145.48051
   },
   {
-    "_id": 479,
+    "_id": 478,
     "Suburb": "Pakenham",
     "Site_title": "Coles Pakenham Place Shopping Centre",
     "Site_streetaddress": "67-69 Main Street",
@@ -10494,7 +10450,7 @@
     "longitude": 145.48051
   },
   {
-    "_id": 480,
+    "_id": 479,
     "Suburb": "Brunswick",
     "Site_title": "Brunswick SUPA IGA",
     "Site_streetaddress": "614 Sydney Road",
@@ -10516,7 +10472,7 @@
     "longitude": 144.962993
   },
   {
-    "_id": 481,
+    "_id": 480,
     "Suburb": "Brunswick",
     "Site_title": "Brunswick SUPA IGA",
     "Site_streetaddress": "614 Sydney Road",
@@ -10538,227 +10494,7 @@
     "longitude": 144.962993
   },
   {
-    "_id": 482,
-    "Suburb": "Brunswick",
-    "Site_title": "Brunswick SUPA IGA",
-    "Site_streetaddress": "614 Sydney Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3056",
-    "Exposure_date_dtm": "2021-09-17",
-    "Exposure_date": "17/09/2021",
-    "Exposure_time": "8:00am - 2:00pm",
-    "Notes": "Case attended venue. Some individuals will be Tier 1 contacts required to quarantine for 14 days and the Department will contact them directly with this advice.",
-    "Added_date_dtm": "2021-09-20",
-    "Added_date": "20/09/2021",
-    "Added_time": "19:30:00",
-    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
-    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
-    "Exposure_time_start_24": "08:00:00",
-    "Exposure_time_end_24": "14:00:00",
-    "dhid": "A6N6",
-    "latitude": -37.763082,
-    "longitude": 144.962993
-  },
-  {
-    "_id": 483,
-    "Suburb": "Traralgon",
-    "Site_title": "Bunnings - Traralgon",
-    "Site_streetaddress": "191-193 Argyle Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3844",
-    "Exposure_date_dtm": "2021-09-15",
-    "Exposure_date": "15/09/2021",
-    "Exposure_time": "5:25pm - 6:50pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-09-20",
-    "Added_date": "20/09/2021",
-    "Added_time": "18:04:00",
-    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
-    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
-    "Exposure_time_start_24": "17:25:00",
-    "Exposure_time_end_24": "18:50:00",
-    "dhid": "D7Z2",
-    "latitude": -38.1919142,
-    "longitude": 146.5584824
-  },
-  {
-    "_id": 484,
-    "Suburb": "Ballarat",
-    "Site_title": "Ballarat GovHub",
-    "Site_streetaddress": "101 Armstrong Street North",
-    "Site_state": "VIC",
-    "Site_postcode": "3350",
-    "Exposure_date_dtm": "2021-09-14",
-    "Exposure_date": "14/09/2021",
-    "Exposure_time": "7:55am - 5:10pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-09-20",
-    "Added_date": "20/09/2021",
-    "Added_time": "18:04:00",
-    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
-    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
-    "Exposure_time_start_24": "07:55:00",
-    "Exposure_time_end_24": "17:10:00",
-    "dhid": "A6Q5",
-    "latitude": -37.5590797,
-    "longitude": 143.8550467
-  },
-  {
-    "_id": 485,
-    "Suburb": "Alfredton",
-    "Site_title": "Woolworths Lucas Shopping Centre",
-    "Site_streetaddress": "Dyson and Rememberance Drive",
-    "Site_state": "VIC",
-    "Site_postcode": "3350",
-    "Exposure_date_dtm": "2021-09-15",
-    "Exposure_date": "15/09/2021",
-    "Exposure_time": "6:20pm - 7:20pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-09-20",
-    "Added_date": "20/09/2021",
-    "Added_time": "15:43:00",
-    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
-    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
-    "Exposure_time_start_24": "18:20:00",
-    "Exposure_time_end_24": "19:20:00",
-    "dhid": "A7M6",
-    "latitude": -37.5424063,
-    "longitude": 143.7850621
-  },
-  {
-    "_id": 486,
-    "Suburb": "Delacombe",
-    "Site_title": "Bunnings Delacombe",
-    "Site_streetaddress": "307 Smythes Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3356",
-    "Exposure_date_dtm": "2021-09-15",
-    "Exposure_date": "15/09/2021",
-    "Exposure_time": "5:20pm - 6:30pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-09-20",
-    "Added_date": "20/09/2021",
-    "Added_time": "15:43:00",
-    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
-    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
-    "Exposure_time_start_24": "17:20:00",
-    "Exposure_time_end_24": "18:30:00",
-    "dhid": "A9J2",
-    "latitude": -37.59196,
-    "longitude": 143.806626
-  },
-  {
-    "_id": 487,
-    "Suburb": "Preston",
-    "Site_title": "McDonalds Preston II",
-    "Site_streetaddress": "411-423 Bell Street (Corner St Georges Road)",
-    "Site_state": "VIC",
-    "Site_postcode": "3072",
-    "Exposure_date_dtm": "2021-09-16",
-    "Exposure_date": "16/09/2021",
-    "Exposure_time": "9:00am - 4:30pm",
-    "Notes": "Case attended venue. Some individuals will be Tier 1 contacts required to quarantine for 14 days and the Department will contact them directly with this advice.",
-    "Added_date_dtm": "2021-09-20",
-    "Added_date": "20/09/2021",
-    "Added_time": "15:02:00",
-    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
-    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
-    "Exposure_time_start_24": "09:00:00",
-    "Exposure_time_end_24": "16:30:00",
-    "dhid": "C2F8",
-    "latitude": -37.7449148,
-    "longitude": 144.9967913
-  },
-  {
-    "_id": 488,
-    "Suburb": "Pakenham",
-    "Site_title": "Woolworths Pakenham Market Place",
-    "Site_streetaddress": "55 Slattery Place",
-    "Site_state": "VIC",
-    "Site_postcode": "3810",
-    "Exposure_date_dtm": "2021-09-15",
-    "Exposure_date": "15/09/2021",
-    "Exposure_time": "3:40pm - 4:00pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-09-20",
-    "Added_date": "20/09/2021",
-    "Added_time": "15:02:00",
-    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
-    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
-    "Exposure_time_start_24": "15:40:00",
-    "Exposure_time_end_24": "16:00:00",
-    "dhid": "B3S9",
-    "latitude": -38.0776236,
-    "longitude": 145.4818714
-  },
-  {
-    "_id": 489,
-    "Suburb": "Hadfield",
-    "Site_title": "Sams East St Bakehouse",
-    "Site_streetaddress": "90 East Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3046",
-    "Exposure_date_dtm": "2021-09-16",
-    "Exposure_date": "16/09/2021",
-    "Exposure_time": "8:00am - 5:30pm",
-    "Notes": "Case attended venue. Some individuals will be Tier 1 contacts required to quarantine for 14 days and the Department will contact them directly with this advice.",
-    "Added_date_dtm": "2021-09-20",
-    "Added_date": "20/09/2021",
-    "Added_time": "14:44:00",
-    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
-    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
-    "Exposure_time_start_24": "08:00:00",
-    "Exposure_time_end_24": "17:30:00",
-    "dhid": "E5C4",
-    "latitude": -37.709302,
-    "longitude": 144.950673
-  },
-  {
-    "_id": 490,
-    "Suburb": "Sunshine West",
-    "Site_title": "Precision Brake Technology",
-    "Site_streetaddress": "26 Strzelecki Avenue",
-    "Site_state": "VIC",
-    "Site_postcode": "3020",
-    "Exposure_date_dtm": "2021-09-17",
-    "Exposure_date": "17/09/2021",
-    "Exposure_time": "8:00am - 5:00pm",
-    "Notes": "Case attended venue. Some individuals will be Tier 1 contacts required to quarantine for 14 days and the Department will contact them directly with this advice.",
-    "Added_date_dtm": "2021-09-20",
-    "Added_date": "20/09/2021",
-    "Added_time": "14:38:00",
-    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
-    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
-    "Exposure_time_start_24": "08:00:00",
-    "Exposure_time_end_24": "17:00:00",
-    "dhid": "C2M4",
-    "latitude": -37.808872,
-    "longitude": 144.827967
-  },
-  {
-    "_id": 491,
-    "Suburb": "Narre Warren South",
-    "Site_title": "Liquorland Casey Central",
-    "Site_streetaddress": "400 Narre Warren-Cranbourne Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3805",
-    "Exposure_date_dtm": "2021-09-14",
-    "Exposure_date": "14/09/2021",
-    "Exposure_time": "1:00pm - 8:30pm",
-    "Notes": "Case attended venue. Some individuals will be Tier 1 contacts required to quarantine for 14 days and the Department will contact them directly with this advice.",
-    "Added_date_dtm": "2021-09-20",
-    "Added_date": "20/09/2021",
-    "Added_time": "14:38:00",
-    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
-    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
-    "Exposure_time_start_24": "13:00:00",
-    "Exposure_time_end_24": "20:30:00",
-    "dhid": "E3Y6",
-    "latitude": -38.067238,
-    "longitude": 145.300074
-  },
-  {
-    "_id": 520,
+    "_id": 519,
     "Suburb": "Caroline Springs",
     "Site_title": "Australian International Academy - Caroline Springs Campus",
     "Site_streetaddress": "183-191 Caroline Springs Boulevard",
@@ -10780,7 +10516,227 @@
     "longitude": 144.740668
   },
   {
-    "_id": 492,
+    "_id": 481,
+    "Suburb": "Brunswick",
+    "Site_title": "Brunswick SUPA IGA",
+    "Site_streetaddress": "614 Sydney Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3056",
+    "Exposure_date_dtm": "2021-09-17",
+    "Exposure_date": "17/09/2021",
+    "Exposure_time": "8:00am - 2:00pm",
+    "Notes": "Case attended venue. Some individuals will be Tier 1 contacts required to quarantine for 14 days and the Department will contact them directly with this advice.",
+    "Added_date_dtm": "2021-09-20",
+    "Added_date": "20/09/2021",
+    "Added_time": "19:30:00",
+    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
+    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
+    "Exposure_time_start_24": "08:00:00",
+    "Exposure_time_end_24": "14:00:00",
+    "dhid": "A6N6",
+    "latitude": -37.763082,
+    "longitude": 144.962993
+  },
+  {
+    "_id": 482,
+    "Suburb": "Traralgon",
+    "Site_title": "Bunnings - Traralgon",
+    "Site_streetaddress": "191-193 Argyle Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3844",
+    "Exposure_date_dtm": "2021-09-15",
+    "Exposure_date": "15/09/2021",
+    "Exposure_time": "5:25pm - 6:50pm",
+    "Notes": "Case attended venue",
+    "Added_date_dtm": "2021-09-20",
+    "Added_date": "20/09/2021",
+    "Added_time": "18:04:00",
+    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
+    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
+    "Exposure_time_start_24": "17:25:00",
+    "Exposure_time_end_24": "18:50:00",
+    "dhid": "D7Z2",
+    "latitude": -38.1919142,
+    "longitude": 146.5584824
+  },
+  {
+    "_id": 483,
+    "Suburb": "Ballarat",
+    "Site_title": "Ballarat GovHub",
+    "Site_streetaddress": "101 Armstrong Street North",
+    "Site_state": "VIC",
+    "Site_postcode": "3350",
+    "Exposure_date_dtm": "2021-09-14",
+    "Exposure_date": "14/09/2021",
+    "Exposure_time": "7:55am - 5:10pm",
+    "Notes": "Case attended venue",
+    "Added_date_dtm": "2021-09-20",
+    "Added_date": "20/09/2021",
+    "Added_time": "18:04:00",
+    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
+    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
+    "Exposure_time_start_24": "07:55:00",
+    "Exposure_time_end_24": "17:10:00",
+    "dhid": "A6Q5",
+    "latitude": -37.5590797,
+    "longitude": 143.8550467
+  },
+  {
+    "_id": 484,
+    "Suburb": "Alfredton",
+    "Site_title": "Woolworths Lucas Shopping Centre",
+    "Site_streetaddress": "Dyson and Rememberance Drive",
+    "Site_state": "VIC",
+    "Site_postcode": "3350",
+    "Exposure_date_dtm": "2021-09-15",
+    "Exposure_date": "15/09/2021",
+    "Exposure_time": "6:20pm - 7:20pm",
+    "Notes": "Case attended venue",
+    "Added_date_dtm": "2021-09-20",
+    "Added_date": "20/09/2021",
+    "Added_time": "15:43:00",
+    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
+    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
+    "Exposure_time_start_24": "18:20:00",
+    "Exposure_time_end_24": "19:20:00",
+    "dhid": "A7M6",
+    "latitude": -37.5424063,
+    "longitude": 143.7850621
+  },
+  {
+    "_id": 485,
+    "Suburb": "Delacombe",
+    "Site_title": "Bunnings Delacombe",
+    "Site_streetaddress": "307 Smythes Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3356",
+    "Exposure_date_dtm": "2021-09-15",
+    "Exposure_date": "15/09/2021",
+    "Exposure_time": "5:20pm - 6:30pm",
+    "Notes": "Case attended venue",
+    "Added_date_dtm": "2021-09-20",
+    "Added_date": "20/09/2021",
+    "Added_time": "15:43:00",
+    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
+    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
+    "Exposure_time_start_24": "17:20:00",
+    "Exposure_time_end_24": "18:30:00",
+    "dhid": "A9J2",
+    "latitude": -37.59196,
+    "longitude": 143.806626
+  },
+  {
+    "_id": 486,
+    "Suburb": "Preston",
+    "Site_title": "McDonalds Preston II",
+    "Site_streetaddress": "411-423 Bell Street (Corner St Georges Road)",
+    "Site_state": "VIC",
+    "Site_postcode": "3072",
+    "Exposure_date_dtm": "2021-09-16",
+    "Exposure_date": "16/09/2021",
+    "Exposure_time": "9:00am - 4:30pm",
+    "Notes": "Case attended venue. Some individuals will be Tier 1 contacts required to quarantine for 14 days and the Department will contact them directly with this advice.",
+    "Added_date_dtm": "2021-09-20",
+    "Added_date": "20/09/2021",
+    "Added_time": "15:02:00",
+    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
+    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
+    "Exposure_time_start_24": "09:00:00",
+    "Exposure_time_end_24": "16:30:00",
+    "dhid": "C2F8",
+    "latitude": -37.7449148,
+    "longitude": 144.9967913
+  },
+  {
+    "_id": 487,
+    "Suburb": "Pakenham",
+    "Site_title": "Woolworths Pakenham Market Place",
+    "Site_streetaddress": "55 Slattery Place",
+    "Site_state": "VIC",
+    "Site_postcode": "3810",
+    "Exposure_date_dtm": "2021-09-15",
+    "Exposure_date": "15/09/2021",
+    "Exposure_time": "3:40pm - 4:00pm",
+    "Notes": "Case attended venue",
+    "Added_date_dtm": "2021-09-20",
+    "Added_date": "20/09/2021",
+    "Added_time": "15:02:00",
+    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
+    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
+    "Exposure_time_start_24": "15:40:00",
+    "Exposure_time_end_24": "16:00:00",
+    "dhid": "B3S9",
+    "latitude": -38.0776236,
+    "longitude": 145.4818714
+  },
+  {
+    "_id": 488,
+    "Suburb": "Hadfield",
+    "Site_title": "Sams East St Bakehouse",
+    "Site_streetaddress": "90 East Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3046",
+    "Exposure_date_dtm": "2021-09-16",
+    "Exposure_date": "16/09/2021",
+    "Exposure_time": "8:00am - 5:30pm",
+    "Notes": "Case attended venue. Some individuals will be Tier 1 contacts required to quarantine for 14 days and the Department will contact them directly with this advice.",
+    "Added_date_dtm": "2021-09-20",
+    "Added_date": "20/09/2021",
+    "Added_time": "14:44:00",
+    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
+    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
+    "Exposure_time_start_24": "08:00:00",
+    "Exposure_time_end_24": "17:30:00",
+    "dhid": "E5C4",
+    "latitude": -37.709302,
+    "longitude": 144.950673
+  },
+  {
+    "_id": 489,
+    "Suburb": "Sunshine West",
+    "Site_title": "Precision Brake Technology",
+    "Site_streetaddress": "26 Strzelecki Avenue",
+    "Site_state": "VIC",
+    "Site_postcode": "3020",
+    "Exposure_date_dtm": "2021-09-17",
+    "Exposure_date": "17/09/2021",
+    "Exposure_time": "8:00am - 5:00pm",
+    "Notes": "Case attended venue. Some individuals will be Tier 1 contacts required to quarantine for 14 days and the Department will contact them directly with this advice.",
+    "Added_date_dtm": "2021-09-20",
+    "Added_date": "20/09/2021",
+    "Added_time": "14:38:00",
+    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
+    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
+    "Exposure_time_start_24": "08:00:00",
+    "Exposure_time_end_24": "17:00:00",
+    "dhid": "C2M4",
+    "latitude": -37.808872,
+    "longitude": 144.827967
+  },
+  {
+    "_id": 490,
+    "Suburb": "Narre Warren South",
+    "Site_title": "Liquorland Casey Central",
+    "Site_streetaddress": "400 Narre Warren-Cranbourne Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3805",
+    "Exposure_date_dtm": "2021-09-14",
+    "Exposure_date": "14/09/2021",
+    "Exposure_time": "1:00pm - 8:30pm",
+    "Notes": "Case attended venue. Some individuals will be Tier 1 contacts required to quarantine for 14 days and the Department will contact them directly with this advice.",
+    "Added_date_dtm": "2021-09-20",
+    "Added_date": "20/09/2021",
+    "Added_time": "14:38:00",
+    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
+    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
+    "Exposure_time_start_24": "13:00:00",
+    "Exposure_time_end_24": "20:30:00",
+    "dhid": "E3Y6",
+    "latitude": -38.067238,
+    "longitude": 145.300074
+  },
+  {
+    "_id": 491,
     "Suburb": "Narre Warren South",
     "Site_title": "Liquorland Casey Central",
     "Site_streetaddress": "400 Narre Warren-Cranbourne Road",
@@ -10802,7 +10758,29 @@
     "longitude": 145.300074
   },
   {
-    "_id": 493,
+    "_id": 550,
+    "Suburb": "Braybrook",
+    "Site_title": "Braybrook Autowreckers",
+    "Site_streetaddress": "131 Cranwell Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3019",
+    "Exposure_date_dtm": "2021-09-15",
+    "Exposure_date": "15/09/2021",
+    "Exposure_time": "10:00am - 5:30pm",
+    "Notes": "Case attended venue",
+    "Added_date_dtm": "2021-09-18",
+    "Added_date": "18/09/2021",
+    "Added_time": "22:18:39",
+    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
+    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
+    "Exposure_time_start_24": "10:00:00",
+    "Exposure_time_end_24": "17:30:00",
+    "dhid": "A3J2",
+    "latitude": -37.777855,
+    "longitude": 144.853146
+  },
+  {
+    "_id": 492,
     "Suburb": "Narre Warren South",
     "Site_title": "Liquorland Casey Central",
     "Site_streetaddress": "400 Narre Warren-Cranbourne Road",
@@ -10824,7 +10802,7 @@
     "longitude": 145.300074
   },
   {
-    "_id": 494,
+    "_id": 493,
     "Suburb": "Noble Park",
     "Site_title": "Deep Blue Fish & Chip Shop",
     "Site_streetaddress": "7 Ian Street",
@@ -10846,7 +10824,7 @@
     "longitude": 145.176875
   },
   {
-    "_id": 495,
+    "_id": 494,
     "Suburb": "Noble Park",
     "Site_title": "Deep Blue Fish & Chip Shop",
     "Site_streetaddress": "7 Ian Street",
@@ -10868,7 +10846,7 @@
     "longitude": 145.176875
   },
   {
-    "_id": 496,
+    "_id": 495,
     "Suburb": "Noble Park",
     "Site_title": "Deep Blue Fish & Chip Shop",
     "Site_streetaddress": "7 Ian Street",
@@ -10890,7 +10868,7 @@
     "longitude": 145.176875
   },
   {
-    "_id": 497,
+    "_id": 496,
     "Suburb": "Brunswick East",
     "Site_title": "Brunswick East Dental Studio",
     "Site_streetaddress": "39 Nicholson Street",
@@ -10912,7 +10890,7 @@
     "longitude": 144.978183
   },
   {
-    "_id": 498,
+    "_id": 497,
     "Suburb": "Maribyrnong",
     "Site_title": "Apple Highpoint Shopping Centre",
     "Site_streetaddress": "120-200 Rosamond Road",
@@ -10934,7 +10912,7 @@
     "longitude": 144.886355
   },
   {
-    "_id": 499,
+    "_id": 498,
     "Suburb": "Airport West",
     "Site_title": "Nandos Westfield Airport West",
     "Site_streetaddress": "212A/B, 29-35 Louis Street",
@@ -10956,7 +10934,7 @@
     "longitude": 144.889386
   },
   {
-    "_id": 500,
+    "_id": 499,
     "Suburb": "Coolaroo",
     "Site_title": "Hungry Jacks Roxburgh Park",
     "Site_streetaddress": "185-195 Somerton Road",
@@ -10978,7 +10956,7 @@
     "longitude": 144.9311883
   },
   {
-    "_id": 501,
+    "_id": 500,
     "Suburb": "Somerton",
     "Site_title": "Tek Foods",
     "Site_streetaddress": "882-900 Cooper Street",
@@ -11000,7 +10978,7 @@
     "longitude": 144.9512602
   },
   {
-    "_id": 502,
+    "_id": 501,
     "Suburb": "Somerton",
     "Site_title": "Tek Foods",
     "Site_streetaddress": "882-900 Cooper Street",
@@ -11022,7 +11000,7 @@
     "longitude": 144.9512602
   },
   {
-    "_id": 503,
+    "_id": 502,
     "Suburb": "Somerton",
     "Site_title": "Tek Foods",
     "Site_streetaddress": "882-900 Cooper Street",
@@ -11044,7 +11022,7 @@
     "longitude": 144.9512602
   },
   {
-    "_id": 504,
+    "_id": 503,
     "Suburb": "Preston",
     "Site_title": "EPharmacy Preston",
     "Site_streetaddress": "44 Raglan Street",
@@ -11066,7 +11044,7 @@
     "longitude": 145.025775
   },
   {
-    "_id": 505,
+    "_id": 504,
     "Suburb": "Bentleigh",
     "Site_title": "Chemist Warehouse Bentleigh",
     "Site_streetaddress": "421-421a Centre Toda",
@@ -11088,7 +11066,7 @@
     "longitude": 145.0394047
   },
   {
-    "_id": 506,
+    "_id": 505,
     "Suburb": "Glen Iris",
     "Site_title": "Heathershaws Compounding Pharmacy",
     "Site_streetaddress": "153 Burke Road",
@@ -11110,7 +11088,29 @@
     "longitude": 145.050131
   },
   {
-    "_id": 521,
+    "_id": 506,
+    "Suburb": "Glen Iris",
+    "Site_title": "Heathershaws Compounding Pharmacy",
+    "Site_streetaddress": "153 Burke Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3146",
+    "Exposure_date_dtm": "2021-09-15",
+    "Exposure_date": "15/09/2021",
+    "Exposure_time": "9:00am - 5:30pm",
+    "Notes": "Case attended venue. Some individuals will be Tier 1 contacts required to quarantine for 14 days and the Department will contact them directly with this advice.",
+    "Added_date_dtm": "2021-09-20",
+    "Added_date": "20/09/2021",
+    "Added_time": "10:58:00",
+    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
+    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
+    "Exposure_time_start_24": "09:00:00",
+    "Exposure_time_end_24": "17:30:00",
+    "dhid": "D4X6",
+    "latitude": -37.864426,
+    "longitude": 145.050131
+  },
+  {
+    "_id": 520,
     "Suburb": "Caroline Springs",
     "Site_title": "Australian International Academy - Caroline Springs Campus",
     "Site_streetaddress": "183-191 Caroline Springs Boulevard",
@@ -11138,28 +11138,6 @@
     "Site_streetaddress": "153 Burke Road",
     "Site_state": "VIC",
     "Site_postcode": "3146",
-    "Exposure_date_dtm": "2021-09-15",
-    "Exposure_date": "15/09/2021",
-    "Exposure_time": "9:00am - 5:30pm",
-    "Notes": "Case attended venue. Some individuals will be Tier 1 contacts required to quarantine for 14 days and the Department will contact them directly with this advice.",
-    "Added_date_dtm": "2021-09-20",
-    "Added_date": "20/09/2021",
-    "Added_time": "10:58:00",
-    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
-    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
-    "Exposure_time_start_24": "09:00:00",
-    "Exposure_time_end_24": "17:30:00",
-    "dhid": "D4X6",
-    "latitude": -37.864426,
-    "longitude": 145.050131
-  },
-  {
-    "_id": 508,
-    "Suburb": "Glen Iris",
-    "Site_title": "Heathershaws Compounding Pharmacy",
-    "Site_streetaddress": "153 Burke Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3146",
     "Exposure_date_dtm": "2021-09-16",
     "Exposure_date": "16/09/2021",
     "Exposure_time": "9:00am - 5:30pm",
@@ -11176,7 +11154,7 @@
     "longitude": 145.050131
   },
   {
-    "_id": 509,
+    "_id": 508,
     "Suburb": "Glen Iris",
     "Site_title": "Heathershaws Compounding Pharmacy",
     "Site_streetaddress": "153 Burke Road",
@@ -11198,7 +11176,7 @@
     "longitude": 145.050131
   },
   {
-    "_id": 510,
+    "_id": 509,
     "Suburb": "Broadmeadows",
     "Site_title": "Saccas Fruit World Broadmeadows Central",
     "Site_streetaddress": "1099-1169 Pascoe Vale Road",
@@ -11220,7 +11198,7 @@
     "longitude": 144.921653
   },
   {
-    "_id": 511,
+    "_id": 510,
     "Suburb": "Broadmeadows",
     "Site_title": "Saccas Fruit World Broadmeadows Central",
     "Site_streetaddress": "1099-1169 Pascoe Vale Road",
@@ -11242,7 +11220,7 @@
     "longitude": 144.921653
   },
   {
-    "_id": 512,
+    "_id": 511,
     "Suburb": "Docklands",
     "Site_title": "Coffee Rush Spencer Street Outlet Centre",
     "Site_streetaddress": "P310, 201 Spencer Street",
@@ -11264,7 +11242,7 @@
     "longitude": 144.952607
   },
   {
-    "_id": 513,
+    "_id": 512,
     "Suburb": "Docklands",
     "Site_title": "Coffee Rush Spencer Street Outlet Centre",
     "Site_streetaddress": "P310, 201 Spencer Street",
@@ -11286,7 +11264,7 @@
     "longitude": 144.952607
   },
   {
-    "_id": 514,
+    "_id": 513,
     "Suburb": "Docklands",
     "Site_title": "Coffee Rush Spencer Street Outlet Centre",
     "Site_streetaddress": "P310, 201 Spencer Street",
@@ -11308,7 +11286,7 @@
     "longitude": 144.952607
   },
   {
-    "_id": 515,
+    "_id": 514,
     "Suburb": "Kyneton",
     "Site_title": "TerryWhite Chemmart Kyneton",
     "Site_streetaddress": "107 Mollison Street",
@@ -11330,7 +11308,7 @@
     "longitude": 144.453054
   },
   {
-    "_id": 516,
+    "_id": 515,
     "Suburb": "Kyneton",
     "Site_title": "Woolworths Kyneton",
     "Site_streetaddress": "7/11 Jennings Street",
@@ -11352,7 +11330,7 @@
     "longitude": 144.452017
   },
   {
-    "_id": 517,
+    "_id": 516,
     "Suburb": "Kyneton",
     "Site_title": "McIntyres Veterinary Surgery",
     "Site_streetaddress": "142 Mollison Street",
@@ -11374,7 +11352,29 @@
     "longitude": 144.453824
   },
   {
-    "_id": 522,
+    "_id": 517,
+    "Suburb": "Kyneton",
+    "Site_title": "BP Service Station Kyneton",
+    "Site_streetaddress": "55 High Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3444",
+    "Exposure_date_dtm": "2021-09-17",
+    "Exposure_date": "17/09/2021",
+    "Exposure_time": "3:30pm - 4:10pm",
+    "Notes": "Case attended venue",
+    "Added_date_dtm": "2021-09-19",
+    "Added_date": "19/09/2021",
+    "Added_time": "22:37:00",
+    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
+    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
+    "Exposure_time_start_24": "15:30:00",
+    "Exposure_time_end_24": "16:10:00",
+    "dhid": "B2T9",
+    "latitude": -37.250269,
+    "longitude": 144.455741
+  },
+  {
+    "_id": 521,
     "Suburb": "Mill Park",
     "Site_title": "Mill Park Primary School",
     "Site_streetaddress": "2/10 Blamey Avenue",
@@ -11396,7 +11396,7 @@
     "longitude": 145.065688
   },
   {
-    "_id": 523,
+    "_id": 522,
     "Suburb": "Mill Park",
     "Site_title": "Mill Park Primary School",
     "Site_streetaddress": "2/10 Blamey Avenue",
@@ -11418,7 +11418,7 @@
     "longitude": 145.065688
   },
   {
-    "_id": 524,
+    "_id": 523,
     "Suburb": "Mill Park",
     "Site_title": "Mill Park Primary School",
     "Site_streetaddress": "2/10 Blamey Avenue",
@@ -11440,7 +11440,7 @@
     "longitude": 145.065688
   },
   {
-    "_id": 525,
+    "_id": 524,
     "Suburb": "Keilor",
     "Site_title": "Keilor Primary School",
     "Site_streetaddress": "25 Kennedy Street",
@@ -11462,7 +11462,7 @@
     "longitude": 144.835736
   },
   {
-    "_id": 526,
+    "_id": 525,
     "Suburb": "Keilor",
     "Site_title": "Keilor Primary School",
     "Site_streetaddress": "25 Kennedy Street",
@@ -11484,7 +11484,7 @@
     "longitude": 144.835736
   },
   {
-    "_id": 527,
+    "_id": 526,
     "Suburb": "Keilor",
     "Site_title": "Keilor Primary School",
     "Site_streetaddress": "25 Kennedy Street",
@@ -11506,7 +11506,7 @@
     "longitude": 144.835736
   },
   {
-    "_id": 528,
+    "_id": 527,
     "Suburb": "Sebastopol",
     "Site_title": "Woolworths Sebastopol (Ballarat)",
     "Site_streetaddress": "Corner Albert & Hertford Street",
@@ -11528,7 +11528,7 @@
     "longitude": 143.8380365
   },
   {
-    "_id": 529,
+    "_id": 528,
     "Suburb": "Sebastopol",
     "Site_title": "Woolworths Sebastopol (Ballarat)",
     "Site_streetaddress": "Corner Albert & Hertford Street",
@@ -11550,7 +11550,7 @@
     "longitude": 143.8380365
   },
   {
-    "_id": 530,
+    "_id": 529,
     "Suburb": "Ballarat Central",
     "Site_title": "Griller's Mark Burger Bar & Grill",
     "Site_streetaddress": "58-60 Lydiard Street North",
@@ -11572,7 +11572,7 @@
     "longitude": 143.858379
   },
   {
-    "_id": 531,
+    "_id": 530,
     "Suburb": "Ballarat Central",
     "Site_title": "The Sporting Globe Bar & Grill",
     "Site_streetaddress": "201 Mair Street",
@@ -11594,7 +11594,7 @@
     "longitude": 143.857799
   },
   {
-    "_id": 532,
+    "_id": 531,
     "Suburb": "Ballarat Central",
     "Site_title": "Woolworths Ballarat Central",
     "Site_streetaddress": "7/25 Eastwood Street",
@@ -11616,7 +11616,7 @@
     "longitude": 143.862043
   },
   {
-    "_id": 533,
+    "_id": 532,
     "Suburb": "Ballarat Central",
     "Site_title": "Woolworths Ballarat Central",
     "Site_streetaddress": "7/25 Eastwood Street",
@@ -11638,7 +11638,7 @@
     "longitude": 143.862043
   },
   {
-    "_id": 534,
+    "_id": 533,
     "Suburb": "Bendigo",
     "Site_title": "Toppers Caf",
     "Site_streetaddress": "321-323 Hargreaves Street",
@@ -11660,7 +11660,7 @@
     "longitude": 144.279885
   },
   {
-    "_id": 535,
+    "_id": 534,
     "Suburb": "Bendigo",
     "Site_title": "Donut King - Bendigo Marketplace",
     "Site_streetaddress": "Kiosk 7, 116/120 Mitchell Street",
@@ -11682,7 +11682,7 @@
     "longitude": 144.281431
   },
   {
-    "_id": 536,
+    "_id": 535,
     "Suburb": "Mill Park",
     "Site_title": "Mill Park Superclinic",
     "Site_streetaddress": "250 Childs Road",
@@ -11704,7 +11704,7 @@
     "longitude": 145.051693
   },
   {
-    "_id": 537,
+    "_id": 536,
     "Suburb": "Bendigo",
     "Site_title": "Bendigo Marketplace",
     "Site_streetaddress": "116-120 Mitchell Street",
@@ -11726,7 +11726,7 @@
     "longitude": 144.281431
   },
   {
-    "_id": 538,
+    "_id": 537,
     "Suburb": "Bendigo",
     "Site_title": "ZiNG Pop Culture - Bendigo Marketplace",
     "Site_streetaddress": "Shop G019, 116-120 Mitchell Street",
@@ -11748,7 +11748,7 @@
     "longitude": 144.281431
   },
   {
-    "_id": 539,
+    "_id": 538,
     "Suburb": "Bendigo",
     "Site_title": "Bendigo Marketplace",
     "Site_streetaddress": "116-120 Mitchell Street",
@@ -11770,7 +11770,7 @@
     "longitude": 144.281431
   },
   {
-    "_id": 540,
+    "_id": 539,
     "Suburb": "Bendigo",
     "Site_title": "Big W - Bendigo Marketplace",
     "Site_streetaddress": "Shop M002, 116-120 Mitchell Street",
@@ -11792,7 +11792,7 @@
     "longitude": 144.281431
   },
   {
-    "_id": 541,
+    "_id": 540,
     "Suburb": "Bendigo",
     "Site_title": "ZiNG Pop Culture - Bendigo Marketplace",
     "Site_streetaddress": "Shop G019, 116-120 Mitchell Street",
@@ -11814,7 +11814,7 @@
     "longitude": 144.281431
   },
   {
-    "_id": 542,
+    "_id": 541,
     "Suburb": "Bendigo",
     "Site_title": "EB Games - Bendigo Marketplace",
     "Site_streetaddress": "Shop G018, 116/120 Mitchell Street",
@@ -11836,7 +11836,7 @@
     "longitude": 144.281431
   },
   {
-    "_id": 543,
+    "_id": 542,
     "Suburb": "Bendigo",
     "Site_title": "JB HiFi - Bendigo",
     "Site_streetaddress": "339-355 Hargreaves Street",
@@ -11858,7 +11858,7 @@
     "longitude": 144.279101
   },
   {
-    "_id": 544,
+    "_id": 543,
     "Suburb": "Lalor",
     "Site_title": "High Street Collision Repair Centre",
     "Site_streetaddress": "434/436 High Street",
@@ -11880,7 +11880,7 @@
     "longitude": 145.018907
   },
   {
-    "_id": 545,
+    "_id": 544,
     "Suburb": "Lalor",
     "Site_title": "High Street Collision Repair Centre",
     "Site_streetaddress": "434/436 High Street",
@@ -11902,7 +11902,7 @@
     "longitude": 145.018907
   },
   {
-    "_id": 546,
+    "_id": 545,
     "Suburb": "Lalor",
     "Site_title": "High Street Collision Repair Centre",
     "Site_streetaddress": "434/436 High Street",
@@ -11924,7 +11924,7 @@
     "longitude": 145.018907
   },
   {
-    "_id": 547,
+    "_id": 546,
     "Suburb": "Wallan",
     "Site_title": "Woolworths - Wellington Square Shopping Centre",
     "Site_streetaddress": "81/99 High Street",
@@ -11946,7 +11946,7 @@
     "longitude": 144.978439
   },
   {
-    "_id": 548,
+    "_id": 547,
     "Suburb": "Dandenong",
     "Site_title": "Dandenong Hospital Emergency Department Waiting Room",
     "Site_streetaddress": "135 David Street",
@@ -11968,7 +11968,7 @@
     "longitude": 145.220576
   },
   {
-    "_id": 549,
+    "_id": 548,
     "Suburb": "Dandenong",
     "Site_title": "Dandenong Hospital Emergency Department Waiting Room",
     "Site_streetaddress": "135 David Street",
@@ -11990,7 +11990,7 @@
     "longitude": 145.220576
   },
   {
-    "_id": 550,
+    "_id": 549,
     "Suburb": "Bendigo",
     "Site_title": "JB HiFi - Bendigo",
     "Site_streetaddress": "339-355 Hargreaves Street",
@@ -12013,28 +12013,6 @@
   },
   {
     "_id": 551,
-    "Suburb": "Braybrook",
-    "Site_title": "Braybrook Autowreckers",
-    "Site_streetaddress": "131 Cranwell Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3019",
-    "Exposure_date_dtm": "2021-09-15",
-    "Exposure_date": "15/09/2021",
-    "Exposure_time": "10:00am - 5:30pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-09-18",
-    "Added_date": "18/09/2021",
-    "Added_time": "22:18:39",
-    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
-    "Exposure_time_start_24": "10:00:00",
-    "Exposure_time_end_24": "17:30:00",
-    "dhid": "A3J2",
-    "latitude": -37.777855,
-    "longitude": 144.853146
-  },
-  {
-    "_id": 552,
     "Suburb": "Cheltenham",
     "Site_title": "Kids House Early Learning Cheltenham ",
     "Site_streetaddress": "337 Bay Road",
@@ -12056,7 +12034,7 @@
     "longitude": 145.0374164
   },
   {
-    "_id": 553,
+    "_id": 552,
     "Suburb": "North Melbourne",
     "Site_title": "Good Start Early Learning North Melbourne",
     "Site_streetaddress": "2/243 - 251 Flemington Road",
@@ -12078,7 +12056,7 @@
     "longitude": 144.946735
   },
   {
-    "_id": 554,
+    "_id": 553,
     "Suburb": "Essendon",
     "Site_title": "Benny & Me",
     "Site_streetaddress": "25 Rose Street",
@@ -12100,7 +12078,7 @@
     "longitude": 144.915536
   },
   {
-    "_id": 555,
+    "_id": 554,
     "Suburb": "Essendon",
     "Site_title": "Benny & Me",
     "Site_streetaddress": "25 Rose Street",
@@ -12122,7 +12100,7 @@
     "longitude": 144.915536
   },
   {
-    "_id": 556,
+    "_id": 555,
     "Suburb": "Essendon",
     "Site_title": "Benny & Me",
     "Site_streetaddress": "25 Rose Street",
@@ -12144,7 +12122,7 @@
     "longitude": 144.915536
   },
   {
-    "_id": 557,
+    "_id": 556,
     "Suburb": "Cheltenham",
     "Site_title": "Bira Bira Early Learning Centre",
     "Site_streetaddress": "335 Warrigal Road",
@@ -12166,7 +12144,7 @@
     "longitude": 145.075398
   },
   {
-    "_id": 558,
+    "_id": 557,
     "Suburb": "Cheltenham",
     "Site_title": "Bira Bira Early Learning Centre",
     "Site_streetaddress": "335 Warrigal Road",
@@ -12188,7 +12166,7 @@
     "longitude": 145.075398
   },
   {
-    "_id": 559,
+    "_id": 558,
     "Suburb": "Docklands",
     "Site_title": "Little Stars Childcare at Southern Cross ",
     "Site_streetaddress": "Level 3/700 Bourke Street",
@@ -12210,7 +12188,7 @@
     "longitude": 144.94962
   },
   {
-    "_id": 560,
+    "_id": 559,
     "Suburb": "Docklands",
     "Site_title": "Apartment Complex ",
     "Site_streetaddress": "60 Siddeley Street",
@@ -12232,7 +12210,7 @@
     "longitude": 144.952518
   },
   {
-    "_id": 561,
+    "_id": 560,
     "Suburb": "Docklands",
     "Site_title": "Apartment Complex ",
     "Site_streetaddress": "60 Siddeley Street",
@@ -12254,7 +12232,7 @@
     "longitude": 144.952518
   },
   {
-    "_id": 562,
+    "_id": 561,
     "Suburb": "Docklands",
     "Site_title": "Apartment Complex ",
     "Site_streetaddress": "60 Siddeley Street",
@@ -12276,7 +12254,7 @@
     "longitude": 144.952518
   },
   {
-    "_id": 563,
+    "_id": 562,
     "Suburb": "Docklands",
     "Site_title": "Apartment Complex ",
     "Site_streetaddress": "60 Siddeley Street",
@@ -12298,7 +12276,7 @@
     "longitude": 144.952518
   },
   {
-    "_id": 564,
+    "_id": 563,
     "Suburb": "Campbellfield",
     "Site_title": "Fonterra Campbellfield Manufacturing",
     "Site_streetaddress": "58-64 Glenbarry Road",
@@ -12320,7 +12298,7 @@
     "longitude": 144.956515
   },
   {
-    "_id": 565,
+    "_id": 564,
     "Suburb": "Campbellfield",
     "Site_title": "Fonterra Campbellfield Manufacturing",
     "Site_streetaddress": "58-64 Glenbarry Road",
@@ -12342,7 +12320,7 @@
     "longitude": 144.956515
   },
   {
-    "_id": 566,
+    "_id": 565,
     "Suburb": "Campbellfield",
     "Site_title": "Fonterra Campbellfield Manufacturing",
     "Site_streetaddress": "58-64 Glenbarry Road",
@@ -12364,7 +12342,7 @@
     "longitude": 144.956515
   },
   {
-    "_id": 567,
+    "_id": 566,
     "Suburb": "Campbellfield",
     "Site_title": "Fonterra Campbellfield Manufacturing",
     "Site_streetaddress": "58-64 Glenbarry Road",
@@ -12386,7 +12364,7 @@
     "longitude": 144.956515
   },
   {
-    "_id": 568,
+    "_id": 567,
     "Suburb": "Docklands",
     "Site_title": "Apartment Complex",
     "Site_streetaddress": "8 Pearl River Road",
@@ -12408,7 +12386,7 @@
     "longitude": 144.938008
   },
   {
-    "_id": 569,
+    "_id": 568,
     "Suburb": "Footscray",
     "Site_title": "Apartment Complex",
     "Site_streetaddress": "2 Joseph Road",
@@ -12430,7 +12408,7 @@
     "longitude": 144.909552
   },
   {
-    "_id": 570,
+    "_id": 569,
     "Suburb": "Altona North",
     "Site_title": "Ampol Foodary Altona North",
     "Site_streetaddress": "1 Horsburgh Drive",
@@ -12452,7 +12430,7 @@
     "longitude": 144.809276
   },
   {
-    "_id": 571,
+    "_id": 570,
     "Suburb": "Geelong",
     "Site_title": "Chemist Warehouse Geelong",
     "Site_streetaddress": "179-181 Little Malop Street",
@@ -12474,7 +12452,7 @@
     "longitude": 144.364342
   },
   {
-    "_id": 572,
+    "_id": 571,
     "Suburb": "Werribee",
     "Site_title": "Highway Lounge - Caltex Werribee",
     "Site_streetaddress": "Princes Highway and Wests Road",
@@ -12496,7 +12474,7 @@
     "longitude": 144.6292433
   },
   {
-    "_id": 573,
+    "_id": 572,
     "Suburb": "Airport West",
     "Site_title": "Nando's Airport West",
     "Site_streetaddress": "29-35 Louis Street",
@@ -12518,7 +12496,7 @@
     "longitude": 144.889386
   },
   {
-    "_id": 574,
+    "_id": 573,
     "Suburb": "Airport West",
     "Site_title": "Nando's Airport West",
     "Site_streetaddress": "29-35 Louis Street",
@@ -12540,29 +12518,29 @@
     "longitude": 144.889386
   },
   {
-    "_id": 577,
-    "Suburb": "Bentleigh East",
-    "Site_title": "Guardian Childcare & Education Bentleigh",
-    "Site_streetaddress": "31 E Boundary Road",
+    "_id": 574,
+    "Suburb": "Cheltenham",
+    "Site_title": "Kids House Early Learning Cheltenham ",
+    "Site_streetaddress": "337 Bay Road",
     "Site_state": "VIC",
-    "Site_postcode": "3165",
+    "Site_postcode": "3192",
     "Exposure_date_dtm": "2021-09-14",
     "Exposure_date": "14/09/2021",
-    "Exposure_time": "8:30am - 4:45pm",
+    "Exposure_time": "6:30am - 6:30pm",
     "Notes": "Case attended venue",
     "Added_date_dtm": "2021-09-17",
     "Added_date": "17/09/2021",
-    "Added_time": "18:00:00",
+    "Added_time": "21:20:00",
     "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
     "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
-    "Exposure_time_start_24": "08:30:00",
-    "Exposure_time_end_24": "16:45:00",
-    "dhid": "E4X8",
-    "latitude": -37.932677,
-    "longitude": 145.056385
+    "Exposure_time_start_24": "06:30:00",
+    "Exposure_time_end_24": "18:30:00",
+    "dhid": "A8E2",
+    "latitude": -37.9556154,
+    "longitude": 145.0374164
   },
   {
-    "_id": 578,
+    "_id": 577,
     "Suburb": "Epping",
     "Site_title": "McDonald's Epping",
     "Site_streetaddress": "Corner High Street and Childs Road",
@@ -12584,7 +12562,7 @@
     "longitude": 145.0168023
   },
   {
-    "_id": 579,
+    "_id": 578,
     "Suburb": "Docklands",
     "Site_title": "Luggage Hall at Southern Cross Station",
     "Site_streetaddress": "Spencer Street",
@@ -12606,7 +12584,7 @@
     "longitude": 144.9505739
   },
   {
-    "_id": 581,
+    "_id": 580,
     "Suburb": "Armstrong Creek",
     "Site_title": "7-Eleven Armstrong Creek",
     "Site_streetaddress": "722-770 Barwon Heads Road",
@@ -12628,7 +12606,7 @@
     "longitude": 144.370795
   },
   {
-    "_id": 582,
+    "_id": 581,
     "Suburb": "Wendouree",
     "Site_title": "Connor Menswear - Stockland Wendouree Village Shopping Centre",
     "Site_streetaddress": "Shop 25, Gillies Street",
@@ -12650,7 +12628,7 @@
     "longitude": 143.8230554
   },
   {
-    "_id": 583,
+    "_id": 582,
     "Suburb": "Berwick",
     "Site_title": "Casey Hospital Emergency Department - Waiting Room",
     "Site_streetaddress": "62-70 Kangan Drive",
@@ -12672,7 +12650,7 @@
     "longitude": 145.345815
   },
   {
-    "_id": 584,
+    "_id": 583,
     "Suburb": "Berwick",
     "Site_title": "Casey Hospital Emergency Department - Main Department",
     "Site_streetaddress": "62-70 Kangan Drive",
@@ -12694,7 +12672,7 @@
     "longitude": 145.345815
   },
   {
-    "_id": 585,
+    "_id": 584,
     "Suburb": "Berwick",
     "Site_title": "Casey Hospital Emergency Department - Main Department",
     "Site_streetaddress": "62-70 Kangan Drive",
@@ -12716,7 +12694,7 @@
     "longitude": 145.345815
   },
   {
-    "_id": 586,
+    "_id": 585,
     "Suburb": "Berwick",
     "Site_title": "Casey Hospital Emergency Department - Adult Short Stay Unit",
     "Site_streetaddress": "62-70 Kangan Drive",
@@ -12738,7 +12716,7 @@
     "longitude": 145.345815
   },
   {
-    "_id": 587,
+    "_id": 586,
     "Suburb": "Melbourne",
     "Site_title": "The Alfred Hospital Emergency Department Main Waiting Room",
     "Site_streetaddress": "55 Commercial Road",
@@ -12760,7 +12738,7 @@
     "longitude": 144.982784
   },
   {
-    "_id": 588,
+    "_id": 587,
     "Suburb": "Mount Waverley",
     "Site_title": "Apartment Complex",
     "Site_streetaddress": "436 - 442 Huntingdale Road",
@@ -12782,7 +12760,7 @@
     "longitude": 145.109041
   },
   {
-    "_id": 589,
+    "_id": 588,
     "Suburb": "Mount Waverley",
     "Site_title": "Apartment Complex",
     "Site_streetaddress": "436 - 442 Huntingdale Road",
@@ -12804,7 +12782,7 @@
     "longitude": 145.109041
   },
   {
-    "_id": 590,
+    "_id": 589,
     "Suburb": "Port Melbourne",
     "Site_title": "Apartment Complex",
     "Site_streetaddress": "2 Esplanade East",
@@ -12826,7 +12804,7 @@
     "longitude": 144.94181
   },
   {
-    "_id": 591,
+    "_id": 590,
     "Suburb": "St Kilda East",
     "Site_title": "Apartment Complex",
     "Site_streetaddress": "154 Alma Road",
@@ -12848,7 +12826,7 @@
     "longitude": 145.000012
   },
   {
-    "_id": 592,
+    "_id": 591,
     "Suburb": "Craigieburn",
     "Site_title": "Greenland Craigieburn Fresh Market",
     "Site_streetaddress": "340 Craigieburn Road",
@@ -12870,7 +12848,7 @@
     "longitude": 144.915623
   },
   {
-    "_id": 594,
+    "_id": 593,
     "Suburb": "North Melbourne",
     "Site_title": "Nord Apartments North Melbourne",
     "Site_streetaddress": "83 Flemington Road",
