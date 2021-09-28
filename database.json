@@ -15840,5 +15840,65 @@
     "latitude": -38.196566,
     "longitude": 146.533757,
     "label": "Traralgon, VIC, Australia"
+  },
+  {
+    "Suburb": "Daylesford",
+    "Site_streetaddress": "Bridport Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3460",
+    "confidence": 0.6,
+    "latitude": -37.355599,
+    "longitude": 144.13905,
+    "label": "Daylesford, VIC, Australia"
+  },
+  {
+    "Suburb": "Daylesford",
+    "Site_streetaddress": "55 Vincent Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3460",
+    "confidence": 1,
+    "latitude": -37.342624,
+    "longitude": 144.142771,
+    "label": "55 Vincent Street, Daylesford, VIC, Australia"
+  },
+  {
+    "Suburb": "Bacchus Marsh",
+    "Site_streetaddress": "120 Main Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3340",
+    "confidence": 1,
+    "latitude": -37.675503,
+    "longitude": 144.436364,
+    "label": "120 Main Street, Bacchus Marsh, VIC, Australia"
+  },
+  {
+    "Suburb": "Ballan",
+    "Site_streetaddress": "133 Inglis Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3342",
+    "confidence": 0.3,
+    "latitude": -37.014348,
+    "longitude": 143.480452,
+    "label": "Victoria, Australia"
+  },
+  {
+    "Suburb": "Ballan",
+    "Site_streetaddress": "135 Inglis Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3342",
+    "confidence": 0.3,
+    "latitude": -37.014348,
+    "longitude": 143.480452,
+    "label": "Victoria, Australia"
+  },
+  {
+    "Suburb": "Werribee",
+    "Site_streetaddress": "55 Cherry Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3030",
+    "confidence": 1,
+    "latitude": -37.899084,
+    "longitude": 144.663821,
+    "label": "55-59 Cherry Street, Werribee, VIC, Australia"
   }
 ]
