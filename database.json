@@ -15800,5 +15800,15 @@
     "latitude": -37.817289,
     "longitude": 144.965626,
     "label": "21 Degraves Street, Melbourne, VIC, Australia"
+  },
+  {
+    "Suburb": "Coolaroo",
+    "Site_streetaddress": "74 Bushfield Crescent",
+    "Site_state": "VIC",
+    "Site_postcode": "3048",
+    "confidence": 1,
+    "latitude": -37.662282,
+    "longitude": 144.929318,
+    "label": "74 Bushfield Crescent, Coolaroo, VIC, Australia"
   }
 ]
