@@ -15720,5 +15720,25 @@
     "latitude": -37.590804,
     "longitude": 144.933042,
     "label": "Craigieburn, VIC, Australia"
+  },
+  {
+    "Suburb": "Craigieburn",
+    "Site_streetaddress": "300 Grand Boulevard",
+    "Site_state": "VIC",
+    "Site_postcode": "3064",
+    "confidence": 1,
+    "latitude": -37.575122,
+    "longitude": 144.919948,
+    "label": "300-332 Grand Boulevard, Craigieburn, VIC, Australia"
+  },
+  {
+    "Suburb": "Bundoora",
+    "Site_streetaddress": "Shop 3A/42-44 Copernicus Crescent",
+    "Site_state": "VIC",
+    "Site_postcode": "3083",
+    "confidence": 1,
+    "latitude": -37.711881,
+    "longitude": 145.047809,
+    "label": "A42-44 Copernicus Crescent, Bundoora, VIC, Australia"
   }
 ]
