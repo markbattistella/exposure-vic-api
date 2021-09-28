@@ -15740,5 +15740,15 @@
     "latitude": -37.711881,
     "longitude": 145.047809,
     "label": "A42-44 Copernicus Crescent, Bundoora, VIC, Australia"
+  },
+  {
+    "Suburb": "Riddells Creek",
+    "Site_streetaddress": "8 Station Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3431",
+    "confidence": 1,
+    "latitude": -37.463623,
+    "longitude": 144.67797,
+    "label": "8B Station Street, Riddells Creek, VIC, Australia"
   }
 ]
