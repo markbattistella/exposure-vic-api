@@ -15810,5 +15810,35 @@
     "latitude": -37.662282,
     "longitude": 144.929318,
     "label": "74 Bushfield Crescent, Coolaroo, VIC, Australia"
+  },
+  {
+    "Suburb": "Bundoora",
+    "Site_streetaddress": "8 Graduate Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3083",
+    "confidence": 1,
+    "latitude": -37.683657,
+    "longitude": 145.07025,
+    "label": "8 Graduate Road, Bundoora, VIC, Australia"
+  },
+  {
+    "Suburb": "Morwell",
+    "Site_streetaddress": "Corner Vestan Drive and Hollie Drive",
+    "Site_state": "VIC",
+    "Site_postcode": "3840",
+    "confidence": 0.6,
+    "latitude": -38.230813,
+    "longitude": 146.414345,
+    "label": "Morwell, VIC, Australia"
+  },
+  {
+    "Suburb": "Traralgon",
+    "Site_streetaddress": "19-17 Princes Highway",
+    "Site_state": "VIC",
+    "Site_postcode": "3844",
+    "confidence": 0.6,
+    "latitude": -38.196566,
+    "longitude": 146.533757,
+    "label": "Traralgon, VIC, Australia"
   }
 ]
