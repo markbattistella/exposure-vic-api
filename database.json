@@ -15780,5 +15780,25 @@
     "latitude": -37.816941,
     "longitude": 144.965841,
     "label": "253 Flinders Lane, Melbourne, VIC, Australia"
+  },
+  {
+    "Suburb": "Traralgon",
+    "Site_streetaddress": "Seymour Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3844",
+    "confidence": 0.6,
+    "latitude": -38.196566,
+    "longitude": 146.533757,
+    "label": "Traralgon, VIC, Australia"
+  },
+  {
+    "Suburb": "Melbourne",
+    "Site_streetaddress": "21 Degraves Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3000",
+    "confidence": 1,
+    "latitude": -37.817289,
+    "longitude": 144.965626,
+    "label": "21 Degraves Street, Melbourne, VIC, Australia"
   }
 ]
