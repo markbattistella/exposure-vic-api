@@ -15750,5 +15750,35 @@
     "latitude": -37.463623,
     "longitude": 144.67797,
     "label": "8B Station Street, Riddells Creek, VIC, Australia"
+  },
+  {
+    "Suburb": "Ascot Vale",
+    "Site_streetaddress": "Level 1/199-203 Union Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3032",
+    "confidence": 1,
+    "latitude": -37.772988,
+    "longitude": 144.915731,
+    "label": "199-203 Union Road, Ascot Vale, VIC, Australia"
+  },
+  {
+    "Suburb": "Sunbury",
+    "Site_streetaddress": "81 Belleview Drive",
+    "Site_state": "VIC",
+    "Site_postcode": "3429",
+    "confidence": 1,
+    "latitude": -37.5941,
+    "longitude": 144.723798,
+    "label": "81 Belleview Drive, Sunbury, VIC, Australia"
+  },
+  {
+    "Suburb": "Melbourne",
+    "Site_streetaddress": "253 Flinders Lane",
+    "Site_state": "VIC",
+    "Site_postcode": "3000",
+    "confidence": 1,
+    "latitude": -37.816941,
+    "longitude": 144.965841,
+    "label": "253 Flinders Lane, Melbourne, VIC, Australia"
   }
 ]
