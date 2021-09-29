@@ -15945,5 +15945,55 @@
     "latitude": -37.806516,
     "longitude": 144.899431,
     "label": "10 Hyde Street, Footscray, VIC, Australia"
+  },
+  {
+    "Suburb": "Bendigo",
+    "Site_streetaddress": "298 Napier Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3550",
+    "confidence": 1,
+    "latitude": -36.747266,
+    "longitude": 144.292988,
+    "label": "298 Napier Street, Bendigo, VIC, Australia"
+  },
+  {
+    "Suburb": "Ironbark",
+    "Site_streetaddress": "36 Eaglehawk Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3550",
+    "confidence": 1,
+    "latitude": -36.755781,
+    "longitude": 144.266098,
+    "label": "36A Eaglehawk Road, Ironbark, VIC, Australia"
+  },
+  {
+    "Suburb": "Ironbark",
+    "Site_streetaddress": "46 Eaglehawk Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3550",
+    "confidence": 1,
+    "latitude": -36.755577,
+    "longitude": 144.264749,
+    "label": "46 Eaglehawk Road, Ironbark, VIC, Australia"
+  },
+  {
+    "Suburb": "Golden Square",
+    "Site_streetaddress": "2F Thistle Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3555",
+    "confidence": 1,
+    "latitude": -36.775559,
+    "longitude": 144.271417,
+    "label": "2/2A Thistle Street, Golden Square, VIC, Australia"
+  },
+  {
+    "Suburb": "Golden Square",
+    "Site_streetaddress": "13-23 Abel Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3555",
+    "confidence": 1,
+    "latitude": -36.772941,
+    "longitude": 144.271932,
+    "label": "13-23 Abel Street, Golden Square, VIC, Australia"
   }
 ]
