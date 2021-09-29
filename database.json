@@ -15995,5 +15995,45 @@
     "latitude": -36.772941,
     "longitude": 144.271932,
     "label": "13-23 Abel Street, Golden Square, VIC, Australia"
+  },
+  {
+    "Suburb": "Golden Square",
+    "Site_streetaddress": "2B Thistle Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3555",
+    "confidence": 1,
+    "latitude": -36.775559,
+    "longitude": 144.271417,
+    "label": "2/2A Thistle Street, Golden Square, VIC, Australia"
+  },
+  {
+    "Suburb": "Bendigo",
+    "Site_streetaddress": "19 Nolan Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3550",
+    "confidence": 1,
+    "latitude": -36.749626,
+    "longitude": 144.290144,
+    "label": "19 Nolan Street, Bendigo, VIC, Australia"
+  },
+  {
+    "Suburb": "Eaglehawk",
+    "Site_streetaddress": "191-193 Upper California Gully Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3556",
+    "confidence": 1,
+    "latitude": -36.727812,
+    "longitude": 144.246642,
+    "label": "191-193 Upper California Gully Road, Eaglehawk, VIC, Australia"
+  },
+  {
+    "Suburb": "Endeavour Hills",
+    "Site_streetaddress": "24 Heathmere Cresent",
+    "Site_state": "VIC",
+    "Site_postcode": "3802",
+    "confidence": 0.6,
+    "latitude": -37.97358,
+    "longitude": 145.258675,
+    "label": "Endeavour Hills, VIC, Australia"
   }
 ]
