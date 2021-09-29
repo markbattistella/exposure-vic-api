@@ -16115,5 +16115,35 @@
     "latitude": -37.639664,
     "longitude": 144.886259,
     "label": "12-24 Bradford Avenue, Greenvale, VIC, Australia"
+  },
+  {
+    "Suburb": "Ballarat",
+    "Site_streetaddress": "301 Sturt Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3350",
+    "confidence": 0.4,
+    "latitude": -37.563892,
+    "longitude": 143.852395,
+    "label": "Ballarat, VIC, Australia"
+  },
+  {
+    "Suburb": "Smythes Creek",
+    "Site_streetaddress": "315 Glenelg Highway",
+    "Site_state": "VIC",
+    "Site_postcode": "3351",
+    "confidence": 1,
+    "latitude": -37.590787,
+    "longitude": 143.805149,
+    "label": "315 Glenelg Highway, Smythes Creek, VIC, Australia"
+  },
+  {
+    "Suburb": "Golden Point",
+    "Site_streetaddress": "523 Main Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3350",
+    "confidence": 1,
+    "latitude": -37.57719,
+    "longitude": 143.868465,
+    "label": "523 Main Road, Golden Point, VIC, Australia"
   }
 ]
