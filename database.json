@@ -16075,5 +16075,45 @@
     "latitude": -37.759639,
     "longitude": 144.971861,
     "label": "98 Mitchell Street, Brunswick, VIC, Australia"
+  },
+  {
+    "Suburb": "Belmont",
+    "Site_streetaddress": "145 High Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3216",
+    "confidence": 1,
+    "latitude": -38.173338,
+    "longitude": 144.34482,
+    "label": "145 High Street, Belmont, VIC, Australia"
+  },
+  {
+    "Suburb": "Wheelers Hill",
+    "Site_streetaddress": "190-200 Jells Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3150",
+    "confidence": 1,
+    "latitude": -37.910286,
+    "longitude": 145.188761,
+    "label": "190-200 Jells Road, Wheelers Hill, VIC, Australia"
+  },
+  {
+    "Suburb": "Glenroy",
+    "Site_streetaddress": "51 Gladstone Parade",
+    "Site_state": "VIC",
+    "Site_postcode": "3046",
+    "confidence": 1,
+    "latitude": -37.709087,
+    "longitude": 144.909254,
+    "label": "51 Gladstone Parade, Glenroy, VIC, Australia"
+  },
+  {
+    "Suburb": "Greenvale",
+    "Site_streetaddress": "12-24 Bradford Avenue",
+    "Site_state": "VIC",
+    "Site_postcode": "3059",
+    "confidence": 1,
+    "latitude": -37.639664,
+    "longitude": 144.886259,
+    "label": "12-24 Bradford Avenue, Greenvale, VIC, Australia"
   }
 ]
