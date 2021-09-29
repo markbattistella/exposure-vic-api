@@ -16145,5 +16145,95 @@
     "latitude": -37.57719,
     "longitude": 143.868465,
     "label": "523 Main Road, Golden Point, VIC, Australia"
+  },
+  {
+    "Suburb": "Williams Landing",
+    "Site_streetaddress": "Ground Floor, 111 Overton Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3027",
+    "confidence": 1,
+    "latitude": -37.866608,
+    "longitude": 144.74374,
+    "label": "111 Overton Road, Williams Landing, VIC, Australia"
+  },
+  {
+    "Suburb": "Strathtulloh",
+    "Site_streetaddress": "1 Ladbroke Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3338",
+    "confidence": 0.3,
+    "latitude": -37.014348,
+    "longitude": 143.480452,
+    "label": "Victoria, Australia"
+  },
+  {
+    "Suburb": "Fawkner",
+    "Site_streetaddress": "1114 Sydney Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3060",
+    "confidence": 1,
+    "latitude": -37.714303,
+    "longitude": 144.962451,
+    "label": "1114 Sydney Road, Fawkner, VIC, Australia"
+  },
+  {
+    "Suburb": "Truganina",
+    "Site_streetaddress": "72 Clearwood Drive",
+    "Site_state": "VIC",
+    "Site_postcode": "3029",
+    "confidence": 1,
+    "latitude": -37.837679,
+    "longitude": 144.719646,
+    "label": "72 Clearwood Drive, Truganina, VIC, Australia"
+  },
+  {
+    "Suburb": "Kensington",
+    "Site_streetaddress": "81B Altona Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3031",
+    "confidence": 1,
+    "latitude": -37.797143,
+    "longitude": 144.925448,
+    "label": "81A Altona Street, Kensington, VIC, Australia"
+  },
+  {
+    "Suburb": "Doncaster East",
+    "Site_streetaddress": "50 Tunstall Square",
+    "Site_state": "VIC",
+    "Site_postcode": "3109",
+    "confidence": 1,
+    "latitude": -37.791384,
+    "longitude": 145.171285,
+    "label": "50 Tunstall Square, Doncaster East, VIC, Australia"
+  },
+  {
+    "Suburb": "Werribee",
+    "Site_streetaddress": "60-62 Lock Avenue",
+    "Site_state": "VIC",
+    "Site_postcode": "3030",
+    "confidence": 1,
+    "latitude": -37.914764,
+    "longitude": 144.662717,
+    "label": "60-62 Lock Avenue, Werribee, VIC, Australia"
+  },
+  {
+    "Suburb": "Flemington",
+    "Site_streetaddress": "126 Racecourse Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3031",
+    "confidence": 1,
+    "latitude": -37.786916,
+    "longitude": 144.937191,
+    "label": "126/126 Racecourse Road, Flemington, VIC, Australia"
+  },
+  {
+    "Suburb": "Glenroy",
+    "Site_streetaddress": "4 Hartington Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3046",
+    "confidence": 1,
+    "latitude": -37.704763,
+    "longitude": 144.918007,
+    "label": "4 Hartington Street, Glenroy, VIC, Australia"
   }
 ]
