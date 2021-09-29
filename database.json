@@ -16235,5 +16235,25 @@
     "latitude": -37.704763,
     "longitude": 144.918007,
     "label": "4 Hartington Street, Glenroy, VIC, Australia"
+  },
+  {
+    "Suburb": "Delahey",
+    "Site_streetaddress": "80 Copperfield Drive",
+    "Site_state": "VIC",
+    "Site_postcode": "3037",
+    "confidence": 1,
+    "latitude": -37.716183,
+    "longitude": 144.772538,
+    "label": "80 Copperfield Drive, Delahey, VIC, Australia"
+  },
+  {
+    "Suburb": "Maribyrnong",
+    "Site_streetaddress": "67 The Esplanade",
+    "Site_state": "VIC",
+    "Site_postcode": "3023",
+    "confidence": 1,
+    "latitude": -37.766783,
+    "longitude": 144.891886,
+    "label": "67 The Esplanade, Maribyrnong, VIC, Australia"
   }
 ]
