@@ -15865,5 +15865,55 @@
     "latitude": -36.386532,
     "longitude": 145.424029,
     "label": "110 Benalla Road, Shepparton, VIC, Australia"
+  },
+  {
+    "Suburb": "Warrnambool East ",
+    "Site_streetaddress": "10691/10699 Princes Highway",
+    "Site_state": "VIC",
+    "Site_postcode": "3280",
+    "confidence": 1,
+    "latitude": -38.385195,
+    "longitude": 142.533679,
+    "label": "10699 Princes Highway, Warrnambool, VIC, Australia"
+  },
+  {
+    "Suburb": "Warrnambool",
+    "Site_streetaddress": "17 Braithwaite Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3280",
+    "confidence": 1,
+    "latitude": -38.370138,
+    "longitude": 142.45737,
+    "label": "17 Braithwaite Street, Warrnambool, VIC, Australia"
+  },
+  {
+    "Suburb": "Warrnambool",
+    "Site_streetaddress": "72-80 Hopkins Highway",
+    "Site_state": "VIC",
+    "Site_postcode": "3280",
+    "confidence": 0.6,
+    "latitude": -38.3777,
+    "longitude": 142.480446,
+    "label": "Warrnambool, VIC, Australia"
+  },
+  {
+    "Suburb": "Warrnambool",
+    "Site_streetaddress": "745-763 Raglan Parade",
+    "Site_state": "VIC",
+    "Site_postcode": "3280",
+    "confidence": 1,
+    "latitude": -38.377297,
+    "longitude": 142.480536,
+    "label": "745-763 Raglan Parade, Warrnambool, VIC, Australia"
+  },
+  {
+    "Suburb": "Warrnambool",
+    "Site_streetaddress": "47 Petrobe Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3280",
+    "confidence": 0.6,
+    "latitude": -38.3777,
+    "longitude": 142.480446,
+    "label": "Warrnambool, VIC, Australia"
   }
 ]
