@@ -15825,5 +15825,45 @@
     "latitude": -37.899084,
     "longitude": 144.663821,
     "label": "55-59 Cherry Street, Werribee, VIC, Australia"
+  },
+  {
+    "Suburb": "Bundoora",
+    "Site_streetaddress": "Shop 15/5 Janefield Drive",
+    "Site_state": "VIC",
+    "Site_postcode": "3083",
+    "confidence": 0.8,
+    "latitude": -37.696009,
+    "longitude": 145.059378,
+    "label": "3083, Bundoora, VIC, Australia"
+  },
+  {
+    "Suburb": "Epping",
+    "Site_streetaddress": "Unit 37/571 - 583 High Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3076",
+    "confidence": 1,
+    "latitude": -37.653755,
+    "longitude": 145.022085,
+    "label": "571-583 High Street, Epping, VIC, Australia"
+  },
+  {
+    "Suburb": "Shepparton",
+    "Site_streetaddress": "97 Benalla Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3630",
+    "confidence": 1,
+    "latitude": -36.385723,
+    "longitude": 145.423739,
+    "label": "97 Benalla Road, Shepparton, VIC, Australia"
+  },
+  {
+    "Suburb": "Shepparton",
+    "Site_streetaddress": "Shop 11-12/110 Benalla Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3630",
+    "confidence": 0.8,
+    "latitude": -36.386532,
+    "longitude": 145.424029,
+    "label": "110 Benalla Road, Shepparton, VIC, Australia"
   }
 ]
