@@ -15915,5 +15915,35 @@
     "latitude": -38.3777,
     "longitude": 142.480446,
     "label": "Warrnambool, VIC, Australia"
+  },
+  {
+    "Suburb": "Warrnambool",
+    "Site_streetaddress": "150 Raglan Parade",
+    "Site_state": "VIC",
+    "Site_postcode": "3280",
+    "confidence": 1,
+    "latitude": -38.383156,
+    "longitude": 142.519646,
+    "label": "150 Raglan Parade, Warrnambool, VIC, Australia"
+  },
+  {
+    "Suburb": "Warrnambool",
+    "Site_streetaddress": "Corner Princess Highway and Gateway Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3280",
+    "confidence": 0.8,
+    "latitude": -38.366756,
+    "longitude": 142.488194,
+    "label": "3280, Warrnambool, VIC, Australia"
+  },
+  {
+    "Suburb": "Footscray",
+    "Site_streetaddress": "10 Hyde Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3011",
+    "confidence": 1,
+    "latitude": -37.806516,
+    "longitude": 144.899431,
+    "label": "10 Hyde Street, Footscray, VIC, Australia"
   }
 ]
