@@ -16035,5 +16035,45 @@
     "latitude": -37.97358,
     "longitude": 145.258675,
     "label": "Endeavour Hills, VIC, Australia"
+  },
+  {
+    "Suburb": "Craigieburn",
+    "Site_streetaddress": "40 Hothlyn Drive",
+    "Site_state": "VIC",
+    "Site_postcode": "3064",
+    "confidence": 1,
+    "latitude": -37.602698,
+    "longitude": 144.941928,
+    "label": "40 Hothlyn Drive, Craigieburn, VIC, Australia"
+  },
+  {
+    "Suburb": "Melbourne",
+    "Site_streetaddress": "540 Elizabeth Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3000",
+    "confidence": 0.6,
+    "latitude": -37.825071,
+    "longitude": 144.978682,
+    "label": "Melbourne, VIC, Australia"
+  },
+  {
+    "Suburb": "Donvale",
+    "Site_streetaddress": "318-320 Springvale Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3111",
+    "confidence": 1,
+    "latitude": -37.793969,
+    "longitude": 145.179464,
+    "label": "318-320 Springvale Road, Donvale, VIC, Australia"
+  },
+  {
+    "Suburb": "Brunswick",
+    "Site_streetaddress": "98 Mitchell Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3056",
+    "confidence": 1,
+    "latitude": -37.759639,
+    "longitude": 144.971861,
+    "label": "98 Mitchell Street, Brunswick, VIC, Australia"
   }
 ]
