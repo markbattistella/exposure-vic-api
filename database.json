@@ -16462,5 +16462,65 @@
     "latitude": -36.378715,
     "longitude": 145.399083,
     "label": "272 Wyndham Street, Shepparton, VIC, Australia"
+  },
+  {
+    "Suburb": "Queenscliff",
+    "Site_streetaddress": "78 Hesse Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3225",
+    "confidence": 1,
+    "latitude": -38.268507,
+    "longitude": 144.660177,
+    "label": "78 Hesse Street, Queenscliff, VIC, Australia"
+  },
+  {
+    "Suburb": "Queenscliff",
+    "Site_streetaddress": "80 Hesse Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3225",
+    "confidence": 1,
+    "latitude": -38.268596,
+    "longitude": 144.660215,
+    "label": "80 Hesse Street, Queenscliff, VIC, Australia"
+  },
+  {
+    "Suburb": "Warrnambool, 3280",
+    "Site_streetaddress": "221 Timor Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3047",
+    "confidence": 1,
+    "latitude": -38.383983,
+    "longitude": 142.479605,
+    "label": "221-223 Timor Street, Warrnambool, VIC, Australia"
+  },
+  {
+    "Suburb": "Warrnambool",
+    "Site_streetaddress": "221 Timor Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3280",
+    "confidence": 1,
+    "latitude": -38.383983,
+    "longitude": 142.479605,
+    "label": "221-223 Timor Street, Warrnambool, VIC, Australia"
+  },
+  {
+    "Suburb": "Lower Plenty",
+    "Site_streetaddress": "412 Main Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3093",
+    "confidence": 1,
+    "latitude": -37.731634,
+    "longitude": 145.132661,
+    "label": "412 Main Road, Lower Plenty, VIC, Australia"
+  },
+  {
+    "Suburb": "Footscray",
+    "Site_streetaddress": "398 Barkly Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3011",
+    "confidence": 1,
+    "latitude": -37.798323,
+    "longitude": 144.887907,
+    "label": "398 Barkly Street, Footscray, VIC, Australia"
   }
 ]
