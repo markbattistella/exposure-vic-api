@@ -16602,5 +16602,45 @@
     "latitude": -38.159317,
     "longitude": 144.393163,
     "label": "64-66 Portarlington Road, Newcomb, VIC, Australia"
+  },
+  {
+    "Suburb": "Geelong",
+    "Site_streetaddress": "Level 1, 95 Malop Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3220",
+    "confidence": 1,
+    "latitude": -38.147906,
+    "longitude": 144.359687,
+    "label": "95 Little Malop Street, Geelong, VIC, Australia"
+  },
+  {
+    "Suburb": "Braybrook",
+    "Site_streetaddress": "1 Vine Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3019",
+    "confidence": 1,
+    "latitude": -37.785228,
+    "longitude": 144.856043,
+    "label": "1 Vine Street, Braybrook, VIC, Australia"
+  },
+  {
+    "Suburb": "Epping",
+    "Site_streetaddress": "310 Cooper Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3076",
+    "confidence": 1,
+    "latitude": -37.649305,
+    "longitude": 145.003819,
+    "label": "310 Cooper Street, Epping, VIC, Australia"
+  },
+  {
+    "Suburb": "Wodonga",
+    "Site_streetaddress": "55-71 Elgin Boulevard",
+    "Site_state": "VIC",
+    "Site_postcode": "3690",
+    "confidence": 1,
+    "latitude": -36.120573,
+    "longitude": 146.883315,
+    "label": "55-71 Elgin Boulevard, Wodonga, VIC, Australia"
   }
 ]
