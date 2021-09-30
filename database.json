@@ -16374,5 +16374,25 @@
     "latitude": -37.023088,
     "longitude": 145.13253,
     "label": "32-34 Tallarook Street, Seymour, VIC, Australia"
+  },
+  {
+    "Suburb": "Breakwater",
+    "Site_streetaddress": "6 Reeves Court",
+    "Site_state": "VIC",
+    "Site_postcode": "3219",
+    "confidence": 1,
+    "latitude": -38.18307,
+    "longitude": 144.373662,
+    "label": "6 Reeves Court, Breakwater, VIC, Australia"
+  },
+  {
+    "Suburb": "Colac",
+    "Site_streetaddress": "261 Murray Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3250",
+    "confidence": 0.3,
+    "latitude": -37.014348,
+    "longitude": 143.480452,
+    "label": "Victoria, Australia"
   }
 ]
