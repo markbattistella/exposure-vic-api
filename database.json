@@ -16552,5 +16552,55 @@
     "latitude": -37.694844,
     "longitude": 144.881212,
     "label": "157 Mickleham Road, Tullamarine, VIC, Australia"
+  },
+  {
+    "Suburb": "Reservoir",
+    "Site_streetaddress": "117 Edwards Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3073",
+    "confidence": 0.6,
+    "latitude": -37.712408,
+    "longitude": 145.004061,
+    "label": "Reservoir, VIC, Australia"
+  },
+  {
+    "Suburb": "Keilor",
+    "Site_streetaddress": "910 Old Cader Highway",
+    "Site_state": "VIC",
+    "Site_postcode": "3036",
+    "confidence": 0.6,
+    "latitude": -37.7147,
+    "longitude": 144.829117,
+    "label": "Keilor, VIC, Australia"
+  },
+  {
+    "Suburb": "Caulfield North",
+    "Site_streetaddress": "119-121 Hawthorn Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3161",
+    "confidence": 1,
+    "latitude": -37.874457,
+    "longitude": 145.024593,
+    "label": "119-121 Hawthorn Road, Caulfield North, VIC, Australia"
+  },
+  {
+    "Suburb": "Hadfield",
+    "Site_streetaddress": "82 West Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3046",
+    "confidence": 1,
+    "latitude": -37.71062,
+    "longitude": 144.937898,
+    "label": "82 West Street, Hadfield, VIC, Australia"
+  },
+  {
+    "Suburb": "Newcomb",
+    "Site_streetaddress": "64 Portarlington Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3219",
+    "confidence": 1,
+    "latitude": -38.159317,
+    "longitude": 144.393163,
+    "label": "64-66 Portarlington Road, Newcomb, VIC, Australia"
   }
 ]
