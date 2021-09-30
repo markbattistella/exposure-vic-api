@@ -15831,10 +15831,9 @@
     "Site_streetaddress": "Shop 15/5 Janefield Drive",
     "Site_state": "VIC",
     "Site_postcode": "3083",
-    "confidence": 0.8,
-    "latitude": -37.696009,
-    "longitude": 145.059378,
-    "label": "3083, Bundoora, VIC, Australia"
+    "confidence": 1,
+    "latitude": -37.6826145,
+    "longitude": 145.0693094
   },
   {
     "Suburb": "Epping",
@@ -15861,10 +15860,9 @@
     "Site_streetaddress": "Shop 11-12/110 Benalla Road",
     "Site_state": "VIC",
     "Site_postcode": "3630",
-    "confidence": 0.8,
-    "latitude": -36.386532,
-    "longitude": 145.424029,
-    "label": "110 Benalla Road, Shepparton, VIC, Australia"
+    "confidence": 1,
+    "latitude": -36.3875913,
+    "longitude": 145.421757
   },
   {
     "Suburb": "Warrnambool East ",
@@ -15891,10 +15889,9 @@
     "Site_streetaddress": "72-80 Hopkins Highway",
     "Site_state": "VIC",
     "Site_postcode": "3280",
-    "confidence": 0.6,
-    "latitude": -38.3777,
-    "longitude": 142.480446,
-    "label": "Warrnambool, VIC, Australia"
+    "confidence": 1,
+    "latitude": -38.3685243,
+    "longitude": 142.4919129
   },
   {
     "Suburb": "Warrnambool",
@@ -15911,10 +15908,9 @@
     "Site_streetaddress": "47 Petrobe Road",
     "Site_state": "VIC",
     "Site_postcode": "3280",
-    "confidence": 0.6,
-    "latitude": -38.3777,
-    "longitude": 142.480446,
-    "label": "Warrnambool, VIC, Australia"
+    "confidence": 1,
+    "latitude": -38.3935328,
+    "longitude": 142.4739441
   },
   {
     "Suburb": "Warrnambool",
@@ -15931,10 +15927,9 @@
     "Site_streetaddress": "Corner Princess Highway and Gateway Road",
     "Site_state": "VIC",
     "Site_postcode": "3280",
-    "confidence": 0.8,
-    "latitude": -38.366756,
-    "longitude": 142.488194,
-    "label": "3280, Warrnambool, VIC, Australia"
+    "confidence": 1,
+    "latitude": -38.3834773,
+    "longitude": 142.5170757
   },
   {
     "Suburb": "Footscray",
@@ -16031,10 +16026,9 @@
     "Site_streetaddress": "24 Heathmere Cresent",
     "Site_state": "VIC",
     "Site_postcode": "3802",
-    "confidence": 0.6,
-    "latitude": -37.97358,
-    "longitude": 145.258675,
-    "label": "Endeavour Hills, VIC, Australia"
+    "confidence": 1,
+    "latitude": -37.9707472,
+    "longitude": 145.2631422
   },
   {
     "Suburb": "Craigieburn",
@@ -16051,10 +16045,9 @@
     "Site_streetaddress": "540 Elizabeth Street",
     "Site_state": "VIC",
     "Site_postcode": "3000",
-    "confidence": 0.6,
-    "latitude": -37.825071,
-    "longitude": 144.978682,
-    "label": "Melbourne, VIC, Australia"
+    "confidence": 1,
+    "latitude": -37.8054728,
+    "longitude": 144.9575357
   },
   {
     "Suburb": "Donvale",
@@ -16121,10 +16114,9 @@
     "Site_streetaddress": "301 Sturt Street",
     "Site_state": "VIC",
     "Site_postcode": "3350",
-    "confidence": 0.4,
-    "latitude": -37.563892,
-    "longitude": 143.852395,
-    "label": "Ballarat, VIC, Australia"
+    "confidence": 1,
+    "latitude": -37.5625537,
+    "longitude": 143.8547375
   },
   {
     "Suburb": "Smythes Creek",
@@ -16161,10 +16153,9 @@
     "Site_streetaddress": "1 Ladbroke Street",
     "Site_state": "VIC",
     "Site_postcode": "3338",
-    "confidence": 0.3,
-    "latitude": -37.014348,
-    "longitude": 143.480452,
-    "label": "Victoria, Australia"
+    "confidence": 1,
+    "latitude": -37.7164262,
+    "longitude": 144.5939082
   },
   {
     "Suburb": "Fawkner",
@@ -16271,9 +16262,8 @@
     "Site_streetaddress": "75 Lynbrook Boulevard",
     "Site_state": "VIC",
     "Site_postcode": "3975",
-    "confidence": 0.3,
-    "latitude": -37.014348,
-    "longitude": 143.480452,
-    "label": "Victoria, Australia"
+    "confidence": 1,
+    "latitude": -38.0514645,
+    "longitude": 145.2539032
   }
 ]
