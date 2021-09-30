@@ -16321,10 +16321,9 @@
     "Site_streetaddress": "166 - 188 Franklin Street",
     "Site_state": "VIC",
     "Site_postcode": "3844",
-    "confidence": 0.6,
-    "latitude": -38.196566,
-    "longitude": 146.533757,
-    "label": "Traralgon, VIC, Australia"
+    "confidence": 1,
+    "latitude": -38.194014,
+    "longitude": 146.5369542
   },
   {
     "Suburb": "Traralgon",
