@@ -16682,5 +16682,15 @@
     "latitude": -37.687125,
     "longitude": 144.423811,
     "label": "33 Griffith Street, Maddingley, VIC, Australia"
+  },
+  {
+    "Suburb": "Warrnambool",
+    "Site_streetaddress": "221 Timor Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3047",
+    "confidence": 1,
+    "latitude": -38.383983,
+    "longitude": 142.479605,
+    "label": "221-223 Timor Street, Warrnambool, VIC, Australia"
   }
 ]
