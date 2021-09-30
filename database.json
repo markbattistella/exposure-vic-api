@@ -16300,7 +16300,11 @@
     "Suburb": "Seymour",
     "Site_streetaddress": "32 - 34 Tallarook Street",
     "Site_state": "VIC",
-    "Site_postcode": "3660"
+    "Site_postcode": "3660",
+    "confidence": 1,
+    "latitude": -37.023088,
+    "longitude": 145.13253,
+    "label": "32-34 Tallarook Street, Seymour, VIC, Australia"
   },
   {
     "Suburb": "Traralgon",
@@ -16316,7 +16320,11 @@
     "Suburb": "Traralgon",
     "Site_streetaddress": "166 - 188 Franklin Street",
     "Site_state": "VIC",
-    "Site_postcode": "3844"
+    "Site_postcode": "3844",
+    "confidence": 0.6,
+    "latitude": -38.196566,
+    "longitude": 146.533757,
+    "label": "Traralgon, VIC, Australia"
   },
   {
     "Suburb": "Traralgon",
@@ -16332,6 +16340,10 @@
     "Suburb": "Traralgon",
     "Site_streetaddress": "70 Seymour Street",
     "Site_state": "VIC",
-    "Site_postcode": "3844"
+    "Site_postcode": "3844",
+    "confidence": 1,
+    "latitude": -38.195926,
+    "longitude": 146.536966,
+    "label": "70 Seymour Street, Traralgon, VIC, Australia"
   }
 ]
