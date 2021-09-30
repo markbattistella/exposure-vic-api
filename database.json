@@ -16345,5 +16345,35 @@
     "latitude": -38.195926,
     "longitude": 146.536966,
     "label": "70 Seymour Street, Traralgon, VIC, Australia"
+  },
+  {
+    "Suburb": "Kerang",
+    "Site_streetaddress": "62-64 Wellington Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3579",
+    "confidence": 1,
+    "latitude": -35.735253,
+    "longitude": 143.919575,
+    "label": "62-64 Wellington Street, Kerang, VIC, Australia"
+  },
+  {
+    "Suburb": "Aintree",
+    "Site_streetaddress": "23 Ferneley View",
+    "Site_state": "VIC",
+    "Site_postcode": "3335",
+    "confidence": 1,
+    "latitude": -37.721298,
+    "longitude": 144.665342,
+    "label": "23 Ferneley View, Rockbank, VIC, Australia"
+  },
+  {
+    "Suburb": "Seymour",
+    "Site_streetaddress": "32-34 Tallarook Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3660",
+    "confidence": 1,
+    "latitude": -37.023088,
+    "longitude": 145.13253,
+    "label": "32-34 Tallarook Street, Seymour, VIC, Australia"
   }
 ]
