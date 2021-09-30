@@ -16265,5 +16265,35 @@
     "confidence": 1,
     "latitude": -38.0514645,
     "longitude": 145.2539032
+  },
+  {
+    "Suburb": "Berwick",
+    "Site_streetaddress": "1 Oshea Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3806",
+    "confidence": 1,
+    "latitude": -38.061625,
+    "longitude": 145.338298,
+    "label": "1T/1 Oshea Road, Berwick, VIC, Australia"
+  },
+  {
+    "Suburb": "Shepparton",
+    "Site_streetaddress": "2-10 St Georges Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3630",
+    "confidence": 1,
+    "latitude": -36.383023,
+    "longitude": 145.407695,
+    "label": "2-10 St Georges Road, Shepparton, VIC, Australia"
+  },
+  {
+    "Suburb": "Colac",
+    "Site_streetaddress": "Corner Bromfield & Queen Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3250",
+    "confidence": 1,
+    "latitude": -37.824844,
+    "longitude": 144.992617,
+    "label": "Corner Hotel, Richmond, VIC, Australia"
   }
 ]
