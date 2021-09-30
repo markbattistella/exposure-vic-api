@@ -16394,5 +16394,35 @@
     "latitude": -37.014348,
     "longitude": 143.480452,
     "label": "Victoria, Australia"
+  },
+  {
+    "Suburb": "Ararat",
+    "Site_streetaddress": "119 Barkly Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3377",
+    "confidence": 1,
+    "latitude": -37.283879,
+    "longitude": 142.929287,
+    "label": "119 Barkly Street, Ararat, VIC, Australia"
+  },
+  {
+    "Suburb": "Ararat",
+    "Site_streetaddress": "3 Ingor Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3377",
+    "confidence": 1,
+    "latitude": -37.282699,
+    "longitude": 142.927748,
+    "label": "3 Ingor Street, Ararat, VIC, Australia"
+  },
+  {
+    "Suburb": "Richmond",
+    "Site_streetaddress": "Victoria Street & Burnley Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3121",
+    "confidence": 0.8,
+    "latitude": -37.811427,
+    "longitude": 145.010175,
+    "label": "Victoria Gardens Shopping Centre, Burnley & Victoria Streets, Abbotsford, VIC, Australia"
   }
 ]
