@@ -16522,5 +16522,35 @@
     "latitude": -37.798323,
     "longitude": 144.887907,
     "label": "398 Barkly Street, Footscray, VIC, Australia"
+  },
+  {
+    "Suburb": "Narre Warren",
+    "Site_streetaddress": "Corner Narre Warren-Cranbourne Road and Fullard Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3805",
+    "confidence": 0.6,
+    "latitude": -38.012325,
+    "longitude": 145.301574,
+    "label": "Narre Warren, VIC, Australia"
+  },
+  {
+    "Suburb": "Geelong",
+    "Site_streetaddress": "283 Latrobe Terrace",
+    "Site_state": "VIC",
+    "Site_postcode": "3220",
+    "confidence": 1,
+    "latitude": -38.150867,
+    "longitude": 144.352419,
+    "label": "283 Latrobe Terrace, Geelong, VIC, Australia"
+  },
+  {
+    "Suburb": "Tullamarine",
+    "Site_streetaddress": "157 Mickleham Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3043",
+    "confidence": 1,
+    "latitude": -37.694844,
+    "longitude": 144.881212,
+    "label": "157 Mickleham Road, Tullamarine, VIC, Australia"
   }
 ]
