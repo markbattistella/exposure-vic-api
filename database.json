@@ -16642,5 +16642,45 @@
     "latitude": -36.120573,
     "longitude": 146.883315,
     "label": "55-71 Elgin Boulevard, Wodonga, VIC, Australia"
+  },
+  {
+    "Suburb": "Moe",
+    "Site_streetaddress": "Shop 2, 17 Moore Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3825",
+    "confidence": 1,
+    "latitude": -38.174279,
+    "longitude": 146.26159,
+    "label": "17 Moore Street, Yallourn, VIC, Australia"
+  },
+  {
+    "Suburb": "Fitzroy North",
+    "Site_streetaddress": "300 Queens Parade",
+    "Site_state": "VIC",
+    "Site_postcode": "3068",
+    "confidence": 1,
+    "latitude": -37.788748,
+    "longitude": 144.989691,
+    "label": "300 Queens Parade, Fitzroy North, VIC, Australia"
+  },
+  {
+    "Suburb": "Cranbourne North",
+    "Site_streetaddress": "398 South Gippsland Highway",
+    "Site_state": "VIC",
+    "Site_postcode": "3977",
+    "confidence": 0.6,
+    "latitude": -38.077939,
+    "longitude": 145.302481,
+    "label": "Cranbourne North, VIC, Australia"
+  },
+  {
+    "Suburb": "Maddingley",
+    "Site_streetaddress": "33 Griffith Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3340",
+    "confidence": 1,
+    "latitude": -37.687125,
+    "longitude": 144.423811,
+    "label": "33 Griffith Street, Maddingley, VIC, Australia"
   }
 ]
