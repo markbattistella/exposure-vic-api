@@ -16442,5 +16442,25 @@
     "latitude": -38.020442,
     "longitude": 145.221637,
     "label": "Dandenong South, VIC, Australia"
+  },
+  {
+    "Suburb": "Coburg",
+    "Site_streetaddress": "45/47 May Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3058",
+    "confidence": 1,
+    "latitude": -37.734234,
+    "longitude": 144.960868,
+    "label": "47 May Street, Coburg, VIC, Australia"
+  },
+  {
+    "Suburb": "Shepparton",
+    "Site_streetaddress": "272 Wyndham Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3630",
+    "confidence": 1,
+    "latitude": -36.378715,
+    "longitude": 145.399083,
+    "label": "272 Wyndham Street, Shepparton, VIC, Australia"
   }
 ]
