@@ -17021,7 +17021,11 @@
     "Suburb": "Bacchus Marsh",
     "Site_streetaddress": "7 Clifton Drive",
     "Site_state": "VIC",
-    "Site_postcode": "3340"
+    "Site_postcode": "3340",
+    "confidence": 1,
+    "latitude": -37.665678,
+    "longitude": 144.437022,
+    "label": "7 Clifton Drive, Bacchus Marsh, VIC, Australia"
   },
   {
     "Suburb": "Gisborne",
@@ -17072,5 +17076,35 @@
     "latitude": -37.799393,
     "longitude": 144.974867,
     "label": "186 Nicholson Street, Fitzroy, VIC, Australia"
+  },
+  {
+    "Suburb": "East Bendigo",
+    "Site_streetaddress": "88-94 Strickland Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3350",
+    "confidence": 1,
+    "latitude": -36.746848,
+    "longitude": 144.306395,
+    "label": "88 - 94 Strickland Road, East Bendigo, VIC, Australia"
+  },
+  {
+    "Suburb": "East Warrnambool",
+    "Site_streetaddress": "4 Nicholson Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3280",
+    "confidence": 0.6,
+    "latitude": -38.3777,
+    "longitude": 142.480446,
+    "label": "Warrnambool, VIC, Australia"
+  },
+  {
+    "Suburb": "Warrnambool",
+    "Site_streetaddress": "8 Hopkins Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3280",
+    "confidence": 1,
+    "latitude": -38.395653,
+    "longitude": 142.507267,
+    "label": "8 Hopkins Road, Warrnambool, VIC, Australia"
   }
 ]
