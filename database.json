@@ -17166,5 +17166,45 @@
     "latitude": -38.103315,
     "longitude": 145.12616,
     "label": "125 Nepean Highway, Seaford, VIC, Australia"
+  },
+  {
+    "Suburb": "Kerang",
+    "Site_streetaddress": "Corner Murray Valley Highway and Museum Drive",
+    "Site_state": "VIC",
+    "Site_postcode": "3579",
+    "confidence": 0.6,
+    "latitude": -35.73403,
+    "longitude": 143.921251,
+    "label": "Kerang, VIC, Australia"
+  },
+  {
+    "Suburb": "Shepparton",
+    "Site_streetaddress": "176 Numurkah Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3630",
+    "confidence": 1,
+    "latitude": -36.354148,
+    "longitude": 145.401632,
+    "label": "176 Numurkah Road, Shepparton, VIC, Australia"
+  },
+  {
+    "Suburb": "Warnambool",
+    "Site_streetaddress": "72-80 Hopkins Highway",
+    "Site_state": "VIC",
+    "Site_postcode": "3280",
+    "confidence": 0.3,
+    "latitude": -37.014348,
+    "longitude": 143.480452,
+    "label": "Victoria, Australia"
+  },
+  {
+    "Suburb": "Rowville",
+    "Site_streetaddress": "1/1100 Wellington Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3178",
+    "confidence": 1,
+    "latitude": -37.927632,
+    "longitude": 145.252016,
+    "label": "1100 Wellington Road, Rowville, VIC, Australia"
   }
 ]
