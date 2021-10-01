@@ -17143,5 +17143,41 @@
     "Site_postcode": "3178",
     "latitude": -37.927632,
     "longitude": 145.252016
+  },
+  {
+    "Suburb": "Warrnambool",
+    "Site_streetaddress": "42 Cramer Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3280",
+    "confidence": 1,
+    "latitude": -38.377578,
+    "longitude": 142.4949,
+    "label": "42 Cramer Street, Warrnambool, VIC, Australia"
+  },
+  {
+    "Suburb": "Warrnambool",
+    "Site_streetaddress": "Hopkins Highway",
+    "Site_state": "VIC",
+    "Site_postcode": "3280"
+  },
+  {
+    "Suburb": "Lake Meran",
+    "Site_streetaddress": "Lake Mernan Track",
+    "Site_state": "VIC",
+    "Site_postcode": "3579",
+    "confidence": 0.3,
+    "latitude": -37.014348,
+    "longitude": 143.480452,
+    "label": "Victoria, Australia"
+  },
+  {
+    "Suburb": "Serpentine",
+    "Site_streetaddress": "Loddon Valley Highway",
+    "Site_state": "VIC",
+    "Site_postcode": "3517",
+    "confidence": 0.3,
+    "latitude": -37.014348,
+    "longitude": 143.480452,
+    "label": "Victoria, Australia"
   }
 ]
