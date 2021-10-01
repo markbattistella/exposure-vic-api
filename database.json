@@ -17016,5 +17016,61 @@
     "latitude": -37.820366,
     "longitude": 145.138513,
     "label": "394-398 Middleborough Road, Blackburn, VIC, Australia"
+  },
+  {
+    "Suburb": "Bacchus Marsh",
+    "Site_streetaddress": "7 Clifton Drive",
+    "Site_state": "VIC",
+    "Site_postcode": "3340"
+  },
+  {
+    "Suburb": "Gisborne",
+    "Site_streetaddress": "25A Robertson Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3437",
+    "confidence": 1,
+    "latitude": -37.485825,
+    "longitude": 144.587204,
+    "label": "25A Robertson Street, Gisborne, VIC, Australia"
+  },
+  {
+    "Suburb": "Gisborne",
+    "Site_streetaddress": "2/10 Prince Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3437",
+    "confidence": 1,
+    "latitude": -37.486423,
+    "longitude": 144.588053,
+    "label": "10 Prince Street, Gisborne, VIC, Australia"
+  },
+  {
+    "Suburb": "Mooroopna",
+    "Site_streetaddress": "2 Fairway Drive",
+    "Site_state": "VIC",
+    "Site_postcode": "3629",
+    "confidence": 1,
+    "latitude": -36.389407,
+    "longitude": 145.362103,
+    "label": "2A Fairway Drive, Mooroopna, VIC, Australia"
+  },
+  {
+    "Suburb": "Muckatah",
+    "Site_streetaddress": "774 Campbell Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3644",
+    "confidence": 0.6,
+    "latitude": -36.01977,
+    "longitude": 145.64785,
+    "label": "Muckatah, VIC, Australia"
+  },
+  {
+    "Suburb": "Fitzroy",
+    "Site_streetaddress": "186 Nicholson Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3065",
+    "confidence": 1,
+    "latitude": -37.799393,
+    "longitude": 144.974867,
+    "label": "186 Nicholson Street, Fitzroy, VIC, Australia"
   }
 ]
