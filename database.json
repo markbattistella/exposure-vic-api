@@ -16696,5 +16696,85 @@
     "latitude": -37.716071,
     "longitude": 145.006546,
     "label": "289 Spring Street, Reservoir, VIC, Australia"
+  },
+  {
+    "Suburb": "Geelong",
+    "Site_streetaddress": "Moorabool Street & Brougham Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3220",
+    "confidence": 0.6,
+    "latitude": -38.150785,
+    "longitude": 144.361579,
+    "label": "Geelong, VIC, Australia"
+  },
+  {
+    "Suburb": "Geelong",
+    "Site_streetaddress": "Shop 1176/95 Malop Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3020",
+    "confidence": 0.8,
+    "latitude": -38.147906,
+    "longitude": 144.359687,
+    "label": "95 Little Malop Street, Geelong, VIC, Australia"
+  },
+  {
+    "Suburb": "Geelong",
+    "Site_streetaddress": "Shop 2275/95 Malop Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3020",
+    "confidence": 0.8,
+    "latitude": -38.147906,
+    "longitude": 144.359687,
+    "label": "95 Little Malop Street, Geelong, VIC, Australia"
+  },
+  {
+    "Suburb": "Emerald",
+    "Site_streetaddress": "267-271 Belgrave-Gembrook Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3782",
+    "confidence": 1,
+    "latitude": -37.93189,
+    "longitude": 145.438481,
+    "label": "267-271 Belgrave-gembrook Road, Emerald, VIC, Australia"
+  },
+  {
+    "Suburb": "Grovedale",
+    "Site_streetaddress": "133-143 Surf Coast Highway",
+    "Site_state": "VIC",
+    "Site_postcode": "3216",
+    "confidence": 0.6,
+    "latitude": -38.202128,
+    "longitude": 144.334196,
+    "label": "Grovedale, VIC, Australia"
+  },
+  {
+    "Suburb": "Mickleham",
+    "Site_streetaddress": "459 Brookfield Boulevard",
+    "Site_state": "VIC",
+    "Site_postcode": "3064",
+    "confidence": 0.6,
+    "latitude": -37.535253,
+    "longitude": 144.902037,
+    "label": "Mickleham, VIC, Australia"
+  },
+  {
+    "Suburb": "Wyndham Vale",
+    "Site_streetaddress": "2 Ribblesdale Avenue",
+    "Site_state": "VIC",
+    "Site_postcode": "3024",
+    "confidence": 1,
+    "latitude": -37.894809,
+    "longitude": 144.622644,
+    "label": "2 Ribblesdale Avenue, Wyndham Vale, VIC, Australia"
+  },
+  {
+    "Suburb": "Westmeadows",
+    "Site_streetaddress": "173 Mickleham Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3049",
+    "confidence": 1,
+    "latitude": -37.688172,
+    "longitude": 144.881536,
+    "label": "173 Mickleham Road, Westmeadows, VIC, Australia"
   }
 ]
