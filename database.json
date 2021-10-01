@@ -16981,7 +16981,11 @@
     "Suburb": "Cobblebank",
     "Site_streetaddress": "No 4/201 Ferris Road",
     "Site_state": "VIC",
-    "Site_postcode": "3338"
+    "Site_postcode": "3338",
+    "confidence": 1,
+    "latitude": -37.712181,
+    "longitude": 144.601167,
+    "label": "201 Ferris Road, Melton South, VIC, Australia"
   },
   {
     "Suburb": "Serpentine",
