@@ -67,7 +67,7 @@
   },
   {
     "_id": 4,
-    "Suburb": "Warnambool",
+    "Suburb": "Warrnambool",
     "Site_title": "Coles Warrnambool Northpoint ",
     "Site_streetaddress": "72-80 Hopkins Highway",
     "Site_state": "VIC",
@@ -84,8 +84,8 @@
     "Exposure_time_start_24": "09:20:00",
     "Exposure_time_end_24": "10:10:00",
     "dhid": "E8X3",
-    "latitude": -37.014348,
-    "longitude": 143.480452
+    "latitude": -38.3685243,
+    "longitude": 142.4919129
   },
   {
     "_id": 5,
