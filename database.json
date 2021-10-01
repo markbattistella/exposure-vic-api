@@ -16976,5 +16976,41 @@
     "latitude": -37.563892,
     "longitude": 143.852395,
     "label": "Ballarat, VIC, Australia"
+  },
+  {
+    "Suburb": "Cobblebank",
+    "Site_streetaddress": "No 4/201 Ferris Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3338"
+  },
+  {
+    "Suburb": "Serpentine",
+    "Site_streetaddress": "Loddon Valley Highway",
+    "Site_state": "VIC",
+    "Site_postcode": "3517",
+    "confidence": 0.3,
+    "latitude": -37.014348,
+    "longitude": 143.480452,
+    "label": "Victoria, Australia"
+  },
+  {
+    "Suburb": "Thomastown",
+    "Site_streetaddress": "308-320 Settlement Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3074",
+    "confidence": 1,
+    "latitude": -37.687808,
+    "longitude": 145.027047,
+    "label": "308-320 Settlement Road, Thomastown, VIC, Australia"
+  },
+  {
+    "Suburb": "Blackburn",
+    "Site_streetaddress": "Shop 1/394-398 Middleborough Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3130",
+    "confidence": 1,
+    "latitude": -37.820366,
+    "longitude": 145.138513,
+    "label": "394-398 Middleborough Road, Blackburn, VIC, Australia"
   }
 ]
