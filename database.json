@@ -16946,5 +16946,21 @@
     "latitude": -37.563892,
     "longitude": 143.852395,
     "label": "Ballarat, VIC, Australia"
+  },
+  {
+    "Suburb": "East Bendigo",
+    "Site_streetaddress": "88-94 Strickland Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3550"
+  },
+  {
+    "Suburb": "Bakery Hill",
+    "Site_streetaddress": "26-36 Humffray Street North",
+    "Site_state": "VIC",
+    "Site_postcode": "3350",
+    "confidence": 1,
+    "latitude": -37.561692,
+    "longitude": 143.866144,
+    "label": "26-36 Humffray Street North, Bakery Hill, VIC, Australia"
   }
 ]
