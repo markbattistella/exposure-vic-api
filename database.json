@@ -16951,7 +16951,11 @@
     "Suburb": "East Bendigo",
     "Site_streetaddress": "88-94 Strickland Road",
     "Site_state": "VIC",
-    "Site_postcode": "3550"
+    "Site_postcode": "3550",
+    "confidence": 1,
+    "latitude": -36.746848,
+    "longitude": 144.306395,
+    "label": "88 - 94 Strickland Road, East Bendigo, VIC, Australia"
   },
   {
     "Suburb": "Bakery Hill",

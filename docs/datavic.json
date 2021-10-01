@@ -39,7 +39,9 @@
     "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
     "Exposure_time_start_24": "16:45:00",
     "Exposure_time_end_24": "17:30:00",
-    "dhid": "C7L3"
+    "dhid": "C7L3",
+    "latitude": -36.746848,
+    "longitude": 144.306395
   },
   {
     "_id": 3,
