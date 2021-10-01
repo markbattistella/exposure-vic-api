@@ -16841,7 +16841,11 @@
     "Suburb": "Geelong",
     "Site_streetaddress": "Shop 1187-1188/95 Malop Street",
     "Site_state": "VIC",
-    "Site_postcode": "3220"
+    "Site_postcode": "3220",
+    "confidence": 0.8,
+    "latitude": -38.147906,
+    "longitude": 144.359687,
+    "label": "95 Little Malop Street, Geelong, VIC, Australia"
   },
   {
     "Suburb": "Newtown",
