@@ -16896,5 +16896,27 @@
     "latitude": -36.376732,
     "longitude": 145.400545,
     "label": "127 Wyndham Street, Shepparton, VIC, Australia"
+  },
+  {
+    "Suburb": "Campbellfield",
+    "Site_streetaddress": "349 Barry Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3061"
+  },
+  {
+    "Suburb": "Wendouree",
+    "Site_streetaddress": "Shop 8A/333 Gillies Street North",
+    "Site_state": "VIC",
+    "Site_postcode": "3355",
+    "confidence": 1,
+    "latitude": -37.534369,
+    "longitude": 143.822874,
+    "label": "333 Gillies Street North, Wendouree, VIC, Australia"
+  },
+  {
+    "Suburb": "Fitzroy North",
+    "Site_streetaddress": "100 Scotchmer Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3068"
   }
 ]
