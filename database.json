@@ -16791,7 +16791,11 @@
     "Suburb": "Gisborne",
     "Site_streetaddress": "Robertson Street & Aitken Street",
     "Site_state": "VIC",
-    "Site_postcode": "3437"
+    "Site_postcode": "3437",
+    "confidence": 0.8,
+    "latitude": -37.60682,
+    "longitude": 144.895706,
+    "label": "Aitken Hill Conference & Events Centre, Yuroke, VIC, Australia"
   },
   {
     "Suburb": "Hallam",
@@ -16827,7 +16831,11 @@
     "Suburb": "Terang",
     "Site_streetaddress": "39 High Street",
     "Site_state": "VIC",
-    "Site_postcode": "3264"
+    "Site_postcode": "3264",
+    "confidence": 1,
+    "latitude": -38.240934,
+    "longitude": 142.920712,
+    "label": "39 High Street, Terang, VIC, Australia"
   },
   {
     "Suburb": "Geelong",
@@ -16859,7 +16867,11 @@
     "Suburb": "Epping",
     "Site_streetaddress": "Shop F006/583 High Street",
     "Site_state": "VIC",
-    "Site_postcode": "3076"
+    "Site_postcode": "3076",
+    "confidence": 1,
+    "latitude": -37.653755,
+    "longitude": 145.022085,
+    "label": "571-583 High Street, Epping, VIC, Australia"
   },
   {
     "Suburb": "Meadow Heights",
@@ -16875,6 +16887,10 @@
     "Suburb": "Shepparton",
     "Site_streetaddress": "127 Wyndham Street",
     "Site_state": "VIC",
-    "Site_postcode": "3630"
+    "Site_postcode": "3630",
+    "confidence": 1,
+    "latitude": -36.376732,
+    "longitude": 145.400545,
+    "label": "127 Wyndham Street, Shepparton, VIC, Australia"
   }
 ]
