@@ -16901,7 +16901,11 @@
     "Suburb": "Campbellfield",
     "Site_streetaddress": "349 Barry Road",
     "Site_state": "VIC",
-    "Site_postcode": "3061"
+    "Site_postcode": "3061",
+    "confidence": 1,
+    "latitude": -37.666742,
+    "longitude": 144.947813,
+    "label": "349 Barry Road, Campbellfield, VIC, Australia"
   },
   {
     "Suburb": "Wendouree",
@@ -16918,5 +16922,17 @@
     "Site_streetaddress": "100 Scotchmer Street",
     "Site_state": "VIC",
     "Site_postcode": "3068"
+  },
+  {
+    "Suburb": "Ballarat",
+    "Site_streetaddress": "321 Sturt Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3350"
+  },
+  {
+    "Suburb": "Ballarat",
+    "Site_streetaddress": "55-61 Mair Street East",
+    "Site_state": "VIC",
+    "Site_postcode": "3350"
   }
 ]
