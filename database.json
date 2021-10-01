@@ -16428,20 +16428,18 @@
     "Site_streetaddress": "19/325 Manningham Road",
     "Site_state": "VIC",
     "Site_postcode": "3016",
-    "confidence": 0.6,
-    "latitude": -37.755741,
-    "longitude": 145.149196,
-    "label": "Templestowe, VIC, Australia"
+    "confidence": 1,
+    "latitude": -37.7731197,
+    "longitude": 145.112044
   },
   {
     "Suburb": "Dandenong South",
     "Site_streetaddress": "81-125 Princes Highway",
     "Site_state": "VIC",
     "Site_postcode": "3175",
-    "confidence": 0.6,
-    "latitude": -38.020442,
-    "longitude": 145.221637,
-    "label": "Dandenong South, VIC, Australia"
+    "confidence": 1,
+    "latitude": -38.004764,
+    "longitude": 145.2457367
   },
   {
     "Suburb": "Coburg",
@@ -16528,10 +16526,9 @@
     "Site_streetaddress": "Corner Narre Warren-Cranbourne Road and Fullard Road",
     "Site_state": "VIC",
     "Site_postcode": "3805",
-    "confidence": 0.6,
-    "latitude": -38.012325,
-    "longitude": 145.301574,
-    "label": "Narre Warren, VIC, Australia"
+    "confidence": 1,
+    "latitude": -38.0313699,
+    "longitude": 145.3050646
   },
   {
     "Suburb": "Geelong",
@@ -16558,20 +16555,18 @@
     "Site_streetaddress": "117 Edwards Street",
     "Site_state": "VIC",
     "Site_postcode": "3073",
-    "confidence": 0.6,
-    "latitude": -37.712408,
-    "longitude": 145.004061,
-    "label": "Reservoir, VIC, Australia"
+    "confidence": 1,
+    "latitude": -37.7158167,
+    "longitude": 144.9975
   },
   {
     "Suburb": "Keilor",
     "Site_streetaddress": "910 Old Cader Highway",
     "Site_state": "VIC",
     "Site_postcode": "3036",
-    "confidence": 0.6,
-    "latitude": -37.7147,
-    "longitude": 144.829117,
-    "label": "Keilor, VIC, Australia"
+    "confidence": 1,
+    "latitude": -37.7027657,
+    "longitude": 144.8009276
   },
   {
     "Suburb": "Caulfield North",
@@ -16668,10 +16663,9 @@
     "Site_streetaddress": "398 South Gippsland Highway",
     "Site_state": "VIC",
     "Site_postcode": "3977",
-    "confidence": 0.6,
-    "latitude": -38.077939,
-    "longitude": 145.302481,
-    "label": "Cranbourne North, VIC, Australia"
+    "confidence": 1,
+    "latitude": -38.0839875,
+    "longitude": 145.2753026
   },
   {
     "Suburb": "Maddingley",
