@@ -6,8 +6,7 @@
     "Site_postcode": "3150",
     "confidence": 1,
     "latitude": -37.903223,
-    "longitude": 145.160916,
-    "label": "615-621 Ferntree Gully Road, Glen Waverley, VIC, Australia"
+    "longitude": 145.160916
   },
   {
     "Suburb": "Dandenong",
@@ -16,8 +15,7 @@
     "Site_postcode": "3175",
     "confidence": 1,
     "latitude": -37.977337,
-    "longitude": 145.220576,
-    "label": "135 David Street, Dandenong, VIC, Australia"
+    "longitude": 145.220576
   },
   {
     "Suburb": "Melbourne",
@@ -26,8 +24,7 @@
     "Site_postcode": "3000",
     "confidence": 1,
     "latitude": -37.8177038,
-    "longitude": 144.9628178,
-    "label": "Flinders Street Station, Elizabeth & Flinders Streets, Melbourne, VIC, Australia"
+    "longitude": 144.9628178
   },
   {
     "Suburb": "Shepparton",
@@ -36,8 +33,7 @@
     "Site_postcode": "3630",
     "confidence": 1,
     "latitude": -36.383761,
-    "longitude": 145.399036,
-    "label": "425-429 Wyndham Street, Shepparton, VIC, Australia"
+    "longitude": 145.399036
   },
   {
     "Suburb": "Altona North",
@@ -45,9 +41,8 @@
     "Site_state": "VIC",
     "Site_postcode": "3025",
     "confidence": 1,
-    "latitude": -37.837353,
-    "longitude": 144.847153,
-    "label": "Altona North, VIC, Australia"
+    "latitude": -37.8448767,
+    "longitude": 144.841183
   },
   {
     "Suburb": "Campbellfield",
@@ -55,9 +50,8 @@
     "Site_state": "VIC",
     "Site_postcode": "3060",
     "confidence": 1,
-    "latitude": -37.704174,
-    "longitude": 144.959812,
-    "label": "Bakers & Sydney Roads, Coburg North, VIC, Australia"
+    "latitude": -37.7045129,
+    "longitude": 144.9581693
   },
   {
     "Suburb": "Ringwood",
@@ -65,9 +59,8 @@
     "Site_state": "VIC",
     "Site_postcode": "3134",
     "confidence": 1,
-    "latitude": -37.814845,
-    "longitude": 145.229604,
-    "label": "420/175 Maroondah Highway, Ringwood, VIC, Australia"
+    "latitude": -37.7984461,
+    "longitude": 145.2518074
   },
   {
     "Suburb": "Chirnside Park",
@@ -16702,30 +16695,24 @@
     "Site_streetaddress": "Moorabool Street & Brougham Street",
     "Site_state": "VIC",
     "Site_postcode": "3220",
-    "confidence": 0.6,
-    "latitude": -38.150785,
-    "longitude": 144.361579,
-    "label": "Geelong, VIC, Australia"
+    "latitude": -38.1455274,
+    "longitude": 144.360268
   },
   {
     "Suburb": "Geelong",
     "Site_streetaddress": "Shop 1176/95 Malop Street",
     "Site_state": "VIC",
     "Site_postcode": "3020",
-    "confidence": 0.8,
-    "latitude": -38.147906,
-    "longitude": 144.359687,
-    "label": "95 Little Malop Street, Geelong, VIC, Australia"
+    "latitude": -38.1466758,
+    "longitude": 144.3624551
   },
   {
     "Suburb": "Geelong",
     "Site_streetaddress": "Shop 2275/95 Malop Street",
     "Site_state": "VIC",
     "Site_postcode": "3020",
-    "confidence": 0.8,
-    "latitude": -38.147906,
-    "longitude": 144.359687,
-    "label": "95 Little Malop Street, Geelong, VIC, Australia"
+    "latitude": -38.1467889,
+    "longitude": 144.3629511
   },
   {
     "Suburb": "Emerald",
@@ -16742,20 +16729,16 @@
     "Site_streetaddress": "133-143 Surf Coast Highway",
     "Site_state": "VIC",
     "Site_postcode": "3216",
-    "confidence": 0.6,
-    "latitude": -38.202128,
-    "longitude": 144.334196,
-    "label": "Grovedale, VIC, Australia"
+    "latitude": -38.1939943,
+    "longitude": 144.3418315
   },
   {
     "Suburb": "Mickleham",
     "Site_streetaddress": "459 Brookfield Boulevard",
     "Site_state": "VIC",
     "Site_postcode": "3064",
-    "confidence": 0.6,
-    "latitude": -37.535253,
-    "longitude": 144.902037,
-    "label": "Mickleham, VIC, Australia"
+    "latitude": -37.5734206,
+    "longitude": 144.8907691
   },
   {
     "Suburb": "Wyndham Vale",
@@ -16792,10 +16775,8 @@
     "Site_streetaddress": "Robertson Street & Aitken Street",
     "Site_state": "VIC",
     "Site_postcode": "3437",
-    "confidence": 0.8,
-    "latitude": -37.60682,
-    "longitude": 144.895706,
-    "label": "Aitken Hill Conference & Events Centre, Yuroke, VIC, Australia"
+    "latitude": -37.485904,
+    "longitude": 144.5891847
   },
   {
     "Suburb": "Hallam",
@@ -16822,10 +16803,8 @@
     "Site_streetaddress": "Shop 2246/95 Malop Street",
     "Site_state": "VIC",
     "Site_postcode": "3220",
-    "confidence": 0.8,
-    "latitude": -38.147906,
-    "longitude": 144.359687,
-    "label": "95 Little Malop Street, Geelong, VIC, Australia"
+    "latitude": -38.1469338,
+    "longitude": 144.3605836
   },
   {
     "Suburb": "Terang",
@@ -16842,10 +16821,8 @@
     "Site_streetaddress": "Shop 1187-1188/95 Malop Street",
     "Site_state": "VIC",
     "Site_postcode": "3220",
-    "confidence": 0.8,
-    "latitude": -38.147906,
-    "longitude": 144.359687,
-    "label": "95 Little Malop Street, Geelong, VIC, Australia"
+    "latitude": -38.1469338,
+    "longitude": 144.3605836
   },
   {
     "Suburb": "Newtown",
@@ -16882,10 +16859,8 @@
     "Site_streetaddress": "Shop 5-7/55 Paringa Boulevard",
     "Site_state": "VIC",
     "Site_postcode": "3048",
-    "confidence": 0.3,
-    "latitude": -37.014348,
-    "longitude": 143.480452,
-    "label": "Victoria, Australia"
+    "latitude": -37.6506375,
+    "longitude": 144.9199112
   },
   {
     "Suburb": "Shepparton",
@@ -16932,20 +16907,16 @@
     "Site_streetaddress": "321 Sturt Street",
     "Site_state": "VIC",
     "Site_postcode": "3350",
-    "confidence": 0.4,
-    "latitude": -37.563892,
-    "longitude": 143.852395,
-    "label": "Ballarat, VIC, Australia"
+    "latitude": -37.5619948,
+    "longitude": 143.8530291
   },
   {
     "Suburb": "Ballarat",
     "Site_streetaddress": "55-61 Mair Street East",
     "Site_state": "VIC",
     "Site_postcode": "3350",
-    "confidence": 0.4,
-    "latitude": -37.563892,
-    "longitude": 143.852395,
-    "label": "Ballarat, VIC, Australia"
+    "latitude": -37.5604814,
+    "longitude": 143.8644948
   },
   {
     "Suburb": "East Bendigo",
@@ -16972,10 +16943,8 @@
     "Site_streetaddress": "Grenville and Curtis Street",
     "Site_state": "VIC",
     "Site_postcode": "3350",
-    "confidence": 0.4,
-    "latitude": -37.563892,
-    "longitude": 143.852395,
-    "label": "Ballarat, VIC, Australia"
+    "latitude": -37.5616977,
+    "longitude": 143.8585918
   },
   {
     "Suburb": "Cobblebank",
@@ -16986,16 +16955,6 @@
     "latitude": -37.712181,
     "longitude": 144.601167,
     "label": "201 Ferris Road, Melton South, VIC, Australia"
-  },
-  {
-    "Suburb": "Serpentine",
-    "Site_streetaddress": "Loddon Valley Highway",
-    "Site_state": "VIC",
-    "Site_postcode": "3517",
-    "confidence": 0.3,
-    "latitude": -37.014348,
-    "longitude": 143.480452,
-    "label": "Victoria, Australia"
   },
   {
     "Suburb": "Thomastown",
@@ -17062,10 +17021,8 @@
     "Site_streetaddress": "774 Campbell Road",
     "Site_state": "VIC",
     "Site_postcode": "3644",
-    "confidence": 0.6,
-    "latitude": -36.01977,
-    "longitude": 145.64785,
-    "label": "Muckatah, VIC, Australia"
+    "latitude": -35.9870305,
+    "longitude": 145.6573251
   },
   {
     "Suburb": "Fitzroy",
@@ -17092,10 +17049,8 @@
     "Site_streetaddress": "4 Nicholson Street",
     "Site_state": "VIC",
     "Site_postcode": "3280",
-    "confidence": 0.6,
-    "latitude": -38.3777,
-    "longitude": 142.480446,
-    "label": "Warrnambool, VIC, Australia"
+    "latitude": -38.3885262,
+    "longitude": 142.4976105
   },
   {
     "Suburb": "Warrnambool",
@@ -17112,20 +17067,8 @@
     "Site_streetaddress": "159B Lava Street",
     "Site_state": "VIC",
     "Site_postcode": "3280",
-    "confidence": 0.6,
-    "latitude": -38.3777,
-    "longitude": 142.480446,
-    "label": "Warrnambool, VIC, Australia"
-  },
-  {
-    "Suburb": "Lake Meran",
-    "Site_streetaddress": "Lake Mernan Track",
-    "Site_state": "VIC",
-    "Site_postcode": "3579",
-    "confidence": 0.3,
-    "latitude": -37.014348,
-    "longitude": 143.480452,
-    "label": "Victoria, Australia"
+    "latitude": -38.3817374,
+    "longitude": 142.4808034
   },
   {
     "Suburb": "Castlemaine",
@@ -17172,10 +17115,8 @@
     "Site_streetaddress": "Corner Murray Valley Highway and Museum Drive",
     "Site_state": "VIC",
     "Site_postcode": "3579",
-    "confidence": 0.6,
-    "latitude": -35.73403,
-    "longitude": 143.921251,
-    "label": "Kerang, VIC, Australia"
+    "latitude": -35.7350706,
+    "longitude": 143.9114746
   },
   {
     "Suburb": "Shepparton",
@@ -17192,19 +17133,15 @@
     "Site_streetaddress": "72-80 Hopkins Highway",
     "Site_state": "VIC",
     "Site_postcode": "3280",
-    "confidence": 0.3,
-    "latitude": -37.014348,
-    "longitude": 143.480452,
-    "label": "Victoria, Australia"
+    "latitude": -38.3685243,
+    "longitude": 142.4919129
   },
   {
     "Suburb": "Rowville",
     "Site_streetaddress": "1/1100 Wellington Road",
     "Site_state": "VIC",
     "Site_postcode": "3178",
-    "confidence": 1,
     "latitude": -37.927632,
-    "longitude": 145.252016,
-    "label": "1100 Wellington Road, Rowville, VIC, Australia"
+    "longitude": 145.252016
   }
 ]
