@@ -17106,5 +17106,65 @@
     "latitude": -38.395653,
     "longitude": 142.507267,
     "label": "8 Hopkins Road, Warrnambool, VIC, Australia"
+  },
+  {
+    "Suburb": "Warrnambool",
+    "Site_streetaddress": "159B Lava Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3280",
+    "confidence": 0.6,
+    "latitude": -38.3777,
+    "longitude": 142.480446,
+    "label": "Warrnambool, VIC, Australia"
+  },
+  {
+    "Suburb": "Lake Meran",
+    "Site_streetaddress": "Lake Mernan Track",
+    "Site_state": "VIC",
+    "Site_postcode": "3579",
+    "confidence": 0.3,
+    "latitude": -37.014348,
+    "longitude": 143.480452,
+    "label": "Victoria, Australia"
+  },
+  {
+    "Suburb": "Castlemaine",
+    "Site_streetaddress": "142 Cornish Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3450",
+    "confidence": 1,
+    "latitude": -37.052276,
+    "longitude": 144.211323,
+    "label": "142 Cornish Street, Castlemaine, VIC, Australia"
+  },
+  {
+    "Suburb": "Romsey",
+    "Site_streetaddress": "107/113 Main Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3434",
+    "confidence": 1,
+    "latitude": -37.347975,
+    "longitude": 144.742214,
+    "label": "113 Main Street, Romsey, VIC, Australia"
+  },
+  {
+    "Suburb": "Flemington",
+    "Site_streetaddress": "442 Racecourse Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3031",
+    "confidence": 1,
+    "latitude": -37.787559,
+    "longitude": 144.92587,
+    "label": "442 Racecourse Road, Flemington, VIC, Australia"
+  },
+  {
+    "Suburb": "Seaford",
+    "Site_streetaddress": "125A Nepean Highway",
+    "Site_state": "VIC",
+    "Site_postcode": "3198",
+    "confidence": 1,
+    "latitude": -38.103315,
+    "longitude": 145.12616,
+    "label": "125 Nepean Highway, Seaford, VIC, Australia"
   }
 ]
