@@ -16776,5 +16776,15 @@
     "latitude": -37.688172,
     "longitude": 144.881536,
     "label": "173 Mickleham Road, Westmeadows, VIC, Australia"
+  },
+  {
+    "Suburb": "Templestowe",
+    "Site_streetaddress": "2/22 Newmans Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3106",
+    "confidence": 1,
+    "latitude": -37.752863,
+    "longitude": 145.152176,
+    "label": "22 Newmans Road, Templestowe, VIC, Australia"
   }
 ]
