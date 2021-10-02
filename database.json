@@ -3587,6 +3587,16 @@
     "label": "190-194 Barker Street, Castlemaine, VIC, Australia"
   },
   {
+    "Suburb": "Castlemaine",
+    "Site_streetaddress": "Hargraves Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3450",
+    "confidence": 0.6,
+    "latitude": -37.057059,
+    "longitude": 144.218117,
+    "label": "Castlemaine, VIC, Australia"
+  },
+  {
     "Suburb": "Caulfield North",
     "Site_streetaddress": "119-121 Hawthorn Road",
     "Site_state": "VIC",

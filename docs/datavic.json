@@ -3,7 +3,7 @@
     "_id": 1,
     "Suburb": "Castlemaine",
     "Site_title": "Maxi IGA Castlemaine",
-    "Site_streetaddress": "50 Mostyn Street",
+    "Site_streetaddress": "Hargraves Street",
     "Site_state": "VIC",
     "Site_postcode": "3450",
     "Exposure_date_dtm": "2021-09-27",
@@ -18,14 +18,14 @@
     "Exposure_time_start_24": "08:45:00",
     "Exposure_time_end_24": "09:20:00",
     "dhid": "C8H8",
-    "latitude": -37.066424,
-    "longitude": 144.218705
+    "latitude": -37.057059,
+    "longitude": 144.218117
   },
   {
     "_id": 2,
     "Suburb": "Castlemaine",
     "Site_title": "Maxi IGA Castlemaine",
-    "Site_streetaddress": "50 Mostyn Street",
+    "Site_streetaddress": "Hargraves Street",
     "Site_state": "VIC",
     "Site_postcode": "3450",
     "Exposure_date_dtm": "2021-09-28",
@@ -40,14 +40,14 @@
     "Exposure_time_start_24": "08:51:00",
     "Exposure_time_end_24": "09:40:00",
     "dhid": "D6W3",
-    "latitude": -37.066424,
-    "longitude": 144.218705
+    "latitude": -37.057059,
+    "longitude": 144.218117
   },
   {
     "_id": 3,
     "Suburb": "Castlemaine",
     "Site_title": "Maxi IGA Castlemaine",
-    "Site_streetaddress": "50 Mostyn Street",
+    "Site_streetaddress": "Hargraves Street",
     "Site_state": "VIC",
     "Site_postcode": "3450",
     "Exposure_date_dtm": "2021-09-29",
@@ -62,8 +62,8 @@
     "Exposure_time_start_24": "09:15:00",
     "Exposure_time_end_24": "09:55:00",
     "dhid": "E3E7",
-    "latitude": -37.066424,
-    "longitude": 144.218705
+    "latitude": -37.057059,
+    "longitude": 144.218117
   },
   {
     "_id": 4,
