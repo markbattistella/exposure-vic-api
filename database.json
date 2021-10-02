@@ -4,20 +4,16 @@
     "Site_streetaddress": "Lake Mernan Track",
     "Site_state": "VIC",
     "Site_postcode": "3579",
-    "confidence": 0.3,
-    "latitude": -37.014348,
-    "longitude": 143.480452,
-    "label": "Victoria, Australia"
+    "latitude": -35.8983893,
+    "longitude": 143.7530592
   },
   {
     "Suburb": "Serpentine",
     "Site_streetaddress": "Loddon Valley Highway",
     "Site_state": "VIC",
     "Site_postcode": "3517",
-    "confidence": 0.3,
-    "latitude": -37.014348,
-    "longitude": 143.480452,
-    "label": "Victoria, Australia"
+    "latitude": -36.412476,
+    "longitude": 143.9728583
   },
   {
     "Suburb": "Abbotsford",
