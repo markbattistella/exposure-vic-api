@@ -6301,6 +6301,16 @@
     "label": "1114 Sydney Road, Fawkner, VIC, Australia"
   },
   {
+    "Suburb": "Fawkner",
+    "Site_streetaddress": "1218/1220 Sydney Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3060",
+    "confidence": 0.6,
+    "latitude": -37.705493,
+    "longitude": 144.969607,
+    "label": "Fawkner, VIC, Australia"
+  },
+  {
     "Suburb": "Ferntree Gully",
     "Site_streetaddress": "1015 Burwood Highway",
     "Site_state": "VIC",
@@ -9307,6 +9317,16 @@
     "latitude": -37.865115,
     "longitude": 145.0249623,
     "label": "Malvern, VIC, Australia"
+  },
+  {
+    "Suburb": "Malvern",
+    "Site_streetaddress": "2B Spring Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3144",
+    "confidence": 1,
+    "latitude": -37.857219,
+    "longitude": 145.035111,
+    "label": "2A Spring Road, Malvern, VIC, Australia"
   },
   {
     "Suburb": "Malvern East",
