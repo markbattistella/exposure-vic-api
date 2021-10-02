@@ -17158,7 +17158,11 @@
     "Suburb": "Warrnambool",
     "Site_streetaddress": "Hopkins Highway",
     "Site_state": "VIC",
-    "Site_postcode": "3280"
+    "Site_postcode": "3280",
+    "confidence": 0.6,
+    "latitude": -38.3777,
+    "longitude": 142.480446,
+    "label": "Warrnambool, VIC, Australia"
   },
   {
     "Suburb": "Lake Meran",
