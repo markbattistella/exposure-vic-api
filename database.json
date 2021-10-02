@@ -2757,6 +2757,16 @@
     "label": "Burwood, VIC, Australia"
   },
   {
+    "Suburb": "Burwood",
+    "Site_streetaddress": "2 Leslie Court",
+    "Site_state": "VIC",
+    "Site_postcode": "3125",
+    "confidence": 1,
+    "latitude": -37.858976,
+    "longitude": 145.112143,
+    "label": "2 Leslie Court, Burwood, VIC, Australia"
+  },
+  {
     "Suburb": "Burwood East",
     "Site_streetaddress": "57 Middleborough Road",
     "Site_state": "VIC",
@@ -14809,6 +14819,16 @@
     "latitude": -37.7022414,
     "longitude": 144.7751804,
     "label": "Sydenham, VIC, Australia"
+  },
+  {
+    "Suburb": "Sydenham",
+    "Site_streetaddress": "7 Community Hub",
+    "Site_state": "VIC",
+    "Site_postcode": "3037",
+    "confidence": 1,
+    "latitude": -37.701338,
+    "longitude": 144.756861,
+    "label": "7/70 Community Hub, Sydenham, VIC, Australia"
   },
   {
     "Suburb": "Tarneit",
