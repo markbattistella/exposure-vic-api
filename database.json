@@ -3597,6 +3597,16 @@
     "label": "190-194 Barker Street, Castlemaine, VIC, Australia"
   },
   {
+    "Suburb": "Castlemaine",
+    "Site_streetaddress": "56 Ray Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3450",
+    "confidence": 1,
+    "latitude": -37.068782,
+    "longitude": 144.201038,
+    "label": "56 Ray Street, Castlemaine, VIC, Australia"
+  },
+  {
     "Suburb": "Caulfield North",
     "Site_streetaddress": "119-121 Hawthorn Road",
     "Site_state": "VIC",
@@ -7855,6 +7865,16 @@
     "label": "535 South Gippsland Highway, Hampton Park, VIC, Australia"
   },
   {
+    "Suburb": "Hastings",
+    "Site_streetaddress": "86 Victoria Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3915",
+    "confidence": 1,
+    "latitude": -38.303444,
+    "longitude": 145.190309,
+    "label": "86 Victoria Street, Hastings, VIC, Australia"
+  },
+  {
     "Suburb": "Hawthorn",
     "Site_streetaddress": "28 Queens Avenue",
     "Site_state": "VIC",
@@ -9081,6 +9101,16 @@
     "latitude": -37.664217,
     "longitude": 145.028358,
     "label": "2 Derna Crescent, Lalor, VIC, Australia"
+  },
+  {
+    "Suburb": "Lalor",
+    "Site_streetaddress": "33-37 Williams Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3075",
+    "confidence": 0.6,
+    "latitude": -37.660402,
+    "longitude": 144.99727,
+    "label": "Lalor, VIC, Australia"
   },
   {
     "Suburb": "Lara",
