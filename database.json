@@ -10,6 +10,16 @@
     "label": "Victoria, Australia"
   },
   {
+    "Suburb": "Fawkner",
+    "Site_streetaddress": "1218/1220 Sydney Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3060",
+    "confidence": 0.6,
+    "latitude": -37.705493,
+    "longitude": 144.969607,
+    "label": "Fawkner, VIC, Australia"
+  },
+  {
     "Suburb": "Abbotsford",
     "Site_streetaddress": "10/313 Victoria Street",
     "Site_state": "VIC",
@@ -6299,16 +6309,6 @@
     "latitude": -37.714303,
     "longitude": 144.962451,
     "label": "1114 Sydney Road, Fawkner, VIC, Australia"
-  },
-  {
-    "Suburb": "Fawkner",
-    "Site_streetaddress": "1218/1220 Sydney Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3060",
-    "confidence": 0.6,
-    "latitude": -37.705493,
-    "longitude": 144.969607,
-    "label": "Fawkner, VIC, Australia"
   },
   {
     "Suburb": "Ferntree Gully",
