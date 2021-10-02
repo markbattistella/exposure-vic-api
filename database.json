@@ -20,16 +20,6 @@
     "label": "Castlemaine, VIC, Australia"
   },
   {
-    "Suburb": "Fawkner",
-    "Site_streetaddress": "1218/1220 Sydney Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3060",
-    "confidence": 0.6,
-    "latitude": -37.705493,
-    "longitude": 144.969607,
-    "label": "Fawkner, VIC, Australia"
-  },
-  {
     "Suburb": "Abbotsford",
     "Site_streetaddress": "10/313 Victoria Street",
     "Site_state": "VIC",
@@ -138,6 +128,26 @@
     "latitude": -37.722518,
     "longitude": 144.890723,
     "label": "6 Hawker Street, Airport West, VIC, Australia"
+  },
+  {
+    "Suburb": "Airport West",
+    "Site_streetaddress": "78/29-35 Louis Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3042",
+    "confidence": 1,
+    "latitude": -37.712873,
+    "longitude": 144.889386,
+    "label": "29-35 Louis Street, Airport West, VIC, Australia"
+  },
+  {
+    "Suburb": "Fawkner",
+    "Site_streetaddress": "1218/1220 Sydney Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3060",
+    "confidence": 0.6,
+    "latitude": -37.705493,
+    "longitude": 144.969607,
+    "label": "Fawkner, VIC, Australia"
   },
   {
     "Suburb": "Albion",
@@ -3190,6 +3200,18 @@
     "label": "349 Barry Road, Campbellfield, VIC, Australia"
   },
   {
+    "Suburb": "Campbellfield",
+    "Site_streetaddress": "81 Lara Way",
+    "Site_state": "VIC",
+    "Site_postcode": "3061"
+  },
+  {
+    "Suburb": "Campbellfield",
+    "Site_streetaddress": "250 Rex Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3061"
+  },
+  {
     "Suburb": "Campbellfiled",
     "Site_streetaddress": "1434 Sydney Road",
     "Site_state": "VIC",
@@ -4679,6 +4701,12 @@
     "latitude": -38.117621,
     "longitude": 145.27916,
     "label": "50 Grant Street, Cranbourne, VIC, Australia"
+  },
+  {
+    "Suburb": "Cranbourne",
+    "Site_streetaddress": "43A Clarendon Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3977"
   },
   {
     "Suburb": "Cranbourne North",
@@ -13872,6 +13900,16 @@
     "latitude": -36.354148,
     "longitude": 145.401632,
     "label": "176 Numurkah Road, Shepparton, VIC, Australia"
+  },
+  {
+    "Suburb": "Shepparton",
+    "Site_streetaddress": "73 Fryers Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3630",
+    "confidence": 1,
+    "latitude": -36.379058,
+    "longitude": 145.401563,
+    "label": "73 Fryers Street, Shepparton, VIC, Australia"
   },
   {
     "Suburb": "Shepparton East",
