@@ -9033,6 +9033,16 @@
     "label": "Lalor, VIC, Australia"
   },
   {
+    "Suburb": "South Morang",
+    "Site_streetaddress": "415 McDonalds Rd",
+    "Site_state": "VIC",
+    "Site_postcode": "3752",
+    "confidence": 0.6,
+    "latitude": -37.632398,
+    "longitude": 145.083632,
+    "label": "South Morang, VIC, Australia"
+  },
+  {
     "Suburb": "Lake Wendouree",
     "Site_streetaddress": "1200 Mair Street",
     "Site_state": "VIC",
@@ -14088,16 +14098,6 @@
     "latitude": -37.636238,
     "longitude": 145.084309,
     "label": "205 Gordons Road, South Morang, VIC, Australia"
-  },
-  {
-    "Suburb": "South Morang",
-    "Site_streetaddress": "415 McDonalds Rd",
-    "Site_state": "VIC",
-    "Site_postcode": "3752",
-    "confidence": 0.6,
-    "latitude": -37.632398,
-    "longitude": 145.083632,
-    "label": "South Morang, VIC, Australia"
   },
   {
     "Suburb": "South Yarra",
