@@ -248,8 +248,26 @@ function checkDatabase( input ) {
 		)
 	);
 
+    // store the merged data
+    const mergedJSONData = mergeJSON( database, data );
+
+    // sort the new JSON
+    // -- suburb
+    const sortedMergedJSON = mergedJSONData.sort( ( a, b ) => {
+        a = a.Suburb.toLowerCase();
+        b = b.Suburb.toLowerCase();
+        return a < b ? -1 : a > b ? 1 : 0;
+    })
+
+    // -- then bring the low confidence to top
+    .sort( ( a, b ) => {
+        a = a.confidence;
+        b = b.confidence;
+        return a < b ? -1 : a > b ? 1 : 0;
+    });
+
 	// return it
-	return mergeJSON( database, data );
+    return sortedMergedJSON;
 }
 
 
