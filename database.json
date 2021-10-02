@@ -9013,6 +9013,16 @@
     "longitude": 143.7530592
   },
   {
+    "Suburb": "Lalor",
+    "Site_streetaddress": "33-37 Williams Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3075",
+    "confidence": 0.6,
+    "latitude": -37.660402,
+    "longitude": 144.99727,
+    "label": "Lalor, VIC, Australia"
+  },
+  {
     "Suburb": "Lake Wendouree",
     "Site_streetaddress": "1200 Mair Street",
     "Site_state": "VIC",
@@ -9101,16 +9111,6 @@
     "latitude": -37.664217,
     "longitude": 145.028358,
     "label": "2 Derna Crescent, Lalor, VIC, Australia"
-  },
-  {
-    "Suburb": "Lalor",
-    "Site_streetaddress": "33-37 Williams Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3075",
-    "confidence": 0.6,
-    "latitude": -37.660402,
-    "longitude": 144.99727,
-    "label": "Lalor, VIC, Australia"
   },
   {
     "Suburb": "Lara",
