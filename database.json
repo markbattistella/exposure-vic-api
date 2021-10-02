@@ -1,19 +1,13 @@
 [
   {
-    "Suburb": "Lake Meran",
-    "Site_streetaddress": "Lake Mernan Track",
+    "Suburb": "Werribbee",
+    "Site_streetaddress": "283-285 Heaths Road",
     "Site_state": "VIC",
-    "Site_postcode": "3579",
-    "latitude": -35.8983893,
-    "longitude": 143.7530592
-  },
-  {
-    "Suburb": "Serpentine",
-    "Site_streetaddress": "Loddon Valley Highway",
-    "Site_state": "VIC",
-    "Site_postcode": "3517",
-    "latitude": -36.412476,
-    "longitude": 143.9728583
+    "Site_postcode": "3030",
+    "confidence": 0.3,
+    "latitude": -37.014348,
+    "longitude": 143.480452,
+    "label": "Victoria, Australia"
   },
   {
     "Suburb": "Abbotsford",
@@ -8881,6 +8875,14 @@
     "label": "44 High Street, Kyneton, VIC, Australia"
   },
   {
+    "Suburb": "Lake Meran",
+    "Site_streetaddress": "Lake Mernan Track",
+    "Site_state": "VIC",
+    "Site_postcode": "3579",
+    "latitude": -35.8983893,
+    "longitude": 143.7530592
+  },
+  {
     "Suburb": "Lake Wendouree",
     "Site_streetaddress": "1200 Mair Street",
     "Site_state": "VIC",
@@ -12506,16 +12508,6 @@
     "longitude": 145.252016
   },
   {
-    "Suburb": "Warrnambool",
-    "Site_streetaddress": "Hopkins Highway",
-    "Site_state": "VIC",
-    "Site_postcode": "3280",
-    "confidence": 0.6,
-    "latitude": -38.3777,
-    "longitude": 142.480446,
-    "label": "Warrnambool, VIC, Australia"
-  },
-  {
     "Suburb": "Roxburgh Park",
     "Site_streetaddress": "250 Somerton Road",
     "Site_state": "VIC",
@@ -12897,6 +12889,14 @@
     "latitude": -37.806092,
     "longitude": 144.891761,
     "label": "176 - 178 Victoria Street, Seddon, VIC, Australia"
+  },
+  {
+    "Suburb": "Serpentine",
+    "Site_streetaddress": "Loddon Valley Highway",
+    "Site_state": "VIC",
+    "Site_postcode": "3517",
+    "latitude": -36.412476,
+    "longitude": 143.9728583
   },
   {
     "Suburb": "Seymore",
@@ -15900,6 +15900,16 @@
     "longitude": 142.4919129
   },
   {
+    "Suburb": "Warrnambool",
+    "Site_streetaddress": "Hopkins Highway",
+    "Site_state": "VIC",
+    "Site_postcode": "3280",
+    "confidence": 0.6,
+    "latitude": -38.3777,
+    "longitude": 142.480446,
+    "label": "Warrnambool, VIC, Australia"
+  },
+  {
     "Suburb": "Warragul",
     "Site_streetaddress": "Corner of Queen Street and Hazel Drive",
     "Site_state": "VIC",
@@ -16355,16 +16365,6 @@
     "latitude": -37.534369,
     "longitude": 143.822874,
     "label": "333 Gillies Street North, Wendouree, VIC, Australia"
-  },
-  {
-    "Suburb": "Werribbee",
-    "Site_streetaddress": "283-285 Heaths Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3030",
-    "confidence": 0.3,
-    "latitude": -37.014348,
-    "longitude": 143.480452,
-    "label": "Victoria, Australia"
   },
   {
     "Suburb": "Werribee",
