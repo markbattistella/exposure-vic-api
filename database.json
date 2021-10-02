@@ -8719,6 +8719,16 @@
     "label": "8010 Goulburn Valley Highway, Kialla, VIC, Australia"
   },
   {
+    "Suburb": "Kialla",
+    "Site_streetaddress": "7953 Goulburn Valley Highway",
+    "Site_state": "VIC",
+    "Site_postcode": "3631",
+    "confidence": 1,
+    "latitude": -36.415065,
+    "longitude": 145.39161,
+    "label": "7953B Goulburn Valley Highway, Kialla, VIC, Australia"
+  },
+  {
     "Suburb": "Kilmore",
     "Site_streetaddress": "Sydney Street & Clarke Street",
     "Site_state": "VIC",
@@ -10047,6 +10057,16 @@
     "confidence": 1,
     "latitude": -37.8054728,
     "longitude": 144.9575357
+  },
+  {
+    "Suburb": "Melbourne",
+    "Site_streetaddress": "19 King Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3000",
+    "confidence": 1,
+    "latitude": -37.819936,
+    "longitude": 144.957076,
+    "label": "19 King Street, Melbourne, VIC, Australia"
   },
   {
     "Suburb": "Melbourne ",
@@ -14070,6 +14090,16 @@
     "label": "205 Gordons Road, South Morang, VIC, Australia"
   },
   {
+    "Suburb": "South Morang",
+    "Site_streetaddress": "415 McDonalds Rd",
+    "Site_state": "VIC",
+    "Site_postcode": "3752",
+    "confidence": 0.6,
+    "latitude": -37.632398,
+    "longitude": 145.083632,
+    "label": "South Morang, VIC, Australia"
+  },
+  {
     "Suburb": "South Yarra",
     "Site_streetaddress": "114 Toorak Road",
     "Site_state": "VIC",
@@ -15876,6 +15906,16 @@
     "latitude": -37.694844,
     "longitude": 144.881212,
     "label": "157 Mickleham Road, Tullamarine, VIC, Australia"
+  },
+  {
+    "Suburb": "Tullamarine",
+    "Site_streetaddress": "38 Allied Drive",
+    "Site_state": "VIC",
+    "Site_postcode": "3045",
+    "confidence": 1,
+    "latitude": -37.7117,
+    "longitude": 144.872982,
+    "label": "38 Allied Drive, Tullamarine, VIC, Australia"
   },
   {
     "Suburb": "Vermont",
