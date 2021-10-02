@@ -389,7 +389,7 @@
   },
   {
     "_id": 18,
-    "Suburb": "Werribbee",
+    "Suburb": "Werribee",
     "Site_title": "Chemist Warehouse",
     "Site_streetaddress": "283-285 Heaths Road",
     "Site_state": "VIC",
@@ -406,8 +406,8 @@
     "Exposure_time_start_24": "13:00:00",
     "Exposure_time_end_24": "21:30:00",
     "dhid": "E5L6",
-    "latitude": -37.014348,
-    "longitude": 143.480452
+    "latitude": -37.89479,
+    "longitude": 144.661343
   },
   {
     "_id": 19,
