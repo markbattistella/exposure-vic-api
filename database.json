@@ -20,6 +20,16 @@
     "label": "Castlemaine, VIC, Australia"
   },
   {
+    "Suburb": "Fawkner",
+    "Site_streetaddress": "1218/1220 Sydney Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3060",
+    "confidence": 0.6,
+    "latitude": -37.705493,
+    "longitude": 144.969607,
+    "label": "Fawkner, VIC, Australia"
+  },
+  {
     "Suburb": "Abbotsford",
     "Site_streetaddress": "10/313 Victoria Street",
     "Site_state": "VIC",
@@ -138,16 +148,6 @@
     "latitude": -37.712873,
     "longitude": 144.889386,
     "label": "29-35 Louis Street, Airport West, VIC, Australia"
-  },
-  {
-    "Suburb": "Fawkner",
-    "Site_streetaddress": "1218/1220 Sydney Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3060",
-    "confidence": 0.6,
-    "latitude": -37.705493,
-    "longitude": 144.969607,
-    "label": "Fawkner, VIC, Australia"
   },
   {
     "Suburb": "Albion",
@@ -3203,13 +3203,21 @@
     "Suburb": "Campbellfield",
     "Site_streetaddress": "81 Lara Way",
     "Site_state": "VIC",
-    "Site_postcode": "3061"
+    "Site_postcode": "3061",
+    "confidence": 1,
+    "latitude": -37.665565,
+    "longitude": 144.968062,
+    "label": "81 Lara Way, Campbellfield, VIC, Australia"
   },
   {
     "Suburb": "Campbellfield",
     "Site_streetaddress": "250 Rex Road",
     "Site_state": "VIC",
-    "Site_postcode": "3061"
+    "Site_postcode": "3061",
+    "confidence": 1,
+    "latitude": -37.651242,
+    "longitude": 144.963957,
+    "label": "250 Rex Road, Campbellfield, VIC, Australia"
   },
   {
     "Suburb": "Campbellfiled",
@@ -4706,7 +4714,11 @@
     "Suburb": "Cranbourne",
     "Site_streetaddress": "43A Clarendon Street",
     "Site_state": "VIC",
-    "Site_postcode": "3977"
+    "Site_postcode": "3977",
+    "confidence": 1,
+    "latitude": -38.104597,
+    "longitude": 145.27611,
+    "label": "43A Clarendon Street, Cranbourne, VIC, Australia"
   },
   {
     "Suburb": "Cranbourne North",
