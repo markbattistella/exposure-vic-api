@@ -3507,6 +3507,16 @@
     "label": "142 Cornish Street, Castlemaine, VIC, Australia"
   },
   {
+    "Suburb": "Castlemaine",
+    "Site_streetaddress": "244 Barker Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3450",
+    "confidence": 1,
+    "latitude": -37.062391,
+    "longitude": 144.217632,
+    "label": "244 Barker Street, Castlemaine, VIC, Australia"
+  },
+  {
     "Suburb": "Caulfield North",
     "Site_streetaddress": "119-121 Hawthorn Road",
     "Site_state": "VIC",
