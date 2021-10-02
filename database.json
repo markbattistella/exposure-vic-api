@@ -6431,6 +6431,16 @@
     "label": "100 Scotchmer Street, Fitzroy North, VIC, Australia"
   },
   {
+    "Suburb": "Fitzroy North",
+    "Site_streetaddress": "138 Barkly Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3068",
+    "confidence": 1,
+    "latitude": -37.778744,
+    "longitude": 144.983058,
+    "label": "138 Barkly Street, Fitzroy North, VIC, Australia"
+  },
+  {
     "Suburb": "Flemington",
     "Site_streetaddress": "44 Pin Oaks Crescent",
     "Site_state": "VIC",
@@ -7763,6 +7773,16 @@
     "latitude": -38.037796,
     "longitude": 145.266535,
     "label": "107-113 Hallam Road, Hampton Park, VIC, Australia"
+  },
+  {
+    "Suburb": "Hampton Park",
+    "Site_streetaddress": "535 South Gippsland Highway",
+    "Site_state": "VIC",
+    "Site_postcode": "3976",
+    "confidence": 1,
+    "latitude": -38.041629,
+    "longitude": 145.252143,
+    "label": "535 South Gippsland Highway, Hampton Park, VIC, Australia"
   },
   {
     "Suburb": "Hawthorn",
@@ -12057,6 +12077,16 @@
     "longitude": 145.0070925
   },
   {
+    "Suburb": "Preston",
+    "Site_streetaddress": "85 Chifley Drive",
+    "Site_state": "VIC",
+    "Site_postcode": "3072",
+    "confidence": 1,
+    "latitude": -37.743531,
+    "longitude": 145.029579,
+    "label": "85 Chifley Drive, Preston, VIC, Australia"
+  },
+  {
     "Suburb": "Preston South",
     "Site_streetaddress": "50 Plenty Road",
     "Site_state": "VIC",
@@ -14455,6 +14485,16 @@
     "latitude": -37.862378,
     "longitude": 145.000012,
     "label": "154 Alma Road, St Kilda East, VIC, Australia"
+  },
+  {
+    "Suburb": "St. Kilda",
+    "Site_streetaddress": "109 Fitzroy Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3182",
+    "confidence": 1,
+    "latitude": -37.860169,
+    "longitude": 144.977234,
+    "label": "109 Fitzroy Street, St Kilda, VIC, Australia"
   },
   {
     "Suburb": "Strathtulloh",
