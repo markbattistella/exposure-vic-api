@@ -9093,6 +9093,26 @@
     "label": "Wangaratta, VIC, Australia"
   },
   {
+    "Suburb": "Warrnambool",
+    "Site_streetaddress": "Hopkins Highway",
+    "Site_state": "VIC",
+    "Site_postcode": "3280",
+    "confidence": 0.6,
+    "latitude": -38.3777,
+    "longitude": 142.480446,
+    "label": "Warrnambool, VIC, Australia"
+  },
+  {
+    "Suburb": "Werribee",
+    "Site_streetaddress": "283-285 Heaths Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3030",
+    "confidence": 0.6,
+    "latitude": -37.89479,
+    "longitude": 144.661343,
+    "label": "Werribee, VIC, Australia"
+  },
+  {
     "Suburb": "Lake Wendouree",
     "Site_streetaddress": "1200 Mair Street",
     "Site_state": "VIC",
@@ -16180,16 +16200,6 @@
     "longitude": 142.4919129
   },
   {
-    "Suburb": "Warrnambool",
-    "Site_streetaddress": "Hopkins Highway",
-    "Site_state": "VIC",
-    "Site_postcode": "3280",
-    "confidence": 0.6,
-    "latitude": -38.3777,
-    "longitude": 142.480446,
-    "label": "Warrnambool, VIC, Australia"
-  },
-  {
     "Suburb": "Warragul",
     "Site_streetaddress": "Corner of Queen Street and Hazel Drive",
     "Site_state": "VIC",
@@ -16820,16 +16830,6 @@
     "Site_state": "VIC",
     "Site_postcode": "3030",
     "skip": true
-  },
-  {
-    "Suburb": "Werribee",
-    "Site_streetaddress": "283-285 Heaths Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3030",
-    "confidence": 0.6,
-    "latitude": -37.89479,
-    "longitude": 144.661343,
-    "label": "Werribee, VIC, Australia"
   },
   {
     "Suburb": "West Footscray",
