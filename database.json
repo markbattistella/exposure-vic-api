@@ -96,6 +96,36 @@
     "longitude": 144.8847997
   },
   {
+    "Suburb": "Bakery Hill",
+    "Site_streetaddress": "73 Victoria Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3350",
+    "confidence": 0.6,
+    "latitude": -37.563314,
+    "longitude": 143.865966,
+    "label": "Bakery Hill, VIC, Australia"
+  },
+  {
+    "Suburb": "Bakery Hill",
+    "Site_streetaddress": "Shop 6/73 Victoria Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3350",
+    "confidence": 0.6,
+    "latitude": -37.563314,
+    "longitude": 143.865966,
+    "label": "Bakery Hill, VIC, Australia"
+  },
+  {
+    "Suburb": "Morwell",
+    "Site_streetaddress": "352 Princes Drive",
+    "Site_state": "VIC",
+    "Site_postcode": "3840",
+    "confidence": 0.6,
+    "latitude": -38.230813,
+    "longitude": 146.414345,
+    "label": "Morwell, VIC, Australia"
+  },
+  {
     "Suburb": "Albion",
     "Site_streetaddress": "592 Ballarat Road",
     "Site_state": "VIC",
@@ -880,26 +910,6 @@
     "latitude": -37.561692,
     "longitude": 143.866144,
     "label": "26-36 Humffray Street North, Bakery Hill, VIC, Australia"
-  },
-  {
-    "Suburb": "Bakery Hill",
-    "Site_streetaddress": "73 Victoria Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3350",
-    "confidence": 0.6,
-    "latitude": -37.563314,
-    "longitude": 143.865966,
-    "label": "Bakery Hill, VIC, Australia"
-  },
-  {
-    "Suburb": "Bakery Hill",
-    "Site_streetaddress": "Shop 6/73 Victoria Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3350",
-    "confidence": 0.6,
-    "latitude": -37.563314,
-    "longitude": 143.865966,
-    "label": "Bakery Hill, VIC, Australia"
   },
   {
     "Suburb": "Balaclava",
@@ -10857,16 +10867,6 @@
     "confidence": 1,
     "latitude": -38.2343784,
     "longitude": 146.432373
-  },
-  {
-    "Suburb": "Morwell",
-    "Site_streetaddress": "352 Princes Drive",
-    "Site_state": "VIC",
-    "Site_postcode": "3840",
-    "confidence": 0.6,
-    "latitude": -38.230813,
-    "longitude": 146.414345,
-    "label": "Morwell, VIC, Australia"
   },
   {
     "Suburb": "Morwell",
