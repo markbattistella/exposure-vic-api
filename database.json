@@ -1,29 +1,5 @@
 [
   {
-    "Suburb": "Werribbee",
-    "Site_streetaddress": "283-285 Heaths Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3030",
-    "latitude": -37.8771615,
-    "longitude": 144.673606
-  },
-  {
-    "Suburb": "Castlemaine",
-    "Site_streetaddress": "Hargraves Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3450",
-    "latitude": -37.0665368,
-    "longitude": 144.2164392
-  },
-  {
-    "Suburb": "Fawkner",
-    "Site_streetaddress": "1218/1220 Sydney Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3060",
-    "latitude": -37.7057885,
-    "longitude": 144.9589562
-  },
-  {
     "Suburb": "Abbotsford",
     "Site_streetaddress": "10/313 Victoria Street",
     "Site_state": "VIC",
@@ -3528,6 +3504,14 @@
   },
   {
     "Suburb": "Castlemaine",
+    "Site_streetaddress": "Hargraves Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3450",
+    "latitude": -37.0665368,
+    "longitude": 144.2164392
+  },
+  {
+    "Suburb": "Castlemaine",
     "Site_streetaddress": "142 Cornish Street",
     "Site_state": "VIC",
     "Site_postcode": "3450",
@@ -6279,6 +6263,14 @@
     "latitude": -37.778475,
     "longitude": 145.017989,
     "label": "86 Station Street, Fairfield, VIC, Australia"
+  },
+  {
+    "Suburb": "Fawkner",
+    "Site_streetaddress": "1218/1220 Sydney Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3060",
+    "latitude": -37.7057885,
+    "longitude": 144.9589562
   },
   {
     "Suburb": "Fawkner",
@@ -9043,46 +9035,6 @@
     "longitude": 143.7530592
   },
   {
-    "Suburb": "Lalor",
-    "Site_streetaddress": "33-37 Williams Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3075",
-    "latitude": -37.673533,
-    "longitude": 145.023236
-  },
-  {
-    "Suburb": "South Morang",
-    "Site_streetaddress": "415 McDonalds Rd",
-    "Site_state": "VIC",
-    "Site_postcode": "3752",
-    "latitude": -37.6499688,
-    "longitude": 145.0675217
-  },
-  {
-    "Suburb": "Wangaratta",
-    "Site_streetaddress": "1 Mason Strreet",
-    "Site_state": "VIC",
-    "Site_postcode": "3677",
-    "latitude": -36.3760452,
-    "longitude": 146.3040857
-  },
-  {
-    "Suburb": "Warrnambool",
-    "Site_streetaddress": "Hopkins Highway",
-    "Site_state": "VIC",
-    "Site_postcode": "3280",
-    "latitude": -38.3848586,
-    "longitude": 142.4793281
-  },
-  {
-    "Suburb": "Werribee",
-    "Site_streetaddress": "283-285 Heaths Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3030",
-    "latitude": -37.877453,
-    "longitude": 144.676489
-  },
-  {
     "Suburb": "Lake Wendouree",
     "Site_streetaddress": "1200 Mair Street",
     "Site_state": "VIC",
@@ -9099,6 +9051,14 @@
     "latitude": -37.554223,
     "longitude": 143.843018,
     "label": "22 Wendouree Parade, Lake Wendouree, VIC, Australia"
+  },
+  {
+    "Suburb": "Lalor",
+    "Site_streetaddress": "33-37 Williams Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3075",
+    "latitude": -37.673533,
+    "longitude": 145.023236
   },
   {
     "Suburb": "Lalor",
@@ -14091,6 +14051,14 @@
   },
   {
     "Suburb": "South Morang",
+    "Site_streetaddress": "415 McDonalds Rd",
+    "Site_state": "VIC",
+    "Site_postcode": "3752",
+    "latitude": -37.6499688,
+    "longitude": 145.0675217
+  },
+  {
+    "Suburb": "South Morang",
     "Site_streetaddress": "415 McDonalds Road",
     "Site_state": "VIC",
     "Site_postcode": "3752",
@@ -16017,6 +15985,14 @@
   },
   {
     "Suburb": "Wangaratta",
+    "Site_streetaddress": "1 Mason Strreet",
+    "Site_state": "VIC",
+    "Site_postcode": "3677",
+    "latitude": -36.3760452,
+    "longitude": 146.3040857
+  },
+  {
+    "Suburb": "Wangaratta",
     "Site_streetaddress": "1 Parfitt Road",
     "Site_state": "VIC",
     "Site_postcode": "3677",
@@ -16175,6 +16151,14 @@
     "confidence": 1,
     "latitude": -38.1676303,
     "longitude": 145.9503551
+  },
+  {
+    "Suburb": "Warrnambool",
+    "Site_streetaddress": "Hopkins Highway",
+    "Site_state": "VIC",
+    "Site_postcode": "3280",
+    "latitude": -38.3848586,
+    "longitude": 142.4793281
   },
   {
     "Suburb": "Warrnambool",
@@ -16623,6 +16607,22 @@
     "latitude": -37.534369,
     "longitude": 143.822874,
     "label": "333 Gillies Street North, Wendouree, VIC, Australia"
+  },
+  {
+    "Suburb": "Werribbee",
+    "Site_streetaddress": "283-285 Heaths Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3030",
+    "latitude": -37.8771615,
+    "longitude": 144.673606
+  },
+  {
+    "Suburb": "Werribee",
+    "Site_streetaddress": "283-285 Heaths Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3030",
+    "latitude": -37.877453,
+    "longitude": 144.676489
   },
   {
     "Suburb": "Werribee",
