@@ -4,150 +4,120 @@
     "Site_streetaddress": "283-285 Heaths Road",
     "Site_state": "VIC",
     "Site_postcode": "3030",
-    "confidence": 0.3,
-    "latitude": -37.014348,
-    "longitude": 143.480452,
-    "label": "Victoria, Australia"
+    "latitude": -37.8771615,
+    "longitude": 144.673606
   },
   {
     "Suburb": "Castlemaine",
     "Site_streetaddress": "Hargraves Street",
     "Site_state": "VIC",
     "Site_postcode": "3450",
-    "confidence": 0.6,
-    "latitude": -37.057059,
-    "longitude": 144.218117,
-    "label": "Castlemaine, VIC, Australia"
+    "latitude": -37.0665368,
+    "longitude": 144.2164392
   },
   {
     "Suburb": "Fawkner",
     "Site_streetaddress": "1218/1220 Sydney Road",
     "Site_state": "VIC",
     "Site_postcode": "3060",
-    "confidence": 0.6,
-    "latitude": -37.705493,
-    "longitude": 144.969607,
-    "label": "Fawkner, VIC, Australia"
+    "latitude": -37.7057885,
+    "longitude": 144.9589562
   },
   {
     "Suburb": "Abbotsford",
     "Site_streetaddress": "10/313 Victoria Street",
     "Site_state": "VIC",
     "Site_postcode": "3067",
-    "confidence": 1,
     "latitude": -37.809874,
-    "longitude": 144.995512,
-    "label": "313 Victoria Street, Abbotsford, VIC, Australia"
+    "longitude": 144.995512
   },
   {
     "Suburb": "Abbotsford",
     "Site_streetaddress": "501/509 Victoria Street",
     "Site_state": "VIC",
     "Site_postcode": "3067",
-    "confidence": 1,
-    "latitude": -37.811123,
-    "longitude": 145.007942,
-    "label": "509/615 Victoria Street, Abbotsford, VIC, Australia"
+    "latitude": -37.8105591,
+    "longitude": 145.0008651
   },
   {
     "Suburb": "Abbotsford",
     "Site_streetaddress": "313/325 Victoria Street",
     "Site_state": "VIC",
     "Site_postcode": "3067",
-    "confidence": 1,
-    "latitude": -37.811123,
-    "longitude": 145.007942,
-    "label": "325/611 Victoria Street, Abbotsford, VIC, Australia"
+    "latitude": -37.8098756,
+    "longitude": 144.9935955
   },
   {
     "Suburb": "Abbotsford",
     "Site_streetaddress": "20 Shamrock Street",
     "Site_state": "VIC",
     "Site_postcode": "3067",
-    "confidence": 1,
     "latitude": -37.810154,
-    "longitude": 145.008213,
-    "label": "20 Shamrock Street, Abbotsford, VIC, Australia"
+    "longitude": 145.008213
   },
   {
     "Suburb": "Aintree",
     "Site_streetaddress": "23 Ferneley View",
     "Site_state": "VIC",
     "Site_postcode": "3335",
-    "confidence": 1,
-    "latitude": -37.721298,
-    "longitude": 144.665342,
-    "label": "23 Ferneley View, Rockbank, VIC, Australia"
+    "latitude": -37.7212791,
+    "longitude": 144.6635064
   },
   {
     "Suburb": "Airport West",
     "Site_streetaddress": "29/35 Louis Street",
     "Site_state": "VIC",
     "Site_postcode": "3042",
-    "confidence": 1,
-    "latitude": -37.712873,
-    "longitude": 144.889386,
-    "label": "29-35 Louis Street, Airport West, VIC, Australia"
+    "latitude": -37.7141113,
+    "longitude": 144.8847997
   },
   {
     "Suburb": "Airport West",
     "Site_streetaddress": "29-35 Louis Street",
     "Site_state": "VIC",
     "Site_postcode": "3042",
-    "confidence": 1,
-    "latitude": -37.712873,
-    "longitude": 144.889386,
-    "label": "29-35 Louis Street, Airport West, VIC, Australia"
+    "latitude": -37.7141113,
+    "longitude": 144.8847997
   },
   {
     "Suburb": "Airport West",
     "Site_streetaddress": "9-21 Hood Street",
     "Site_state": "VIC",
     "Site_postcode": "3042",
-    "confidence": 1,
     "latitude": -37.725664,
-    "longitude": 144.888862,
-    "label": "9-21 Hood Street, Airport West, VIC, Australia"
+    "longitude": 144.888862
   },
   {
     "Suburb": "Airport West",
     "Site_streetaddress": "212A/B, 29-35 Louis Street",
     "Site_state": "VIC",
     "Site_postcode": "3042",
-    "confidence": 1,
-    "latitude": -37.712873,
-    "longitude": 144.889386,
-    "label": "29-35 Louis Street, Airport West, VIC, Australia"
+    "latitude": -37.7141113,
+    "longitude": 144.8847997
   },
   {
     "Suburb": "Airport West",
     "Site_streetaddress": "91 McNamara Avenue",
     "Site_state": "VIC",
     "Site_postcode": "3042",
-    "confidence": 1,
     "latitude": -37.723982,
-    "longitude": 144.881367,
-    "label": "91 Mcnamara Avenue, Airport West, VIC, Australia"
+    "longitude": 144.881367
   },
   {
     "Suburb": "Airport West",
     "Site_streetaddress": "6 Hawker Street",
     "Site_state": "VIC",
     "Site_postcode": "3042",
-    "confidence": 1,
     "latitude": -37.722518,
-    "longitude": 144.890723,
-    "label": "6 Hawker Street, Airport West, VIC, Australia"
+    "longitude": 144.890723
   },
   {
     "Suburb": "Airport West",
     "Site_streetaddress": "78/29-35 Louis Street",
     "Site_state": "VIC",
     "Site_postcode": "3042",
-    "confidence": 1,
-    "latitude": -37.712873,
-    "longitude": 144.889386,
-    "label": "29-35 Louis Street, Airport West, VIC, Australia"
+    "latitude": -37.7141113,
+    "longitude": 144.8847997
   },
   {
     "Suburb": "Albion",
@@ -9077,50 +9047,40 @@
     "Site_streetaddress": "33-37 Williams Street",
     "Site_state": "VIC",
     "Site_postcode": "3075",
-    "confidence": 0.6,
-    "latitude": -37.660402,
-    "longitude": 144.99727,
-    "label": "Lalor, VIC, Australia"
+    "latitude": -37.673533,
+    "longitude": 145.023236
   },
   {
     "Suburb": "South Morang",
     "Site_streetaddress": "415 McDonalds Rd",
     "Site_state": "VIC",
     "Site_postcode": "3752",
-    "confidence": 0.6,
-    "latitude": -37.632398,
-    "longitude": 145.083632,
-    "label": "South Morang, VIC, Australia"
+    "latitude": -37.6499688,
+    "longitude": 145.0675217
   },
   {
     "Suburb": "Wangaratta",
     "Site_streetaddress": "1 Mason Strreet",
     "Site_state": "VIC",
     "Site_postcode": "3677",
-    "confidence": 0.6,
-    "latitude": -36.363389,
-    "longitude": 146.314859,
-    "label": "Wangaratta, VIC, Australia"
+    "latitude": -36.3760452,
+    "longitude": 146.3040857
   },
   {
     "Suburb": "Warrnambool",
     "Site_streetaddress": "Hopkins Highway",
     "Site_state": "VIC",
     "Site_postcode": "3280",
-    "confidence": 0.6,
-    "latitude": -38.3777,
-    "longitude": 142.480446,
-    "label": "Warrnambool, VIC, Australia"
+    "latitude": -38.3848586,
+    "longitude": 142.4793281
   },
   {
     "Suburb": "Werribee",
     "Site_streetaddress": "283-285 Heaths Road",
     "Site_state": "VIC",
     "Site_postcode": "3030",
-    "confidence": 0.6,
-    "latitude": -37.89479,
-    "longitude": 144.661343,
-    "label": "Werribee, VIC, Australia"
+    "latitude": -37.877453,
+    "longitude": 144.676489
   },
   {
     "Suburb": "Lake Wendouree",
