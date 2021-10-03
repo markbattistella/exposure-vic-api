@@ -5741,6 +5741,16 @@
     "label": "Echuca, VIC, Australia"
   },
   {
+    "Suburb": "Echuca",
+    "Site_streetaddress": "433 High Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3564",
+    "confidence": 1,
+    "latitude": -36.127566,
+    "longitude": 144.747576,
+    "label": "433 High Street, Echuca-Moama, VIC, Australia"
+  },
+  {
     "Suburb": "Edithvale",
     "Site_streetaddress": "264 Nepean Hwy",
     "Site_state": "VIC",
