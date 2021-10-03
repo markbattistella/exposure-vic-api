@@ -84,8 +84,8 @@
     "Exposure_time_start_24": "19:00:00",
     "Exposure_time_end_24": "22:30:00",
     "dhid": "F4R4",
-    "latitude": -38.230813,
-    "longitude": 146.414345
+    "latitude": -38.2402546,
+    "longitude": 146.4104161
   },
   {
     "_id": 5,
@@ -106,8 +106,8 @@
     "Exposure_time_start_24": "12:10:00",
     "Exposure_time_end_24": "12:55:00",
     "dhid": "F2L2",
-    "latitude": -37.563314,
-    "longitude": 143.865966
+    "latitude": -37.5614078,
+    "longitude": 143.8662713
   },
   {
     "_id": 6,
@@ -128,8 +128,8 @@
     "Exposure_time_start_24": "10:30:00",
     "Exposure_time_end_24": "11:55:00",
     "dhid": "G4A8",
-    "latitude": -37.563314,
-    "longitude": 143.865966
+    "latitude": -37.5614078,
+    "longitude": 143.8662713
   },
   {
     "_id": 7,
@@ -150,8 +150,8 @@
     "Exposure_time_start_24": "11:30:00",
     "Exposure_time_end_24": "12:15:00",
     "dhid": "G3U3",
-    "latitude": -37.563314,
-    "longitude": 143.865966
+    "latitude": -37.5614078,
+    "longitude": 143.8662713
   },
   {
     "_id": 8,

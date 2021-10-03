@@ -96,30 +96,6 @@
     "longitude": 144.8847997
   },
   {
-    "Suburb": "Bakery Hill",
-    "Site_streetaddress": "73 Victoria Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3350",
-    "latitude": -37.5614078,
-    "longitude": 143.8662713
-  },
-  {
-    "Suburb": "Bakery Hill",
-    "Site_streetaddress": "Shop 6/73 Victoria Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3350",
-	"latitude": -37.5614078,
-    "longitude": 143.8662713
-  },
-  {
-    "Suburb": "Morwell",
-    "Site_streetaddress": "352 Princes Drive",
-    "Site_state": "VIC",
-    "Site_postcode": "3840",
-    "latitude": -38.2402546,
-    "longitude": 146.4104161
-  },
-  {
     "Suburb": "Albion",
     "Site_streetaddress": "592 Ballarat Road",
     "Site_state": "VIC",
@@ -884,6 +860,22 @@
     "latitude": -37.665678,
     "longitude": 144.437022,
     "label": "7 Clifton Drive, Bacchus Marsh, VIC, Australia"
+  },
+  {
+    "Suburb": "Bakery Hill",
+    "Site_streetaddress": "73 Victoria Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3350",
+    "latitude": -37.5614078,
+    "longitude": 143.8662713
+  },
+  {
+    "Suburb": "Bakery Hill",
+    "Site_streetaddress": "Shop 6/73 Victoria Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3350",
+    "latitude": -37.5614078,
+    "longitude": 143.8662713
   },
   {
     "Suburb": "Bakery Hill",
@@ -10812,6 +10804,14 @@
     "latitude": -38.233677,
     "longitude": 145.058058,
     "label": "28 Progress Street, Mornington, VIC, Australia"
+  },
+  {
+    "Suburb": "Morwell",
+    "Site_streetaddress": "352 Princes Drive",
+    "Site_state": "VIC",
+    "Site_postcode": "3840",
+    "latitude": -38.2402546,
+    "longitude": 146.4104161
   },
   {
     "Suburb": "Morwell",
