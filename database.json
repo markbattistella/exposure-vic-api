@@ -5770,6 +5770,16 @@
     "longitude": 144.9959019
   },
   {
+    "Suburb": "Eltham",
+    "Site_streetaddress": "Shop 2 Midway Arcade, 972-974 Main Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3095",
+    "confidence": 1,
+    "latitude": -37.71373,
+    "longitude": 145.148991,
+    "label": "Midway Arcade, Eltham, VIC, Australia"
+  },
+  {
     "Suburb": "Elwood",
     "Site_streetaddress": "138-140 Ormond Road",
     "Site_state": "VIC",
