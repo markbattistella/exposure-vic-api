@@ -16153,6 +16153,16 @@
     "longitude": 146.3149309
   },
   {
+    "Suburb": "Wangaratta",
+    "Site_streetaddress": "1 Mason Strreet",
+    "Site_state": "VIC",
+    "Site_postcode": "3677",
+    "confidence": 0.6,
+    "latitude": -36.363389,
+    "longitude": 146.314859,
+    "label": "Wangaratta, VIC, Australia"
+  },
+  {
     "Suburb": "Warnambool",
     "Site_streetaddress": "Merri Street",
     "Site_state": "VIC",
