@@ -9083,6 +9083,16 @@
     "label": "South Morang, VIC, Australia"
   },
   {
+    "Suburb": "Wangaratta",
+    "Site_streetaddress": "1 Mason Strreet",
+    "Site_state": "VIC",
+    "Site_postcode": "3677",
+    "confidence": 0.6,
+    "latitude": -36.363389,
+    "longitude": 146.314859,
+    "label": "Wangaratta, VIC, Australia"
+  },
+  {
     "Suburb": "Lake Wendouree",
     "Site_streetaddress": "1200 Mair Street",
     "Site_state": "VIC",
@@ -16151,16 +16161,6 @@
     "confidence": 1,
     "latitude": -36.3599547,
     "longitude": 146.3149309
-  },
-  {
-    "Suburb": "Wangaratta",
-    "Site_streetaddress": "1 Mason Strreet",
-    "Site_state": "VIC",
-    "Site_postcode": "3677",
-    "confidence": 0.6,
-    "latitude": -36.363389,
-    "longitude": 146.314859,
-    "label": "Wangaratta, VIC, Australia"
   },
   {
     "Suburb": "Warnambool",
