@@ -882,6 +882,26 @@
     "label": "26-36 Humffray Street North, Bakery Hill, VIC, Australia"
   },
   {
+    "Suburb": "Bakery Hill",
+    "Site_streetaddress": "73 Victoria Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3350",
+    "confidence": 0.6,
+    "latitude": -37.563314,
+    "longitude": 143.865966,
+    "label": "Bakery Hill, VIC, Australia"
+  },
+  {
+    "Suburb": "Bakery Hill",
+    "Site_streetaddress": "Shop 6/73 Victoria Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3350",
+    "confidence": 0.6,
+    "latitude": -37.563314,
+    "longitude": 143.865966,
+    "label": "Bakery Hill, VIC, Australia"
+  },
+  {
     "Suburb": "Balaclava",
     "Site_streetaddress": "305 Inkerman Street",
     "Site_state": "VIC",
@@ -2190,6 +2210,16 @@
     "longitude": 144.9133663
   },
   {
+    "Suburb": "Broadmeadows",
+    "Site_streetaddress": "30-54 Johnstone Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3047",
+    "confidence": 1,
+    "latitude": -37.681941,
+    "longitude": 144.911924,
+    "label": "30-54 Johnstone Street, Broadmeadows, VIC, Australia"
+  },
+  {
     "Suburb": "Brooklyn",
     "Site_streetaddress": "41 Buchanan Road",
     "Site_state": "VIC",
@@ -3164,6 +3194,16 @@
     "latitude": -37.651242,
     "longitude": 144.963957,
     "label": "250 Rex Road, Campbellfield, VIC, Australia"
+  },
+  {
+    "Suburb": "Campbellfield",
+    "Site_streetaddress": "9/36 Merri Concourse",
+    "Site_state": "VIC",
+    "Site_postcode": "3061",
+    "confidence": 1,
+    "latitude": -37.665853,
+    "longitude": 144.973791,
+    "label": "36 Merri Concourse, Campbellfield, VIC, Australia"
   },
   {
     "Suburb": "Campbellfiled",
@@ -10819,6 +10859,26 @@
     "longitude": 146.432373
   },
   {
+    "Suburb": "Morwell",
+    "Site_streetaddress": "352 Princes Drive",
+    "Site_state": "VIC",
+    "Site_postcode": "3840",
+    "confidence": 0.6,
+    "latitude": -38.230813,
+    "longitude": 146.414345,
+    "label": "Morwell, VIC, Australia"
+  },
+  {
+    "Suburb": "Morwell",
+    "Site_streetaddress": "Shop 103, Mid Valley Shopping Centre, 103 Princes Drive",
+    "Site_state": "VIC",
+    "Site_postcode": "3840",
+    "confidence": 1,
+    "latitude": -38.236572,
+    "longitude": 146.430468,
+    "label": "Mid Valley Shopping Centre, Morwell, VIC, Australia"
+  },
+  {
     "Suburb": "Mount Waverley",
     "Site_streetaddress": "433 Blackburn Road",
     "Site_state": "VIC",
@@ -13880,6 +13940,16 @@
     "latitude": -36.379058,
     "longitude": 145.401563,
     "label": "73 Fryers Street, Shepparton, VIC, Australia"
+  },
+  {
+    "Suburb": "Shepparton",
+    "Site_streetaddress": "93 Benalla Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3630",
+    "confidence": 1,
+    "latitude": -36.385439,
+    "longitude": 145.422716,
+    "label": "93-95 Benalla Road, Shepparton, VIC, Australia"
   },
   {
     "Suburb": "Shepparton East",
