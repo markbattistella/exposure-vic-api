@@ -100,20 +100,16 @@
     "Site_streetaddress": "Murray Valley Highway",
     "Site_state": "VIC",
     "Site_postcode": "3691",
-    "confidence": 0.6,
-    "latitude": -36.093895,
-    "longitude": 146.763848,
-    "label": "Barnawartha North, VIC, Australia"
+    "latitude": -36.0735046,
+    "longitude": 146.7254344
   },
   {
     "Suburb": "Cheltenham",
     "Site_streetaddress": "400 Warringal Road",
     "Site_state": "VIC",
     "Site_postcode": "3192",
-    "confidence": 0.6,
-    "latitude": -37.964053,
-    "longitude": 145.064727,
-    "label": "Cheltenham, VIC, Australia"
+    "latitude": -37.9553284,
+    "longitude": 145.0765468
   },
   {
     "Suburb": "Albion",
@@ -1110,10 +1106,8 @@
     "Site_streetaddress": "102-114 Creswick Road",
     "Site_state": "VIC",
     "Site_postcode": "3350",
-    "confidence": 0.4,
-    "latitude": -37.563892,
-    "longitude": 143.852395,
-    "label": "Ballarat, VIC, Australia"
+    "latitude": -37.5570286,
+    "longitude": 143.8549486
   },
   {
     "Suburb": "Ballarat Central",
