@@ -3686,6 +3686,16 @@
     "label": "335 Warrigal Road, Cheltenham, VIC, Australia"
   },
   {
+    "Suburb": "Cheltenham",
+    "Site_streetaddress": "400 Warringal Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3192",
+    "confidence": 0.6,
+    "latitude": -37.964053,
+    "longitude": 145.064727,
+    "label": "Cheltenham, VIC, Australia"
+  },
+  {
     "Suburb": "Chirnside Park",
     "Site_streetaddress": "Corner Maroondah Highway and Old Melbourne Road",
     "Site_state": "VIC",
@@ -13954,6 +13964,16 @@
     "latitude": -36.385439,
     "longitude": 145.422716,
     "label": "93-95 Benalla Road, Shepparton, VIC, Australia"
+  },
+  {
+    "Suburb": "Shepparton",
+    "Site_streetaddress": "204-208 High Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3630",
+    "confidence": 1,
+    "latitude": -36.38208,
+    "longitude": 145.405077,
+    "label": "204-208 High Street, Shepparton, VIC, Australia"
   },
   {
     "Suburb": "Shepparton East",
