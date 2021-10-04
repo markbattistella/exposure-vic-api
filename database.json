@@ -96,6 +96,16 @@
     "longitude": 144.8847997
   },
   {
+    "Suburb": "Cheltenham",
+    "Site_streetaddress": "400 Warringal Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3192",
+    "confidence": 0.6,
+    "latitude": -37.964053,
+    "longitude": 145.064727,
+    "label": "Cheltenham, VIC, Australia"
+  },
+  {
     "Suburb": "Albion",
     "Site_streetaddress": "592 Ballarat Road",
     "Site_state": "VIC",
@@ -3684,16 +3694,6 @@
     "latitude": -37.957953,
     "longitude": 145.075398,
     "label": "335 Warrigal Road, Cheltenham, VIC, Australia"
-  },
-  {
-    "Suburb": "Cheltenham",
-    "Site_streetaddress": "400 Warringal Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3192",
-    "confidence": 0.6,
-    "latitude": -37.964053,
-    "longitude": 145.064727,
-    "label": "Cheltenham, VIC, Australia"
   },
   {
     "Suburb": "Chirnside Park",
