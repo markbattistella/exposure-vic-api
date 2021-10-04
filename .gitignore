@@ -1,4 +1,5 @@
 .DS_Store
 .markdownlintrc
+.markdownlint.json
 node_modules
 wip
