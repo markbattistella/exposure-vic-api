@@ -1211,6 +1211,16 @@
     "label": "1030-1050 Burke Road, Balwyn, VIC, Australia"
   },
   {
+    "Suburb": "Barnawartha North",
+    "Site_streetaddress": "Murray Valley Highway",
+    "Site_state": "VIC",
+    "Site_postcode": "3691",
+    "confidence": 0.6,
+    "latitude": -36.093895,
+    "longitude": 146.763848,
+    "label": "Barnawartha North, VIC, Australia"
+  },
+  {
     "Suburb": "Bayswater",
     "Site_streetaddress": "719-721 Mountain Highway",
     "Site_state": "VIC",
@@ -17470,6 +17480,16 @@
     "confidence": 1,
     "latitude": -37.3582412,
     "longitude": 144.5235864
+  },
+  {
+    "Suburb": "Woodend",
+    "Site_streetaddress": "139 South Rock Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3442",
+    "confidence": 1,
+    "latitude": -37.335683,
+    "longitude": 144.597288,
+    "label": "139 South Rock Road, Woodend, VIC, Australia"
   },
   {
     "Suburb": "Wyndham Vale",
