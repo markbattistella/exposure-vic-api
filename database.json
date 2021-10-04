@@ -96,22 +96,6 @@
     "longitude": 144.8847997
   },
   {
-    "Suburb": "Barnawartha North",
-    "Site_streetaddress": "Murray Valley Highway",
-    "Site_state": "VIC",
-    "Site_postcode": "3691",
-    "latitude": -36.0735046,
-    "longitude": 146.7254344
-  },
-  {
-    "Suburb": "Cheltenham",
-    "Site_streetaddress": "400 Warringal Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3192",
-    "latitude": -37.9553284,
-    "longitude": 145.0765468
-  },
-  {
     "Suburb": "Albion",
     "Site_streetaddress": "592 Ballarat Road",
     "Site_state": "VIC",
@@ -1213,6 +1197,14 @@
     "latitude": -37.801445,
     "longitude": 145.0627,
     "label": "1030-1050 Burke Road, Balwyn, VIC, Australia"
+  },
+  {
+    "Suburb": "Barnawartha North",
+    "Site_streetaddress": "Murray Valley Highway",
+    "Site_state": "VIC",
+    "Site_postcode": "3691",
+    "latitude": -36.0735046,
+    "longitude": 146.7254344
   },
   {
     "Suburb": "Bayswater",
@@ -3679,6 +3671,14 @@
     "latitude": -38.0537389,
     "longitude": 145.1137862,
     "label": "Chelsea, VIC, Australia"
+  },
+  {
+    "Suburb": "Cheltenham",
+    "Site_streetaddress": "400 Warringal Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3192",
+    "latitude": -37.9553284,
+    "longitude": 145.0765468
   },
   {
     "Suburb": "Cheltenham",
