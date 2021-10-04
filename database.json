@@ -1096,6 +1096,16 @@
     "longitude": 143.8585918
   },
   {
+    "Suburb": "Ballarat",
+    "Site_streetaddress": "102-114 Creswick Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3350",
+    "confidence": 0.4,
+    "latitude": -37.563892,
+    "longitude": 143.852395,
+    "label": "Ballarat, VIC, Australia"
+  },
+  {
     "Suburb": "Ballarat Central",
     "Site_streetaddress": "Corner Sturt Street & Pleasant Street ",
     "Site_state": "VIC",
@@ -13976,6 +13986,16 @@
     "label": "204-208 High Street, Shepparton, VIC, Australia"
   },
   {
+    "Suburb": "Shepparton",
+    "Site_streetaddress": "8 Hoskin Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3630",
+    "confidence": 1,
+    "latitude": -36.38318,
+    "longitude": 145.405098,
+    "label": "8 Hoskin Street, Shepparton, VIC, Australia"
+  },
+  {
     "Suburb": "Shepparton East",
     "Site_streetaddress": "485-507 Channel Road",
     "Site_state": "VIC",
@@ -16701,6 +16721,16 @@
     "latitude": -37.534369,
     "longitude": 143.822874,
     "label": "333 Gillies Street North, Wendouree, VIC, Australia"
+  },
+  {
+    "Suburb": "Wendouree",
+    "Site_streetaddress": "1322 Howitt Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3355",
+    "confidence": 1,
+    "latitude": -37.539037,
+    "longitude": 143.823097,
+    "label": "1322 Howitt Street, Wendouree, VIC, Australia"
   },
   {
     "Suburb": "Werribbee",
