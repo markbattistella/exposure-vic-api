@@ -6127,6 +6127,16 @@
     "label": "571-583 High Street, Epping, VIC, Australia"
   },
   {
+    "Suburb": "Epping",
+    "Site_streetaddress": "329A Harvest Home Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3076",
+    "confidence": 1,
+    "latitude": -37.62091,
+    "longitude": 145.005718,
+    "label": "329A Harvest Home Road, Epping, VIC, Australia"
+  },
+  {
     "Suburb": "Epsom",
     "Site_streetaddress": "22 Howard Street",
     "Site_state": "VIC",
@@ -9485,6 +9495,16 @@
     "confidence": 1,
     "latitude": -38.0514645,
     "longitude": 145.2539032
+  },
+  {
+    "Suburb": "Macedon",
+    "Site_streetaddress": "23 Victoria Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3440",
+    "confidence": 1,
+    "latitude": -37.423162,
+    "longitude": 144.564172,
+    "label": "23 Victoria Street, Macedon, VIC, Australia"
   },
   {
     "Suburb": "Maddingley",
