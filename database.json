@@ -10927,6 +10927,16 @@
     "label": "Mid Valley Shopping Centre, Morwell, VIC, Australia"
   },
   {
+    "Suburb": "Mount Macedon",
+    "Site_streetaddress": "686 Mount Macedon Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3441",
+    "confidence": 1,
+    "latitude": -37.402031,
+    "longitude": 144.587647,
+    "label": "686 Mount Macedon Road, Mount Macedon, VIC, Australia"
+  },
+  {
     "Suburb": "Mount Waverley",
     "Site_streetaddress": "433 Blackburn Road",
     "Site_state": "VIC",
