@@ -194,6 +194,16 @@
     "label": "103B Grieve Parade, Altona, VIC, Australia"
   },
   {
+    "Suburb": "Altona Meadows",
+    "Site_streetaddress": "69 Central Avenue",
+    "Site_state": "VIC",
+    "Site_postcode": "3028",
+    "confidence": 1,
+    "latitude": -37.871184,
+    "longitude": 144.769848,
+    "label": "69 Central Avenue, Altona Meadows, VIC, Australia"
+  },
+  {
     "Suburb": "Altona North",
     "Site_streetaddress": "302-330 Millers Road",
     "Site_state": "VIC",
@@ -15708,6 +15718,16 @@
     "latitude": -37.687808,
     "longitude": 145.027047,
     "label": "308-320 Settlement Road, Thomastown, VIC, Australia"
+  },
+  {
+    "Suburb": "Thomastown",
+    "Site_streetaddress": "204 Holt Parade",
+    "Site_state": "VIC",
+    "Site_postcode": "3074",
+    "confidence": 1,
+    "latitude": -37.695725,
+    "longitude": 145.027361,
+    "label": "204 Holt Parade, Thomastown, VIC, Australia"
   },
   {
     "Suburb": "Thornbury",
