@@ -1279,7 +1279,7 @@
     "_id": 76,
     "Suburb": "South Morang",
     "Site_title": "My Chemist - Westfield Plenty Valley",
-    "Site_streetaddress": "415 McDonalds Rd",
+    "Site_streetaddress": "415 McDonalds Road",
     "Site_state": "VIC",
     "Site_postcode": "3752",
     "Exposure_date_dtm": "2021-09-24",
@@ -1294,8 +1294,8 @@
     "Exposure_time_start_24": "09:00:00",
     "Exposure_time_end_24": "17:30:00",
     "dhid": "F7B5",
-    "latitude": -37.6499688,
-    "longitude": 145.0675217
+    "latitude": -37.6506982,
+    "longitude": 145.0671509
   },
   {
     "_id": 70,
@@ -1411,7 +1411,7 @@
     "_id": 75,
     "Suburb": "South Morang",
     "Site_title": "My Chemist - Westfield Plenty Valley",
-    "Site_streetaddress": "415 McDonalds Rd",
+    "Site_streetaddress": "415 McDonalds Road",
     "Site_state": "VIC",
     "Site_postcode": "3752",
     "Exposure_date_dtm": "2021-09-23",
@@ -1426,14 +1426,14 @@
     "Exposure_time_start_24": "09:00:00",
     "Exposure_time_end_24": "17:30:00",
     "dhid": "G8P5",
-    "latitude": -37.6499688,
-    "longitude": 145.0675217
+    "latitude": -37.6506982,
+    "longitude": 145.0671509
   },
   {
     "_id": 77,
     "Suburb": "South Morang",
     "Site_title": "My Chemist - Westfield Plenty Valley",
-    "Site_streetaddress": "415 McDonalds Rd",
+    "Site_streetaddress": "415 McDonalds Road",
     "Site_state": "VIC",
     "Site_postcode": "3752",
     "Exposure_date_dtm": "2021-09-25",
@@ -1448,8 +1448,8 @@
     "Exposure_time_start_24": "09:00:00",
     "Exposure_time_end_24": "17:30:00",
     "dhid": "G5V7",
-    "latitude": -37.6499688,
-    "longitude": 145.0675217
+    "latitude": -37.6506982,
+    "longitude": 145.0671509
   },
   {
     "_id": 78,
@@ -2158,7 +2158,7 @@
   {
     "_id": 110,
     "Suburb": "St. Kilda",
-    "Site_title": "Bunny Bar\t",
+    "Site_title": "Bunny Bar        ",
     "Site_streetaddress": "109 Fitzroy Street",
     "Site_state": "VIC",
     "Site_postcode": "3182",
