@@ -4700,28 +4700,6 @@
     "longitude": 144.921653
   },
   {
-    "_id": 313,
-    "Suburb": "Ironbark",
-    "Site_title": "Fruit Shack Ironbark",
-    "Site_streetaddress": "46 Eaglehawk Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3550",
-    "Exposure_date_dtm": "2021-09-23",
-    "Exposure_date": "23/09/2021",
-    "Exposure_time": "10:25am - 11:15am",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-09-29",
-    "Added_date": "29/09/2021",
-    "Added_time": "12:15:00",
-    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
-    "Exposure_time_start_24": "10:25:00",
-    "Exposure_time_end_24": "11:15:00",
-    "dhid": "A6W6",
-    "latitude": -36.755577,
-    "longitude": 144.264749
-  },
-  {
     "_id": 226,
     "Suburb": "Broadmeadows",
     "Site_title": "Woolworths - Broadmeadows Central",
@@ -6262,28 +6240,6 @@
     "longitude": 143.868465
   },
   {
-    "_id": 428,
-    "Suburb": "Altona",
-    "Site_title": "Altona Early Years Hub",
-    "Site_streetaddress": "103B Grieve Parade",
-    "Site_state": "VIC",
-    "Site_postcode": "3018",
-    "Exposure_date_dtm": "2021-09-23",
-    "Exposure_date": "23/09/2021",
-    "Exposure_time": "8:30am - 5:30pm",
-    "Notes": "Case attended venue.",
-    "Added_date_dtm": "2021-09-25",
-    "Added_date": "25/09/2021",
-    "Added_time": "16:13:58",
-    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
-    "Exposure_time_start_24": "08:30:00",
-    "Exposure_time_end_24": "17:30:00",
-    "dhid": "B9D2",
-    "latitude": -37.86167,
-    "longitude": 144.818626
-  },
-  {
     "_id": 297,
     "Suburb": "Sebastopol",
     "Site_title": "Sebastopol UFS Pharmacy",
@@ -6482,28 +6438,6 @@
     "longitude": 144.971861
   },
   {
-    "_id": 314,
-    "Suburb": "Golden Square",
-    "Site_title": "Waugh's Industrial supplies Bendigo",
-    "Site_streetaddress": "2F Thistle Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3555",
-    "Exposure_date_dtm": "2021-09-23",
-    "Exposure_date": "23/09/2021",
-    "Exposure_time": "11:05am - 11:45am",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-09-29",
-    "Added_date": "29/09/2021",
-    "Added_time": "12:15:00",
-    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
-    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
-    "Exposure_time_start_24": "11:05:00",
-    "Exposure_time_end_24": "11:45:00",
-    "dhid": "C4L3",
-    "latitude": -36.775559,
-    "longitude": 144.271417
-  },
-  {
     "_id": 306,
     "Suburb": "Roxburgh Park",
     "Site_title": "Roxburgh Village Shopping Centre",
@@ -6656,6 +6590,50 @@
     "dhid": "A5H5",
     "latitude": -36.755781,
     "longitude": 144.266098
+  },
+  {
+    "_id": 313,
+    "Suburb": "Ironbark",
+    "Site_title": "Fruit Shack Ironbark",
+    "Site_streetaddress": "46 Eaglehawk Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3550",
+    "Exposure_date_dtm": "2021-09-23",
+    "Exposure_date": "23/09/2021",
+    "Exposure_time": "10:25am - 11:15am",
+    "Notes": "Case attended venue",
+    "Added_date_dtm": "2021-09-29",
+    "Added_date": "29/09/2021",
+    "Added_time": "12:15:00",
+    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
+    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
+    "Exposure_time_start_24": "10:25:00",
+    "Exposure_time_end_24": "11:15:00",
+    "dhid": "A6W6",
+    "latitude": -36.755577,
+    "longitude": 144.264749
+  },
+  {
+    "_id": 314,
+    "Suburb": "Golden Square",
+    "Site_title": "Waugh's Industrial supplies Bendigo",
+    "Site_streetaddress": "2F Thistle Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3555",
+    "Exposure_date_dtm": "2021-09-23",
+    "Exposure_date": "23/09/2021",
+    "Exposure_time": "11:05am - 11:45am",
+    "Notes": "Case attended venue",
+    "Added_date_dtm": "2021-09-29",
+    "Added_date": "29/09/2021",
+    "Added_time": "12:15:00",
+    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
+    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
+    "Exposure_time_start_24": "11:05:00",
+    "Exposure_time_end_24": "11:45:00",
+    "dhid": "C4L3",
+    "latitude": -36.775559,
+    "longitude": 144.271417
   },
   {
     "_id": 315,
@@ -6900,6 +6878,28 @@
     "longitude": 145.0693094
   },
   {
+    "_id": 332,
+    "Suburb": "Shepparton",
+    "Site_title": "Shepparton Marketplace",
+    "Site_streetaddress": "110 Benalla Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3630",
+    "Exposure_date_dtm": "2021-09-25",
+    "Exposure_date": "25/09/2021",
+    "Exposure_time": "9:00am - 4:00pm",
+    "Notes": "Case attended venue",
+    "Added_date_dtm": "2021-09-29",
+    "Added_date": "29/09/2021",
+    "Added_time": "11:00:00",
+    "Advice_title": "Tier 3 - Monitor for symptoms",
+    "Advice_instruction": "Anyone who has visited this location during these times should monitor for symptoms - If symptoms develop, immediately get tested and isolate until you receive a negative result.",
+    "Exposure_time_start_24": "09:00:00",
+    "Exposure_time_end_24": "16:00:00",
+    "dhid": "A2F6",
+    "latitude": -36.386532,
+    "longitude": 145.424029
+  },
+  {
     "_id": 326,
     "Suburb": "Bundoora",
     "Site_title": "We Meat Again - Uni Hill Centre",
@@ -7032,50 +7032,6 @@
     "longitude": 145.424029
   },
   {
-    "_id": 332,
-    "Suburb": "Shepparton",
-    "Site_title": "Shepparton Marketplace",
-    "Site_streetaddress": "110 Benalla Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3630",
-    "Exposure_date_dtm": "2021-09-25",
-    "Exposure_date": "25/09/2021",
-    "Exposure_time": "9:00am - 4:00pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-09-29",
-    "Added_date": "29/09/2021",
-    "Added_time": "11:00:00",
-    "Advice_title": "Tier 3 - Monitor for symptoms",
-    "Advice_instruction": "Anyone who has visited this location during these times should monitor for symptoms - If symptoms develop, immediately get tested and isolate until you receive a negative result.",
-    "Exposure_time_start_24": "09:00:00",
-    "Exposure_time_end_24": "16:00:00",
-    "dhid": "A2F6",
-    "latitude": -36.386532,
-    "longitude": 145.424029
-  },
-  {
-    "_id": 345,
-    "Suburb": "Ballan",
-    "Site_title": "IGA Ballan",
-    "Site_streetaddress": "135 Inglis Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3342",
-    "Exposure_date_dtm": "2021-09-27",
-    "Exposure_date": "27/09/2021",
-    "Exposure_time": "10:50am - 11:40am",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-09-28",
-    "Added_date": "28/09/2021",
-    "Added_time": "22:08:00",
-    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
-    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
-    "Exposure_time_start_24": "10:50:00",
-    "Exposure_time_end_24": "11:40:00",
-    "dhid": "C7N3",
-    "latitude": -37.6004443,
-    "longitude": 144.2227629
-  },
-  {
     "_id": 333,
     "Suburb": "Epping",
     "Site_title": "Yes Optus - Epping Plaza Shopping Centre",
@@ -7186,26 +7142,26 @@
     "longitude": 145.421757
   },
   {
-    "_id": 346,
-    "Suburb": "Werribee",
-    "Site_title": "Bunnings Werribee",
-    "Site_streetaddress": "55 Cherry Street",
+    "_id": 345,
+    "Suburb": "Ballan",
+    "Site_title": "IGA Ballan",
+    "Site_streetaddress": "135 Inglis Street",
     "Site_state": "VIC",
-    "Site_postcode": "3030",
-    "Exposure_date_dtm": "2021-09-22",
-    "Exposure_date": "22/09/2021",
-    "Exposure_time": "12:02pm - 1:15pm",
+    "Site_postcode": "3342",
+    "Exposure_date_dtm": "2021-09-27",
+    "Exposure_date": "27/09/2021",
+    "Exposure_time": "10:50am - 11:40am",
     "Notes": "Case attended venue",
     "Added_date_dtm": "2021-09-28",
     "Added_date": "28/09/2021",
     "Added_time": "22:08:00",
     "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
     "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
-    "Exposure_time_start_24": "12:02:00",
-    "Exposure_time_end_24": "13:15:00",
-    "dhid": "D8U8",
-    "latitude": -37.899084,
-    "longitude": 144.663821
+    "Exposure_time_start_24": "10:50:00",
+    "Exposure_time_end_24": "11:40:00",
+    "dhid": "C7N3",
+    "latitude": -37.6004443,
+    "longitude": 144.2227629
   },
   {
     "_id": 338,
@@ -7362,6 +7318,28 @@
     "longitude": 144.2227629
   },
   {
+    "_id": 346,
+    "Suburb": "Werribee",
+    "Site_title": "Bunnings Werribee",
+    "Site_streetaddress": "55 Cherry Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3030",
+    "Exposure_date_dtm": "2021-09-22",
+    "Exposure_date": "22/09/2021",
+    "Exposure_time": "12:02pm - 1:15pm",
+    "Notes": "Case attended venue",
+    "Added_date_dtm": "2021-09-28",
+    "Added_date": "28/09/2021",
+    "Added_time": "22:08:00",
+    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
+    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
+    "Exposure_time_start_24": "12:02:00",
+    "Exposure_time_end_24": "13:15:00",
+    "dhid": "D8U8",
+    "latitude": -37.899084,
+    "longitude": 144.663821
+  },
+  {
     "_id": 347,
     "Suburb": "Epping",
     "Site_title": "Sacca's Fine Foods - Pacific Epping Shopping Centre",
@@ -7472,29 +7450,7 @@
     "longitude": 146.5386517
   },
   {
-    "_id": 352,
-    "Suburb": "Traralgon",
-    "Site_title": "Repco Traralgon",
-    "Site_streetaddress": "19-17 Princes Highway",
-    "Site_state": "VIC",
-    "Site_postcode": "3844",
-    "Exposure_date_dtm": "2021-09-24",
-    "Exposure_date": "24/09/2021",
-    "Exposure_time": "8:00am - 5:30pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-09-28",
-    "Added_date": "28/09/2021",
-    "Added_time": "20:30:00",
-    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
-    "Exposure_time_start_24": "08:00:00",
-    "Exposure_time_end_24": "17:30:00",
-    "dhid": "C3Q6",
-    "latitude": -38.1978366,
-    "longitude": 146.5386517
-  },
-  {
-    "_id": 359,
+    "_id": 358,
     "Suburb": "Shepparton",
     "Site_title": "Chemist Warehouse Shepparton",
     "Site_streetaddress": "425-429 Wyndham Street",
@@ -7516,7 +7472,7 @@
     "longitude": 145.399036
   },
   {
-    "_id": 353,
+    "_id": 352,
     "Suburb": "Coolaroo",
     "Site_title": "Bushfield Crescent Fish and Chips",
     "Site_streetaddress": "74 Bushfield Crescent",
@@ -7538,7 +7494,7 @@
     "longitude": 144.929318
   },
   {
-    "_id": 354,
+    "_id": 353,
     "Suburb": "Shepparton",
     "Site_title": "Male Staff Toilet - Shepparton Marketplace",
     "Site_streetaddress": "110 Benalla Road",
@@ -7560,7 +7516,7 @@
     "longitude": 145.424029
   },
   {
-    "_id": 355,
+    "_id": 354,
     "Suburb": "Shepparton",
     "Site_title": "Male Staff Toilet - Shepparton Marketplace",
     "Site_streetaddress": "110 Benalla Road",
@@ -7582,7 +7538,7 @@
     "longitude": 145.424029
   },
   {
-    "_id": 356,
+    "_id": 355,
     "Suburb": "Shepparton",
     "Site_title": "Male Staff Toilet - Shepparton Marketplace",
     "Site_streetaddress": "110 Benalla Road",
@@ -7604,7 +7560,7 @@
     "longitude": 145.424029
   },
   {
-    "_id": 357,
+    "_id": 356,
     "Suburb": "Shepparton",
     "Site_title": "Male Staff Toilet - Shepparton Marketplace",
     "Site_streetaddress": "110 Benalla Road",
@@ -7626,7 +7582,7 @@
     "longitude": 145.424029
   },
   {
-    "_id": 358,
+    "_id": 357,
     "Suburb": "Shepparton",
     "Site_title": "Big W - Shepparton Marketplace",
     "Site_streetaddress": "110 Benalla Road",
@@ -7648,7 +7604,7 @@
     "longitude": 145.424029
   },
   {
-    "_id": 360,
+    "_id": 359,
     "Suburb": "Shepparton",
     "Site_title": "Ryan's Fruit and Veg",
     "Site_streetaddress": "298 High Street",
@@ -7670,7 +7626,7 @@
     "longitude": 145.410777
   },
   {
-    "_id": 362,
+    "_id": 361,
     "Suburb": "Traralgon",
     "Site_title": "Bunnings Traralgon",
     "Site_streetaddress": "191-193 Argyle Street",
@@ -7692,7 +7648,7 @@
     "longitude": 146.5584824
   },
   {
-    "_id": 363,
+    "_id": 362,
     "Suburb": "Traralgon",
     "Site_title": "Woolworths Traralgon",
     "Site_streetaddress": "Seymour Street",
@@ -7714,7 +7670,7 @@
     "longitude": 146.5317429
   },
   {
-    "_id": 364,
+    "_id": 363,
     "Suburb": "Bayswater North",
     "Site_title": "Community Kids Bayswater Early Education Centre",
     "Site_streetaddress": "291 Canterbury Road",
@@ -7736,7 +7692,7 @@
     "longitude": 145.270438
   },
   {
-    "_id": 365,
+    "_id": 364,
     "Suburb": "Melbourne",
     "Site_title": "Centre for Adult Education",
     "Site_streetaddress": "21 Degraves Street",
@@ -7758,7 +7714,7 @@
     "longitude": 144.965626
   },
   {
-    "_id": 366,
+    "_id": 365,
     "Suburb": "Ascot Vale",
     "Site_title": "Nido Early School Ascot Vale",
     "Site_streetaddress": "Level 1/199-203 Union Road",
@@ -7780,7 +7736,7 @@
     "longitude": 144.915731
   },
   {
-    "_id": 367,
+    "_id": 366,
     "Suburb": "Ascot Vale",
     "Site_title": "Nido Early School Ascot Vale",
     "Site_streetaddress": "Level 1/199-203 Union Road",
@@ -7802,7 +7758,7 @@
     "longitude": 144.915731
   },
   {
-    "_id": 368,
+    "_id": 367,
     "Suburb": "Sunbury",
     "Site_title": "Gumboots Early Learning Jacksons Hill",
     "Site_streetaddress": "81 Belleview Drive",
@@ -7824,7 +7780,7 @@
     "longitude": 144.723798
   },
   {
-    "_id": 369,
+    "_id": 368,
     "Suburb": "Melbourne",
     "Site_title": "Centre for Adult Education",
     "Site_streetaddress": "253 Flinders Lane",
@@ -7846,7 +7802,7 @@
     "longitude": 144.965841
   },
   {
-    "_id": 370,
+    "_id": 369,
     "Suburb": "Craigieburn",
     "Site_title": "Woolworths Craigieburn Highlands",
     "Site_streetaddress": "300 Grand Boulevard",
@@ -7868,7 +7824,7 @@
     "longitude": 144.919948
   },
   {
-    "_id": 371,
+    "_id": 370,
     "Suburb": "Craigieburn",
     "Site_title": "Woolworths Craigieburn Highlands",
     "Site_streetaddress": "300 Grand Boulevard",
@@ -7890,7 +7846,7 @@
     "longitude": 144.919948
   },
   {
-    "_id": 372,
+    "_id": 371,
     "Suburb": "Kerang",
     "Site_title": "Woolworths Kerang",
     "Site_streetaddress": "12 Nolan Street",
@@ -7912,7 +7868,7 @@
     "longitude": 143.917156
   },
   {
-    "_id": 373,
+    "_id": 372,
     "Suburb": "Craigieburn",
     "Site_title": "Woolworths Craigieburn Central",
     "Site_streetaddress": "Craigieburn Road and Aitken Boulevard",
@@ -7934,7 +7890,7 @@
     "longitude": 144.912764
   },
   {
-    "_id": 374,
+    "_id": 373,
     "Suburb": "Craigieburn",
     "Site_title": "Woolworths Craigieburn Central",
     "Site_streetaddress": "Craigieburn Road and Aitken Boulevard",
@@ -7956,7 +7912,7 @@
     "longitude": 144.912764
   },
   {
-    "_id": 375,
+    "_id": 374,
     "Suburb": "Officer",
     "Site_title": "KFC Officer",
     "Site_streetaddress": "1 Damon Street",
@@ -7978,7 +7934,7 @@
     "longitude": 145.435982
   },
   {
-    "_id": 376,
+    "_id": 375,
     "Suburb": "Pakenham",
     "Site_title": "Bunnings East Pakenham",
     "Site_streetaddress": "56-58 Bald Hill Road",
@@ -8000,7 +7956,7 @@
     "longitude": 145.491445
   },
   {
-    "_id": 377,
+    "_id": 376,
     "Suburb": "Pakenham",
     "Site_title": "Bunnings East Pakenham",
     "Site_streetaddress": "56-58 Bald Hill Road",
@@ -8022,7 +7978,7 @@
     "longitude": 145.491445
   },
   {
-    "_id": 384,
+    "_id": 383,
     "Suburb": "Bayswater North",
     "Site_title": "Community Kids Bayswater Early Education Centre",
     "Site_streetaddress": "291 Canterbury Road",
@@ -8044,7 +8000,7 @@
     "longitude": 145.270438
   },
   {
-    "_id": 378,
+    "_id": 377,
     "Suburb": "Caroline Springs",
     "Site_title": "Slices Family Restaurant",
     "Site_streetaddress": "2 Lake Street",
@@ -8066,7 +8022,7 @@
     "longitude": 144.741654
   },
   {
-    "_id": 379,
+    "_id": 378,
     "Suburb": "Airport West",
     "Site_title": "Sacca's Fine Foods",
     "Site_streetaddress": "29-35 Louis Street",
@@ -8088,7 +8044,7 @@
     "longitude": 144.8847997
   },
   {
-    "_id": 380,
+    "_id": 379,
     "Suburb": "Warragul",
     "Site_title": "Bunnings Warehouse Warragul",
     "Site_streetaddress": "Corner of Queen Street and Hazel Drive",
@@ -8110,7 +8066,7 @@
     "longitude": 145.9503551
   },
   {
-    "_id": 381,
+    "_id": 380,
     "Suburb": "Keilor",
     "Site_title": "Goodstart Early Learning Keilor Village",
     "Site_streetaddress": "36 Kennedy Street",
@@ -8132,7 +8088,7 @@
     "longitude": 144.836046
   },
   {
-    "_id": 382,
+    "_id": 381,
     "Suburb": "Moonee Ponds",
     "Site_title": "Godfrey's Butcher - Moonee Ponds Central Shopping Centre",
     "Site_streetaddress": "20 Homer Street",
@@ -8154,7 +8110,7 @@
     "longitude": 144.920776
   },
   {
-    "_id": 383,
+    "_id": 382,
     "Suburb": "Moonee Ponds",
     "Site_title": "Godfrey's Butcher - Moonee Ponds Central Shopping Centre",
     "Site_streetaddress": "20 Homer Street",
@@ -8176,7 +8132,7 @@
     "longitude": 144.920776
   },
   {
-    "_id": 385,
+    "_id": 384,
     "Suburb": "Drouin",
     "Site_title": "Woolworths Drouin",
     "Site_streetaddress": "72-100 Young Street",
@@ -8198,7 +8154,7 @@
     "longitude": 145.8556184
   },
   {
-    "_id": 386,
+    "_id": 385,
     "Suburb": "Morwell",
     "Site_title": "Coles Morwell",
     "Site_streetaddress": "82 George Street",
@@ -8220,7 +8176,7 @@
     "longitude": 146.398361
   },
   {
-    "_id": 387,
+    "_id": 386,
     "Suburb": "Moe",
     "Site_title": "Coles Moe",
     "Site_streetaddress": "92 Albert Street",
@@ -8242,7 +8198,7 @@
     "longitude": 146.259512
   },
   {
-    "_id": 388,
+    "_id": 387,
     "Suburb": "Kilmore",
     "Site_title": "Kilmore Bakery",
     "Site_streetaddress": "54 Sydney Street",
@@ -8264,7 +8220,7 @@
     "longitude": 144.951241
   },
   {
-    "_id": 389,
+    "_id": 388,
     "Suburb": "Geelong",
     "Site_title": "Australian Clinical Labs Pathology",
     "Site_streetaddress": "73-79 Little Ryrie Street",
@@ -8286,7 +8242,7 @@
     "longitude": 144.362667
   },
   {
-    "_id": 390,
+    "_id": 389,
     "Suburb": "Geelong",
     "Site_title": "Ultrasound Centre For Women",
     "Site_streetaddress": "Suite 1, Level 3/73 Little Ryrie Street",
@@ -8308,7 +8264,7 @@
     "longitude": 144.360615
   },
   {
-    "_id": 416,
+    "_id": 415,
     "Suburb": "Norlane",
     "Site_title": "Bunnings North Geelong",
     "Site_streetaddress": "5-19 Princes Highway",
@@ -8330,7 +8286,7 @@
     "longitude": 144.35488
   },
   {
-    "_id": 391,
+    "_id": 390,
     "Suburb": "Brunswick West",
     "Site_title": "Albion Pizza",
     "Site_streetaddress": "488 Albion Street",
@@ -8352,7 +8308,7 @@
     "longitude": 144.939993
   },
   {
-    "_id": 392,
+    "_id": 391,
     "Suburb": "Morwell",
     "Site_title": "Montague Pharmacy",
     "Site_streetaddress": "19 Rintoull Street",
@@ -8374,7 +8330,7 @@
     "longitude": 146.414487
   },
   {
-    "_id": 393,
+    "_id": 392,
     "Suburb": "Bakery Hill",
     "Site_title": "Table 48",
     "Site_streetaddress": "48 Humffray Street North",
@@ -8396,7 +8352,7 @@
     "longitude": 143.866323
   },
   {
-    "_id": 394,
+    "_id": 393,
     "Suburb": "Ballarat",
     "Site_title": "Officeworks",
     "Site_streetaddress": "116 Creswick Road",
@@ -8418,7 +8374,7 @@
     "longitude": 143.8525159
   },
   {
-    "_id": 395,
+    "_id": 394,
     "Suburb": "Geelong",
     "Site_title": "Bendigo Bank",
     "Site_streetaddress": "Corner Pakington Street and Aberdeen Street",
@@ -8440,7 +8396,7 @@
     "longitude": 144.3457591
   },
   {
-    "_id": 396,
+    "_id": 395,
     "Suburb": "Kilmore",
     "Site_title": "Woolworths Kilmore",
     "Site_streetaddress": "Shop 1, Kilmore Village Shopping Centre, 109 Northern Highway",
@@ -8462,7 +8418,7 @@
     "longitude": 144.9462668
   },
   {
-    "_id": 397,
+    "_id": 396,
     "Suburb": "Kilmore",
     "Site_title": "Woolworths Kilmore",
     "Site_streetaddress": "Shop 1, Kilmore Village Shopping Centre, 109 Northern Highway",
@@ -8484,7 +8440,7 @@
     "longitude": 144.9462668
   },
   {
-    "_id": 398,
+    "_id": 397,
     "Suburb": "Fairfield",
     "Site_title": "Pasta Poetry, Fairfield",
     "Site_streetaddress": "86 Station Street",
@@ -8506,7 +8462,7 @@
     "longitude": 145.017989
   },
   {
-    "_id": 399,
+    "_id": 398,
     "Suburb": "Fairfield",
     "Site_title": "Pasta Poetry, Fairfield",
     "Site_streetaddress": "86 Station Street",
@@ -8528,7 +8484,7 @@
     "longitude": 145.017989
   },
   {
-    "_id": 400,
+    "_id": 399,
     "Suburb": "Wodonga",
     "Site_title": "Woolworths Wodonga Central",
     "Site_streetaddress": "Elgin Blvd & Hume Street",
@@ -8550,7 +8506,7 @@
     "longitude": 146.8853748
   },
   {
-    "_id": 401,
+    "_id": 400,
     "Suburb": "Wodonga",
     "Site_title": "Rivers Wodonga Plaza",
     "Site_streetaddress": "51-71 Elgin Boulevard",
@@ -8572,7 +8528,7 @@
     "longitude": 146.8819051
   },
   {
-    "_id": 402,
+    "_id": 401,
     "Suburb": "Wodonga",
     "Site_title": "Wodonga Plaza",
     "Site_streetaddress": "71 Elgin Boulevard",
@@ -8594,7 +8550,7 @@
     "longitude": 146.883315
   },
   {
-    "_id": 403,
+    "_id": 402,
     "Suburb": "Norlane",
     "Site_title": "Woolworths Bell Post Hill Shopping Centre",
     "Site_streetaddress": "290-306 Anakie Road",
@@ -8616,7 +8572,7 @@
     "longitude": 144.335814
   },
   {
-    "_id": 404,
+    "_id": 403,
     "Suburb": "Norlane",
     "Site_title": "Woolworths Bell Post Hill Shopping Centre",
     "Site_streetaddress": "290-306 Anakie Road",
@@ -8638,7 +8594,7 @@
     "longitude": 144.335814
   },
   {
-    "_id": 405,
+    "_id": 404,
     "Suburb": "Campbellfield",
     "Site_title": "Peters Pure Animal Foods",
     "Site_streetaddress": "49-53 Capital Link Drive",
@@ -8660,7 +8616,7 @@
     "longitude": 144.9592047
   },
   {
-    "_id": 406,
+    "_id": 405,
     "Suburb": "Alfredton",
     "Site_title": "Arch View Cafe",
     "Site_streetaddress": "1728 Sturt Street",
@@ -8682,7 +8638,7 @@
     "longitude": 143.812986
   },
   {
-    "_id": 407,
+    "_id": 406,
     "Suburb": "Alfredton",
     "Site_title": "Arch View Cafe",
     "Site_streetaddress": "1728 Sturt Street",
@@ -8704,7 +8660,7 @@
     "longitude": 143.812986
   },
   {
-    "_id": 408,
+    "_id": 407,
     "Suburb": "Alfredton",
     "Site_title": "Arch View Cafe",
     "Site_streetaddress": "1728 Sturt Street",
@@ -8726,7 +8682,7 @@
     "longitude": 143.812986
   },
   {
-    "_id": 417,
+    "_id": 416,
     "Suburb": "Corio",
     "Site_title": "Australia Post - Corio Village Shopping Centre",
     "Site_streetaddress": "83 Purnell Road",
@@ -8748,7 +8704,7 @@
     "longitude": 144.355496
   },
   {
-    "_id": 409,
+    "_id": 408,
     "Suburb": "Alfredton",
     "Site_title": "Arch View Cafe",
     "Site_streetaddress": "1728 Sturt Street",
@@ -8770,7 +8726,7 @@
     "longitude": 143.812986
   },
   {
-    "_id": 410,
+    "_id": 409,
     "Suburb": "Epsom",
     "Site_title": "BP Epsom",
     "Site_streetaddress": "Midland Highway",
@@ -8792,7 +8748,7 @@
     "longitude": 144.311506
   },
   {
-    "_id": 411,
+    "_id": 410,
     "Suburb": "White Hills",
     "Site_title": "White Hills Fish Shop",
     "Site_streetaddress": "539 Napier Street",
@@ -8814,7 +8770,7 @@
     "longitude": 144.308935
   },
   {
-    "_id": 412,
+    "_id": 411,
     "Suburb": "Lara",
     "Site_title": "APCO Service Station Lara",
     "Site_streetaddress": "5 Mill Road",
@@ -8836,7 +8792,7 @@
     "longitude": 144.418659
   },
   {
-    "_id": 413,
+    "_id": 412,
     "Suburb": "Lara",
     "Site_title": "Xpresso Lounge Cafe",
     "Site_streetaddress": "43 The Centreway ",
@@ -8858,7 +8814,7 @@
     "longitude": 144.408197
   },
   {
-    "_id": 414,
+    "_id": 413,
     "Suburb": "Goornong",
     "Site_title": "Construction Site",
     "Site_streetaddress": "Mulcairs Lane Railway Crossing",
@@ -8880,7 +8836,7 @@
     "longitude": 144.5026342
   },
   {
-    "_id": 415,
+    "_id": 414,
     "Suburb": "Goornong",
     "Site_title": "Construction Site",
     "Site_streetaddress": "Mulcairs Lane Railway Crossing",
@@ -8902,7 +8858,7 @@
     "longitude": 144.5026342
   },
   {
-    "_id": 418,
+    "_id": 417,
     "Suburb": "Corio",
     "Site_title": "Coles - Corio Village Shopping Centre",
     "Site_streetaddress": "83 Purnell Road",
@@ -8924,7 +8880,7 @@
     "longitude": 144.355496
   },
   {
-    "_id": 419,
+    "_id": 418,
     "Suburb": "Norlane",
     "Site_title": "Bunnings North Geelong",
     "Site_streetaddress": "5-19 Princes Highway",
@@ -8946,7 +8902,7 @@
     "longitude": 144.35488
   },
   {
-    "_id": 420,
+    "_id": 419,
     "Suburb": "Grovedale",
     "Site_title": "National Tiles Grovedale",
     "Site_streetaddress": "3/174-178 Torquay Road",
@@ -8968,7 +8924,7 @@
     "longitude": 144.342408
   },
   {
-    "_id": 421,
+    "_id": 420,
     "Suburb": "Norlane",
     "Site_title": "Bunnings North Geelong",
     "Site_streetaddress": "5-19 Princes Highway",
@@ -8990,7 +8946,7 @@
     "longitude": 144.35488
   },
   {
-    "_id": 422,
+    "_id": 421,
     "Suburb": "Wodonga",
     "Site_title": "Mann Central Public Toilets",
     "Site_streetaddress": "1-13 South Street",
@@ -9012,7 +8968,7 @@
     "longitude": 146.888801
   },
   {
-    "_id": 423,
+    "_id": 422,
     "Suburb": "Bell Park",
     "Site_title": "The Cheesecake Shop North Geelong",
     "Site_streetaddress": "135 Separation Street",
@@ -9034,7 +8990,7 @@
     "longitude": 144.340353
   },
   {
-    "_id": 424,
+    "_id": 423,
     "Suburb": "Wodonga",
     "Site_title": "Woolworths Wodonga Central",
     "Site_streetaddress": "Elgin Boulevard & Hume Street",
@@ -9056,7 +9012,7 @@
     "longitude": 146.8846213
   },
   {
-    "_id": 425,
+    "_id": 424,
     "Suburb": "Wodonga",
     "Site_title": "Kmart - Mann Central",
     "Site_streetaddress": "M2/1-13 South Street",
@@ -9078,7 +9034,7 @@
     "longitude": 146.8881254
   },
   {
-    "_id": 426,
+    "_id": 425,
     "Suburb": "Wodonga",
     "Site_title": "Kmart - Mann Central",
     "Site_streetaddress": "M2/1-13 South Street",
@@ -9100,7 +9056,7 @@
     "longitude": 146.8881254
   },
   {
-    "_id": 427,
+    "_id": 426,
     "Suburb": "Wodonga",
     "Site_title": "Woolworths Wodonga Central",
     "Site_streetaddress": "Corner Elgin Boulevard & Hume Street",
@@ -9122,7 +9078,29 @@
     "longitude": 146.8855289
   },
   {
-    "_id": 429,
+    "_id": 427,
+    "Suburb": "Altona",
+    "Site_title": "Altona Early Years Hub",
+    "Site_streetaddress": "103B Grieve Parade",
+    "Site_state": "VIC",
+    "Site_postcode": "3018",
+    "Exposure_date_dtm": "2021-09-23",
+    "Exposure_date": "23/09/2021",
+    "Exposure_time": "8:30am - 5:30pm",
+    "Notes": "Case attended venue.",
+    "Added_date_dtm": "2021-09-25",
+    "Added_date": "25/09/2021",
+    "Added_time": "16:13:58",
+    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
+    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
+    "Exposure_time_start_24": "08:30:00",
+    "Exposure_time_end_24": "17:30:00",
+    "dhid": "B9D2",
+    "latitude": -37.86167,
+    "longitude": 144.818626
+  },
+  {
+    "_id": 428,
     "Suburb": "Sunbury",
     "Site_title": "Kiddie Cove Early Learning Centre Sunbury",
     "Site_streetaddress": "Phillip Drive Carpark and Entrance on 2-4 Emma Court",
@@ -9144,7 +9122,7 @@
     "longitude": 144.6938966
   },
   {
-    "_id": 430,
+    "_id": 429,
     "Suburb": "Wodonga",
     "Site_title": "Ally Fashion - Wodonga Plaza",
     "Site_streetaddress": "71 Elgin Boulevard",
@@ -9166,7 +9144,7 @@
     "longitude": 146.883315
   },
   {
-    "_id": 431,
+    "_id": 430,
     "Suburb": "Wodonga",
     "Site_title": "Chemist Warehouse - Wodonga Plaza",
     "Site_streetaddress": "71 Elgin Boulevard",
@@ -9188,7 +9166,7 @@
     "longitude": 146.883315
   },
   {
-    "_id": 432,
+    "_id": 431,
     "Suburb": "Wodonga",
     "Site_title": "Coles - Mann Central",
     "Site_streetaddress": "1-13 South Street",
@@ -9210,7 +9188,7 @@
     "longitude": 146.888801
   },
   {
-    "_id": 433,
+    "_id": 432,
     "Suburb": "Wodonga",
     "Site_title": "Coles - Mann Central",
     "Site_streetaddress": "1-13 South Street",
@@ -9232,7 +9210,7 @@
     "longitude": 146.888801
   },
   {
-    "_id": 434,
+    "_id": 433,
     "Suburb": "Wodonga",
     "Site_title": "Target - Wodonga Plaza",
     "Site_streetaddress": "71 Elgin Boulevard",
@@ -9254,7 +9232,7 @@
     "longitude": 146.883315
   },
   {
-    "_id": 435,
+    "_id": 434,
     "Suburb": "Wodonga",
     "Site_title": "Coles - Wodonga Plaza",
     "Site_streetaddress": "71 Elgin Boulevard",
@@ -9276,7 +9254,7 @@
     "longitude": 146.883315
   },
   {
-    "_id": 436,
+    "_id": 435,
     "Suburb": "Wodonga",
     "Site_title": "Rivers - Wodonga Plaza",
     "Site_streetaddress": "71 Elgin Boulevard",
@@ -9298,7 +9276,7 @@
     "longitude": 146.883315
   },
   {
-    "_id": 437,
+    "_id": 436,
     "Suburb": "Wodonga",
     "Site_title": "Cotton On - Wodonga Plaza",
     "Site_streetaddress": "71 Elgin Boulevard",
@@ -9320,7 +9298,7 @@
     "longitude": 146.883315
   },
   {
-    "_id": 438,
+    "_id": 437,
     "Suburb": "Hampton Park",
     "Site_title": "123KIDS Early Learning Centre",
     "Site_streetaddress": "107-113 Hallam Road ",
@@ -9342,7 +9320,7 @@
     "longitude": 145.266535
   },
   {
-    "_id": 439,
+    "_id": 438,
     "Suburb": "Hampton Park",
     "Site_title": "123KIDS Early Learning Centre",
     "Site_streetaddress": "107-113 Hallam Road ",
@@ -9364,7 +9342,7 @@
     "longitude": 145.266535
   },
   {
-    "_id": 440,
+    "_id": 439,
     "Suburb": "Wodonga",
     "Site_title": "Mann Central",
     "Site_streetaddress": "1-13 South Street",
@@ -9386,7 +9364,7 @@
     "longitude": 146.888801
   },
   {
-    "_id": 441,
+    "_id": 440,
     "Suburb": "Wodonga",
     "Site_title": "Wodonga Plaza",
     "Site_streetaddress": "71 Elgin Boulevard",
@@ -9408,7 +9386,7 @@
     "longitude": 146.883315
   },
   {
-    "_id": 442,
+    "_id": 441,
     "Suburb": "Wodonga",
     "Site_title": "Motel 24 Wodonga",
     "Site_streetaddress": "13 High Street",
@@ -9430,7 +9408,7 @@
     "longitude": 146.891839
   },
   {
-    "_id": 443,
+    "_id": 442,
     "Suburb": "Wodonga",
     "Site_title": "Motel 24 Wodonga",
     "Site_streetaddress": "13 High Street",
@@ -9452,7 +9430,7 @@
     "longitude": 146.891839
   },
   {
-    "_id": 444,
+    "_id": 443,
     "Suburb": "Wodonga",
     "Site_title": "Motel 24 Wodonga",
     "Site_streetaddress": "13 High Street",
@@ -9474,7 +9452,7 @@
     "longitude": 146.891839
   },
   {
-    "_id": 445,
+    "_id": 444,
     "Suburb": "Bendigo",
     "Site_title": "Dan Murphy's Bendigo",
     "Site_streetaddress": "21-35 Garsed Street",
@@ -9496,7 +9474,7 @@
     "longitude": 144.281117
   },
   {
-    "_id": 446,
+    "_id": 445,
     "Suburb": "Geelong",
     "Site_title": "Chemist Warehouse Geelong",
     "Site_streetaddress": "179-181 Little Malop Street",
@@ -9518,7 +9496,7 @@
     "longitude": 144.364342
   },
   {
-    "_id": 447,
+    "_id": 446,
     "Suburb": "Norlane",
     "Site_title": "Woolworths Bell Post - Bell Post Hill Shopping Centre",
     "Site_streetaddress": "290-306 Anakie Road",
@@ -9540,7 +9518,7 @@
     "longitude": 144.335814
   },
   {
-    "_id": 448,
+    "_id": 447,
     "Suburb": "Geelong West",
     "Site_title": "Bottles and Barrels",
     "Site_streetaddress": "132 Arberdeen Street",
@@ -9562,7 +9540,7 @@
     "longitude": 144.3391891
   },
   {
-    "_id": 449,
+    "_id": 448,
     "Suburb": "Corio",
     "Site_title": "Watan Supermarket and Halal Butcher",
     "Site_streetaddress": "83C Purnell Road",
@@ -9584,7 +9562,7 @@
     "longitude": 144.355496
   },
   {
-    "_id": 450,
+    "_id": 449,
     "Suburb": "Corio",
     "Site_title": "Doustan Supermarket & Halal Butchery",
     "Site_streetaddress": "13 Detroit Crescent",
@@ -9606,7 +9584,7 @@
     "longitude": 144.361882
   },
   {
-    "_id": 451,
+    "_id": 450,
     "Suburb": "Bell Park",
     "Site_title": "ALDI - Bell Park",
     "Site_streetaddress": "9/222 Anakie Road",
@@ -9628,7 +9606,7 @@
     "longitude": 144.334395
   },
   {
-    "_id": 452,
+    "_id": 451,
     "Suburb": "Corio",
     "Site_title": "Watan Supermarket and Halal Butcher",
     "Site_streetaddress": "83C Purnell Road",
@@ -9650,7 +9628,7 @@
     "longitude": 144.355496
   },
   {
-    "_id": 453,
+    "_id": 452,
     "Suburb": "Bell Park",
     "Site_title": "Corner Exchange Lotto",
     "Site_streetaddress": "139 Separation Street",
@@ -9672,7 +9650,7 @@
     "longitude": 144.340211
   },
   {
-    "_id": 454,
+    "_id": 453,
     "Suburb": "Lara",
     "Site_title": "Coles - Lara Village Shopping Centre",
     "Site_streetaddress": "2-4 Waverly Road",
@@ -9694,7 +9672,7 @@
     "longitude": 145.044577
   },
   {
-    "_id": 455,
+    "_id": 454,
     "Suburb": "Bendigo",
     "Site_title": "Quality Lakeside Hotel Bendigo",
     "Site_streetaddress": "286 Napier Street",
