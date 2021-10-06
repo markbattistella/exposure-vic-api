@@ -1189,6 +1189,16 @@
     "label": "201 Mair Street, Ballarat Central, VIC, Australia"
   },
   {
+    "Suburb": "Ballarat Central",
+    "Site_streetaddress": "321 Sturt Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3350",
+    "confidence": 1,
+    "latitude": -37.562022,
+    "longitude": 143.855212,
+    "label": "321 Sturt Street, Ballarat Central, VIC, Australia"
+  },
+  {
     "Suburb": "Balwyn",
     "Site_streetaddress": "1030-1050 Burke Road",
     "Site_state": "VIC",
@@ -3796,6 +3806,16 @@
     "confidence": 1,
     "latitude": -37.9538128,
     "longitude": 145.1213074
+  },
+  {
+    "Suburb": "Clyde",
+    "Site_streetaddress": "11 Oroya Grove",
+    "Site_state": "VIC",
+    "Site_postcode": "3978",
+    "confidence": 1,
+    "latitude": -38.132521,
+    "longitude": 145.327536,
+    "label": "11 Oroya Grove, Clyde, VIC, Australia"
   },
   {
     "Suburb": "Clyde North",
@@ -8532,6 +8552,16 @@
     "confidence": 1,
     "latitude": -36.8107576,
     "longitude": 144.2412552
+  },
+  {
+    "Suburb": "Kangaroo Flat",
+    "Site_streetaddress": "267 High Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3555",
+    "confidence": 1,
+    "latitude": -36.809616,
+    "longitude": 144.240877,
+    "label": "267 High Street, Kangaroo Flat, VIC, Australia"
   },
   {
     "Suburb": "Keilor",
@@ -16805,6 +16835,16 @@
     "latitude": -37.539037,
     "longitude": 143.823097,
     "label": "1322 Howitt Street, Wendouree, VIC, Australia"
+  },
+  {
+    "Suburb": "Wendouree",
+    "Site_streetaddress": "330 Gillies Street North",
+    "Site_state": "VIC",
+    "Site_postcode": "3355",
+    "confidence": 1,
+    "latitude": -37.534032,
+    "longitude": 143.823454,
+    "label": "330 Gillies Street North, Wendouree, VIC, Australia"
   },
   {
     "Suburb": "Werribbee",
