@@ -3693,6 +3693,16 @@
     "label": "119-121 Hawthorn Road, Caulfield North, VIC, Australia"
   },
   {
+    "Suburb": "Caulfield North",
+    "Site_streetaddress": "249 Glen Eira Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3161",
+    "confidence": 1,
+    "latitude": -37.878108,
+    "longitude": 145.008784,
+    "label": "249 Glen Eira Road, Caulfield North, VIC, Australia"
+  },
+  {
     "Suburb": "Chadstone",
     "Site_streetaddress": "1341 Dandenong Road",
     "Site_state": "VIC",
