@@ -2745,6 +2745,16 @@
     "longitude": 145.0693094
   },
   {
+    "Suburb": "Bundoora",
+    "Site_streetaddress": "39 Plenty Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3083",
+    "confidence": 1,
+    "latitude": -37.696497,
+    "longitude": 145.058403,
+    "label": "39 Plenty Road, Bundoora, VIC, Australia"
+  },
+  {
     "Suburb": "Burnley",
     "Site_streetaddress": "518 Bridge Road",
     "Site_state": "VIC",
@@ -16740,6 +16750,16 @@
     "confidence": 1,
     "latitude": -38.199201384,
     "longitude": 144.31892313
+  },
+  {
+    "Suburb": "Waurn Ponds",
+    "Site_streetaddress": "Corner of Colac & Pioneer Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3216",
+    "confidence": 0.8,
+    "latitude": -38.351489,
+    "longitude": 143.590203,
+    "label": "Colac Community Library and Learning Centre, Elliminyt, VIC, Australia"
   },
   {
     "Suburb": "Wendouree",
