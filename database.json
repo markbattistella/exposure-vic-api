@@ -3868,6 +3868,16 @@
     "label": "34 Thoroughbred Drive, Cranbourne East, VIC, Australia"
   },
   {
+    "Suburb": "Clyde North",
+    "Site_streetaddress": "35 Aayana Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3978",
+    "confidence": 1,
+    "latitude": -38.107634,
+    "longitude": 145.321482,
+    "label": "35 Aayana Street, Cranbourne East, VIC, Australia"
+  },
+  {
     "Suburb": "Cobblebank",
     "Site_streetaddress": "No 4/201 Ferris Road",
     "Site_state": "VIC",
@@ -10868,6 +10878,16 @@
     "latitude": -37.949099,
     "longitude": 145.072465,
     "label": "127-129 Keys Road, Moorabbin, VIC, Australia"
+  },
+  {
+    "Suburb": "Mooroolbark",
+    "Site_streetaddress": "101-103 Manchester Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3138",
+    "confidence": 1,
+    "latitude": -37.779935,
+    "longitude": 145.311762,
+    "label": "101-103 Manchester Road, Mooroolbark, VIC, Australia"
   },
   {
     "Suburb": "Mooroopna",
