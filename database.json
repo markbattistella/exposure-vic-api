@@ -4287,6 +4287,16 @@
     "label": "470 Smith Street, Collingwood, VIC, Australia"
   },
   {
+    "Suburb": "Collingwood",
+    "Site_streetaddress": "150 Oxford Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3066",
+    "confidence": 1,
+    "latitude": -37.803526,
+    "longitude": 144.985039,
+    "label": "150 Oxford Street, Collingwood, VIC, Australia"
+  },
+  {
     "Suburb": "Coolaroo",
     "Site_streetaddress": "1350 Pascoe Vale Road",
     "Site_state": "VIC",
@@ -12867,6 +12877,16 @@
     "label": "2540 Western Freeway, Rockbank, VIC, Australia"
   },
   {
+    "Suburb": "Rockbank",
+    "Site_streetaddress": "97/105 Westcott Parade",
+    "Site_state": "VIC",
+    "Site_postcode": "3335",
+    "confidence": 1,
+    "latitude": -37.732032,
+    "longitude": 144.662135,
+    "label": "97-105 Westcott Parade, Rockbank, VIC, Australia"
+  },
+  {
     "Suburb": "Romsey",
     "Site_streetaddress": "29-31 Corner Main Street & Gordon Cresent",
     "Site_state": "VIC",
@@ -15491,6 +15511,16 @@
     "confidence": 1,
     "latitude": -37.8411623,
     "longitude": 144.6727134
+  },
+  {
+    "Suburb": "Tarneit",
+    "Site_streetaddress": "642 Tarneit Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3029",
+    "confidence": 1,
+    "latitude": -37.85164,
+    "longitude": 144.668105,
+    "label": "642 Tarneit Road, Tarneit, VIC, Australia"
   },
   {
     "Suburb": "Tarneit ",
