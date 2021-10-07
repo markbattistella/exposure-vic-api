@@ -106,6 +106,16 @@
     "label": "3975, Lynbrook, VIC, Australia"
   },
   {
+    "Suburb": "Waurn Ponds",
+    "Site_streetaddress": "Corner of Colac & Pioneer Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3216",
+    "confidence": 0.8,
+    "latitude": -38.351489,
+    "longitude": 143.590203,
+    "label": "Colac Community Library and Learning Centre, Elliminyt, VIC, Australia"
+  },
+  {
     "Suburb": "Albion",
     "Site_streetaddress": "592 Ballarat Road",
     "Site_state": "VIC",
@@ -9231,16 +9241,6 @@
     "Site_postcode": "3350",
     "latitude": -37.557886,
     "longitude": 143.843827
-  },
-  {
-    "Suburb": "Waurn Ponds",
-    "Site_streetaddress": "Corner of Colac & Pioneer Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3216",
-    "confidence": 0.8,
-    "latitude": -38.351489,
-    "longitude": 143.590203,
-    "label": "Colac Community Library and Learning Centre, Elliminyt, VIC, Australia"
   },
   {
     "Suburb": "Lake Wendouree",
