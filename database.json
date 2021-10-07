@@ -9607,6 +9607,16 @@
     "longitude": 145.2539032
   },
   {
+    "Suburb": "Lynbrook",
+    "Site_streetaddress": "Lynbrook Village Shopping Centre, 10 Harris Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3975",
+    "confidence": 0.8,
+    "latitude": -38.061991,
+    "longitude": 145.253149,
+    "label": "3975, Lynbrook, VIC, Australia"
+  },
+  {
     "Suburb": "Macedon",
     "Site_streetaddress": "23 Victoria Street",
     "Site_state": "VIC",
@@ -10456,6 +10466,16 @@
     "longitude": 144.6016099
   },
   {
+    "Suburb": "Melton",
+    "Site_streetaddress": "7 Reserve Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3337",
+    "confidence": 1,
+    "latitude": -37.685752,
+    "longitude": 144.595974,
+    "label": "7 Reserve Road, Melton, VIC, Australia"
+  },
+  {
     "Suburb": "Mernda",
     "Site_streetaddress": "Mernda Village Drive & Galloway Drive",
     "Site_state": "VIC",
@@ -11191,6 +11211,16 @@
     "latitude": -38.067238,
     "longitude": 145.300074,
     "label": "Shop F115, 400 Narre Warren - Cranbourne Road, Narre Warren South, VIC, Australia"
+  },
+  {
+    "Suburb": "Narre Warren South",
+    "Site_streetaddress": "75 Shrives Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3805",
+    "confidence": 1,
+    "latitude": -38.031334,
+    "longitude": 145.289303,
+    "label": "75 Shrives Road, Narre Warren South, VIC, Australia"
   },
   {
     "Suburb": "Nathalia",
@@ -12471,6 +12501,16 @@
     "latitude": -37.743531,
     "longitude": 145.029579,
     "label": "85 Chifley Drive, Preston, VIC, Australia"
+  },
+  {
+    "Suburb": "Preston",
+    "Site_streetaddress": "59 Plenty Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3072",
+    "confidence": 1,
+    "latitude": -37.749543,
+    "longitude": 145.00331,
+    "label": "59 Plenty Road, Preston, VIC, Australia"
   },
   {
     "Suburb": "Preston South",
@@ -15026,6 +15066,16 @@
     "latitude": -37.582306,
     "longitude": 144.729478,
     "label": "107 Oshanassy Street, Sunbury, VIC, Australia"
+  },
+  {
+    "Suburb": "Sunbury",
+    "Site_streetaddress": "75 Phillip Drive",
+    "Site_state": "VIC",
+    "Site_postcode": "3429",
+    "confidence": 1,
+    "latitude": -37.563615,
+    "longitude": 144.703155,
+    "label": "75 Phillip Drive, Sunbury, VIC, Australia"
   },
   {
     "Suburb": "Sunshine",
