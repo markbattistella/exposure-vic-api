@@ -96,6 +96,16 @@
     "longitude": 144.8847997
   },
   {
+    "Suburb": "Airport West",
+    "Site_streetaddress": "64 Parer Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3042",
+    "confidence": 1,
+    "latitude": -37.719778,
+    "longitude": 144.88618,
+    "label": "58-64 Parer Road, Airport West, VIC, Australia"
+  },
+  {
     "Suburb": "Lynbrook",
     "Site_streetaddress": "Lynbrook Village Shopping Centre, 10 Harris Street",
     "Site_state": "VIC",
@@ -4257,6 +4267,16 @@
     "longitude": 143.579259
   },
   {
+    "Suburb": "Colac West",
+    "Site_streetaddress": "408 Princes Highway",
+    "Site_state": "VIC",
+    "Site_postcode": "3250",
+    "confidence": 1,
+    "latitude": -38.334485,
+    "longitude": 143.546348,
+    "label": "408 Princes Highway, Colac West, VIC, Australia"
+  },
+  {
     "Suburb": "Collingwood",
     "Site_streetaddress": "172 Smith Street",
     "Site_state": "VIC",
@@ -5741,6 +5761,16 @@
     "longitude": 145.8556184
   },
   {
+    "Suburb": "Drouin",
+    "Site_streetaddress": "School Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3818",
+    "confidence": 0.3,
+    "latitude": -37.014348,
+    "longitude": 143.480452,
+    "label": "Victoria, Australia"
+  },
+  {
     "Suburb": "Drysdale",
     "Site_streetaddress": "1/7 Palmerston Street",
     "Site_state": "VIC",
@@ -5805,6 +5835,12 @@
     "latitude": -36.746848,
     "longitude": 144.306395,
     "label": "88 - 94 Strickland Road, East Bendigo, VIC, Australia"
+  },
+  {
+    "Suburb": "East Bendigo",
+    "Site_streetaddress": "35 Victa Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3350"
   },
   {
     "Suburb": "East Geelong",
@@ -11941,6 +11977,16 @@
     "label": "12 Park Lane, Ocean Grove, VIC, Australia"
   },
   {
+    "Suburb": "Ocean Grove",
+    "Site_streetaddress": "142 Shell Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3226",
+    "confidence": 1,
+    "latitude": -38.259297,
+    "longitude": 144.547599,
+    "label": "142 Shell Road, Ocean Grove, VIC, Australia"
+  },
+  {
     "Suburb": "Officer",
     "Site_streetaddress": "1 Damon Street",
     "Site_state": "VIC",
@@ -12541,6 +12587,16 @@
     "latitude": -38.268596,
     "longitude": 144.660215,
     "label": "80 Hesse Street, Queenscliff, VIC, Australia"
+  },
+  {
+    "Suburb": "Queenscliff",
+    "Site_streetaddress": "40 Hesse Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3225",
+    "confidence": 1,
+    "latitude": -38.266776,
+    "longitude": 144.661222,
+    "label": "40 Hesse Street, Queenscliff, VIC, Australia"
   },
   {
     "Suburb": "Ravenhall",
