@@ -96,14 +96,14 @@
     "longitude": 144.8847997
   },
   {
-    "Suburb": "Airport West",
-    "Site_streetaddress": "64 Parer Road",
+    "Suburb": "Drouin",
+    "Site_streetaddress": "School Road",
     "Site_state": "VIC",
-    "Site_postcode": "3042",
-    "confidence": 1,
-    "latitude": -37.719778,
-    "longitude": 144.88618,
-    "label": "58-64 Parer Road, Airport West, VIC, Australia"
+    "Site_postcode": "3818",
+    "confidence": 0.3,
+    "latitude": -37.014348,
+    "longitude": 143.480452,
+    "label": "Victoria, Australia"
   },
   {
     "Suburb": "Lynbrook",
@@ -124,6 +124,16 @@
     "latitude": -38.351489,
     "longitude": 143.590203,
     "label": "Colac Community Library and Learning Centre, Elliminyt, VIC, Australia"
+  },
+  {
+    "Suburb": "Airport West",
+    "Site_streetaddress": "64 Parer Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3042",
+    "confidence": 1,
+    "latitude": -37.719778,
+    "longitude": 144.88618,
+    "label": "58-64 Parer Road, Airport West, VIC, Australia"
   },
   {
     "Suburb": "Albion",
@@ -5761,16 +5771,6 @@
     "longitude": 145.8556184
   },
   {
-    "Suburb": "Drouin",
-    "Site_streetaddress": "School Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3818",
-    "confidence": 0.3,
-    "latitude": -37.014348,
-    "longitude": 143.480452,
-    "label": "Victoria, Australia"
-  },
-  {
     "Suburb": "Drysdale",
     "Site_streetaddress": "1/7 Palmerston Street",
     "Site_state": "VIC",
@@ -5840,7 +5840,11 @@
     "Suburb": "East Bendigo",
     "Site_streetaddress": "35 Victa Road",
     "Site_state": "VIC",
-    "Site_postcode": "3350"
+    "Site_postcode": "3350",
+    "confidence": 1,
+    "latitude": -36.734999,
+    "longitude": 144.325581,
+    "label": "35 Victa Road, East Bendigo, VIC, Australia"
   },
   {
     "Suburb": "East Geelong",
@@ -11686,6 +11690,16 @@
     "latitude": -38.112333,
     "longitude": 144.344597,
     "label": "14 Shepherd Court, North Geelong, VIC, Australia"
+  },
+  {
+    "Suburb": "North Geelong",
+    "Site_streetaddress": "110 Victoria Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3215",
+    "confidence": 1,
+    "latitude": -38.124081,
+    "longitude": 144.351469,
+    "label": "110A Victoria Street, North Geelong, VIC, Australia"
   },
   {
     "Suburb": "North Melbourne",
