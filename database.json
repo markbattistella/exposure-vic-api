@@ -12099,6 +12099,16 @@
     "longitude": 145.491445
   },
   {
+    "Suburb": "Pakenham",
+    "Site_streetaddress": "75 Station Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3810",
+    "confidence": 0.6,
+    "latitude": -38.069973,
+    "longitude": 145.481144,
+    "label": "Pakenham, VIC, Australia"
+  },
+  {
     "Suburb": "Parkville",
     "Site_streetaddress": "50 Flemington Road",
     "Site_state": "VIC",
@@ -15178,6 +15188,16 @@
     "label": "75 Phillip Drive, Sunbury, VIC, Australia"
   },
   {
+    "Suburb": "Sunbury",
+    "Site_streetaddress": "70 Barkly Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3429",
+    "confidence": 1,
+    "latitude": -37.585176,
+    "longitude": 144.728703,
+    "label": "70-72 Barkly Street, Sunbury, VIC, Australia"
+  },
+  {
     "Suburb": "Sunshine",
     "Site_streetaddress": "80 Harvester Road",
     "Site_state": "VIC",
@@ -15980,6 +16000,16 @@
     "label": "105 Flinders Street, Thornbury, VIC, Australia"
   },
   {
+    "Suburb": "Thornbury",
+    "Site_streetaddress": "16-22 Hutton Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3071",
+    "confidence": 1,
+    "latitude": -37.755406,
+    "longitude": 144.996222,
+    "label": "16-22 Hutton Street, Thornbury, VIC, Australia"
+  },
+  {
     "Suburb": "Toorak",
     "Site_streetaddress": "17 Heyington Place",
     "Site_state": "VIC",
@@ -16639,6 +16669,16 @@
     "longitude": 142.4793281
   },
   {
+    "Suburb": "Waurn Ponds",
+    "Site_streetaddress": "Corner of Colac & Pioneer Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3216",
+    "confidence": 0.8,
+    "latitude": -38.351489,
+    "longitude": 143.590203,
+    "label": "Colac Community Library and Learning Centre, Elliminyt, VIC, Australia"
+  },
+  {
     "Suburb": "Warrnambool",
     "Site_streetaddress": "Unit 1/49 Kepler Street",
     "Site_state": "VIC",
@@ -16894,16 +16934,6 @@
     "Site_postcode": "3280",
     "latitude": -38.3817374,
     "longitude": 142.4808034
-  },
-  {
-    "Suburb": "Waurn Ponds",
-    "Site_streetaddress": "Corner of Colac & Pioneer Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3216",
-    "confidence": 0.8,
-    "latitude": -38.351489,
-    "longitude": 143.590203,
-    "label": "Colac Community Library and Learning Centre, Elliminyt, VIC, Australia"
   },
   {
     "Suburb": "Warrnambool",
