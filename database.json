@@ -1144,6 +1144,16 @@
     "longitude": 143.8549486
   },
   {
+    "Suburb": "Ballarat",
+    "Site_streetaddress": "502 Howitt Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3350",
+    "confidence": 0.4,
+    "latitude": -37.563892,
+    "longitude": 143.852395,
+    "label": "Ballarat, VIC, Australia"
+  },
+  {
     "Suburb": "Ballarat Central",
     "Site_streetaddress": "Corner Sturt Street & Pleasant Street ",
     "Site_state": "VIC",
@@ -5344,6 +5354,16 @@
     "label": "55 Vincent Street, Daylesford, VIC, Australia"
   },
   {
+    "Suburb": "Deepdene",
+    "Site_streetaddress": "12 Whitehorse Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3103",
+    "confidence": 1,
+    "latitude": -37.810777,
+    "longitude": 145.06276,
+    "label": "12 Whitehorse Road, Deepdene, VIC, Australia"
+  },
+  {
     "Suburb": "Deer Park",
     "Site_streetaddress": "Shop T13, Station Road",
     "Site_state": "VIC",
@@ -7334,6 +7354,16 @@
     "Site_postcode": "3220",
     "latitude": -38.1469338,
     "longitude": 144.3605836
+  },
+  {
+    "Suburb": "Geelong",
+    "Site_streetaddress": "Ryan Place S",
+    "Site_state": "VIC",
+    "Site_postcode": "3220",
+    "confidence": 0.3,
+    "latitude": -37.014348,
+    "longitude": 143.480452,
+    "label": "Victoria, Australia"
   },
   {
     "Suburb": "Geelong West",
@@ -16886,6 +16916,16 @@
     "label": "463 Raglan Parade, Warrnambool, VIC, Australia"
   },
   {
+    "Suburb": "Warrnambool",
+    "Site_streetaddress": "1 Worm Bay Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3280",
+    "confidence": 0.6,
+    "latitude": -38.3777,
+    "longitude": 142.480446,
+    "label": "Warrnambool, VIC, Australia"
+  },
+  {
     "Suburb": "Warrnambool East ",
     "Site_streetaddress": "10691/10699 Princes Highway",
     "Site_state": "VIC",
@@ -17465,6 +17505,16 @@
     "latitude": -37.51127,
     "longitude": 145.119603,
     "label": "29 Beech Street, Whittlesea, VIC, Australia"
+  },
+  {
+    "Suburb": "Whittlesea",
+    "Site_streetaddress": "2 Egret Place",
+    "Site_state": "VIC",
+    "Site_postcode": "3757",
+    "confidence": 1,
+    "latitude": -37.518058,
+    "longitude": 145.113037,
+    "label": "2 Egret Place, Whittlesea, VIC, Australia"
   },
   {
     "Suburb": "Williams Landing",
