@@ -12298,7 +12298,11 @@
     "Suburb": "Point Wilson",
     "Site_streetaddress": "260 Beach Road",
     "Site_state": "VIC",
-    "Site_postcode": "3212"
+    "Site_postcode": "3212",
+    "confidence": 0.6,
+    "latitude": -38.002249,
+    "longitude": 144.567251,
+    "label": "Point Wilson, VIC, Australia"
   },
   {
     "Suburb": "Port Melbourne",

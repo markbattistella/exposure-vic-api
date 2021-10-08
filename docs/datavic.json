@@ -17,7 +17,9 @@
     "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
     "Exposure_time_start_24": "07:00:00",
     "Exposure_time_end_24": "15:30:00",
-    "dhid": "G6D6"
+    "dhid": "G6D6",
+    "latitude": -38.002249,
+    "longitude": 144.567251
   },
   {
     "_id": 2,
@@ -37,7 +39,9 @@
     "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
     "Exposure_time_start_24": "07:00:00",
     "Exposure_time_end_24": "15:30:00",
-    "dhid": "F8Y5"
+    "dhid": "F8Y5",
+    "latitude": -38.002249,
+    "longitude": 144.567251
   },
   {
     "_id": 3,
@@ -57,7 +61,9 @@
     "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
     "Exposure_time_start_24": "07:00:00",
     "Exposure_time_end_24": "09:00:00",
-    "dhid": "G4G2"
+    "dhid": "G4G2",
+    "latitude": -38.002249,
+    "longitude": 144.567251
   },
   {
     "_id": 4,
