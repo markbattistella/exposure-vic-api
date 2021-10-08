@@ -106,6 +106,16 @@
     "label": "Victoria, Australia"
   },
   {
+    "Suburb": "Pakenham",
+    "Site_streetaddress": "75 Station Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3810",
+    "confidence": 0.6,
+    "latitude": -38.069973,
+    "longitude": 145.481144,
+    "label": "Pakenham, VIC, Australia"
+  },
+  {
     "Suburb": "Warrnambool",
     "Site_streetaddress": "1 Worm Bay Road",
     "Site_state": "VIC",
@@ -12097,16 +12107,6 @@
     "confidence": 1,
     "latitude": -38.0838111,
     "longitude": 145.491445
-  },
-  {
-    "Suburb": "Pakenham",
-    "Site_streetaddress": "75 Station Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3810",
-    "confidence": 0.6,
-    "latitude": -38.069973,
-    "longitude": 145.481144,
-    "label": "Pakenham, VIC, Australia"
   },
   {
     "Suburb": "Parkville",
