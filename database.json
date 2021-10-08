@@ -116,6 +116,16 @@
     "label": "Pakenham, VIC, Australia"
   },
   {
+    "Suburb": "Point Wilson",
+    "Site_streetaddress": "260 Beach Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3212",
+    "confidence": 0.6,
+    "latitude": -38.002249,
+    "longitude": 144.567251,
+    "label": "Point Wilson, VIC, Australia"
+  },
+  {
     "Suburb": "Warrnambool",
     "Site_streetaddress": "1 Worm Bay Road",
     "Site_state": "VIC",
@@ -12117,16 +12127,6 @@
     "latitude": -38.063851,
     "longitude": 145.508171,
     "label": "3 Atlantic Drive, Pakenham, VIC, Australia"
-  },
-  {
-    "Suburb": "Point Wilson",
-    "Site_streetaddress": "260 Beach Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3212",
-    "confidence": 0.6,
-    "latitude": -38.002249,
-    "longitude": 144.567251,
-    "label": "Point Wilson, VIC, Australia"
   },
   {
     "Suburb": "Parkville",
