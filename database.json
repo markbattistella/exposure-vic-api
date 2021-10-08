@@ -12112,7 +12112,11 @@
     "Suburb": "Pakenham",
     "Site_streetaddress": "3 Atlantic Drive",
     "Site_state": "VIC",
-    "Site_postcode": "3810"
+    "Site_postcode": "3810",
+    "confidence": 1,
+    "latitude": -38.063851,
+    "longitude": 145.508171,
+    "label": "3 Atlantic Drive, Pakenham, VIC, Australia"
   },
   {
     "Suburb": "Point Wilson",
