@@ -12295,6 +12295,12 @@
     "longitude": 144.732452
   },
   {
+    "Suburb": "Point Wilson",
+    "Site_streetaddress": "260 Beach Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3212"
+  },
+  {
     "Suburb": "Port Melbourne",
     "Site_streetaddress": "477-481 Plummer Street",
     "Site_state": "VIC",
