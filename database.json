@@ -116,16 +116,6 @@
     "label": "Pakenham, VIC, Australia"
   },
   {
-    "Suburb": "Point Wilson",
-    "Site_streetaddress": "260 Beach Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3212",
-    "confidence": 0.6,
-    "latitude": -38.002249,
-    "longitude": 144.567251,
-    "label": "Point Wilson, VIC, Australia"
-  },
-  {
     "Suburb": "Warrnambool",
     "Site_streetaddress": "1 Worm Bay Road",
     "Site_state": "VIC",
@@ -12119,6 +12109,22 @@
     "longitude": 145.491445
   },
   {
+    "Suburb": "Pakenham",
+    "Site_streetaddress": "3 Atlantic Drive",
+    "Site_state": "VIC",
+    "Site_postcode": "3810"
+  },
+  {
+    "Suburb": "Point Wilson",
+    "Site_streetaddress": "260 Beach Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3212",
+    "confidence": 0.6,
+    "latitude": -38.002249,
+    "longitude": 144.567251,
+    "label": "Point Wilson, VIC, Australia"
+  },
+  {
     "Suburb": "Parkville",
     "Site_streetaddress": "50 Flemington Road",
     "Site_state": "VIC",
@@ -16662,15 +16668,6 @@
     "longitude": 142.4919129
   },
   {
-    "Suburb": "Warragul",
-    "Site_streetaddress": "Corner of Queen Street and Hazel Drive",
-    "Site_state": "VIC",
-    "Site_postcode": "3820",
-    "confidence": 1,
-    "latitude": -38.1676303,
-    "longitude": 145.9503551
-  },
-  {
     "Suburb": "Warrnambool",
     "Site_streetaddress": "Hopkins Highway",
     "Site_state": "VIC",
@@ -16687,6 +16684,15 @@
     "latitude": -38.351489,
     "longitude": 143.590203,
     "label": "Colac Community Library and Learning Centre, Elliminyt, VIC, Australia"
+  },
+  {
+    "Suburb": "Warragul",
+    "Site_streetaddress": "Corner of Queen Street and Hazel Drive",
+    "Site_state": "VIC",
+    "Site_postcode": "3820",
+    "confidence": 1,
+    "latitude": -38.1676303,
+    "longitude": 145.9503551
   },
   {
     "Suburb": "Warrnambool",
@@ -16964,6 +16970,12 @@
     "latitude": -38.383698,
     "longitude": 142.491636,
     "label": "463 Raglan Parade, Warrnambool, VIC, Australia"
+  },
+  {
+    "Suburb": "Warrnambool",
+    "Site_streetaddress": "15 - 19 Liebig Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3280"
   },
   {
     "Suburb": "Warrnambool East ",
