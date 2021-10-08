@@ -16975,7 +16975,11 @@
     "Suburb": "Warrnambool",
     "Site_streetaddress": "15 - 19 Liebig Street",
     "Site_state": "VIC",
-    "Site_postcode": "3280"
+    "Site_postcode": "3280",
+    "confidence": 1,
+    "latitude": -38.386313,
+    "longitude": 142.481446,
+    "label": "15-19 Liebig Street, Warrnambool, VIC, Australia"
   },
   {
     "Suburb": "Warrnambool East ",
