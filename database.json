@@ -106,6 +106,16 @@
     "label": "Victoria, Australia"
   },
   {
+    "Suburb": "Warrnambool",
+    "Site_streetaddress": "1 Worm Bay Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3280",
+    "confidence": 0.6,
+    "latitude": -38.3777,
+    "longitude": 142.480446,
+    "label": "Warrnambool, VIC, Australia"
+  },
+  {
     "Suburb": "Lynbrook",
     "Site_streetaddress": "Lynbrook Village Shopping Centre, 10 Harris Street",
     "Site_state": "VIC",
@@ -114,16 +124,6 @@
     "latitude": -38.061991,
     "longitude": 145.253149,
     "label": "3975, Lynbrook, VIC, Australia"
-  },
-  {
-    "Suburb": "Waurn Ponds",
-    "Site_streetaddress": "Corner of Colac & Pioneer Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3216",
-    "confidence": 0.8,
-    "latitude": -38.351489,
-    "longitude": 143.590203,
-    "label": "Colac Community Library and Learning Centre, Elliminyt, VIC, Australia"
   },
   {
     "Suburb": "Airport West",
@@ -16896,6 +16896,16 @@
     "longitude": 142.4808034
   },
   {
+    "Suburb": "Waurn Ponds",
+    "Site_streetaddress": "Corner of Colac & Pioneer Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3216",
+    "confidence": 0.8,
+    "latitude": -38.351489,
+    "longitude": 143.590203,
+    "label": "Colac Community Library and Learning Centre, Elliminyt, VIC, Australia"
+  },
+  {
     "Suburb": "Warrnambool",
     "Site_streetaddress": "42 Cramer Street",
     "Site_state": "VIC",
@@ -16914,16 +16924,6 @@
     "latitude": -38.383698,
     "longitude": 142.491636,
     "label": "463 Raglan Parade, Warrnambool, VIC, Australia"
-  },
-  {
-    "Suburb": "Warrnambool",
-    "Site_streetaddress": "1 Worm Bay Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3280",
-    "confidence": 0.6,
-    "latitude": -38.3777,
-    "longitude": 142.480446,
-    "label": "Warrnambool, VIC, Australia"
   },
   {
     "Suburb": "Warrnambool East ",
