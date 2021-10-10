@@ -214,6 +214,16 @@
     "label": "1728A Sturt Street, Alfredton, VIC, Australia"
   },
   {
+    "Suburb": "Alfredton",
+    "Site_streetaddress": "1851 Sturt Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3350",
+    "confidence": 1,
+    "latitude": -37.546595,
+    "longitude": 143.79639,
+    "label": "1851 Sturt Street, Alfredton, VIC, Australia"
+  },
+  {
     "Suburb": "Alphington",
     "Site_streetaddress": "538-540 Heidelberg Road",
     "Site_state": "VIC",
@@ -10731,6 +10741,26 @@
     "latitude": -34.200802,
     "longitude": 142.1172324,
     "label": "Mildura, VIC, Australia"
+  },
+  {
+    "Suburb": "Mildura",
+    "Site_streetaddress": "210 Deakin Avenue",
+    "Site_state": "VIC",
+    "Site_postcode": "3500",
+    "confidence": 1,
+    "latitude": -34.19235,
+    "longitude": 142.154453,
+    "label": "210 Deakin Avenue, Mildura, VIC, Australia"
+  },
+  {
+    "Suburb": "Mildura",
+    "Site_streetaddress": "285 San Mateo Avenue",
+    "Site_state": "VIC",
+    "Site_postcode": "3500",
+    "confidence": 1,
+    "latitude": -34.200592,
+    "longitude": 142.153609,
+    "label": "285-287 San Mateo Avenue, Mildura, VIC, Australia"
   },
   {
     "Suburb": "Mill Park",
