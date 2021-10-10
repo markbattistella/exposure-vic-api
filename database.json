@@ -106,6 +106,16 @@
     "label": "Victoria, Australia"
   },
   {
+    "Suburb": "Ballarat West",
+    "Site_streetaddress": "1221 Sturt Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3350",
+    "confidence": 0.6,
+    "latitude": -37.585057,
+    "longitude": 143.85704,
+    "label": "Ballarat West, Mount Pleasant, VIC, Australia"
+  },
+  {
     "Suburb": "Pakenham",
     "Site_streetaddress": "75 Station Street",
     "Site_state": "VIC",
@@ -1287,16 +1297,6 @@
     "latitude": -37.562022,
     "longitude": 143.855212,
     "label": "321 Sturt Street, Ballarat Central, VIC, Australia"
-  },
-  {
-    "Suburb": "Ballarat West",
-    "Site_streetaddress": "1221 Sturt Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3350",
-    "confidence": 0.6,
-    "latitude": -37.585057,
-    "longitude": 143.85704,
-    "label": "Ballarat West, Mount Pleasant, VIC, Australia"
   },
   {
     "Suburb": "Balwyn",
