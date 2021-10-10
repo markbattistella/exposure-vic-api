@@ -136,6 +136,16 @@
     "label": "South Geelong, VIC, Australia"
   },
   {
+    "Suburb": "Warrnambool",
+    "Site_streetaddress": "1 Worm Bay Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3280",
+    "confidence": 0.6,
+    "latitude": -38.3777,
+    "longitude": 142.480446,
+    "label": "Warrnambool, VIC, Australia"
+  },
+  {
     "Suburb": "Lynbrook",
     "Site_streetaddress": "Lynbrook Village Shopping Centre, 10 Harris Street",
     "Site_state": "VIC",
@@ -13132,16 +13142,6 @@
     "Site_postcode": "3178",
     "latitude": -37.927632,
     "longitude": 145.252016
-  },
-  {
-    "Suburb": "Warrnambool",
-    "Site_streetaddress": "1 Worm Bay Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3280",
-    "confidence": 0.6,
-    "latitude": -38.3777,
-    "longitude": 142.480446,
-    "label": "Warrnambool, VIC, Australia"
   },
   {
     "Suburb": "Roxburgh Park",
