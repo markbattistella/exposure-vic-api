@@ -96,6 +96,16 @@
     "longitude": 144.8847997
   },
   {
+    "Suburb": "Delacombe",
+    "Site_streetaddress": "17/315 Glenelg Highway",
+    "Site_state": "VIC",
+    "Site_postcode": "3351",
+    "confidence": 0.6,
+    "latitude": -37.57993,
+    "longitude": 143.806578,
+    "label": "Delacombe, VIC, Australia"
+  },
+  {
     "Suburb": "Airport West",
     "Site_streetaddress": "64 Parer Road",
     "Site_state": "VIC",
@@ -5457,16 +5467,6 @@
     "latitude": -37.59196,
     "longitude": 143.806626,
     "label": "307 Smythes Road, Delacombe, VIC, Australia"
-  },
-  {
-    "Suburb": "Delacombe",
-    "Site_streetaddress": "17/315 Glenelg Highway",
-    "Site_state": "VIC",
-    "Site_postcode": "3351",
-    "confidence": 0.6,
-    "latitude": -37.57993,
-    "longitude": 143.806578,
-    "label": "Delacombe, VIC, Australia"
   },
   {
     "Suburb": "Delahey",
