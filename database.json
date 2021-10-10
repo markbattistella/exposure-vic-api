@@ -284,6 +284,16 @@
     "label": "69 Central Avenue, Altona Meadows, VIC, Australia"
   },
   {
+    "Suburb": "Altona Meadows",
+    "Site_streetaddress": "62 Everingham Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3028",
+    "confidence": 1,
+    "latitude": -37.875504,
+    "longitude": 144.791199,
+    "label": "62 Everingham Road, Altona Meadows, VIC, Australia"
+  },
+  {
     "Suburb": "Altona North",
     "Site_streetaddress": "302-330 Millers Road",
     "Site_state": "VIC",
@@ -16080,6 +16090,16 @@
     "label": "16-22 Hutton Street, Thornbury, VIC, Australia"
   },
   {
+    "Suburb": "Thornbury",
+    "Site_streetaddress": "315 Clarendon Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3071",
+    "confidence": 1,
+    "latitude": -37.762062,
+    "longitude": 145.025675,
+    "label": "315 Clarendon Street, Thornbury, VIC, Australia"
+  },
+  {
     "Suburb": "Toorak",
     "Site_streetaddress": "17 Heyington Place",
     "Site_state": "VIC",
@@ -17984,6 +18004,16 @@
     "latitude": -37.335683,
     "longitude": 144.597288,
     "label": "139 South Rock Road, Woodend, VIC, Australia"
+  },
+  {
+    "Suburb": "Woodend",
+    "Site_streetaddress": "146 High Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3442",
+    "confidence": 1,
+    "latitude": -37.352723,
+    "longitude": 144.532693,
+    "label": "146 High Street, Woodend, VIC, Australia"
   },
   {
     "Suburb": "Wyndham Vale",
