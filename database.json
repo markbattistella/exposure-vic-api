@@ -5459,6 +5459,16 @@
     "label": "307 Smythes Road, Delacombe, VIC, Australia"
   },
   {
+    "Suburb": "Delacombe",
+    "Site_streetaddress": "17/315 Glenelg Highway",
+    "Site_state": "VIC",
+    "Site_postcode": "3351",
+    "confidence": 0.6,
+    "latitude": -37.57993,
+    "longitude": 143.806578,
+    "label": "Delacombe, VIC, Australia"
+  },
+  {
     "Suburb": "Delahey",
     "Site_streetaddress": "80 Copperfield Drive",
     "Site_state": "VIC",
@@ -12224,6 +12234,16 @@
     "confidence": 1,
     "latitude": -37.7911809,
     "longitude": 144.936397
+  },
+  {
+    "Suburb": "Parkville",
+    "Site_streetaddress": "1G Royal Parade",
+    "Site_state": "VIC",
+    "Site_postcode": "3052",
+    "confidence": 1,
+    "latitude": -37.799347,
+    "longitude": 144.956063,
+    "label": "1/1E Royal Parade, Parkville, VIC, Australia"
   },
   {
     "Suburb": "Pascoe Vale",
