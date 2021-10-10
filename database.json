@@ -100,70 +100,56 @@
     "Site_streetaddress": "School Road",
     "Site_state": "VIC",
     "Site_postcode": "3818",
-    "confidence": 0.3,
-    "latitude": -37.014348,
-    "longitude": 143.480452,
-    "label": "Victoria, Australia"
+    "latitude": -38.132482,
+    "longitude": 145.8544004
   },
   {
     "Suburb": "Ballarat West",
     "Site_streetaddress": "1221 Sturt Street",
     "Site_state": "VIC",
     "Site_postcode": "3350",
-    "confidence": 0.6,
-    "latitude": -37.585057,
-    "longitude": 143.85704,
-    "label": "Ballarat West, Mount Pleasant, VIC, Australia"
+    "latitude": -37.5604877,
+    "longitude": 143.8394894
   },
   {
     "Suburb": "Pakenham",
     "Site_streetaddress": "75 Station Street",
     "Site_state": "VIC",
     "Site_postcode": "3810",
-    "confidence": 0.6,
-    "latitude": -38.069973,
-    "longitude": 145.481144,
-    "label": "Pakenham, VIC, Australia"
+    "latitude": -38.0801779,
+    "longitude": 145.4861131
   },
   {
     "Suburb": "Point Wilson",
     "Site_streetaddress": "260 Beach Road",
     "Site_state": "VIC",
     "Site_postcode": "3212",
-    "confidence": 0.6,
-    "latitude": -38.002249,
-    "longitude": 144.567251,
-    "label": "Point Wilson, VIC, Australia"
+    "latitude": -38.0178739,
+    "longitude": 144.4787313
   },
   {
     "Suburb": "South Geelong",
     "Site_streetaddress": "138 Fyans Street",
     "Site_state": "VIC",
     "Site_postcode": "3220",
-    "confidence": 0.6,
-    "latitude": -38.159477,
-    "longitude": 144.356048,
-    "label": "South Geelong, VIC, Australia"
+    "latitude": -38.163762,
+    "longitude": 144.3579944
   },
   {
     "Suburb": "Warrnambool",
     "Site_streetaddress": "1 Worm Bay Road",
     "Site_state": "VIC",
     "Site_postcode": "3280",
-    "confidence": 0.6,
-    "latitude": -38.3777,
-    "longitude": 142.480446,
-    "label": "Warrnambool, VIC, Australia"
+    "latitude": -38.3973054,
+    "longitude": 142.4723975
   },
   {
     "Suburb": "Lynbrook",
     "Site_streetaddress": "Lynbrook Village Shopping Centre, 10 Harris Street",
     "Site_state": "VIC",
     "Site_postcode": "3975",
-    "confidence": 0.8,
-    "latitude": -38.061991,
-    "longitude": 145.253149,
-    "label": "3975, Lynbrook, VIC, Australia"
+    "latitude": -38.0526509,
+    "longitude": 145.254376
   },
   {
     "Suburb": "Airport West",
@@ -1208,10 +1194,8 @@
     "Site_streetaddress": "502 Howitt Street",
     "Site_state": "VIC",
     "Site_postcode": "3350",
-    "confidence": 0.4,
-    "latitude": -37.563892,
-    "longitude": 143.852395,
-    "label": "Ballarat, VIC, Australia"
+    "latitude": -37.5426579,
+    "longitude": 143.8553166
   },
   {
     "Suburb": "Ballarat Central",
@@ -7420,10 +7404,8 @@
     "Site_streetaddress": "Ryan Place S",
     "Site_state": "VIC",
     "Site_postcode": "3220",
-    "confidence": 0.3,
-    "latitude": -37.014348,
-    "longitude": 143.480452,
-    "label": "Victoria, Australia"
+    "latitude": -38.1510592,
+    "longitude": 144.3584713
   },
   {
     "Suburb": "Geelong West",
@@ -16763,10 +16745,8 @@
     "Site_streetaddress": "Corner of Colac & Pioneer Road",
     "Site_state": "VIC",
     "Site_postcode": "3216",
-    "confidence": 0.8,
-    "latitude": -38.351489,
-    "longitude": 143.590203,
-    "label": "Colac Community Library and Learning Centre, Elliminyt, VIC, Australia"
+    "latitude": -38.199545,
+    "longitude": 144.3181469
   },
   {
     "Suburb": "Warrnambool",
@@ -17445,7 +17425,8 @@
     "Site_streetaddress": "63 Watton Street",
     "Site_state": "VIC",
     "Site_postcode": "3030",
-    "skip": true
+	"latitude": -37.9013301,
+    "longitude": 144.6595815
   },
   {
     "Suburb": "West Footscray",
