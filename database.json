@@ -1289,6 +1289,16 @@
     "label": "321 Sturt Street, Ballarat Central, VIC, Australia"
   },
   {
+    "Suburb": "Ballarat West",
+    "Site_streetaddress": "1221 Sturt Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3350",
+    "confidence": 0.6,
+    "latitude": -37.585057,
+    "longitude": 143.85704,
+    "label": "Ballarat West, Mount Pleasant, VIC, Australia"
+  },
+  {
     "Suburb": "Balwyn",
     "Site_streetaddress": "1030-1050 Burke Road",
     "Site_state": "VIC",
