@@ -16699,6 +16699,16 @@
     "longitude": 142.4793281
   },
   {
+    "Suburb": "Waurn Ponds",
+    "Site_streetaddress": "Corner of Colac & Pioneer Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3216",
+    "confidence": 0.8,
+    "latitude": -38.351489,
+    "longitude": 143.590203,
+    "label": "Colac Community Library and Learning Centre, Elliminyt, VIC, Australia"
+  },
+  {
     "Suburb": "Warrnambool",
     "Site_streetaddress": "Unit 1/49 Kepler Street",
     "Site_state": "VIC",
@@ -17024,16 +17034,6 @@
     "latitude": -37.702406,
     "longitude": 145.084466,
     "label": "292 Grimshaw Street, Watsonia North, VIC, Australia"
-  },
-  {
-    "Suburb": "Waurn Ponds",
-    "Site_streetaddress": "Corner of Colac & Pioneer Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3216",
-    "confidence": 0.8,
-    "latitude": -38.351489,
-    "longitude": 143.590203,
-    "label": "Colac Community Library and Learning Centre, Elliminyt, VIC, Australia"
   },
   {
     "Suburb": "Waurn Ponds",
