@@ -96,62 +96,6 @@
     "longitude": 144.8847997
   },
   {
-    "Suburb": "Drouin",
-    "Site_streetaddress": "School Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3818",
-    "latitude": -38.132482,
-    "longitude": 145.8544004
-  },
-  {
-    "Suburb": "Ballarat West",
-    "Site_streetaddress": "1221 Sturt Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3350",
-    "latitude": -37.5604877,
-    "longitude": 143.8394894
-  },
-  {
-    "Suburb": "Pakenham",
-    "Site_streetaddress": "75 Station Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3810",
-    "latitude": -38.0801779,
-    "longitude": 145.4861131
-  },
-  {
-    "Suburb": "Point Wilson",
-    "Site_streetaddress": "260 Beach Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3212",
-    "latitude": -38.0178739,
-    "longitude": 144.4787313
-  },
-  {
-    "Suburb": "South Geelong",
-    "Site_streetaddress": "138 Fyans Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3220",
-    "latitude": -38.163762,
-    "longitude": 144.3579944
-  },
-  {
-    "Suburb": "Warrnambool",
-    "Site_streetaddress": "1 Worm Bay Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3280",
-    "latitude": -38.3973054,
-    "longitude": 142.4723975
-  },
-  {
-    "Suburb": "Lynbrook",
-    "Site_streetaddress": "Lynbrook Village Shopping Centre, 10 Harris Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3975",
-    "latitude": -38.0526509,
-    "longitude": 145.254376
-  },
-  {
     "Suburb": "Airport West",
     "Site_streetaddress": "64 Parer Road",
     "Site_state": "VIC",
@@ -1301,6 +1245,14 @@
     "latitude": -37.562022,
     "longitude": 143.855212,
     "label": "321 Sturt Street, Ballarat Central, VIC, Australia"
+  },
+  {
+    "Suburb": "Ballarat West",
+    "Site_streetaddress": "1221 Sturt Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3350",
+    "latitude": -37.5604877,
+    "longitude": 143.8394894
   },
   {
     "Suburb": "Balwyn",
@@ -5827,6 +5779,14 @@
   },
   {
     "Suburb": "Drouin",
+    "Site_streetaddress": "School Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3818",
+    "latitude": -38.132482,
+    "longitude": 145.8544004
+  },
+  {
+    "Suburb": "Drouin",
     "Site_streetaddress": "72-100 Young Street",
     "Site_state": "VIC",
     "Site_postcode": "3818",
@@ -9721,6 +9681,14 @@
   },
   {
     "Suburb": "Lynbrook",
+    "Site_streetaddress": "Lynbrook Village Shopping Centre, 10 Harris Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3975",
+    "latitude": -38.0526509,
+    "longitude": 145.254376
+  },
+  {
+    "Suburb": "Lynbrook",
     "Site_streetaddress": "75 Lynbrook Boulevard",
     "Site_state": "VIC",
     "Site_postcode": "3975",
@@ -10753,6 +10721,26 @@
     "latitude": -34.200592,
     "longitude": 142.153609,
     "label": "285-287 San Mateo Avenue, Mildura, VIC, Australia"
+  },
+  {
+    "Suburb": "Mildura",
+    "Site_streetaddress": "70 Lime Avenue",
+    "Site_state": "VIC",
+    "Site_postcode": "3500",
+    "confidence": 1,
+    "latitude": -34.184356,
+    "longitude": 142.159642,
+    "label": "70 Lime Avenue, Mildura, VIC, Australia"
+  },
+  {
+    "Suburb": "Mildura",
+    "Site_streetaddress": "136 Eleventh Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3500",
+    "confidence": 1,
+    "latitude": -34.196255,
+    "longitude": 142.167023,
+    "label": "136 Eleventh Street, Mildura, VIC, Australia"
   },
   {
     "Suburb": "Mill Park",
@@ -12114,6 +12102,14 @@
   },
   {
     "Suburb": "Pakenham",
+    "Site_streetaddress": "75 Station Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3810",
+    "latitude": -38.0801779,
+    "longitude": 145.4861131
+  },
+  {
+    "Suburb": "Pakenham",
     "Site_streetaddress": "Cardinia Road & Village Way",
     "Site_state": "VIC",
     "Site_postcode": "3810",
@@ -12355,6 +12351,14 @@
     "confidence": 1,
     "latitude": -37.8829631,
     "longitude": 144.732452
+  },
+  {
+    "Suburb": "Point Wilson",
+    "Site_streetaddress": "260 Beach Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3212",
+    "latitude": -38.0178739,
+    "longitude": 144.4787313
   },
   {
     "Suburb": "Port Melbourne",
@@ -12751,6 +12755,16 @@
     "latitude": -36.910479,
     "longitude": 144.213836,
     "label": "4633 Calder Highway, Ravenswood, VIC, Australia"
+  },
+  {
+    "Suburb": "Red Cliffs",
+    "Site_streetaddress": "59 Jacaranda Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3496",
+    "confidence": 1,
+    "latitude": -34.308851,
+    "longitude": 142.186787,
+    "label": "57-59 Jacaranda Street, Red Cliffs, VIC, Australia"
   },
   {
     "Suburb": "Reservoir",
@@ -14498,6 +14512,14 @@
     "confidence": 1,
     "latitude": -37.6429474,
     "longitude": 144.9512602
+  },
+  {
+    "Suburb": "South Geelong",
+    "Site_streetaddress": "138 Fyans Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3220",
+    "latitude": -38.163762,
+    "longitude": 144.3579944
   },
   {
     "Suburb": "South Geelong",
@@ -16734,19 +16756,19 @@
   },
   {
     "Suburb": "Warrnambool",
+    "Site_streetaddress": "1 Worm Bay Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3280",
+    "latitude": -38.3973054,
+    "longitude": 142.4723975
+  },
+  {
+    "Suburb": "Warrnambool",
     "Site_streetaddress": "Hopkins Highway",
     "Site_state": "VIC",
     "Site_postcode": "3280",
     "latitude": -38.3848586,
     "longitude": 142.4793281
-  },
-  {
-    "Suburb": "Waurn Ponds",
-    "Site_streetaddress": "Corner of Colac & Pioneer Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3216",
-    "latitude": -38.199545,
-    "longitude": 144.3181469
   },
   {
     "Suburb": "Warrnambool",
@@ -17074,6 +17096,14 @@
     "latitude": -37.702406,
     "longitude": 145.084466,
     "label": "292 Grimshaw Street, Watsonia North, VIC, Australia"
+  },
+  {
+    "Suburb": "Waurn Ponds",
+    "Site_streetaddress": "Corner of Colac & Pioneer Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3216",
+    "latitude": -38.199545,
+    "longitude": 144.3181469
   },
   {
     "Suburb": "Waurn Ponds",
@@ -17425,7 +17455,7 @@
     "Site_streetaddress": "63 Watton Street",
     "Site_state": "VIC",
     "Site_postcode": "3030",
-	"latitude": -37.9013301,
+    "latitude": -37.9013301,
     "longitude": 144.6595815
   },
   {
