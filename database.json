@@ -1581,6 +1581,26 @@
     "label": "19 Nolan Street, Bendigo, VIC, Australia"
   },
   {
+    "Suburb": "Bendigo",
+    "Site_streetaddress": "96 Pall Mall",
+    "Site_state": "VIC",
+    "Site_postcode": "3550",
+    "confidence": 1,
+    "latitude": -36.757609,
+    "longitude": 144.281765,
+    "label": "96 Pall Mall, Bendigo, VIC, Australia"
+  },
+  {
+    "Suburb": "Bendigo",
+    "Site_streetaddress": "238 Hargreaves Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3550",
+    "confidence": 1,
+    "latitude": -36.75863,
+    "longitude": 144.281565,
+    "label": "238b Hargreaves Street, Bendigo, VIC, Australia"
+  },
+  {
     "Suburb": "Bentleigh",
     "Site_streetaddress": "795 Nepean Highway",
     "Site_state": "VIC",
@@ -5845,6 +5865,16 @@
     "longitude": 145.8556184
   },
   {
+    "Suburb": "Drouin West",
+    "Site_streetaddress": "655 Princes Way",
+    "Site_state": "VIC",
+    "Site_postcode": "3818",
+    "confidence": 1,
+    "latitude": -38.090119,
+    "longitude": 145.831263,
+    "label": "655 Princes Way, Drouin West, VIC, Australia"
+  },
+  {
     "Suburb": "Drysdale",
     "Site_streetaddress": "1/7 Palmerston Street",
     "Site_state": "VIC",
@@ -7416,6 +7446,16 @@
     "Site_postcode": "3220",
     "latitude": -38.1510592,
     "longitude": 144.3584713
+  },
+  {
+    "Suburb": "Geelong",
+    "Site_streetaddress": "116 Moorabool Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3220",
+    "confidence": 1,
+    "latitude": -38.148057,
+    "longitude": 144.360107,
+    "label": "116A Moorabool Street, Geelong, VIC, Australia"
   },
   {
     "Suburb": "Geelong West",
@@ -11870,6 +11910,16 @@
     "latitude": -38.124081,
     "longitude": 144.351469,
     "label": "110A Victoria Street, North Geelong, VIC, Australia"
+  },
+  {
+    "Suburb": "North Geelong",
+    "Site_streetaddress": "15 Douro Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3215",
+    "confidence": 1,
+    "latitude": -38.120655,
+    "longitude": 144.347432,
+    "label": "15 Douro Street, North Geelong, VIC, Australia"
   },
   {
     "Suburb": "North Melbourne",
