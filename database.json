@@ -2901,6 +2901,16 @@
     "label": "100 Furlong Road, Cairnlea, VIC, Australia"
   },
   {
+    "Suburb": "Cairnlea",
+    "Site_streetaddress": "80 Carmody Drive",
+    "Site_state": "VIC",
+    "Site_postcode": "3023",
+    "confidence": 1,
+    "latitude": -37.758406,
+    "longitude": 144.788714,
+    "label": "80 Carmody Drive, Cairnlea, VIC, Australia"
+  },
+  {
     "Suburb": "Caldermeade",
     "Site_streetaddress": "4465 South Gippsland Highway",
     "Site_state": "VIC",
@@ -5527,6 +5537,16 @@
     "latitude": -37.674828,
     "longitude": 145.162663,
     "label": "104-106 Main Hurstbridge Road, Diamond Creek, VIC, Australia"
+  },
+  {
+    "Suburb": "Dingley Village",
+    "Site_streetaddress": "67 Howard Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3172",
+    "confidence": 1,
+    "latitude": -37.982048,
+    "longitude": 145.121551,
+    "label": "67 Howard Road, Dingley Village, VIC, Australia"
   },
   {
     "Suburb": "Docklands",
