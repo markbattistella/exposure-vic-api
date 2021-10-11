@@ -96,6 +96,16 @@
     "longitude": 144.8847997
   },
   {
+    "Suburb": "Bendigo",
+    "Site_streetaddress": "1/94 Nolan Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3550",
+    "confidence": 0.6,
+    "latitude": -36.757608,
+    "longitude": 144.27957,
+    "label": "Bendigo, VIC, Australia"
+  },
+  {
     "Suburb": "Delacombe",
     "Site_streetaddress": "17/315 Glenelg Highway",
     "Site_state": "VIC",
@@ -104,6 +114,16 @@
     "latitude": -37.57993,
     "longitude": 143.806578,
     "label": "Delacombe, VIC, Australia"
+  },
+  {
+    "Suburb": "Ravenhall",
+    "Site_streetaddress": "1/265 Robinsons Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3023",
+    "confidence": 0.6,
+    "latitude": -37.787925,
+    "longitude": 144.744794,
+    "label": "Ravenhall, VIC, Australia"
   },
   {
     "Suburb": "Airport West",
@@ -1559,16 +1579,6 @@
     "latitude": -36.749626,
     "longitude": 144.290144,
     "label": "19 Nolan Street, Bendigo, VIC, Australia"
-  },
-  {
-    "Suburb": "Bendigo",
-    "Site_streetaddress": "1/94 Nolan Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3550",
-    "confidence": 0.6,
-    "latitude": -36.757608,
-    "longitude": 144.27957,
-    "label": "Bendigo, VIC, Australia"
   },
   {
     "Suburb": "Bentleigh",
@@ -12835,16 +12845,6 @@
     "confidence": 1,
     "latitude": -37.764424,
     "longitude": 144.7422319
-  },
-  {
-    "Suburb": "Ravenhall",
-    "Site_streetaddress": "1/265 Robinsons Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3023",
-    "confidence": 0.6,
-    "latitude": -37.787925,
-    "longitude": 144.744794,
-    "label": "Ravenhall, VIC, Australia"
   },
   {
     "Suburb": "Ravenswood",
