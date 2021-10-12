@@ -116,6 +116,16 @@
     "label": "Delacombe, VIC, Australia"
   },
   {
+    "Suburb": "Maiden Gully",
+    "Site_streetaddress": "Westbury Boulevard",
+    "Site_state": "VIC",
+    "Site_postcode": "3551",
+    "confidence": 0.6,
+    "latitude": -36.7525,
+    "longitude": 144.20717,
+    "label": "Maiden Gully, VIC, Australia"
+  },
+  {
     "Suburb": "Ravenhall",
     "Site_streetaddress": "1/265 Robinsons Road",
     "Site_state": "VIC",
@@ -9825,16 +9835,6 @@
     "latitude": -36.759115,
     "longitude": 144.229599,
     "label": "9 Westbury Boulevard, Maiden Gully, VIC, Australia"
-  },
-  {
-    "Suburb": "Maiden Gully",
-    "Site_streetaddress": "Westbury Boulevard",
-    "Site_state": "VIC",
-    "Site_postcode": "3551",
-    "confidence": 0.6,
-    "latitude": -36.7525,
-    "longitude": 144.20717,
-    "label": "Maiden Gully, VIC, Australia"
   },
   {
     "Suburb": "Malvern",
