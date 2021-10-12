@@ -1621,6 +1621,16 @@
     "label": "238b Hargreaves Street, Bendigo, VIC, Australia"
   },
   {
+    "Suburb": "Bendigo",
+    "Site_streetaddress": "182/183 High Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3550",
+    "confidence": 1,
+    "latitude": -36.764474,
+    "longitude": 144.269756,
+    "label": "177-183 High Street, Bendigo, VIC, Australia"
+  },
+  {
     "Suburb": "Bentleigh",
     "Site_streetaddress": "795 Nepean Highway",
     "Site_state": "VIC",
@@ -9319,6 +9329,16 @@
     "label": "344 Rossiter Road, Koo Wee Rup, VIC, Australia"
   },
   {
+    "Suburb": "Kotupna",
+    "Site_streetaddress": "500 Yambuna Bridge Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3638",
+    "confidence": 1,
+    "latitude": -36.137191,
+    "longitude": 145.029064,
+    "label": "500 Yambuna Bridge Road, Kotupna, VIC, Australia"
+  },
+  {
     "Suburb": "Kyabram",
     "Site_streetaddress": "Union Street",
     "Site_state": "VIC",
@@ -16313,6 +16333,16 @@
     "longitude": 144.3148279
   },
   {
+    "Suburb": "Torquay",
+    "Site_streetaddress": "37 The Esplanade",
+    "Site_state": "VIC",
+    "Site_postcode": "3228",
+    "confidence": 1,
+    "latitude": -38.332699,
+    "longitude": 144.326031,
+    "label": "37 The Esplanade, Torquay, VIC, Australia"
+  },
+  {
     "Suburb": "Tottenham",
     "Site_streetaddress": "Unit 1C/427-451 Somerville Road",
     "Site_state": "VIC",
@@ -16321,6 +16351,16 @@
     "latitude": -37.809924,
     "longitude": 144.856394,
     "label": "427-451 Somerville Road, Tottenham, VIC, Australia"
+  },
+  {
+    "Suburb": "Trafalgar",
+    "Site_streetaddress": "Princes Highway",
+    "Site_state": "VIC",
+    "Site_postcode": "3824",
+    "confidence": 0.6,
+    "latitude": -38.211812,
+    "longitude": 146.154994,
+    "label": "Trafalgar, VIC, Australia"
   },
   {
     "Suburb": "Traralgon",
@@ -16897,6 +16937,36 @@
     "confidence": 1,
     "latitude": -36.3599547,
     "longitude": 146.3149309
+  },
+  {
+    "Suburb": "Wangaratta",
+    "Site_streetaddress": "2-4 Templeton Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3677",
+    "confidence": 1,
+    "latitude": -36.352222,
+    "longitude": 146.326649,
+    "label": "2-4 Templeton Street, Wangaratta, VIC, Australia"
+  },
+  {
+    "Suburb": "Wangaratta",
+    "Site_streetaddress": "20 Reid Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3677",
+    "confidence": 1,
+    "latitude": -36.356125,
+    "longitude": 146.32781,
+    "label": "2-20 Reid Street, Wangaratta, VIC, Australia"
+  },
+  {
+    "Suburb": "Wangaratta",
+    "Site_streetaddress": "182/174 Greta Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3677",
+    "confidence": 1,
+    "latitude": -36.376841,
+    "longitude": 146.307263,
+    "label": "174-182 Greta Road, Wangaratta, VIC, Australia"
   },
   {
     "Suburb": "Warnambool",
