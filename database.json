@@ -1172,6 +1172,16 @@
     "longitude": 143.8553166
   },
   {
+    "Suburb": "Ballarat",
+    "Site_streetaddress": "1321 Mair Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3550",
+    "confidence": 0.4,
+    "latitude": -37.563892,
+    "longitude": 143.852395,
+    "label": "Ballarat, VIC, Australia"
+  },
+  {
     "Suburb": "Ballarat Central",
     "Site_streetaddress": "Corner Sturt Street & Pleasant Street ",
     "Site_state": "VIC",
@@ -9815,6 +9825,16 @@
     "latitude": -36.759115,
     "longitude": 144.229599,
     "label": "9 Westbury Boulevard, Maiden Gully, VIC, Australia"
+  },
+  {
+    "Suburb": "Maiden Gully",
+    "Site_streetaddress": "Westbury Boulevard",
+    "Site_state": "VIC",
+    "Site_postcode": "3551",
+    "confidence": 0.6,
+    "latitude": -36.7525,
+    "longitude": 144.20717,
+    "label": "Maiden Gully, VIC, Australia"
   },
   {
     "Suburb": "Malvern",
