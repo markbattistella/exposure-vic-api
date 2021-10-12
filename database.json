@@ -136,6 +136,16 @@
     "label": "Ravenhall, VIC, Australia"
   },
   {
+    "Suburb": "Trafalgar",
+    "Site_streetaddress": "Princes Highway",
+    "Site_state": "VIC",
+    "Site_postcode": "3824",
+    "confidence": 0.6,
+    "latitude": -38.211812,
+    "longitude": 146.154994,
+    "label": "Trafalgar, VIC, Australia"
+  },
+  {
     "Suburb": "Airport West",
     "Site_streetaddress": "64 Parer Road",
     "Site_state": "VIC",
@@ -16351,16 +16361,6 @@
     "latitude": -37.809924,
     "longitude": 144.856394,
     "label": "427-451 Somerville Road, Tottenham, VIC, Australia"
-  },
-  {
-    "Suburb": "Trafalgar",
-    "Site_streetaddress": "Princes Highway",
-    "Site_state": "VIC",
-    "Site_postcode": "3824",
-    "confidence": 0.6,
-    "latitude": -38.211812,
-    "longitude": 146.154994,
-    "label": "Trafalgar, VIC, Australia"
   },
   {
     "Suburb": "Traralgon",
