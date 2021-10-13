@@ -8091,6 +8091,16 @@
     "longitude": 144.3418315
   },
   {
+    "Suburb": "Grovedale",
+    "Site_streetaddress": "Shop 101, Reading Cinema Complex, Waurn Ponds Shopping Centre, 173-199 Pioneer Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3216",
+    "confidence": 0.8,
+    "latitude": -38.234152,
+    "longitude": 144.294612,
+    "label": "3216, Waurn Ponds, VIC, Australia"
+  },
+  {
     "Suburb": "Hadfield",
     "Site_streetaddress": "132 West Street",
     "Site_state": "VIC",
@@ -14732,6 +14742,16 @@
     "confidence": 1,
     "latitude": -37.6429474,
     "longitude": 144.9512602
+  },
+  {
+    "Suburb": "South Ballarat",
+    "Site_streetaddress": "950 Humffray Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3350",
+    "confidence": 0.4,
+    "latitude": -37.563892,
+    "longitude": 143.852395,
+    "label": "Ballarat, VIC, Australia"
   },
   {
     "Suburb": "South Geelong",
