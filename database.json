@@ -96,6 +96,16 @@
     "longitude": 144.8847997
   },
   {
+    "Suburb": "South Ballarat",
+    "Site_streetaddress": "950 Humffray Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3350",
+    "confidence": 0.4,
+    "latitude": -37.563892,
+    "longitude": 143.852395,
+    "label": "Ballarat, VIC, Australia"
+  },
+  {
     "Suburb": "Bendigo",
     "Site_streetaddress": "1/94 Nolan Street",
     "Site_state": "VIC",
@@ -14742,16 +14752,6 @@
     "confidence": 1,
     "latitude": -37.6429474,
     "longitude": 144.9512602
-  },
-  {
-    "Suburb": "South Ballarat",
-    "Site_streetaddress": "950 Humffray Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3350",
-    "confidence": 0.4,
-    "latitude": -37.563892,
-    "longitude": 143.852395,
-    "label": "Ballarat, VIC, Australia"
   },
   {
     "Suburb": "South Geelong",
