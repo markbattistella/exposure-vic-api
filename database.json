@@ -8300,6 +8300,16 @@
     "label": "97 Grampians Road, Halls Gap, VIC, Australia"
   },
   {
+    "Suburb": "Halls Gap",
+    "Site_streetaddress": "475-481 Grampians Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3381",
+    "confidence": 1,
+    "latitude": -37.171815,
+    "longitude": 142.537765,
+    "label": "475-481 Grampians Road, Halls Gap, VIC, Australia"
+  },
+  {
     "Suburb": "Hamilton",
     "Site_streetaddress": "362/364 North Boundary Road",
     "Site_state": "VIC",
