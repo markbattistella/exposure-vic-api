@@ -7538,6 +7538,36 @@
     "label": "205-207 Moorabool Street, Geelong, VIC, Australia"
   },
   {
+    "Suburb": "Geelong",
+    "Site_streetaddress": "154A Moorabool Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3220",
+    "confidence": 1,
+    "latitude": -38.149419,
+    "longitude": 144.359475,
+    "label": "154 Moorabool Street, Geelong, VIC, Australia"
+  },
+  {
+    "Suburb": "Geelong",
+    "Site_streetaddress": "194-200 Ryrie Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3220",
+    "confidence": 0.6,
+    "latitude": -38.150785,
+    "longitude": 144.361579,
+    "label": "Geelong, VIC, Australia"
+  },
+  {
+    "Suburb": "Geelong",
+    "Site_streetaddress": "209 Bellerine Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3220",
+    "confidence": 1,
+    "latitude": -38.157285,
+    "longitude": 144.362425,
+    "label": "209 Bellerine Street, Geelong, VIC, Australia"
+  },
+  {
     "Suburb": "Geelong West",
     "Site_streetaddress": "Pakington Strand, 95-113 Pakington Street",
     "Site_state": "VIC",
@@ -8218,6 +8248,56 @@
     "latitude": -38.012182,
     "longitude": 145.26519,
     "label": "44-46 Westpool Drive, Hallam, VIC, Australia"
+  },
+  {
+    "Suburb": "Halls Gap",
+    "Site_streetaddress": "161-163 Grampians Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3381",
+    "confidence": 1,
+    "latitude": -37.145184,
+    "longitude": 142.521771,
+    "label": "161-163 Grampians Road, Halls Gap, VIC, Australia"
+  },
+  {
+    "Suburb": "Halls Gap",
+    "Site_streetaddress": "119 Grampians Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3381",
+    "confidence": 1,
+    "latitude": -37.140406,
+    "longitude": 142.519316,
+    "label": "119 Grampians Road, Halls Gap, VIC, Australia"
+  },
+  {
+    "Suburb": "Halls Gap",
+    "Site_streetaddress": "97 Grampians Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3381",
+    "confidence": 1,
+    "latitude": -37.138918,
+    "longitude": 142.51941,
+    "label": "97 Grampians Road, Halls Gap, VIC, Australia"
+  },
+  {
+    "Suburb": "Halls Gap",
+    "Site_streetaddress": "10/97 Grampians Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3381",
+    "confidence": 1,
+    "latitude": -37.138918,
+    "longitude": 142.51941,
+    "label": "97 Grampians Road, Halls Gap, VIC, Australia"
+  },
+  {
+    "Suburb": "Halls Gap",
+    "Site_streetaddress": "Halls Gap",
+    "Site_state": "VIC",
+    "Site_postcode": "3381",
+    "confidence": 0.3,
+    "latitude": -37.014348,
+    "longitude": 143.480452,
+    "label": "Victoria, Australia"
   },
   {
     "Suburb": "Hamilton",
@@ -15435,6 +15515,16 @@
     "label": "109 Fitzroy Street, St Kilda, VIC, Australia"
   },
   {
+    "Suburb": "Stawell",
+    "Site_streetaddress": "112 Main Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3380",
+    "confidence": 1,
+    "latitude": -37.056284,
+    "longitude": 142.780988,
+    "label": "112 Main Street, Stawell, VIC, Australia"
+  },
+  {
     "Suburb": "Strathtulloh",
     "Site_streetaddress": "1 Ladbroke Street",
     "Site_state": "VIC",
@@ -17065,6 +17155,16 @@
     "longitude": 145.9503551
   },
   {
+    "Suburb": "Warragul",
+    "Site_streetaddress": "71 Queen Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3820",
+    "confidence": 1,
+    "latitude": -38.163341,
+    "longitude": 145.93065,
+    "label": "71 Queen Street, Warragul, VIC, Australia"
+  },
+  {
     "Suburb": "Warrnambool",
     "Site_streetaddress": "1 Worm Bay Road",
     "Site_state": "VIC",
@@ -17366,6 +17466,26 @@
     "latitude": -38.386313,
     "longitude": 142.481446,
     "label": "15-19 Liebig Street, Warrnambool, VIC, Australia"
+  },
+  {
+    "Suburb": "Warrnambool",
+    "Site_streetaddress": "50 Viaduct Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3280",
+    "confidence": 1,
+    "latitude": -38.397496,
+    "longitude": 142.472352,
+    "label": "50 Viaduct Road, Warrnambool, VIC, Australia"
+  },
+  {
+    "Suburb": "Warrnambool",
+    "Site_streetaddress": "134 Koroit Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3280",
+    "confidence": 1,
+    "latitude": -38.38328,
+    "longitude": 142.483332,
+    "label": "134 Koroit Street, Warrnambool, VIC, Australia"
   },
   {
     "Suburb": "Warrnambool East ",
