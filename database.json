@@ -7528,6 +7528,16 @@
     "label": "130 Moorabool Street, Geelong, VIC, Australia"
   },
   {
+    "Suburb": "Geelong",
+    "Site_streetaddress": "205 Moorabool Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3220",
+    "confidence": 1,
+    "latitude": -38.150645,
+    "longitude": 144.359472,
+    "label": "205-207 Moorabool Street, Geelong, VIC, Australia"
+  },
+  {
     "Suburb": "Geelong West",
     "Site_streetaddress": "Pakington Strand, 95-113 Pakington Street",
     "Site_state": "VIC",
@@ -15737,6 +15747,16 @@
     "latitude": -37.804496,
     "longitude": 144.831786,
     "label": "2-10 Grace Court, Sunshine West, VIC, Australia"
+  },
+  {
+    "Suburb": "Swan Hill",
+    "Site_streetaddress": "137 Campbell Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3585",
+    "confidence": 1,
+    "latitude": -35.338048,
+    "longitude": 143.55953,
+    "label": "137 Campbell Street, Swan Hill, VIC, Australia"
   },
   {
     "Suburb": "Sydenham",
