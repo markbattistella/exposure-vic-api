@@ -156,6 +156,24 @@
     "label": "Ravenhall, VIC, Australia"
   },
   {
+    "Suburb": "South Geelong",
+    "Site_streetaddress": "138 Fyans Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3220",
+    "latitude": -38.163762,
+    "longitude": 144.3579944
+  },
+  {
+    "Suburb": "South Geelong",
+    "Site_streetaddress": "1 Victoria Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3220",
+    "confidence": 0.6,
+    "latitude": -38.159477,
+    "longitude": 144.356048,
+    "label": "South Geelong, VIC, Australia"
+  },
+  {
     "Suburb": "Trafalgar",
     "Site_streetaddress": "Princes Highway",
     "Site_state": "VIC",
@@ -14855,30 +14873,12 @@
   },
   {
     "Suburb": "South Geelong",
-    "Site_streetaddress": "138 Fyans Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3220",
-    "latitude": -38.163762,
-    "longitude": 144.3579944
-  },
-  {
-    "Suburb": "South Geelong",
     "Site_streetaddress": "1/40-50 Fyans Street",
     "Site_state": "VIC",
     "Site_postcode": "3220",
     "confidence": 1,
     "latitude": -38.161946,
     "longitude": 144.3506153,
-    "label": "South Geelong, VIC, Australia"
-  },
-  {
-    "Suburb": "South Geelong",
-    "Site_streetaddress": "1 Victoria Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3220",
-    "confidence": 0.6,
-    "latitude": -38.159477,
-    "longitude": 144.356048,
     "label": "South Geelong, VIC, Australia"
   },
   {
