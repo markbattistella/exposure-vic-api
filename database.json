@@ -156,24 +156,6 @@
     "label": "Ravenhall, VIC, Australia"
   },
   {
-    "Suburb": "South Geelong",
-    "Site_streetaddress": "138 Fyans Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3220",
-    "latitude": -38.163762,
-    "longitude": 144.3579944
-  },
-  {
-    "Suburb": "South Geelong",
-    "Site_streetaddress": "1 Victoria Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3220",
-    "confidence": 0.6,
-    "latitude": -38.159477,
-    "longitude": 144.356048,
-    "label": "South Geelong, VIC, Australia"
-  },
-  {
     "Suburb": "Trafalgar",
     "Site_streetaddress": "Princes Highway",
     "Site_state": "VIC",
@@ -8179,6 +8161,16 @@
     "label": "3216, Waurn Ponds, VIC, Australia"
   },
   {
+    "Suburb": "Grovedale",
+    "Site_streetaddress": "236-258 Torquay Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3216",
+    "confidence": 1,
+    "latitude": -38.203116,
+    "longitude": 144.341167,
+    "label": "236-258 Torquay Road, Grovedale, VIC, Australia"
+  },
+  {
     "Suburb": "Hadfield",
     "Site_streetaddress": "132 West Street",
     "Site_state": "VIC",
@@ -11881,6 +11873,16 @@
     "label": "157-161 Aberdeen Street, Newtown, VIC, Australia"
   },
   {
+    "Suburb": "Newtown",
+    "Site_streetaddress": "3 West Fyans Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3220",
+    "confidence": 1,
+    "latitude": -38.158603,
+    "longitude": 144.336285,
+    "label": "3 West Fyans Street, Newtown, VIC, Australia"
+  },
+  {
     "Suburb": "Niddrie",
     "Site_streetaddress": "Corner Hoffmans & Keilor Road",
     "Site_state": "VIC",
@@ -14821,6 +14823,34 @@
     "confidence": 1,
     "latitude": -37.5605269,
     "longitude": 143.8400316
+  },
+  {
+    "Suburb": "Soldiers Hill",
+    "Site_streetaddress": "302 Lydiard Street N",
+    "Site_state": "VIC",
+    "Site_postcode": "3350",
+    "confidence": 1,
+    "latitude": -37.555446,
+    "longitude": 143.859229,
+    "label": "302 Lydiard Street North, Soldiers Hill, VIC, Australia"
+  },
+  {
+    "Suburb": "South Geelong",
+    "Site_streetaddress": "138 Fyans Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3220",
+    "latitude": -38.163762,
+    "longitude": 144.3579944
+  },
+  {
+    "Suburb": "South Geelong",
+    "Site_streetaddress": "1 Victoria Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3220",
+    "confidence": 0.6,
+    "latitude": -38.159477,
+    "longitude": 144.356048,
+    "label": "South Geelong, VIC, Australia"
   },
   {
     "Suburb": "Somerton",
