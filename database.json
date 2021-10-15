@@ -14835,6 +14835,16 @@
     "label": "302 Lydiard Street North, Soldiers Hill, VIC, Australia"
   },
   {
+    "Suburb": "Soldiers Hill",
+    "Site_streetaddress": "302 Lydiard Street North",
+    "Site_state": "VIC",
+    "Site_postcode": "3350",
+    "confidence": 1,
+    "latitude": -37.555446,
+    "longitude": 143.859229,
+    "label": "302 Lydiard Street North, Soldiers Hill, VIC, Australia"
+  },
+  {
     "Suburb": "South Geelong",
     "Site_streetaddress": "138 Fyans Street",
     "Site_state": "VIC",
