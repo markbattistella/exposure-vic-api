@@ -96,6 +96,16 @@
     "longitude": 144.8847997
   },
   {
+    "Suburb": "Colac",
+    "Site_streetaddress": "47-49 Hesse Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3250",
+    "confidence": 0.3,
+    "latitude": -37.014348,
+    "longitude": 143.480452,
+    "label": "Victoria, Australia"
+  },
+  {
     "Suburb": "Halls Gap",
     "Site_streetaddress": "Halls Gap",
     "Site_state": "VIC",
@@ -126,6 +136,26 @@
     "label": "Bendigo, VIC, Australia"
   },
   {
+    "Suburb": "Deer Park",
+    "Site_streetaddress": "Corner Neale and Station Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3023",
+    "confidence": 0.6,
+    "latitude": -37.770374,
+    "longitude": 144.766901,
+    "label": "Deer Park, VIC, Australia"
+  },
+  {
+    "Suburb": "Delacombe",
+    "Site_streetaddress": "17/315 Glenelg Highway",
+    "Site_state": "VIC",
+    "Site_postcode": "3351",
+    "confidence": 0.6,
+    "latitude": -37.57993,
+    "longitude": 143.806578,
+    "label": "Delacombe, VIC, Australia"
+  },
+  {
     "Suburb": "Essendon",
     "Site_streetaddress": "99-101A Keilor Road",
     "Site_state": "VIC",
@@ -134,54 +164,6 @@
     "latitude": -37.7512,
     "longitude": 144.91246,
     "label": "Essendon, VIC, Australia"
-  },
-  {
-    "Suburb": "Maiden Gully",
-    "Site_streetaddress": "Westbury Boulevard",
-    "Site_state": "VIC",
-    "Site_postcode": "3551",
-    "confidence": 0.6,
-    "latitude": -36.7525,
-    "longitude": 144.20717,
-    "label": "Maiden Gully, VIC, Australia"
-  },
-  {
-    "Suburb": "Ravenhall",
-    "Site_streetaddress": "1/265 Robinsons Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3023",
-    "confidence": 0.6,
-    "latitude": -37.787925,
-    "longitude": 144.744794,
-    "label": "Ravenhall, VIC, Australia"
-  },
-  {
-    "Suburb": "South Geelong",
-    "Site_streetaddress": "138 Fyans Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3220",
-    "latitude": -38.163762,
-    "longitude": 144.3579944
-  },
-  {
-    "Suburb": "South Geelong",
-    "Site_streetaddress": "1 Victoria Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3220",
-    "confidence": 0.6,
-    "latitude": -38.159477,
-    "longitude": 144.356048,
-    "label": "South Geelong, VIC, Australia"
-  },
-  {
-    "Suburb": "Trafalgar",
-    "Site_streetaddress": "Princes Highway",
-    "Site_state": "VIC",
-    "Site_postcode": "3824",
-    "confidence": 0.6,
-    "latitude": -38.211812,
-    "longitude": 146.154994,
-    "label": "Trafalgar, VIC, Australia"
   },
   {
     "Suburb": "Airport West",
@@ -4451,16 +4433,6 @@
     "longitude": 143.579259
   },
   {
-    "Suburb": "Colac",
-    "Site_streetaddress": "47-49 Hesse Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3250",
-    "confidence": 0.3,
-    "latitude": -37.014348,
-    "longitude": 143.480452,
-    "label": "Victoria, Australia"
-  },
-  {
     "Suburb": "Colac West",
     "Site_streetaddress": "408 Princes Highway",
     "Site_state": "VIC",
@@ -5576,26 +5548,6 @@
     "latitude": -37.770533,
     "longitude": 144.774018,
     "label": "803-805 Ballarat Road, Deer Park, VIC, Australia"
-  },
-  {
-    "Suburb": "Deer Park",
-    "Site_streetaddress": "Corner Neale and Station Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3023",
-    "confidence": 0.6,
-    "latitude": -37.770374,
-    "longitude": 144.766901,
-    "label": "Deer Park, VIC, Australia"
-  },
-  {
-    "Suburb": "Delacombe",
-    "Site_streetaddress": "17/315 Glenelg Highway",
-    "Site_state": "VIC",
-    "Site_postcode": "3351",
-    "confidence": 0.6,
-    "latitude": -37.57993,
-    "longitude": 143.806578,
-    "label": "Delacombe, VIC, Australia"
   },
   {
     "Suburb": "Delacombe",
@@ -9272,16 +9224,6 @@
   },
   {
     "Suburb": "Keysborough",
-    "Site_streetaddress": "185 Perry Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3173",
-    "confidence": 1,
-    "latitude": -38.011213,
-    "longitude": 145.178307,
-    "label": "185 Perry Road, Keysborough, VIC, Australia"
-  },
-  {
-    "Suburb": "Keysborough",
     "Site_streetaddress": "Corner of Greens Road and Pacific Drive",
     "Site_state": "VIC",
     "Site_postcode": "3173",
@@ -9289,6 +9231,64 @@
     "latitude": -38.005867,
     "longitude": 145.167886,
     "label": "Keysborough, VIC, Australia"
+  },
+  {
+    "Suburb": "Maiden Gully",
+    "Site_streetaddress": "Westbury Boulevard",
+    "Site_state": "VIC",
+    "Site_postcode": "3551",
+    "confidence": 0.6,
+    "latitude": -36.7525,
+    "longitude": 144.20717,
+    "label": "Maiden Gully, VIC, Australia"
+  },
+  {
+    "Suburb": "Ravenhall",
+    "Site_streetaddress": "1/265 Robinsons Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3023",
+    "confidence": 0.6,
+    "latitude": -37.787925,
+    "longitude": 144.744794,
+    "label": "Ravenhall, VIC, Australia"
+  },
+  {
+    "Suburb": "South Geelong",
+    "Site_streetaddress": "138 Fyans Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3220",
+    "latitude": -38.163762,
+    "longitude": 144.3579944
+  },
+  {
+    "Suburb": "South Geelong",
+    "Site_streetaddress": "1 Victoria Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3220",
+    "confidence": 0.6,
+    "latitude": -38.159477,
+    "longitude": 144.356048,
+    "label": "South Geelong, VIC, Australia"
+  },
+  {
+    "Suburb": "Trafalgar",
+    "Site_streetaddress": "Princes Highway",
+    "Site_state": "VIC",
+    "Site_postcode": "3824",
+    "confidence": 0.6,
+    "latitude": -38.211812,
+    "longitude": 146.154994,
+    "label": "Trafalgar, VIC, Australia"
+  },
+  {
+    "Suburb": "Keysborough",
+    "Site_streetaddress": "185 Perry Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3173",
+    "confidence": 1,
+    "latitude": -38.011213,
+    "longitude": 145.178307,
+    "label": "185 Perry Road, Keysborough, VIC, Australia"
   },
   {
     "Suburb": "Keysborough ",
