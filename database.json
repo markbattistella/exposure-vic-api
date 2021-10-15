@@ -126,16 +126,6 @@
     "label": "Bendigo, VIC, Australia"
   },
   {
-    "Suburb": "Delacombe",
-    "Site_streetaddress": "17/315 Glenelg Highway",
-    "Site_state": "VIC",
-    "Site_postcode": "3351",
-    "confidence": 0.6,
-    "latitude": -37.57993,
-    "longitude": 143.806578,
-    "label": "Delacombe, VIC, Australia"
-  },
-  {
     "Suburb": "Essendon",
     "Site_streetaddress": "99-101A Keilor Road",
     "Site_state": "VIC",
@@ -950,6 +940,16 @@
     "label": "Ashwood, VIC, Australia"
   },
   {
+    "Suburb": "Avenel",
+    "Site_streetaddress": "17 Mitchell Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3664",
+    "confidence": 1,
+    "latitude": -36.906362,
+    "longitude": 145.235925,
+    "label": "17 Mitchell Street, Avenel, VIC, Australia"
+  },
+  {
     "Suburb": "Bacchus Marsh",
     "Site_streetaddress": "8 Grant Street",
     "Site_state": "VIC",
@@ -1363,6 +1363,16 @@
     "latitude": -37.562022,
     "longitude": 143.855212,
     "label": "321 Sturt Street, Ballarat Central, VIC, Australia"
+  },
+  {
+    "Suburb": "Ballarat Central",
+    "Site_streetaddress": "18 Doveton Street South",
+    "Site_state": "VIC",
+    "Site_postcode": "3350",
+    "confidence": 1,
+    "latitude": -37.565747,
+    "longitude": 143.854049,
+    "label": "18 Doveton Street South, Ballarat Central, VIC, Australia"
   },
   {
     "Suburb": "Ballarat West",
@@ -4441,6 +4451,16 @@
     "longitude": 143.579259
   },
   {
+    "Suburb": "Colac",
+    "Site_streetaddress": "47-49 Hesse Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3250",
+    "confidence": 0.3,
+    "latitude": -37.014348,
+    "longitude": 143.480452,
+    "label": "Victoria, Australia"
+  },
+  {
     "Suburb": "Colac West",
     "Site_streetaddress": "408 Princes Highway",
     "Site_state": "VIC",
@@ -5556,6 +5576,26 @@
     "latitude": -37.770533,
     "longitude": 144.774018,
     "label": "803-805 Ballarat Road, Deer Park, VIC, Australia"
+  },
+  {
+    "Suburb": "Deer Park",
+    "Site_streetaddress": "Corner Neale and Station Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3023",
+    "confidence": 0.6,
+    "latitude": -37.770374,
+    "longitude": 144.766901,
+    "label": "Deer Park, VIC, Australia"
+  },
+  {
+    "Suburb": "Delacombe",
+    "Site_streetaddress": "17/315 Glenelg Highway",
+    "Site_state": "VIC",
+    "Site_postcode": "3351",
+    "confidence": 0.6,
+    "latitude": -37.57993,
+    "longitude": 143.806578,
+    "label": "Delacombe, VIC, Australia"
   },
   {
     "Suburb": "Delacombe",
@@ -7674,6 +7714,16 @@
     "longitude": 144.3391891
   },
   {
+    "Suburb": "Geelong West",
+    "Site_streetaddress": "76 Preston Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3218",
+    "confidence": 1,
+    "latitude": -38.1398,
+    "longitude": 144.348868,
+    "label": "76 Preston Street, Geelong West, VIC, Australia"
+  },
+  {
     "Suburb": "Geelong West ",
     "Site_streetaddress": "3/95-103 Pakington Street",
     "Site_state": "VIC",
@@ -9229,6 +9279,16 @@
     "latitude": -38.011213,
     "longitude": 145.178307,
     "label": "185 Perry Road, Keysborough, VIC, Australia"
+  },
+  {
+    "Suburb": "Keysborough",
+    "Site_streetaddress": "Corner of Greens Road and Pacific Drive",
+    "Site_state": "VIC",
+    "Site_postcode": "3173",
+    "confidence": 0.6,
+    "latitude": -38.005867,
+    "longitude": 145.167886,
+    "label": "Keysborough, VIC, Australia"
   },
   {
     "Suburb": "Keysborough ",
@@ -12747,6 +12807,16 @@
     "Site_postcode": "3212",
     "latitude": -38.0178739,
     "longitude": 144.4787313
+  },
+  {
+    "Suburb": "Point Wilson",
+    "Site_streetaddress": "570 Dandos Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3212",
+    "confidence": 0.6,
+    "latitude": -38.002249,
+    "longitude": 144.567251,
+    "label": "Point Wilson, VIC, Australia"
   },
   {
     "Suburb": "Port Melbourne",
