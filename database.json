@@ -136,6 +136,16 @@
     "label": "Delacombe, VIC, Australia"
   },
   {
+    "Suburb": "Essendon",
+    "Site_streetaddress": "99-101A Keilor Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3042",
+    "confidence": 0.6,
+    "latitude": -37.7512,
+    "longitude": 144.91246,
+    "label": "Essendon, VIC, Australia"
+  },
+  {
     "Suburb": "Maiden Gully",
     "Site_streetaddress": "Westbury Boulevard",
     "Site_state": "VIC",
@@ -6546,16 +6556,6 @@
     "latitude": -37.756065,
     "longitude": 144.915536,
     "label": "25-29 Rose Street, Essendon, VIC, Australia"
-  },
-  {
-    "Suburb": "Essendon",
-    "Site_streetaddress": "99-101A Keilor Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3042",
-    "confidence": 0.6,
-    "latitude": -37.7512,
-    "longitude": 144.91246,
-    "label": "Essendon, VIC, Australia"
   },
   {
     "Suburb": "Essendon Fields",
