@@ -6548,6 +6548,16 @@
     "label": "25-29 Rose Street, Essendon, VIC, Australia"
   },
   {
+    "Suburb": "Essendon",
+    "Site_streetaddress": "99-101A Keilor Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3042",
+    "confidence": 0.6,
+    "latitude": -37.7512,
+    "longitude": 144.91246,
+    "label": "Essendon, VIC, Australia"
+  },
+  {
     "Suburb": "Essendon Fields",
     "Site_streetaddress": "15 Vaughen Street",
     "Site_state": "VIC",
@@ -16976,6 +16986,16 @@
     "label": "38 Allied Drive, Tullamarine, VIC, Australia"
   },
   {
+    "Suburb": "Tullamarine",
+    "Site_streetaddress": "3/15-21 Butler Way",
+    "Site_state": "VIC",
+    "Site_postcode": "3043",
+    "confidence": 1,
+    "latitude": -37.710478,
+    "longitude": 144.849922,
+    "label": "15-21 Butler Way, Tullamarine, VIC, Australia"
+  },
+  {
     "Suburb": "Vermont",
     "Site_streetaddress": "612-626 Canterbury Road",
     "Site_state": "VIC",
@@ -18266,6 +18286,16 @@
     "latitude": -37.857969,
     "longitude": 144.897644,
     "label": "19-21 Douglas Parade, Williamstown, VIC, Australia"
+  },
+  {
+    "Suburb": "Winchelsea",
+    "Site_streetaddress": "20 Willis Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3241",
+    "confidence": 1,
+    "latitude": -38.239569,
+    "longitude": 143.992976,
+    "label": "20 Willis Street, Winchelsea, VIC, Australia"
   },
   {
     "Suburb": "Windsor",
