@@ -4435,13 +4435,13 @@
   },
   {
     "Suburb": "Fairfield",
-    "Site_streetaddress": "283-285 Arthur Street",
+    "Site_streetaddress": "348 Darebin Road",
     "Site_state": "VIC",
-    "Site_postcode": "3078",
+    "Site_postcode": "3028",
     "confidence": 1,
-    "latitude": -37.769057,
-    "longitude": 145.021136,
-    "label": "283-285 Arthur Street, Fairfield, VIC, Australia"
+    "latitude": -37.766794,
+    "longitude": 145.0274623,
+    "label": "Fairfield, VIC, Australia"
   },
   {
     "Suburb": "Fawkner",
@@ -7530,6 +7530,16 @@
   },
   {
     "Suburb": "Fairfield",
+    "Site_streetaddress": "283-285 Arthur Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3078",
+    "confidence": 1,
+    "latitude": -37.769057,
+    "longitude": 145.021136,
+    "label": "283-285 Arthur Street, Fairfield, VIC, Australia"
+  },
+  {
+    "Suburb": "Fairfield",
     "Site_streetaddress": "416 Heidleberg Road",
     "Site_state": "VIC",
     "Site_postcode": "3078",
@@ -7564,16 +7574,6 @@
     "Site_postcode": "3078",
     "confidence": 1,
     "latitude": -37.7667897,
-    "longitude": 145.0274623,
-    "label": "Fairfield, VIC, Australia"
-  },
-  {
-    "Suburb": "Fairfield",
-    "Site_streetaddress": "348 Darebin Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3028",
-    "confidence": 1,
-    "latitude": -37.766794,
     "longitude": 145.0274623,
     "label": "Fairfield, VIC, Australia"
   },
