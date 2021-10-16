@@ -2200,6 +2200,28 @@
     "longitude": 144.668105
   },
   {
+    "_id": 111,
+    "Suburb": "Warrnambool",
+    "Site_title": "Deep Blue Hot Springs Warrnambool",
+    "Site_streetaddress": "1 Worm Bay Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3280",
+    "Exposure_date_dtm": "2021-10-02",
+    "Exposure_date": "02/10/2021",
+    "Exposure_time": "2:30pm - 5:30pm",
+    "Notes": "Case attended venue",
+    "Added_date_dtm": "2021-10-08",
+    "Added_date": "08/10/2021",
+    "Added_time": "16:00:00",
+    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
+    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
+    "Exposure_time_start_24": "14:30:00",
+    "Exposure_time_end_24": "17:30:00",
+    "dhid": null,
+    "latitude": -38.3973054,
+    "longitude": 142.4723975
+  },
+  {
     "_id": 103,
     "Suburb": "Tarneit",
     "Site_title": "Child's Play Early Learning Centre Tarneit",
@@ -2311,28 +2333,6 @@
   },
   {
     "_id": 108,
-    "Suburb": "Geelong",
-    "Site_title": "IGNI        ",
-    "Site_streetaddress": "Ryan Place S",
-    "Site_state": "VIC",
-    "Site_postcode": "3220",
-    "Exposure_date_dtm": "2021-10-02",
-    "Exposure_date": "02/10/2021",
-    "Exposure_time": "9:00am - 4:30pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-10-08",
-    "Added_date": "08/10/2021",
-    "Added_time": "16:00:00",
-    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
-    "Exposure_time_start_24": "09:00:00",
-    "Exposure_time_end_24": "16:30:00",
-    "dhid": null,
-    "latitude": -38.1510592,
-    "longitude": 144.3584713
-  },
-  {
-    "_id": 109,
     "Suburb": "Deepdene",
     "Site_title": "Our Lady of Good Counsel Primary School",
     "Site_streetaddress": "12 Whitehorse Road",
@@ -2354,7 +2354,7 @@
     "longitude": 145.06276
   },
   {
-    "_id": 110,
+    "_id": 109,
     "Suburb": "Whittlesea",
     "Site_title": "Journey Early Learning",
     "Site_streetaddress": "2 Egret Place",
@@ -2376,7 +2376,7 @@
     "longitude": 145.113037
   },
   {
-    "_id": 111,
+    "_id": 110,
     "Suburb": "Ballarat",
     "Site_title": "Ballarat Indoor Go-Karts & Laserforce Entertainment Centre",
     "Site_streetaddress": "502 Howitt Street",
@@ -2399,28 +2399,6 @@
   },
   {
     "_id": 112,
-    "Suburb": "Warrnambool",
-    "Site_title": "Deep Blue Hot Springs Warrnambool",
-    "Site_streetaddress": "1 Worm Bay Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3280",
-    "Exposure_date_dtm": "2021-10-02",
-    "Exposure_date": "02/10/2021",
-    "Exposure_time": "2:30pm - 5:30pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-10-08",
-    "Added_date": "08/10/2021",
-    "Added_time": "16:00:00",
-    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
-    "Exposure_time_start_24": "14:30:00",
-    "Exposure_time_end_24": "17:30:00",
-    "dhid": null,
-    "latitude": -38.3973054,
-    "longitude": 142.4723975
-  },
-  {
-    "_id": 113,
     "Suburb": "Drouin",
     "Site_title": "Drouin Primary Early Learning Centre",
     "Site_streetaddress": "School Road",
@@ -2442,7 +2420,7 @@
     "longitude": 145.8544004
   },
   {
-    "_id": 114,
+    "_id": 113,
     "Suburb": "Airport West",
     "Site_title": "Nido Early School - Airport West",
     "Site_streetaddress": "64 Parer Road",
@@ -2464,29 +2442,7 @@
     "longitude": 144.88618
   },
   {
-    "_id": 115,
-    "Suburb": "Queenscliff",
-    "Site_title": "Rolling Pin Pies & Cakes Queenscliff",
-    "Site_streetaddress": "40 Hesse Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3225",
-    "Exposure_date_dtm": "2021-10-02",
-    "Exposure_date": "02/10/2021",
-    "Exposure_time": "2:40pm - 3:50pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-10-07",
-    "Added_date": "07/10/2021",
-    "Added_time": "22:00:00",
-    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
-    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
-    "Exposure_time_start_24": "14:40:00",
-    "Exposure_time_end_24": "15:50:00",
-    "dhid": null,
-    "latitude": -38.266776,
-    "longitude": 144.661222
-  },
-  {
-    "_id": 116,
+    "_id": 114,
     "Suburb": "East Bendigo",
     "Site_title": "RMIT Hanger (Bendigo Airport) East Bendigo",
     "Site_streetaddress": "35 Victa Road",
@@ -2508,51 +2464,7 @@
     "longitude": 144.325581
   },
   {
-    "_id": 130,
-    "Suburb": "Ballarat Central",
-    "Site_title": "Schnitz        ",
-    "Site_streetaddress": "321 Sturt Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3350",
-    "Exposure_date_dtm": "2021-10-02",
-    "Exposure_date": "02/10/2021",
-    "Exposure_time": "1:35pm - 2:45pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-10-06",
-    "Added_date": "06/10/2021",
-    "Added_time": "10:50:00",
-    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
-    "Exposure_time_start_24": "13:35:00",
-    "Exposure_time_end_24": "14:45:00",
-    "dhid": null,
-    "latitude": -37.562022,
-    "longitude": 143.855212
-  },
-  {
-    "_id": 117,
-    "Suburb": "Ocean Grove",
-    "Site_title": "KFC Ocean Grove",
-    "Site_streetaddress": "142 Shell Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3226",
-    "Exposure_date_dtm": "2021-10-02",
-    "Exposure_date": "02/10/2021",
-    "Exposure_time": "11:25am - 4:30pm",
-    "Notes": "Case attended venue. Some individuals will be Tier 1 contacts required to quarantine for 14 days and the Department will be in contact with them directly with this advice.",
-    "Added_date_dtm": "2021-10-07",
-    "Added_date": "07/10/2021",
-    "Added_time": "22:00:00",
-    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
-    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
-    "Exposure_time_start_24": "11:25:00",
-    "Exposure_time_end_24": "16:30:00",
-    "dhid": null,
-    "latitude": -38.259297,
-    "longitude": 144.547599
-  },
-  {
-    "_id": 118,
+    "_id": 115,
     "Suburb": "Colac West",
     "Site_title": "Greg Allan Farm Machinery Colac",
     "Site_streetaddress": "408 Princes Highway",
@@ -2574,7 +2486,7 @@
     "longitude": 143.546348
   },
   {
-    "_id": 119,
+    "_id": 116,
     "Suburb": "Colac West",
     "Site_title": "Greg Allan Farm Machinery Colac",
     "Site_streetaddress": "408 Princes Highway",
@@ -2596,7 +2508,7 @@
     "longitude": 143.546348
   },
   {
-    "_id": 120,
+    "_id": 117,
     "Suburb": "Colac West",
     "Site_title": "Greg Allan Farm Machinery Colac",
     "Site_streetaddress": "408 Princes Highway",
@@ -2618,7 +2530,7 @@
     "longitude": 143.546348
   },
   {
-    "_id": 121,
+    "_id": 118,
     "Suburb": "North Geelong",
     "Site_title": "Seda College Geelong - Multi Geelong Geelong Arena",
     "Site_streetaddress": "110 Victoria Street",
@@ -2640,7 +2552,7 @@
     "longitude": 144.351469
   },
   {
-    "_id": 122,
+    "_id": 119,
     "Suburb": "Narre Warren South",
     "Site_title": "Astra Early Learning - Narre Warren South",
     "Site_streetaddress": "75 Shrives Road",
@@ -2662,7 +2574,7 @@
     "longitude": 145.289303
   },
   {
-    "_id": 123,
+    "_id": 120,
     "Suburb": "Lynbrook",
     "Site_title": "Goodstart Early Learning Lynbrook",
     "Site_streetaddress": "Lynbrook Village Shopping Centre, 10 Harris Street",
@@ -2684,7 +2596,7 @@
     "longitude": 145.254376
   },
   {
-    "_id": 124,
+    "_id": 121,
     "Suburb": "Tarneit",
     "Site_title": "Child's Play Early Learning Centre",
     "Site_streetaddress": "642 Tarneit Road",
@@ -2706,7 +2618,7 @@
     "longitude": 144.668105
   },
   {
-    "_id": 125,
+    "_id": 122,
     "Suburb": "Rockbank",
     "Site_title": "Big Childcare OSHC - Rockbank Primary School",
     "Site_streetaddress": "97/105 Westcott Parade",
@@ -2728,29 +2640,7 @@
     "longitude": 144.662135
   },
   {
-    "_id": 132,
-    "Suburb": "Cheltenham",
-    "Site_title": "Monash Health - Kingston Centre, Ward 5S",
-    "Site_streetaddress": "400 Warringal Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3192",
-    "Exposure_date_dtm": "2021-10-02",
-    "Exposure_date": "02/10/2021",
-    "Exposure_time": "12:00am - 11:59pm",
-    "Notes": "Case attended venue. All visitors are Tier 1 contacts.",
-    "Added_date_dtm": "2021-10-04",
-    "Added_date": "04/10/2021",
-    "Added_time": "13:21:00",
-    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
-    "Exposure_time_start_24": "00:00:00",
-    "Exposure_time_end_24": "23:59:00",
-    "dhid": null,
-    "latitude": -37.9553284,
-    "longitude": 145.0765468
-  },
-  {
-    "_id": 133,
+    "_id": 126,
     "Suburb": "Cheltenham",
     "Site_title": "Monash Health - Kingston Centre, Ward 5S",
     "Site_streetaddress": "400 Warringal Road",
