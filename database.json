@@ -4435,13 +4435,13 @@
   },
   {
     "Suburb": "Fairfield",
-    "Site_streetaddress": "86 Station Street",
+    "Site_streetaddress": "40 Gillies Street",
     "Site_state": "VIC",
     "Site_postcode": "3078",
     "confidence": 1,
-    "latitude": -37.778475,
-    "longitude": 145.017989,
-    "label": "86 Station Street, Fairfield, VIC, Australia"
+    "latitude": -37.780495,
+    "longitude": 145.016512,
+    "label": "40 Gillies Street, Fairfield, VIC, Australia"
   },
   {
     "Suburb": "Fawkner",
@@ -7530,6 +7530,16 @@
   },
   {
     "Suburb": "Fairfield",
+    "Site_streetaddress": "86 Station Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3078",
+    "confidence": 1,
+    "latitude": -37.778475,
+    "longitude": 145.017989,
+    "label": "86 Station Street, Fairfield, VIC, Australia"
+  },
+  {
+    "Suburb": "Fairfield",
     "Site_streetaddress": "348 Darebin Road",
     "Site_state": "VIC",
     "Site_postcode": "3078",
@@ -7566,16 +7576,6 @@
     "confidence": 1,
     "latitude": -37.7837353,
     "longitude": 145.0142354
-  },
-  {
-    "Suburb": "Fairfield",
-    "Site_streetaddress": "40 Gillies Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3078",
-    "confidence": 1,
-    "latitude": -37.780495,
-    "longitude": 145.016512,
-    "label": "40 Gillies Street, Fairfield, VIC, Australia"
   },
   {
     "Suburb": "Geelong",
