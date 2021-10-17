@@ -116,16 +116,6 @@
     "label": "Victoria, Australia"
   },
   {
-    "Suburb": "South Ballarat",
-    "Site_streetaddress": "950 Humffray Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3350",
-    "confidence": 0.4,
-    "latitude": -37.563892,
-    "longitude": 143.852395,
-    "label": "Ballarat, VIC, Australia"
-  },
-  {
     "Suburb": "Bendigo",
     "Site_streetaddress": "1/94 Nolan Street",
     "Site_state": "VIC",
@@ -164,6 +154,16 @@
     "latitude": -37.7512,
     "longitude": 144.91246,
     "label": "Essendon, VIC, Australia"
+  },
+  {
+    "Suburb": "Maiden Gully",
+    "Site_streetaddress": "Westbury Boulevard",
+    "Site_state": "VIC",
+    "Site_postcode": "3551",
+    "confidence": 0.6,
+    "latitude": -36.7525,
+    "longitude": 144.20717,
+    "label": "Maiden Gully, VIC, Australia"
   },
   {
     "Suburb": "Airport West",
@@ -1709,6 +1709,16 @@
     "latitude": -36.761291,
     "longitude": 144.281393,
     "label": "314 Lyttleton Terrace, Bendigo, VIC, Australia"
+  },
+  {
+    "Suburb": "Bendigo",
+    "Site_streetaddress": "14-18 High Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3550",
+    "confidence": 1,
+    "latitude": -36.760471,
+    "longitude": 144.27634,
+    "label": "14-18 High Street, Bendigo, VIC, Australia"
   },
   {
     "Suburb": "Bentleigh",
@@ -4437,9 +4447,9 @@
     "Suburb": "Fairfield",
     "Site_streetaddress": "348 Darebin Road",
     "Site_state": "VIC",
-    "Site_postcode": "3028",
+    "Site_postcode": "3078",
     "confidence": 1,
-    "latitude": -37.766794,
+    "latitude": -37.7667897,
     "longitude": 145.0274623,
     "label": "Fairfield, VIC, Australia"
   },
@@ -7530,6 +7540,16 @@
   },
   {
     "Suburb": "Fairfield",
+    "Site_streetaddress": "348 Darebin Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3028",
+    "confidence": 1,
+    "latitude": -37.766794,
+    "longitude": 145.0274623,
+    "label": "Fairfield, VIC, Australia"
+  },
+  {
+    "Suburb": "Fairfield",
     "Site_streetaddress": "283-285 Arthur Street",
     "Site_state": "VIC",
     "Site_postcode": "3078",
@@ -7566,16 +7586,6 @@
     "latitude": -37.778475,
     "longitude": 145.017989,
     "label": "86 Station Street, Fairfield, VIC, Australia"
-  },
-  {
-    "Suburb": "Fairfield",
-    "Site_streetaddress": "348 Darebin Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3078",
-    "confidence": 1,
-    "latitude": -37.7667897,
-    "longitude": 145.0274623,
-    "label": "Fairfield, VIC, Australia"
   },
   {
     "Suburb": "Geelong",
@@ -10058,16 +10068,6 @@
     "longitude": 145.254376
   },
   {
-    "Suburb": "Maiden Gully",
-    "Site_streetaddress": "Westbury Boulevard",
-    "Site_state": "VIC",
-    "Site_postcode": "3551",
-    "confidence": 0.6,
-    "latitude": -36.7525,
-    "longitude": 144.20717,
-    "label": "Maiden Gully, VIC, Australia"
-  },
-  {
     "Suburb": "Ravenhall",
     "Site_streetaddress": "1/265 Robinsons Road",
     "Site_state": "VIC",
@@ -10076,24 +10076,6 @@
     "latitude": -37.787925,
     "longitude": 144.744794,
     "label": "Ravenhall, VIC, Australia"
-  },
-  {
-    "Suburb": "South Geelong",
-    "Site_streetaddress": "138 Fyans Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3220",
-    "latitude": -38.163762,
-    "longitude": 144.3579944
-  },
-  {
-    "Suburb": "South Geelong",
-    "Site_streetaddress": "1 Victoria Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3220",
-    "confidence": 0.6,
-    "latitude": -38.159477,
-    "longitude": 144.356048,
-    "label": "South Geelong, VIC, Australia"
   },
   {
     "Suburb": "Trafalgar",
@@ -13303,6 +13285,44 @@
     "latitude": -34.308851,
     "longitude": 142.186787,
     "label": "57-59 Jacaranda Street, Red Cliffs, VIC, Australia"
+  },
+  {
+    "Suburb": "Redan",
+    "Site_streetaddress": "601/603 La Trobe Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3350",
+    "confidence": 1,
+    "latitude": -37.572922,
+    "longitude": 143.835346,
+    "label": "603 La Trobe Street, Redan, VIC, Australia"
+  },
+  {
+    "Suburb": "South Ballarat",
+    "Site_streetaddress": "950 Humffray Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3350",
+    "confidence": 0.4,
+    "latitude": -37.563892,
+    "longitude": 143.852395,
+    "label": "Ballarat, VIC, Australia"
+  },
+  {
+    "Suburb": "South Geelong",
+    "Site_streetaddress": "138 Fyans Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3220",
+    "latitude": -38.163762,
+    "longitude": 144.3579944
+  },
+  {
+    "Suburb": "South Geelong",
+    "Site_streetaddress": "1 Victoria Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3220",
+    "confidence": 0.6,
+    "latitude": -38.159477,
+    "longitude": 144.356048,
+    "label": "South Geelong, VIC, Australia"
   },
   {
     "Suburb": "Reservoir",
@@ -18715,6 +18735,16 @@
     "latitude": -37.352723,
     "longitude": 144.532693,
     "label": "146 High Street, Woodend, VIC, Australia"
+  },
+  {
+    "Suburb": "Woodend",
+    "Site_streetaddress": "69 High Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3442",
+    "confidence": 1,
+    "latitude": -37.357449,
+    "longitude": 144.526854,
+    "label": "69 High Street, Woodend, VIC, Australia"
   },
   {
     "Suburb": "Wyndham Vale",
