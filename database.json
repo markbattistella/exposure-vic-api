@@ -116,16 +116,6 @@
     "label": "Victoria, Australia"
   },
   {
-    "Suburb": "South Ballarat",
-    "Site_streetaddress": "950 Humffray Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3350",
-    "confidence": 0.4,
-    "latitude": -37.563892,
-    "longitude": 143.852395,
-    "label": "Ballarat, VIC, Australia"
-  },
-  {
     "Suburb": "Bendigo",
     "Site_streetaddress": "1/94 Nolan Street",
     "Site_state": "VIC",
@@ -164,6 +154,16 @@
     "latitude": -37.7512,
     "longitude": 144.91246,
     "label": "Essendon, VIC, Australia"
+  },
+  {
+    "Suburb": "Maiden Gully",
+    "Site_streetaddress": "Westbury Boulevard",
+    "Site_state": "VIC",
+    "Site_postcode": "3551",
+    "confidence": 0.6,
+    "latitude": -36.7525,
+    "longitude": 144.20717,
+    "label": "Maiden Gully, VIC, Australia"
   },
   {
     "Suburb": "Airport West",
@@ -4445,13 +4445,13 @@
   },
   {
     "Suburb": "Fairfield",
-    "Site_streetaddress": "348 Darebin Road",
+    "Site_streetaddress": "86 Station Street",
     "Site_state": "VIC",
     "Site_postcode": "3078",
     "confidence": 1,
-    "latitude": -37.7667897,
-    "longitude": 145.0274623,
-    "label": "Fairfield, VIC, Australia"
+    "latitude": -37.778475,
+    "longitude": 145.017989,
+    "label": "86 Station Street, Fairfield, VIC, Australia"
   },
   {
     "Suburb": "Fawkner",
@@ -7542,6 +7542,16 @@
     "Suburb": "Fairfield",
     "Site_streetaddress": "348 Darebin Road",
     "Site_state": "VIC",
+    "Site_postcode": "3078",
+    "confidence": 1,
+    "latitude": -37.7667897,
+    "longitude": 145.0274623,
+    "label": "Fairfield, VIC, Australia"
+  },
+  {
+    "Suburb": "Fairfield",
+    "Site_streetaddress": "348 Darebin Road",
+    "Site_state": "VIC",
     "Site_postcode": "3028",
     "confidence": 1,
     "latitude": -37.766794,
@@ -7576,16 +7586,6 @@
     "latitude": -37.780495,
     "longitude": 145.016512,
     "label": "40 Gillies Street, Fairfield, VIC, Australia"
-  },
-  {
-    "Suburb": "Fairfield",
-    "Site_streetaddress": "86 Station Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3078",
-    "confidence": 1,
-    "latitude": -37.778475,
-    "longitude": 145.017989,
-    "label": "86 Station Street, Fairfield, VIC, Australia"
   },
   {
     "Suburb": "Geelong",
@@ -10068,44 +10068,6 @@
     "longitude": 145.254376
   },
   {
-    "Suburb": "Maiden Gully",
-    "Site_streetaddress": "Westbury Boulevard",
-    "Site_state": "VIC",
-    "Site_postcode": "3551",
-    "confidence": 0.6,
-    "latitude": -36.7525,
-    "longitude": 144.20717,
-    "label": "Maiden Gully, VIC, Australia"
-  },
-  {
-    "Suburb": "Ravenhall",
-    "Site_streetaddress": "1/265 Robinsons Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3023",
-    "confidence": 0.6,
-    "latitude": -37.787925,
-    "longitude": 144.744794,
-    "label": "Ravenhall, VIC, Australia"
-  },
-  {
-    "Suburb": "South Geelong",
-    "Site_streetaddress": "138 Fyans Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3220",
-    "latitude": -38.163762,
-    "longitude": 144.3579944
-  },
-  {
-    "Suburb": "South Geelong",
-    "Site_streetaddress": "1 Victoria Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3220",
-    "confidence": 0.6,
-    "latitude": -38.159477,
-    "longitude": 144.356048,
-    "label": "South Geelong, VIC, Australia"
-  },
-  {
     "Suburb": "Trafalgar",
     "Site_streetaddress": "Princes Highway",
     "Site_state": "VIC",
@@ -10409,6 +10371,44 @@
     "Site_postcode": "3048",
     "latitude": -37.6506375,
     "longitude": 144.9199112
+  },
+  {
+    "Suburb": "South Ballarat",
+    "Site_streetaddress": "950 Humffray Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3350",
+    "confidence": 0.4,
+    "latitude": -37.563892,
+    "longitude": 143.852395,
+    "label": "Ballarat, VIC, Australia"
+  },
+  {
+    "Suburb": "Ravenhall",
+    "Site_streetaddress": "1/265 Robinsons Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3023",
+    "confidence": 0.6,
+    "latitude": -37.787925,
+    "longitude": 144.744794,
+    "label": "Ravenhall, VIC, Australia"
+  },
+  {
+    "Suburb": "South Geelong",
+    "Site_streetaddress": "138 Fyans Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3220",
+    "latitude": -38.163762,
+    "longitude": 144.3579944
+  },
+  {
+    "Suburb": "South Geelong",
+    "Site_streetaddress": "1 Victoria Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3220",
+    "confidence": 0.6,
+    "latitude": -38.159477,
+    "longitude": 144.356048,
+    "label": "South Geelong, VIC, Australia"
   },
   {
     "Suburb": "Melbourne",
@@ -12812,6 +12812,16 @@
     "latitude": -38.0684504,
     "longitude": 145.1428401,
     "label": "Patterson Lakes, VIC, Australia"
+  },
+  {
+    "Suburb": "Paynesville",
+    "Site_streetaddress": "85A Esplanade",
+    "Site_state": "VIC",
+    "Site_postcode": "3880",
+    "confidence": 1,
+    "latitude": -37.918631,
+    "longitude": 147.725203,
+    "label": "85A Esplanade, Paynesville, VIC, Australia"
   },
   {
     "Suburb": "Point Cook",
