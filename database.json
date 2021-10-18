@@ -4447,9 +4447,9 @@
     "Suburb": "Fairfield",
     "Site_streetaddress": "348 Darebin Road",
     "Site_state": "VIC",
-    "Site_postcode": "3028",
+    "Site_postcode": "3078",
     "confidence": 1,
-    "latitude": -37.766794,
+    "latitude": -37.7667897,
     "longitude": 145.0274623,
     "label": "Fairfield, VIC, Australia"
   },
@@ -7540,6 +7540,16 @@
   },
   {
     "Suburb": "Fairfield",
+    "Site_streetaddress": "348 Darebin Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3028",
+    "confidence": 1,
+    "latitude": -37.766794,
+    "longitude": 145.0274623,
+    "label": "Fairfield, VIC, Australia"
+  },
+  {
+    "Suburb": "Fairfield",
     "Site_streetaddress": "283-285 Arthur Street",
     "Site_state": "VIC",
     "Site_postcode": "3078",
@@ -7576,16 +7586,6 @@
     "latitude": -37.778475,
     "longitude": 145.017989,
     "label": "86 Station Street, Fairfield, VIC, Australia"
-  },
-  {
-    "Suburb": "Fairfield",
-    "Site_streetaddress": "348 Darebin Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3078",
-    "confidence": 1,
-    "latitude": -37.7667897,
-    "longitude": 145.0274623,
-    "label": "Fairfield, VIC, Australia"
   },
   {
     "Suburb": "Geelong",
