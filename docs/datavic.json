@@ -501,7 +501,7 @@
     "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
     "Exposure_time_start_24": "22:32:00",
     "Exposure_time_end_24": "00:00:00",
-    "dhid": null,
+    "dhid": "Y2H3",
     "latitude": -36.758494,
     "longitude": 144.281175
   },
@@ -567,7 +567,7 @@
     "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
     "Exposure_time_start_24": "06:30:00",
     "Exposure_time_end_24": "17:30:00",
-    "dhid": null,
+    "dhid": "Y9Z2",
     "latitude": -38.005867,
     "longitude": 145.167886
   },
@@ -589,7 +589,7 @@
     "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
     "Exposure_time_start_24": "09:30:00",
     "Exposure_time_end_24": "18:00:00",
-    "dhid": null,
+    "dhid": "Y6L6",
     "latitude": -37.770374,
     "longitude": 144.766901
   },
@@ -611,7 +611,7 @@
     "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
     "Exposure_time_start_24": "09:00:00",
     "Exposure_time_end_24": "17:30:00",
-    "dhid": null,
+    "dhid": "Y6B4",
     "latitude": -37.770374,
     "longitude": 144.766901
   },
@@ -633,7 +633,7 @@
     "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
     "Exposure_time_start_24": "09:00:00",
     "Exposure_time_end_24": "16:30:00",
-    "dhid": null,
+    "dhid": "Y5G7",
     "latitude": -37.770374,
     "longitude": 144.766901
   },
@@ -655,7 +655,7 @@
     "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
     "Exposure_time_start_24": "12:30:00",
     "Exposure_time_end_24": "14:30:00",
-    "dhid": null,
+    "dhid": "Y4F6",
     "latitude": -37.565747,
     "longitude": 143.854049
   },
@@ -677,7 +677,7 @@
     "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
     "Exposure_time_start_24": "06:30:00",
     "Exposure_time_end_24": "15:30:00",
-    "dhid": null,
+    "dhid": "Y7Z4",
     "latitude": -38.002249,
     "longitude": 144.567251
   },
@@ -699,7 +699,7 @@
     "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
     "Exposure_time_start_24": "18:20:00",
     "Exposure_time_end_24": "21:00:00",
-    "dhid": null,
+    "dhid": "Y5R2",
     "latitude": -36.906362,
     "longitude": 145.235925
   },
@@ -721,31 +721,9 @@
     "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
     "Exposure_time_start_24": "18:00:00",
     "Exposure_time_end_24": "22:30:00",
-    "dhid": null,
+    "dhid": "Z3R2",
     "latitude": -37.014348,
     "longitude": 143.480452
-  },
-  {
-    "_id": 52,
-    "Suburb": "Bendigo",
-    "Site_title": "Honeyeater Salon",
-    "Site_streetaddress": "96 Pall Mall",
-    "Site_state": "VIC",
-    "Site_postcode": "3550",
-    "Exposure_date_dtm": "2021-10-09",
-    "Exposure_date": "09/10/2021",
-    "Exposure_time": "8:00am - 3:30pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-10-13",
-    "Added_date": "13/10/2021",
-    "Added_time": "21:10:00",
-    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
-    "Exposure_time_start_24": "08:00:00",
-    "Exposure_time_end_24": "15:30:00",
-    "dhid": null,
-    "latitude": -36.757609,
-    "longitude": 144.281765
   },
   {
     "_id": 34,
@@ -765,7 +743,7 @@
     "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
     "Exposure_time_start_24": "13:00:00",
     "Exposure_time_end_24": "14:45:00",
-    "dhid": null,
+    "dhid": "Y6K5",
     "latitude": -38.239569,
     "longitude": 143.992976
   },
@@ -787,7 +765,7 @@
     "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
     "Exposure_time_start_24": "09:00:00",
     "Exposure_time_end_24": "16:30:00",
-    "dhid": null,
+    "dhid": "Z4K2",
     "latitude": -37.7512,
     "longitude": 144.91246
   },
@@ -809,7 +787,7 @@
     "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
     "Exposure_time_start_24": "10:15:00",
     "Exposure_time_end_24": "13:30:00",
-    "dhid": null,
+    "dhid": "Z2N6",
     "latitude": -38.203116,
     "longitude": 144.341167
   },
@@ -831,7 +809,7 @@
     "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
     "Exposure_time_start_24": "12:20:00",
     "Exposure_time_end_24": "15:30:00",
-    "dhid": null,
+    "dhid": "Y3D4",
     "latitude": -38.158603,
     "longitude": 144.336285
   },
@@ -853,7 +831,7 @@
     "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
     "Exposure_time_start_24": "12:30:00",
     "Exposure_time_end_24": "14:15:00",
-    "dhid": null,
+    "dhid": "Y5V2",
     "latitude": -37.555446,
     "longitude": 143.859229
   },
@@ -875,7 +853,7 @@
     "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
     "Exposure_time_start_24": "18:15:00",
     "Exposure_time_end_24": "20:00:00",
-    "dhid": null,
+    "dhid": "Z9E7\r",
     "latitude": -38.159477,
     "longitude": 144.356048
   },
@@ -897,7 +875,7 @@
     "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
     "Exposure_time_start_24": "20:00:00",
     "Exposure_time_end_24": "22:00:00",
-    "dhid": null,
+    "dhid": "Z6P5",
     "latitude": -38.331982,
     "longitude": 144.326167
   },
@@ -919,7 +897,7 @@
     "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
     "Exposure_time_start_24": "17:30:00",
     "Exposure_time_end_24": "19:30:00",
-    "dhid": null,
+    "dhid": "Z6S7",
     "latitude": -38.157285,
     "longitude": 144.362425
   },
@@ -941,7 +919,7 @@
     "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
     "Exposure_time_start_24": "17:30:00",
     "Exposure_time_end_24": "19:30:00",
-    "dhid": null,
+    "dhid": "Y3X2",
     "latitude": -38.157285,
     "longitude": 144.362425
   },
@@ -963,7 +941,7 @@
     "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
     "Exposure_time_start_24": "14:00:00",
     "Exposure_time_end_24": "15:30:00",
-    "dhid": null,
+    "dhid": "Z3A7",
     "latitude": -37.056284,
     "longitude": 142.780988
   },
@@ -985,7 +963,7 @@
     "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
     "Exposure_time_start_24": "18:30:00",
     "Exposure_time_end_24": "19:30:00",
-    "dhid": null,
+    "dhid": "Z3E6",
     "latitude": -37.145184,
     "longitude": 142.521771
   },
@@ -1007,7 +985,7 @@
     "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
     "Exposure_time_start_24": "19:30:00",
     "Exposure_time_end_24": "20:00:00",
-    "dhid": null,
+    "dhid": "Z7N8",
     "latitude": -37.140406,
     "longitude": 142.519316
   },
@@ -1029,7 +1007,7 @@
     "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
     "Exposure_time_start_24": "11:00:00",
     "Exposure_time_end_24": "11:30:00",
-    "dhid": null,
+    "dhid": "Z9Q9",
     "latitude": -37.138918,
     "longitude": 142.51941
   },
@@ -1051,7 +1029,7 @@
     "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
     "Exposure_time_start_24": "18:40:00",
     "Exposure_time_end_24": "20:30:00",
-    "dhid": null,
+    "dhid": "Z7G4",
     "latitude": -37.138918,
     "longitude": 142.51941
   },
@@ -1073,7 +1051,7 @@
     "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
     "Exposure_time_start_24": "11:15:00",
     "Exposure_time_end_24": "13:00:00",
-    "dhid": null,
+    "dhid": "Y6Q3",
     "latitude": -37.171815,
     "longitude": 142.537765
   },
@@ -1095,6 +1073,28 @@
     "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
     "Exposure_time_start_24": "09:00:00",
     "Exposure_time_end_24": "20:30:00",
+    "dhid": null,
+    "latitude": -36.757609,
+    "longitude": 144.281765
+  },
+  {
+    "_id": 52,
+    "Suburb": "Bendigo",
+    "Site_title": "Honeyeater Salon",
+    "Site_streetaddress": "96 Pall Mall",
+    "Site_state": "VIC",
+    "Site_postcode": "3550",
+    "Exposure_date_dtm": "2021-10-09",
+    "Exposure_date": "09/10/2021",
+    "Exposure_time": "8:00am - 3:30pm",
+    "Notes": "Case attended venue",
+    "Added_date_dtm": "2021-10-13",
+    "Added_date": "13/10/2021",
+    "Added_time": "21:10:00",
+    "Advice_title": "Tier 1 - Get tested immediately and quarantine for 14 days from exposure",
+    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
+    "Exposure_time_start_24": "08:00:00",
+    "Exposure_time_end_24": "15:30:00",
     "dhid": null,
     "latitude": -36.757609,
     "longitude": 144.281765
