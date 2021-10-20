@@ -1731,6 +1731,16 @@
     "label": "14-18 High Street, Bendigo, VIC, Australia"
   },
   {
+    "Suburb": "Bendigo",
+    "Site_streetaddress": "53 Bull Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3550",
+    "confidence": 1,
+    "latitude": -36.758381,
+    "longitude": 144.281599,
+    "label": "53 Bull Street, Bendigo, VIC, Australia"
+  },
+  {
     "Suburb": "Bentleigh",
     "Site_streetaddress": "795 Nepean Highway",
     "Site_state": "VIC",
