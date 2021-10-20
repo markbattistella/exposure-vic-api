@@ -156,16 +156,6 @@
     "label": "Deer Park, VIC, Australia"
   },
   {
-    "Suburb": "Delacombe",
-    "Site_streetaddress": "17/315 Glenelg Highway",
-    "Site_state": "VIC",
-    "Site_postcode": "3351",
-    "confidence": 0.6,
-    "latitude": -37.57993,
-    "longitude": 143.806578,
-    "label": "Delacombe, VIC, Australia"
-  },
-  {
     "Suburb": "Hepburn Springs",
     "Site_streetaddress": "Mineral Springs Reserve Road",
     "Site_state": "VIC",
@@ -5538,6 +5528,26 @@
     "latitude": -37.342624,
     "longitude": 144.142771,
     "label": "55 Vincent Street, Daylesford, VIC, Australia"
+  },
+  {
+    "Suburb": "Daylesford",
+    "Site_streetaddress": "39 Vincent Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3460",
+    "confidence": 1,
+    "latitude": -37.342198,
+    "longitude": 144.142854,
+    "label": "39 Vincent Street, Daylesford, VIC, Australia"
+  },
+  {
+    "Suburb": "Delacombe",
+    "Site_streetaddress": "17/315 Glenelg Highway",
+    "Site_state": "VIC",
+    "Site_postcode": "3351",
+    "confidence": 0.6,
+    "latitude": -37.57993,
+    "longitude": 143.806578,
+    "label": "Delacombe, VIC, Australia"
   },
   {
     "Suburb": "Deepdene",
@@ -15024,6 +15034,26 @@
     "label": "617 Wyndham Street, Shepparton, VIC, Australia"
   },
   {
+    "Suburb": "Shepparton",
+    "Site_streetaddress": "172 Maude Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3630",
+    "confidence": 1,
+    "latitude": -36.378893,
+    "longitude": 145.40099,
+    "label": "172 Maude Street, Shepparton, VIC, Australia"
+  },
+  {
+    "Suburb": "Shepparton",
+    "Site_streetaddress": "173 Corio Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3630",
+    "confidence": 1,
+    "latitude": -36.381013,
+    "longitude": 145.403709,
+    "label": "173 Corio Street, Shepparton, VIC, Australia"
+  },
+  {
     "Suburb": "Shepparton East",
     "Site_streetaddress": "485-507 Channel Road",
     "Site_state": "VIC",
@@ -15149,6 +15179,16 @@
     "confidence": 1,
     "latitude": -38.161946,
     "longitude": 144.3506153,
+    "label": "South Geelong, VIC, Australia"
+  },
+  {
+    "Suburb": "South Geelong",
+    "Site_streetaddress": "1/92 Balliang Sreet",
+    "Site_state": "VIC",
+    "Site_postcode": "3220",
+    "confidence": 0.6,
+    "latitude": -38.159477,
+    "longitude": 144.356048,
     "label": "South Geelong, VIC, Australia"
   },
   {
