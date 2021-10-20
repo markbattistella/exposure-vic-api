@@ -4454,885 +4454,6 @@
     "label": "700 Sydney Road, Coburg North, VIC, Australia"
   },
   {
-    "Suburb": "Fairfield",
-    "Site_streetaddress": "348 Darebin Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3028",
-    "confidence": 1,
-    "latitude": -37.766794,
-    "longitude": 145.0274623,
-    "label": "Fairfield, VIC, Australia"
-  },
-  {
-    "Suburb": "Fairfield",
-    "Site_streetaddress": "283-285 Arthur Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3078",
-    "confidence": 1,
-    "latitude": -37.769057,
-    "longitude": 145.021136,
-    "label": "283-285 Arthur Street, Fairfield, VIC, Australia"
-  },
-  {
-    "Suburb": "Fawkner",
-    "Site_streetaddress": "1218/1220 Sydney Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3060",
-    "latitude": -37.7057885,
-    "longitude": 144.9589562
-  },
-  {
-    "Suburb": "Fawkner",
-    "Site_streetaddress": "Baird Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3060",
-    "confidence": 1,
-    "latitude": -37.7053375,
-    "longitude": 144.9688806,
-    "label": "Fawkner, VIC, Australia"
-  },
-  {
-    "Suburb": "Fawkner",
-    "Site_streetaddress": "1274 Sydney Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3060",
-    "confidence": 1,
-    "latitude": -37.700627,
-    "longitude": 144.960247,
-    "label": "1274 Sydney Road, Fawkner, VIC, Australia"
-  },
-  {
-    "Suburb": "Fawkner",
-    "Site_streetaddress": "1410 Sydney Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3060",
-    "confidence": 1,
-    "latitude": -37.6903352,
-    "longitude": 144.9590144,
-    "label": "Fawkner, VIC, Australia"
-  },
-  {
-    "Suburb": "Fawkner",
-    "Site_streetaddress": "1410 Syndey Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3060",
-    "confidence": 1,
-    "latitude": -37.6903352,
-    "longitude": 144.9590144,
-    "label": "Fawkner, VIC, Australia"
-  },
-  {
-    "Suburb": "Fawkner",
-    "Site_streetaddress": "56/58 Major Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3060",
-    "confidence": 1,
-    "latitude": -37.707431,
-    "longitude": 144.970201,
-    "label": "58 Major Road, Fawkner, VIC, Australia"
-  },
-  {
-    "Suburb": "Fawkner",
-    "Site_streetaddress": "1218-1220 Sydney Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3060",
-    "confidence": 1,
-    "latitude": -37.7057874,
-    "longitude": 144.9605977,
-    "label": "Fawkner, VIC, Australia"
-  },
-  {
-    "Suburb": "Fawkner",
-    "Site_streetaddress": "1293 Sydney Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3060",
-    "confidence": 1,
-    "latitude": -37.700777,
-    "longitude": 144.959562,
-    "label": "1293 Sydney Road, Fawkner, VIC, Australia"
-  },
-  {
-    "Suburb": "Fawkner",
-    "Site_streetaddress": "1293 Sydney Road ",
-    "Site_state": "VIC",
-    "Site_postcode": "3060",
-    "confidence": 1,
-    "latitude": -37.700777,
-    "longitude": 144.959562,
-    "label": "1293 Sydney Road, Fawkner, VIC, Australia"
-  },
-  {
-    "Suburb": "Fawkner",
-    "Site_streetaddress": "65 Alec Crescent",
-    "Site_state": "VIC",
-    "Site_postcode": "3060",
-    "confidence": 1,
-    "latitude": -37.694511,
-    "longitude": 144.968242,
-    "label": "65 Alec Crescent, Fawkner, VIC, Australia"
-  },
-  {
-    "Suburb": "Fawkner",
-    "Site_streetaddress": "36 Bonwick Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3060",
-    "confidence": 1,
-    "latitude": -37.702668,
-    "longitude": 144.965715,
-    "label": "36 Bonwick Street, Fawkner, VIC, Australia"
-  },
-  {
-    "Suburb": "Fawkner",
-    "Site_streetaddress": "111 Anderson Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3060",
-    "confidence": 1,
-    "latitude": -37.695737,
-    "longitude": 144.966698,
-    "label": "111 Anderson Road, Fawkner, VIC, Australia"
-  },
-  {
-    "Suburb": "Fawkner",
-    "Site_streetaddress": "1346 Sydney Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3060",
-    "confidence": 1,
-    "latitude": -37.695114,
-    "longitude": 144.959366,
-    "label": "1346 Sydney Road, Fawkner, VIC, Australia"
-  },
-  {
-    "Suburb": "Fawkner",
-    "Site_streetaddress": "1114 Sydney Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3060",
-    "confidence": 1,
-    "latitude": -37.714303,
-    "longitude": 144.962451,
-    "label": "1114 Sydney Road, Fawkner, VIC, Australia"
-  },
-  {
-    "Suburb": "Ferntree Gully",
-    "Site_streetaddress": "1015 Burwood Highway",
-    "Site_state": "VIC",
-    "Site_postcode": "3156",
-    "confidence": 1,
-    "latitude": -37.888149,
-    "longitude": 145.290216,
-    "label": "1015 Burwood Highway, Ferntree Gully, VIC, Australia"
-  },
-  {
-    "Suburb": "Fitzroy",
-    "Site_streetaddress": "111 Moor Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3065",
-    "confidence": 1,
-    "latitude": -37.801544,
-    "longitude": 144.978678,
-    "label": "111 Moor Street, Fitzroy, VIC, Australia"
-  },
-  {
-    "Suburb": "Fitzroy",
-    "Site_streetaddress": "140 Brunswick Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3065",
-    "confidence": 1,
-    "latitude": -37.803564,
-    "longitude": 144.977887,
-    "label": "140/140 Brunswick Street, Fitzroy, VIC, Australia"
-  },
-  {
-    "Suburb": "Fitzroy",
-    "Site_streetaddress": "206-210 Brunswick Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3065",
-    "confidence": 1,
-    "latitude": -37.801275,
-    "longitude": 144.978219,
-    "label": "206-210 Brunswick Street, Fitzroy, VIC, Australia"
-  },
-  {
-    "Suburb": "Fitzroy",
-    "Site_streetaddress": "30-32 Gertrude Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3065",
-    "confidence": 1,
-    "latitude": -37.805689,
-    "longitude": 144.975186,
-    "label": "30-32 Gertrude Street, Fitzroy, VIC, Australia"
-  },
-  {
-    "Suburb": "Fitzroy",
-    "Site_streetaddress": "156 Napier Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3065",
-    "confidence": 1,
-    "latitude": -37.803325,
-    "longitude": 144.980049,
-    "label": "156 Napier Street, Fitzroy, VIC, Australia"
-  },
-  {
-    "Suburb": "Fitzroy",
-    "Site_streetaddress": "380 Brunswick Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3065",
-    "confidence": 1,
-    "latitude": -37.795848,
-    "longitude": 144.979101,
-    "label": "380 Brunswick Street, Fitzroy, VIC, Australia"
-  },
-  {
-    "Suburb": "Fitzroy",
-    "Site_streetaddress": "424-428 Brunswick Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3065",
-    "confidence": 1,
-    "latitude": -37.79423,
-    "longitude": 144.9794,
-    "label": "424-428 Brunswick Street, Fitzroy, VIC, Australia"
-  },
-  {
-    "Suburb": "Fitzroy",
-    "Site_streetaddress": "186 Nicholson Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3065",
-    "confidence": 1,
-    "latitude": -37.799393,
-    "longitude": 144.974867,
-    "label": "186 Nicholson Street, Fitzroy, VIC, Australia"
-  },
-  {
-    "Suburb": "Fitzroy North",
-    "Site_streetaddress": "597 Brunswick Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3068",
-    "confidence": 1,
-    "latitude": -37.789172,
-    "longitude": 144.979809,
-    "label": "597 Brunswick Street, Fitzroy North, VIC, Australia"
-  },
-  {
-    "Suburb": "Fitzroy North",
-    "Site_streetaddress": "300 Queens Parade",
-    "Site_state": "VIC",
-    "Site_postcode": "3068",
-    "confidence": 1,
-    "latitude": -37.788748,
-    "longitude": 144.989691,
-    "label": "300 Queens Parade, Fitzroy North, VIC, Australia"
-  },
-  {
-    "Suburb": "Fitzroy North",
-    "Site_streetaddress": "100 Scotchmer Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3068",
-    "confidence": 1,
-    "latitude": -37.783291,
-    "longitude": 144.98215,
-    "label": "100 Scotchmer Street, Fitzroy North, VIC, Australia"
-  },
-  {
-    "Suburb": "Fitzroy North",
-    "Site_streetaddress": "138 Barkly Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3068",
-    "confidence": 1,
-    "latitude": -37.778744,
-    "longitude": 144.983058,
-    "label": "138 Barkly Street, Fitzroy North, VIC, Australia"
-  },
-  {
-    "Suburb": "Flemington",
-    "Site_streetaddress": "44 Pin Oaks Crescent",
-    "Site_state": "VIC",
-    "Site_postcode": "3031",
-    "confidence": 1,
-    "latitude": -37.787032,
-    "longitude": 144.9271293,
-    "label": "Flemington, VIC, Australia"
-  },
-  {
-    "Suburb": "Flemington",
-    "Site_streetaddress": "3/390 Racecourse Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3031",
-    "confidence": 1,
-    "latitude": -37.7881327,
-    "longitude": 144.9278147,
-    "label": "Flemington, VIC, Australia"
-  },
-  {
-    "Suburb": "Flemington",
-    "Site_streetaddress": "320 Epsom Road Showgrounds Village",
-    "Site_state": "VIC",
-    "Site_postcode": "3031",
-    "confidence": 1,
-    "latitude": -37.7822222,
-    "longitude": 144.9129005,
-    "label": "Flemington, VIC, Australia"
-  },
-  {
-    "Suburb": "Flemington",
-    "Site_streetaddress": "6-12 Pin Oak Crescent",
-    "Site_state": "VIC",
-    "Site_postcode": "3031",
-    "confidence": 1,
-    "latitude": -37.787885,
-    "longitude": 144.929552,
-    "label": "6-12 Pin Oak Crescent, Flemington, VIC, Australia"
-  },
-  {
-    "Suburb": "Flemington",
-    "Site_streetaddress": "12 Holland Court",
-    "Site_state": "VIC",
-    "Site_postcode": "3031",
-    "confidence": 1,
-    "latitude": -37.788176,
-    "longitude": 144.934713,
-    "label": "12/12 Holland Court, Flemington, VIC, Australia"
-  },
-  {
-    "Suburb": "Flemington",
-    "Site_streetaddress": "126 Racecourse Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3031",
-    "confidence": 1,
-    "latitude": -37.786916,
-    "longitude": 144.937191,
-    "label": "126/126 Racecourse Road, Flemington, VIC, Australia"
-  },
-  {
-    "Suburb": "Flemington",
-    "Site_streetaddress": "442 Racecourse Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3031",
-    "confidence": 1,
-    "latitude": -37.787559,
-    "longitude": 144.92587,
-    "label": "442 Racecourse Road, Flemington, VIC, Australia"
-  },
-  {
-    "Suburb": "Footscray",
-    "Site_streetaddress": "Corner Albert Street and Paisley Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3011",
-    "confidence": 1,
-    "latitude": -37.8010597,
-    "longitude": 144.8952569,
-    "label": "Footscray, VIC, Australia"
-  },
-  {
-    "Suburb": "Footscray",
-    "Site_streetaddress": "18 Albert Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3011",
-    "confidence": 1,
-    "latitude": -37.80126,
-    "longitude": 144.897705,
-    "label": "18 Albert Street, Footscray, VIC, Australia"
-  },
-  {
-    "Suburb": "Footscray",
-    "Site_streetaddress": "Albert Street & Corner Paisley Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3011",
-    "confidence": 1,
-    "latitude": -37.8010597,
-    "longitude": 144.8952569,
-    "label": "Footscray, VIC, Australia"
-  },
-  {
-    "Suburb": "Footscray",
-    "Site_streetaddress": "Chemist Warhouse Footscray",
-    "Site_state": "VIC",
-    "Site_postcode": "3011",
-    "confidence": 1,
-    "latitude": -37.7992382,
-    "longitude": 144.8957242
-  },
-  {
-    "Suburb": "Footscray",
-    "Site_streetaddress": "11 Napier Street & Moreland Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3011",
-    "confidence": 1,
-    "latitude": -37.8056459,
-    "longitude": 144.9028955,
-    "label": "Moreland Station, Cameron Street & Moreland Road, Coburg, VIC, Australia"
-  },
-  {
-    "Suburb": "Footscray",
-    "Site_streetaddress": "78 Paisley Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3011",
-    "confidence": 1,
-    "latitude": -37.800164,
-    "longitude": 144.894643,
-    "label": "78 Paisley Street, Footscray, VIC, Australia"
-  },
-  {
-    "Suburb": "Footscray",
-    "Site_streetaddress": "116 Hopskins Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3011",
-    "confidence": 1,
-    "latitude": -37.799766,
-    "longitude": 144.9008898,
-    "label": "Footscray, VIC, Australia"
-  },
-  {
-    "Suburb": "Footscray",
-    "Site_streetaddress": "116 Hopkins Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3004",
-    "confidence": 1,
-    "latitude": -37.799752,
-    "longitude": 144.901441,
-    "label": "116 Hopkins Street, Footscray, VIC, Australia"
-  },
-  {
-    "Suburb": "Footscray",
-    "Site_streetaddress": "16-20 Leeds Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3011",
-    "confidence": 1,
-    "latitude": -37.798169,
-    "longitude": 144.901086,
-    "label": "16-20 Leeds Street, Footscray, VIC, Australia"
-  },
-  {
-    "Suburb": "Footscray",
-    "Site_streetaddress": "116 Hopkins Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3011",
-    "confidence": 1,
-    "latitude": -37.799752,
-    "longitude": 144.901441,
-    "label": "116 Hopkins Street, Footscray, VIC, Australia"
-  },
-  {
-    "Suburb": "Footscray",
-    "Site_streetaddress": "174 Nicholson Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3011",
-    "confidence": 1,
-    "latitude": -37.802167,
-    "longitude": 144.898953,
-    "label": "174 Nicholson Street, Footscray, VIC, Australia"
-  },
-  {
-    "Suburb": "Footscray",
-    "Site_streetaddress": "16 Paisley Steet",
-    "Site_state": "VIC",
-    "Site_postcode": "3011",
-    "confidence": 1,
-    "latitude": -37.8007363,
-    "longitude": 144.8977762,
-    "label": "Footscray, VIC, Australia"
-  },
-  {
-    "Suburb": "Footscray",
-    "Site_streetaddress": "8 Joseph Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3011",
-    "confidence": 1,
-    "latitude": -37.7990034,
-    "longitude": 144.9081213,
-    "label": "Footscray, VIC, Australia"
-  },
-  {
-    "Suburb": "Footscray",
-    "Site_streetaddress": "Shop 30/47 Paisley Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3011",
-    "confidence": 1,
-    "latitude": -37.8009405,
-    "longitude": 144.8962259
-  },
-  {
-    "Suburb": "Footscray",
-    "Site_streetaddress": "Corner Albert and Paisley Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3011",
-    "confidence": 1,
-    "latitude": -37.8009549,
-    "longitude": 144.8976049
-  },
-  {
-    "Suburb": "Footscray",
-    "Site_streetaddress": "1 Kinnear Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3011",
-    "confidence": 1,
-    "latitude": -37.791006,
-    "longitude": 144.893847,
-    "label": "1 Kinnear Street, Footscray, VIC, Australia"
-  },
-  {
-    "Suburb": "Footscray",
-    "Site_streetaddress": "298 Barkly Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3011",
-    "confidence": 1,
-    "latitude": -37.798946,
-    "longitude": 144.893924,
-    "label": "298 Barkly Street, Footscray, VIC, Australia"
-  },
-  {
-    "Suburb": "Footscray",
-    "Site_streetaddress": "2 Joseph Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3011",
-    "confidence": 1,
-    "latitude": -37.80034,
-    "longitude": 144.909552,
-    "label": "2 Joseph Road, Footscray, VIC, Australia"
-  },
-  {
-    "Suburb": "Footscray",
-    "Site_streetaddress": "10 Hyde Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3011",
-    "confidence": 1,
-    "latitude": -37.806516,
-    "longitude": 144.899431,
-    "label": "10 Hyde Street, Footscray, VIC, Australia"
-  },
-  {
-    "Suburb": "Footscray",
-    "Site_streetaddress": "398 Barkly Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3011",
-    "confidence": 1,
-    "latitude": -37.798323,
-    "longitude": 144.887907,
-    "label": "398 Barkly Street, Footscray, VIC, Australia"
-  },
-  {
-    "Suburb": "Footscray ",
-    "Site_streetaddress": "Paisley Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3011",
-    "confidence": 1,
-    "latitude": -37.8013285,
-    "longitude": 144.8982044,
-    "label": "Footscray, VIC, Australia"
-  },
-  {
-    "Suburb": "Frankston",
-    "Site_streetaddress": "Level 1, Shannon Street Mall",
-    "Site_state": "VIC",
-    "Site_postcode": "3199",
-    "confidence": 1,
-    "latitude": -38.14309,
-    "longitude": 145.123392,
-    "label": "1A Shannon Street Mall, Frankston, VIC, Australia"
-  },
-  {
-    "Suburb": "Frankston",
-    "Site_streetaddress": "Golf Links Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3199",
-    "confidence": 1,
-    "latitude": -38.1633328,
-    "longitude": 145.1353626,
-    "label": "Frankston, VIC, Australia"
-  },
-  {
-    "Suburb": "Frankston",
-    "Site_streetaddress": "1/19 Shaxton Circle",
-    "Site_state": "VIC",
-    "Site_postcode": "3199",
-    "confidence": 1,
-    "latitude": -38.170881,
-    "longitude": 145.1576,
-    "label": "19 Shaxton Circle, Frankston, VIC, Australia"
-  },
-  {
-    "Suburb": "Frankston",
-    "Site_streetaddress": "332-332 Cranbourne Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3199",
-    "confidence": 1,
-    "latitude": -38.1545082,
-    "longitude": 145.1659963,
-    "label": "Frankston, VIC, Australia"
-  },
-  {
-    "Suburb": "Frankston",
-    "Site_streetaddress": "2 Hastings Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3199",
-    "confidence": 1,
-    "latitude": -38.150703,
-    "longitude": 145.129668,
-    "label": "2 Hastings Road, Frankston, VIC, Australia"
-  },
-  {
-    "Suburb": "Geelong",
-    "Site_streetaddress": "Corner Ryrie Street and Yarra Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3220",
-    "confidence": 1,
-    "latitude": -38.15019,
-    "longitude": 144.3595683,
-    "label": "Geelong, VIC, Australia"
-  },
-  {
-    "Suburb": "Geelong",
-    "Site_streetaddress": "39 Malop Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3220",
-    "confidence": 1,
-    "latitude": -38.146858,
-    "longitude": 144.360088,
-    "label": "39 Malop Street, Geelong, VIC, Australia"
-  },
-  {
-    "Suburb": "Geelong",
-    "Site_streetaddress": "184 Ryrie Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3220",
-    "confidence": 1,
-    "latitude": -38.14983,
-    "longitude": 144.36067,
-    "label": "184 Ryrie Street, Geelong, VIC, Australia"
-  },
-  {
-    "Suburb": "Geelong",
-    "Site_streetaddress": "129 Pakington Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3220",
-    "confidence": 1,
-    "latitude": -38.1395959,
-    "longitude": 144.3478853,
-    "label": "Geelong, VIC, Australia"
-  },
-  {
-    "Suburb": "Geelong",
-    "Site_streetaddress": "452-460 Moorabool Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3220",
-    "confidence": 1,
-    "latitude": -38.1608727,
-    "longitude": 144.3519419,
-    "label": "Geelong, VIC, Australia"
-  },
-  {
-    "Suburb": "Geelong",
-    "Site_streetaddress": "10 Mercer Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3220",
-    "confidence": 1,
-    "latitude": -38.140059,
-    "longitude": 144.354545,
-    "label": "8-10 Mercer Street, Geelong, VIC, Australia"
-  },
-  {
-    "Suburb": "Geelong",
-    "Site_streetaddress": "133 Yarra Street, Corner Yarra Street and Myers Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3220",
-    "confidence": 1,
-    "latitude": -38.1523813,
-    "longitude": 144.3609666,
-    "label": "Geelong, VIC, Australia"
-  },
-  {
-    "Suburb": "Geelong",
-    "Site_streetaddress": "71-77 Gheringhap Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3220",
-    "confidence": 1,
-    "latitude": -38.150112,
-    "longitude": 144.357113,
-    "label": "71-77 Gheringhap Street, Geelong, VIC, Australia"
-  },
-  {
-    "Suburb": "Geelong",
-    "Site_streetaddress": "240 Pakington Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3218",
-    "confidence": 1,
-    "latitude": -38.1439489,
-    "longitude": 144.3456171
-  },
-  {
-    "Suburb": "Geelong",
-    "Site_streetaddress": "179-181 Little Malop Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3220",
-    "confidence": 1,
-    "latitude": -38.149174,
-    "longitude": 144.364342,
-    "label": "179-181 Little Malop Street, Geelong, VIC, Australia"
-  },
-  {
-    "Suburb": "Geelong",
-    "Site_streetaddress": "15 Eastern Beach Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3220",
-    "confidence": 1,
-    "latitude": -38.142772,
-    "longitude": 144.361521,
-    "label": "15A Eastern Beach Road, Geelong, VIC, Australia"
-  },
-  {
-    "Suburb": "Geelong",
-    "Site_streetaddress": "103 Mercer Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3220",
-    "confidence": 1,
-    "latitude": -38.144084,
-    "longitude": 144.357043,
-    "label": "103 Mercer Street, Geelong, VIC, Australia"
-  },
-  {
-    "Suburb": "Geelong",
-    "Site_streetaddress": "Shop 153 4/144-145 Malop Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3220",
-    "confidence": 1,
-    "latitude": -38.1467684,
-    "longitude": 144.3599212
-  },
-  {
-    "Suburb": "Geelong",
-    "Site_streetaddress": "95 Malop Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3220",
-    "confidence": 1,
-    "latitude": -38.147906,
-    "longitude": 144.359687,
-    "label": "95 Little Malop Street, Geelong, VIC, Australia"
-  },
-  {
-    "Suburb": "Geelong",
-    "Site_streetaddress": "265 Ryrie Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3220",
-    "confidence": 1,
-    "latitude": -38.150232,
-    "longitude": 144.364508,
-    "label": "265A Ryrie Street, Geelong, VIC, Australia"
-  },
-  {
-    "Suburb": "Geelong",
-    "Site_streetaddress": "Corner Pakington Street and Aberdeen Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3218",
-    "confidence": 1,
-    "latitude": -38.1466098,
-    "longitude": 144.3457591
-  },
-  {
-    "Suburb": "Geelong",
-    "Site_streetaddress": "58 Corio Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3220",
-    "confidence": 1,
-    "latitude": -38.146176,
-    "longitude": 144.360464,
-    "label": "58 Corio Street, Geelong, VIC, Australia"
-  },
-  {
-    "Suburb": "Geelong",
-    "Site_streetaddress": "73-79 Little Ryrie Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3220",
-    "confidence": 1,
-    "latitude": -38.150946,
-    "longitude": 144.362667,
-    "label": "73-79 Little Ryrie Street, Geelong, VIC, Australia"
-  },
-  {
-    "Suburb": "Geelong",
-    "Site_streetaddress": "Suite 1, Level 3/73 Little Ryrie Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3220",
-    "confidence": 1,
-    "latitude": -38.1512548,
-    "longitude": 144.360615
-  },
-  {
-    "Suburb": "Geelong",
-    "Site_streetaddress": "283 Latrobe Terrace",
-    "Site_state": "VIC",
-    "Site_postcode": "3220",
-    "confidence": 1,
-    "latitude": -38.150867,
-    "longitude": 144.352419,
-    "label": "283 Latrobe Terrace, Geelong, VIC, Australia"
-  },
-  {
-    "Suburb": "Geelong",
-    "Site_streetaddress": "Level 1, 95 Malop Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3220",
-    "confidence": 1,
-    "latitude": -38.147906,
-    "longitude": 144.359687,
-    "label": "95 Little Malop Street, Geelong, VIC, Australia"
-  },
-  {
-    "Suburb": "Geelong",
-    "Site_streetaddress": "Moorabool Street & Brougham Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3220",
-    "latitude": -38.1455274,
-    "longitude": 144.360268
-  },
-  {
-    "Suburb": "Geelong",
-    "Site_streetaddress": "Shop 1176/95 Malop Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3020",
-    "latitude": -38.1466758,
-    "longitude": 144.3624551
-  },
-  {
-    "Suburb": "Geelong",
-    "Site_streetaddress": "Shop 2275/95 Malop Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3020",
-    "latitude": -38.1467889,
-    "longitude": 144.3629511
-  },
-  {
-    "Suburb": "Geelong",
-    "Site_streetaddress": "Shop 2246/95 Malop Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3220",
-    "latitude": -38.1469338,
-    "longitude": 144.3605836
-  },
-  {
-    "Suburb": "Geelong",
-    "Site_streetaddress": "Shop 1187-1188/95 Malop Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3220",
-    "latitude": -38.1469338,
-    "longitude": 144.3605836
-  },
-  {
-    "Suburb": "Geelong",
-    "Site_streetaddress": "Ryan Place S",
-    "Site_state": "VIC",
-    "Site_postcode": "3220",
-    "latitude": -38.1510592,
-    "longitude": 144.3584713
-  },
-  {
-    "Suburb": "Geelong",
-    "Site_streetaddress": "194-200 Ryrie Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3220",
-    "confidence": 0.6,
-    "latitude": -38.150785,
-    "longitude": 144.361579,
-    "label": "Geelong, VIC, Australia"
-  },
-  {
     "Suburb": "Colac",
     "Site_streetaddress": "Corner Bromfield & Queen Street",
     "Site_state": "VIC",
@@ -7570,6 +6691,26 @@
   },
   {
     "Suburb": "Fairfield",
+    "Site_streetaddress": "348 Darebin Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3028",
+    "confidence": 1,
+    "latitude": -37.766794,
+    "longitude": 145.0274623,
+    "label": "Fairfield, VIC, Australia"
+  },
+  {
+    "Suburb": "Fairfield",
+    "Site_streetaddress": "283-285 Arthur Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3078",
+    "confidence": 1,
+    "latitude": -37.769057,
+    "longitude": 145.021136,
+    "label": "283-285 Arthur Street, Fairfield, VIC, Australia"
+  },
+  {
+    "Suburb": "Fairfield",
     "Site_streetaddress": "416 Heidleberg Road",
     "Site_state": "VIC",
     "Site_postcode": "3078",
@@ -7606,6 +6747,865 @@
     "latitude": -37.7667897,
     "longitude": 145.0274623,
     "label": "Fairfield, VIC, Australia"
+  },
+  {
+    "Suburb": "Fawkner",
+    "Site_streetaddress": "1218/1220 Sydney Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3060",
+    "latitude": -37.7057885,
+    "longitude": 144.9589562
+  },
+  {
+    "Suburb": "Fawkner",
+    "Site_streetaddress": "Baird Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3060",
+    "confidence": 1,
+    "latitude": -37.7053375,
+    "longitude": 144.9688806,
+    "label": "Fawkner, VIC, Australia"
+  },
+  {
+    "Suburb": "Fawkner",
+    "Site_streetaddress": "1274 Sydney Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3060",
+    "confidence": 1,
+    "latitude": -37.700627,
+    "longitude": 144.960247,
+    "label": "1274 Sydney Road, Fawkner, VIC, Australia"
+  },
+  {
+    "Suburb": "Fawkner",
+    "Site_streetaddress": "1410 Sydney Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3060",
+    "confidence": 1,
+    "latitude": -37.6903352,
+    "longitude": 144.9590144,
+    "label": "Fawkner, VIC, Australia"
+  },
+  {
+    "Suburb": "Fawkner",
+    "Site_streetaddress": "1410 Syndey Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3060",
+    "confidence": 1,
+    "latitude": -37.6903352,
+    "longitude": 144.9590144,
+    "label": "Fawkner, VIC, Australia"
+  },
+  {
+    "Suburb": "Fawkner",
+    "Site_streetaddress": "56/58 Major Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3060",
+    "confidence": 1,
+    "latitude": -37.707431,
+    "longitude": 144.970201,
+    "label": "58 Major Road, Fawkner, VIC, Australia"
+  },
+  {
+    "Suburb": "Fawkner",
+    "Site_streetaddress": "1218-1220 Sydney Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3060",
+    "confidence": 1,
+    "latitude": -37.7057874,
+    "longitude": 144.9605977,
+    "label": "Fawkner, VIC, Australia"
+  },
+  {
+    "Suburb": "Fawkner",
+    "Site_streetaddress": "1293 Sydney Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3060",
+    "confidence": 1,
+    "latitude": -37.700777,
+    "longitude": 144.959562,
+    "label": "1293 Sydney Road, Fawkner, VIC, Australia"
+  },
+  {
+    "Suburb": "Fawkner",
+    "Site_streetaddress": "1293 Sydney Road ",
+    "Site_state": "VIC",
+    "Site_postcode": "3060",
+    "confidence": 1,
+    "latitude": -37.700777,
+    "longitude": 144.959562,
+    "label": "1293 Sydney Road, Fawkner, VIC, Australia"
+  },
+  {
+    "Suburb": "Fawkner",
+    "Site_streetaddress": "65 Alec Crescent",
+    "Site_state": "VIC",
+    "Site_postcode": "3060",
+    "confidence": 1,
+    "latitude": -37.694511,
+    "longitude": 144.968242,
+    "label": "65 Alec Crescent, Fawkner, VIC, Australia"
+  },
+  {
+    "Suburb": "Fawkner",
+    "Site_streetaddress": "36 Bonwick Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3060",
+    "confidence": 1,
+    "latitude": -37.702668,
+    "longitude": 144.965715,
+    "label": "36 Bonwick Street, Fawkner, VIC, Australia"
+  },
+  {
+    "Suburb": "Fawkner",
+    "Site_streetaddress": "111 Anderson Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3060",
+    "confidence": 1,
+    "latitude": -37.695737,
+    "longitude": 144.966698,
+    "label": "111 Anderson Road, Fawkner, VIC, Australia"
+  },
+  {
+    "Suburb": "Fawkner",
+    "Site_streetaddress": "1346 Sydney Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3060",
+    "confidence": 1,
+    "latitude": -37.695114,
+    "longitude": 144.959366,
+    "label": "1346 Sydney Road, Fawkner, VIC, Australia"
+  },
+  {
+    "Suburb": "Fawkner",
+    "Site_streetaddress": "1114 Sydney Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3060",
+    "confidence": 1,
+    "latitude": -37.714303,
+    "longitude": 144.962451,
+    "label": "1114 Sydney Road, Fawkner, VIC, Australia"
+  },
+  {
+    "Suburb": "Ferntree Gully",
+    "Site_streetaddress": "1015 Burwood Highway",
+    "Site_state": "VIC",
+    "Site_postcode": "3156",
+    "confidence": 1,
+    "latitude": -37.888149,
+    "longitude": 145.290216,
+    "label": "1015 Burwood Highway, Ferntree Gully, VIC, Australia"
+  },
+  {
+    "Suburb": "Fitzroy",
+    "Site_streetaddress": "111 Moor Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3065",
+    "confidence": 1,
+    "latitude": -37.801544,
+    "longitude": 144.978678,
+    "label": "111 Moor Street, Fitzroy, VIC, Australia"
+  },
+  {
+    "Suburb": "Fitzroy",
+    "Site_streetaddress": "140 Brunswick Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3065",
+    "confidence": 1,
+    "latitude": -37.803564,
+    "longitude": 144.977887,
+    "label": "140/140 Brunswick Street, Fitzroy, VIC, Australia"
+  },
+  {
+    "Suburb": "Fitzroy",
+    "Site_streetaddress": "206-210 Brunswick Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3065",
+    "confidence": 1,
+    "latitude": -37.801275,
+    "longitude": 144.978219,
+    "label": "206-210 Brunswick Street, Fitzroy, VIC, Australia"
+  },
+  {
+    "Suburb": "Fitzroy",
+    "Site_streetaddress": "30-32 Gertrude Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3065",
+    "confidence": 1,
+    "latitude": -37.805689,
+    "longitude": 144.975186,
+    "label": "30-32 Gertrude Street, Fitzroy, VIC, Australia"
+  },
+  {
+    "Suburb": "Fitzroy",
+    "Site_streetaddress": "156 Napier Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3065",
+    "confidence": 1,
+    "latitude": -37.803325,
+    "longitude": 144.980049,
+    "label": "156 Napier Street, Fitzroy, VIC, Australia"
+  },
+  {
+    "Suburb": "Fitzroy",
+    "Site_streetaddress": "380 Brunswick Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3065",
+    "confidence": 1,
+    "latitude": -37.795848,
+    "longitude": 144.979101,
+    "label": "380 Brunswick Street, Fitzroy, VIC, Australia"
+  },
+  {
+    "Suburb": "Fitzroy",
+    "Site_streetaddress": "424-428 Brunswick Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3065",
+    "confidence": 1,
+    "latitude": -37.79423,
+    "longitude": 144.9794,
+    "label": "424-428 Brunswick Street, Fitzroy, VIC, Australia"
+  },
+  {
+    "Suburb": "Fitzroy",
+    "Site_streetaddress": "186 Nicholson Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3065",
+    "confidence": 1,
+    "latitude": -37.799393,
+    "longitude": 144.974867,
+    "label": "186 Nicholson Street, Fitzroy, VIC, Australia"
+  },
+  {
+    "Suburb": "Fitzroy North",
+    "Site_streetaddress": "597 Brunswick Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3068",
+    "confidence": 1,
+    "latitude": -37.789172,
+    "longitude": 144.979809,
+    "label": "597 Brunswick Street, Fitzroy North, VIC, Australia"
+  },
+  {
+    "Suburb": "Fitzroy North",
+    "Site_streetaddress": "300 Queens Parade",
+    "Site_state": "VIC",
+    "Site_postcode": "3068",
+    "confidence": 1,
+    "latitude": -37.788748,
+    "longitude": 144.989691,
+    "label": "300 Queens Parade, Fitzroy North, VIC, Australia"
+  },
+  {
+    "Suburb": "Fitzroy North",
+    "Site_streetaddress": "100 Scotchmer Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3068",
+    "confidence": 1,
+    "latitude": -37.783291,
+    "longitude": 144.98215,
+    "label": "100 Scotchmer Street, Fitzroy North, VIC, Australia"
+  },
+  {
+    "Suburb": "Fitzroy North",
+    "Site_streetaddress": "138 Barkly Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3068",
+    "confidence": 1,
+    "latitude": -37.778744,
+    "longitude": 144.983058,
+    "label": "138 Barkly Street, Fitzroy North, VIC, Australia"
+  },
+  {
+    "Suburb": "Flemington",
+    "Site_streetaddress": "44 Pin Oaks Crescent",
+    "Site_state": "VIC",
+    "Site_postcode": "3031",
+    "confidence": 1,
+    "latitude": -37.787032,
+    "longitude": 144.9271293,
+    "label": "Flemington, VIC, Australia"
+  },
+  {
+    "Suburb": "Flemington",
+    "Site_streetaddress": "3/390 Racecourse Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3031",
+    "confidence": 1,
+    "latitude": -37.7881327,
+    "longitude": 144.9278147,
+    "label": "Flemington, VIC, Australia"
+  },
+  {
+    "Suburb": "Flemington",
+    "Site_streetaddress": "320 Epsom Road Showgrounds Village",
+    "Site_state": "VIC",
+    "Site_postcode": "3031",
+    "confidence": 1,
+    "latitude": -37.7822222,
+    "longitude": 144.9129005,
+    "label": "Flemington, VIC, Australia"
+  },
+  {
+    "Suburb": "Flemington",
+    "Site_streetaddress": "6-12 Pin Oak Crescent",
+    "Site_state": "VIC",
+    "Site_postcode": "3031",
+    "confidence": 1,
+    "latitude": -37.787885,
+    "longitude": 144.929552,
+    "label": "6-12 Pin Oak Crescent, Flemington, VIC, Australia"
+  },
+  {
+    "Suburb": "Flemington",
+    "Site_streetaddress": "12 Holland Court",
+    "Site_state": "VIC",
+    "Site_postcode": "3031",
+    "confidence": 1,
+    "latitude": -37.788176,
+    "longitude": 144.934713,
+    "label": "12/12 Holland Court, Flemington, VIC, Australia"
+  },
+  {
+    "Suburb": "Flemington",
+    "Site_streetaddress": "126 Racecourse Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3031",
+    "confidence": 1,
+    "latitude": -37.786916,
+    "longitude": 144.937191,
+    "label": "126/126 Racecourse Road, Flemington, VIC, Australia"
+  },
+  {
+    "Suburb": "Flemington",
+    "Site_streetaddress": "442 Racecourse Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3031",
+    "confidence": 1,
+    "latitude": -37.787559,
+    "longitude": 144.92587,
+    "label": "442 Racecourse Road, Flemington, VIC, Australia"
+  },
+  {
+    "Suburb": "Footscray",
+    "Site_streetaddress": "Corner Albert Street and Paisley Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3011",
+    "confidence": 1,
+    "latitude": -37.8010597,
+    "longitude": 144.8952569,
+    "label": "Footscray, VIC, Australia"
+  },
+  {
+    "Suburb": "Footscray",
+    "Site_streetaddress": "18 Albert Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3011",
+    "confidence": 1,
+    "latitude": -37.80126,
+    "longitude": 144.897705,
+    "label": "18 Albert Street, Footscray, VIC, Australia"
+  },
+  {
+    "Suburb": "Footscray",
+    "Site_streetaddress": "Albert Street & Corner Paisley Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3011",
+    "confidence": 1,
+    "latitude": -37.8010597,
+    "longitude": 144.8952569,
+    "label": "Footscray, VIC, Australia"
+  },
+  {
+    "Suburb": "Footscray",
+    "Site_streetaddress": "Chemist Warhouse Footscray",
+    "Site_state": "VIC",
+    "Site_postcode": "3011",
+    "confidence": 1,
+    "latitude": -37.7992382,
+    "longitude": 144.8957242
+  },
+  {
+    "Suburb": "Footscray",
+    "Site_streetaddress": "11 Napier Street & Moreland Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3011",
+    "confidence": 1,
+    "latitude": -37.8056459,
+    "longitude": 144.9028955,
+    "label": "Moreland Station, Cameron Street & Moreland Road, Coburg, VIC, Australia"
+  },
+  {
+    "Suburb": "Footscray",
+    "Site_streetaddress": "78 Paisley Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3011",
+    "confidence": 1,
+    "latitude": -37.800164,
+    "longitude": 144.894643,
+    "label": "78 Paisley Street, Footscray, VIC, Australia"
+  },
+  {
+    "Suburb": "Footscray",
+    "Site_streetaddress": "116 Hopskins Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3011",
+    "confidence": 1,
+    "latitude": -37.799766,
+    "longitude": 144.9008898,
+    "label": "Footscray, VIC, Australia"
+  },
+  {
+    "Suburb": "Footscray",
+    "Site_streetaddress": "116 Hopkins Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3004",
+    "confidence": 1,
+    "latitude": -37.799752,
+    "longitude": 144.901441,
+    "label": "116 Hopkins Street, Footscray, VIC, Australia"
+  },
+  {
+    "Suburb": "Footscray",
+    "Site_streetaddress": "16-20 Leeds Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3011",
+    "confidence": 1,
+    "latitude": -37.798169,
+    "longitude": 144.901086,
+    "label": "16-20 Leeds Street, Footscray, VIC, Australia"
+  },
+  {
+    "Suburb": "Footscray",
+    "Site_streetaddress": "116 Hopkins Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3011",
+    "confidence": 1,
+    "latitude": -37.799752,
+    "longitude": 144.901441,
+    "label": "116 Hopkins Street, Footscray, VIC, Australia"
+  },
+  {
+    "Suburb": "Footscray",
+    "Site_streetaddress": "174 Nicholson Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3011",
+    "confidence": 1,
+    "latitude": -37.802167,
+    "longitude": 144.898953,
+    "label": "174 Nicholson Street, Footscray, VIC, Australia"
+  },
+  {
+    "Suburb": "Footscray",
+    "Site_streetaddress": "16 Paisley Steet",
+    "Site_state": "VIC",
+    "Site_postcode": "3011",
+    "confidence": 1,
+    "latitude": -37.8007363,
+    "longitude": 144.8977762,
+    "label": "Footscray, VIC, Australia"
+  },
+  {
+    "Suburb": "Footscray",
+    "Site_streetaddress": "8 Joseph Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3011",
+    "confidence": 1,
+    "latitude": -37.7990034,
+    "longitude": 144.9081213,
+    "label": "Footscray, VIC, Australia"
+  },
+  {
+    "Suburb": "Footscray",
+    "Site_streetaddress": "Shop 30/47 Paisley Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3011",
+    "confidence": 1,
+    "latitude": -37.8009405,
+    "longitude": 144.8962259
+  },
+  {
+    "Suburb": "Footscray",
+    "Site_streetaddress": "Corner Albert and Paisley Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3011",
+    "confidence": 1,
+    "latitude": -37.8009549,
+    "longitude": 144.8976049
+  },
+  {
+    "Suburb": "Footscray",
+    "Site_streetaddress": "1 Kinnear Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3011",
+    "confidence": 1,
+    "latitude": -37.791006,
+    "longitude": 144.893847,
+    "label": "1 Kinnear Street, Footscray, VIC, Australia"
+  },
+  {
+    "Suburb": "Footscray",
+    "Site_streetaddress": "298 Barkly Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3011",
+    "confidence": 1,
+    "latitude": -37.798946,
+    "longitude": 144.893924,
+    "label": "298 Barkly Street, Footscray, VIC, Australia"
+  },
+  {
+    "Suburb": "Footscray",
+    "Site_streetaddress": "2 Joseph Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3011",
+    "confidence": 1,
+    "latitude": -37.80034,
+    "longitude": 144.909552,
+    "label": "2 Joseph Road, Footscray, VIC, Australia"
+  },
+  {
+    "Suburb": "Footscray",
+    "Site_streetaddress": "10 Hyde Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3011",
+    "confidence": 1,
+    "latitude": -37.806516,
+    "longitude": 144.899431,
+    "label": "10 Hyde Street, Footscray, VIC, Australia"
+  },
+  {
+    "Suburb": "Footscray",
+    "Site_streetaddress": "398 Barkly Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3011",
+    "confidence": 1,
+    "latitude": -37.798323,
+    "longitude": 144.887907,
+    "label": "398 Barkly Street, Footscray, VIC, Australia"
+  },
+  {
+    "Suburb": "Footscray ",
+    "Site_streetaddress": "Paisley Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3011",
+    "confidence": 1,
+    "latitude": -37.8013285,
+    "longitude": 144.8982044,
+    "label": "Footscray, VIC, Australia"
+  },
+  {
+    "Suburb": "Frankston",
+    "Site_streetaddress": "Level 1, Shannon Street Mall",
+    "Site_state": "VIC",
+    "Site_postcode": "3199",
+    "confidence": 1,
+    "latitude": -38.14309,
+    "longitude": 145.123392,
+    "label": "1A Shannon Street Mall, Frankston, VIC, Australia"
+  },
+  {
+    "Suburb": "Frankston",
+    "Site_streetaddress": "Golf Links Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3199",
+    "confidence": 1,
+    "latitude": -38.1633328,
+    "longitude": 145.1353626,
+    "label": "Frankston, VIC, Australia"
+  },
+  {
+    "Suburb": "Frankston",
+    "Site_streetaddress": "1/19 Shaxton Circle",
+    "Site_state": "VIC",
+    "Site_postcode": "3199",
+    "confidence": 1,
+    "latitude": -38.170881,
+    "longitude": 145.1576,
+    "label": "19 Shaxton Circle, Frankston, VIC, Australia"
+  },
+  {
+    "Suburb": "Frankston",
+    "Site_streetaddress": "332-332 Cranbourne Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3199",
+    "confidence": 1,
+    "latitude": -38.1545082,
+    "longitude": 145.1659963,
+    "label": "Frankston, VIC, Australia"
+  },
+  {
+    "Suburb": "Frankston",
+    "Site_streetaddress": "2 Hastings Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3199",
+    "confidence": 1,
+    "latitude": -38.150703,
+    "longitude": 145.129668,
+    "label": "2 Hastings Road, Frankston, VIC, Australia"
+  },
+  {
+    "Suburb": "Geelong",
+    "Site_streetaddress": "Corner Ryrie Street and Yarra Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3220",
+    "confidence": 1,
+    "latitude": -38.15019,
+    "longitude": 144.3595683,
+    "label": "Geelong, VIC, Australia"
+  },
+  {
+    "Suburb": "Geelong",
+    "Site_streetaddress": "39 Malop Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3220",
+    "confidence": 1,
+    "latitude": -38.146858,
+    "longitude": 144.360088,
+    "label": "39 Malop Street, Geelong, VIC, Australia"
+  },
+  {
+    "Suburb": "Geelong",
+    "Site_streetaddress": "184 Ryrie Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3220",
+    "confidence": 1,
+    "latitude": -38.14983,
+    "longitude": 144.36067,
+    "label": "184 Ryrie Street, Geelong, VIC, Australia"
+  },
+  {
+    "Suburb": "Geelong",
+    "Site_streetaddress": "129 Pakington Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3220",
+    "confidence": 1,
+    "latitude": -38.1395959,
+    "longitude": 144.3478853,
+    "label": "Geelong, VIC, Australia"
+  },
+  {
+    "Suburb": "Geelong",
+    "Site_streetaddress": "452-460 Moorabool Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3220",
+    "confidence": 1,
+    "latitude": -38.1608727,
+    "longitude": 144.3519419,
+    "label": "Geelong, VIC, Australia"
+  },
+  {
+    "Suburb": "Geelong",
+    "Site_streetaddress": "10 Mercer Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3220",
+    "confidence": 1,
+    "latitude": -38.140059,
+    "longitude": 144.354545,
+    "label": "8-10 Mercer Street, Geelong, VIC, Australia"
+  },
+  {
+    "Suburb": "Geelong",
+    "Site_streetaddress": "133 Yarra Street, Corner Yarra Street and Myers Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3220",
+    "confidence": 1,
+    "latitude": -38.1523813,
+    "longitude": 144.3609666,
+    "label": "Geelong, VIC, Australia"
+  },
+  {
+    "Suburb": "Geelong",
+    "Site_streetaddress": "71-77 Gheringhap Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3220",
+    "confidence": 1,
+    "latitude": -38.150112,
+    "longitude": 144.357113,
+    "label": "71-77 Gheringhap Street, Geelong, VIC, Australia"
+  },
+  {
+    "Suburb": "Geelong",
+    "Site_streetaddress": "240 Pakington Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3218",
+    "confidence": 1,
+    "latitude": -38.1439489,
+    "longitude": 144.3456171
+  },
+  {
+    "Suburb": "Geelong",
+    "Site_streetaddress": "179-181 Little Malop Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3220",
+    "confidence": 1,
+    "latitude": -38.149174,
+    "longitude": 144.364342,
+    "label": "179-181 Little Malop Street, Geelong, VIC, Australia"
+  },
+  {
+    "Suburb": "Geelong",
+    "Site_streetaddress": "15 Eastern Beach Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3220",
+    "confidence": 1,
+    "latitude": -38.142772,
+    "longitude": 144.361521,
+    "label": "15A Eastern Beach Road, Geelong, VIC, Australia"
+  },
+  {
+    "Suburb": "Geelong",
+    "Site_streetaddress": "103 Mercer Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3220",
+    "confidence": 1,
+    "latitude": -38.144084,
+    "longitude": 144.357043,
+    "label": "103 Mercer Street, Geelong, VIC, Australia"
+  },
+  {
+    "Suburb": "Geelong",
+    "Site_streetaddress": "Shop 153 4/144-145 Malop Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3220",
+    "confidence": 1,
+    "latitude": -38.1467684,
+    "longitude": 144.3599212
+  },
+  {
+    "Suburb": "Geelong",
+    "Site_streetaddress": "95 Malop Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3220",
+    "confidence": 1,
+    "latitude": -38.147906,
+    "longitude": 144.359687,
+    "label": "95 Little Malop Street, Geelong, VIC, Australia"
+  },
+  {
+    "Suburb": "Geelong",
+    "Site_streetaddress": "265 Ryrie Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3220",
+    "confidence": 1,
+    "latitude": -38.150232,
+    "longitude": 144.364508,
+    "label": "265A Ryrie Street, Geelong, VIC, Australia"
+  },
+  {
+    "Suburb": "Geelong",
+    "Site_streetaddress": "Corner Pakington Street and Aberdeen Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3218",
+    "confidence": 1,
+    "latitude": -38.1466098,
+    "longitude": 144.3457591
+  },
+  {
+    "Suburb": "Geelong",
+    "Site_streetaddress": "58 Corio Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3220",
+    "confidence": 1,
+    "latitude": -38.146176,
+    "longitude": 144.360464,
+    "label": "58 Corio Street, Geelong, VIC, Australia"
+  },
+  {
+    "Suburb": "Geelong",
+    "Site_streetaddress": "73-79 Little Ryrie Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3220",
+    "confidence": 1,
+    "latitude": -38.150946,
+    "longitude": 144.362667,
+    "label": "73-79 Little Ryrie Street, Geelong, VIC, Australia"
+  },
+  {
+    "Suburb": "Geelong",
+    "Site_streetaddress": "Suite 1, Level 3/73 Little Ryrie Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3220",
+    "confidence": 1,
+    "latitude": -38.1512548,
+    "longitude": 144.360615
+  },
+  {
+    "Suburb": "Geelong",
+    "Site_streetaddress": "283 Latrobe Terrace",
+    "Site_state": "VIC",
+    "Site_postcode": "3220",
+    "confidence": 1,
+    "latitude": -38.150867,
+    "longitude": 144.352419,
+    "label": "283 Latrobe Terrace, Geelong, VIC, Australia"
+  },
+  {
+    "Suburb": "Geelong",
+    "Site_streetaddress": "Level 1, 95 Malop Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3220",
+    "confidence": 1,
+    "latitude": -38.147906,
+    "longitude": 144.359687,
+    "label": "95 Little Malop Street, Geelong, VIC, Australia"
+  },
+  {
+    "Suburb": "Geelong",
+    "Site_streetaddress": "Moorabool Street & Brougham Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3220",
+    "latitude": -38.1455274,
+    "longitude": 144.360268
+  },
+  {
+    "Suburb": "Geelong",
+    "Site_streetaddress": "Shop 1176/95 Malop Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3020",
+    "latitude": -38.1466758,
+    "longitude": 144.3624551
+  },
+  {
+    "Suburb": "Geelong",
+    "Site_streetaddress": "Shop 2275/95 Malop Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3020",
+    "latitude": -38.1467889,
+    "longitude": 144.3629511
+  },
+  {
+    "Suburb": "Geelong",
+    "Site_streetaddress": "Shop 2246/95 Malop Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3220",
+    "latitude": -38.1469338,
+    "longitude": 144.3605836
+  },
+  {
+    "Suburb": "Geelong",
+    "Site_streetaddress": "Shop 1187-1188/95 Malop Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3220",
+    "latitude": -38.1469338,
+    "longitude": 144.3605836
+  },
+  {
+    "Suburb": "Geelong",
+    "Site_streetaddress": "Ryan Place S",
+    "Site_state": "VIC",
+    "Site_postcode": "3220",
+    "latitude": -38.1510592,
+    "longitude": 144.3584713
+  },
+  {
+    "Suburb": "Geelong",
+    "Site_streetaddress": "194-200 Ryrie Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3220",
+    "confidence": 0.6,
+    "latitude": -38.150785,
+    "longitude": 144.361579,
+    "label": "Geelong, VIC, Australia"
   },
   {
     "Suburb": "Geelong",
@@ -9223,6 +9223,16 @@
     "latitude": -37.721737,
     "longitude": 144.845841,
     "label": "35 Harrick Road, Keilor Park, VIC, Australia"
+  },
+  {
+    "Suburb": "Kennington",
+    "Site_streetaddress": "88 Edwards Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3550",
+    "confidence": 1,
+    "latitude": -36.771837,
+    "longitude": 144.305943,
+    "label": "88 Edwards Road, Kennington, VIC, Australia"
   },
   {
     "Suburb": "Kensington",
