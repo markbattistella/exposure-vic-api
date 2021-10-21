@@ -15107,7 +15107,11 @@
     "Suburb": "Shepparton",
     "Site_streetaddress": "109 Wyndham Street",
     "Site_state": "VIC",
-    "Site_postcode": "3630"
+    "Site_postcode": "3630",
+    "confidence": 0.6,
+    "latitude": -36.36548,
+    "longitude": 145.406836,
+    "label": "Shepparton, VIC, Australia"
   },
   {
     "Suburb": "Shepparton East",

@@ -17,7 +17,9 @@
     "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
     "Exposure_time_start_24": "21:00:00",
     "Exposure_time_end_24": "23:59:00",
-    "dhid": "Z9X5"
+    "dhid": "Z9X5",
+    "latitude": -36.36548,
+    "longitude": 145.406836
   },
   {
     "_id": 2,
