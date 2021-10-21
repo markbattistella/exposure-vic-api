@@ -1741,6 +1741,26 @@
     "label": "53 Bull Street, Bendigo, VIC, Australia"
   },
   {
+    "Suburb": "Bendigo",
+    "Site_streetaddress": "135 King Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3350",
+    "confidence": 1,
+    "latitude": -36.766439,
+    "longitude": 144.274859,
+    "label": "135 King Street, Bendigo, VIC, Australia"
+  },
+  {
+    "Suburb": "Bendigo",
+    "Site_streetaddress": "42 View Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3350",
+    "confidence": 1,
+    "latitude": -36.757601,
+    "longitude": 144.276474,
+    "label": "42 View Street, Bendigo, VIC, Australia"
+  },
+  {
     "Suburb": "Bentleigh",
     "Site_streetaddress": "795 Nepean Highway",
     "Site_state": "VIC",
@@ -4122,6 +4142,16 @@
     "latitude": -37.712181,
     "longitude": 144.601167,
     "label": "201 Ferris Road, Melton South, VIC, Australia"
+  },
+  {
+    "Suburb": "Cobram",
+    "Site_streetaddress": "48 Punt Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3644",
+    "confidence": 1,
+    "latitude": -35.920039,
+    "longitude": 145.647102,
+    "label": "48 Punt Road, Cobram, VIC, Australia"
   },
   {
     "Suburb": "Coburg",
@@ -9265,6 +9295,16 @@
     "label": "157 St Aidans Road, Kennington, VIC, Australia"
   },
   {
+    "Suburb": "Kennington",
+    "Site_streetaddress": "150 Condon Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3550",
+    "confidence": 1,
+    "latitude": -36.774425,
+    "longitude": 144.306919,
+    "label": "150 Condon Street, Kennington, VIC, Australia"
+  },
+  {
     "Suburb": "Kensington",
     "Site_streetaddress": "301 Racecourse Road",
     "Site_state": "VIC",
@@ -10136,44 +10176,6 @@
     "latitude": -36.7525,
     "longitude": 144.20717,
     "label": "Maiden Gully, VIC, Australia"
-  },
-  {
-    "Suburb": "Ravenhall",
-    "Site_streetaddress": "1/265 Robinsons Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3023",
-    "confidence": 0.6,
-    "latitude": -37.787925,
-    "longitude": 144.744794,
-    "label": "Ravenhall, VIC, Australia"
-  },
-  {
-    "Suburb": "South Geelong",
-    "Site_streetaddress": "138 Fyans Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3220",
-    "latitude": -38.163762,
-    "longitude": 144.3579944
-  },
-  {
-    "Suburb": "South Geelong",
-    "Site_streetaddress": "1 Victoria Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3220",
-    "confidence": 0.6,
-    "latitude": -38.159477,
-    "longitude": 144.356048,
-    "label": "South Geelong, VIC, Australia"
-  },
-  {
-    "Suburb": "South Geelong",
-    "Site_streetaddress": "1/92 Balliang Sreet",
-    "Site_state": "VIC",
-    "Site_postcode": "3220",
-    "confidence": 0.6,
-    "latitude": -38.159477,
-    "longitude": 144.356048,
-    "label": "South Geelong, VIC, Australia"
   },
   {
     "Suburb": "Trafalgar",
@@ -13337,6 +13339,56 @@
     "label": "50 Plenty Road, Preston, VIC, Australia"
   },
   {
+    "Suburb": "Quarry Hill",
+    "Site_streetaddress": "25 Russell Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3550",
+    "confidence": 1,
+    "latitude": -36.770668,
+    "longitude": 144.278497,
+    "label": "25 Russell Street, Quarry Hill, VIC, Australia"
+  },
+  {
+    "Suburb": "Ravenhall",
+    "Site_streetaddress": "1/265 Robinsons Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3023",
+    "confidence": 0.6,
+    "latitude": -37.787925,
+    "longitude": 144.744794,
+    "label": "Ravenhall, VIC, Australia"
+  },
+  {
+    "Suburb": "Shepparton",
+    "Site_streetaddress": "109 Wyndham Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3630",
+    "confidence": 0.6,
+    "latitude": -36.36548,
+    "longitude": 145.406836,
+    "label": "Shepparton, VIC, Australia"
+  },
+  {
+    "Suburb": "South Geelong",
+    "Site_streetaddress": "1 Victoria Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3220",
+    "confidence": 0.6,
+    "latitude": -38.159477,
+    "longitude": 144.356048,
+    "label": "South Geelong, VIC, Australia"
+  },
+  {
+    "Suburb": "South Geelong",
+    "Site_streetaddress": "1/92 Balliang Sreet",
+    "Site_state": "VIC",
+    "Site_postcode": "3220",
+    "confidence": 0.6,
+    "latitude": -38.159477,
+    "longitude": 144.356048,
+    "label": "South Geelong, VIC, Australia"
+  },
+  {
     "Suburb": "Queenscliff",
     "Site_streetaddress": "78 Hesse Street",
     "Site_state": "VIC",
@@ -15104,16 +15156,6 @@
     "label": "198B Maude Street, Shepparton, VIC, Australia"
   },
   {
-    "Suburb": "Shepparton",
-    "Site_streetaddress": "109 Wyndham Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3630",
-    "confidence": 0.6,
-    "latitude": -36.36548,
-    "longitude": 145.406836,
-    "label": "Shepparton, VIC, Australia"
-  },
-  {
     "Suburb": "Shepparton East",
     "Site_streetaddress": "485-507 Channel Road",
     "Site_state": "VIC",
@@ -15230,6 +15272,14 @@
     "confidence": 1,
     "latitude": -37.6429474,
     "longitude": 144.9512602
+  },
+  {
+    "Suburb": "South Geelong",
+    "Site_streetaddress": "138 Fyans Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3220",
+    "latitude": -38.163762,
+    "longitude": 144.3579944
   },
   {
     "Suburb": "South Geelong",
