@@ -83,7 +83,7 @@
     "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
     "Exposure_time_start_24": "07:00:00",
     "Exposure_time_end_24": "15:00:00",
-    "dhid": null,
+    "dhid": "Y2N7",
     "latitude": -36.758381,
     "longitude": 144.281599
   },
@@ -105,7 +105,7 @@
     "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
     "Exposure_time_start_24": "08:00:00",
     "Exposure_time_end_24": "15:00:00",
-    "dhid": null,
+    "dhid": "Y6E3",
     "latitude": -36.758381,
     "longitude": 144.281599
   },
@@ -127,7 +127,7 @@
     "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 14 days from the exposure.",
     "Exposure_time_start_24": "09:00:00",
     "Exposure_time_end_24": "09:30:00",
-    "dhid": null,
+    "dhid": "Y3Y7",
     "latitude": -36.758381,
     "longitude": 144.281599
   },
