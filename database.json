@@ -166,16 +166,6 @@
     "label": "Delacombe, VIC, Australia"
   },
   {
-    "Suburb": "Hepburn Springs",
-    "Site_streetaddress": "Mineral Springs Reserve Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3461",
-    "confidence": 0.6,
-    "latitude": -37.316158,
-    "longitude": 144.138388,
-    "label": "Hepburn Springs, VIC, Australia"
-  },
-  {
     "Suburb": "Airport West",
     "Site_streetaddress": "64 Parer Road",
     "Site_state": "VIC",
@@ -6807,6 +6797,16 @@
     "longitude": 144.9589562
   },
   {
+    "Suburb": "Hepburn Springs",
+    "Site_streetaddress": "Mineral Springs Reserve Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3461",
+    "confidence": 0.6,
+    "latitude": -37.316158,
+    "longitude": 144.138388,
+    "label": "Hepburn Springs, VIC, Australia"
+  },
+  {
     "Suburb": "Fawkner",
     "Site_streetaddress": "Baird Street",
     "Site_state": "VIC",
@@ -7706,6 +7706,16 @@
     "latitude": -38.157285,
     "longitude": 144.362425,
     "label": "209 Bellerine Street, Geelong, VIC, Australia"
+  },
+  {
+    "Suburb": "Geelong",
+    "Site_streetaddress": "2-4 Gheringhap Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3220",
+    "confidence": 1,
+    "latitude": -38.143497,
+    "longitude": 144.35937,
+    "label": "2-4 Gheringhap Street, Geelong, VIC, Australia"
   },
   {
     "Suburb": "Geelong West",
@@ -13011,6 +13021,46 @@
     "label": "Point Wilson, VIC, Australia"
   },
   {
+    "Suburb": "Ravenhall",
+    "Site_streetaddress": "1/265 Robinsons Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3023",
+    "confidence": 0.6,
+    "latitude": -37.787925,
+    "longitude": 144.744794,
+    "label": "Ravenhall, VIC, Australia"
+  },
+  {
+    "Suburb": "Shepparton",
+    "Site_streetaddress": "109 Wyndham Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3630",
+    "confidence": 0.6,
+    "latitude": -36.36548,
+    "longitude": 145.406836,
+    "label": "Shepparton, VIC, Australia"
+  },
+  {
+    "Suburb": "South Geelong",
+    "Site_streetaddress": "1 Victoria Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3220",
+    "confidence": 0.6,
+    "latitude": -38.159477,
+    "longitude": 144.356048,
+    "label": "South Geelong, VIC, Australia"
+  },
+  {
+    "Suburb": "South Geelong",
+    "Site_streetaddress": "1/92 Balliang Sreet",
+    "Site_state": "VIC",
+    "Site_postcode": "3220",
+    "confidence": 0.6,
+    "latitude": -38.159477,
+    "longitude": 144.356048,
+    "label": "South Geelong, VIC, Australia"
+  },
+  {
     "Suburb": "Port Melbourne",
     "Site_streetaddress": "477-481 Plummer Street",
     "Site_state": "VIC",
@@ -13347,46 +13397,6 @@
     "latitude": -36.770668,
     "longitude": 144.278497,
     "label": "25 Russell Street, Quarry Hill, VIC, Australia"
-  },
-  {
-    "Suburb": "Ravenhall",
-    "Site_streetaddress": "1/265 Robinsons Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3023",
-    "confidence": 0.6,
-    "latitude": -37.787925,
-    "longitude": 144.744794,
-    "label": "Ravenhall, VIC, Australia"
-  },
-  {
-    "Suburb": "Shepparton",
-    "Site_streetaddress": "109 Wyndham Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3630",
-    "confidence": 0.6,
-    "latitude": -36.36548,
-    "longitude": 145.406836,
-    "label": "Shepparton, VIC, Australia"
-  },
-  {
-    "Suburb": "South Geelong",
-    "Site_streetaddress": "1 Victoria Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3220",
-    "confidence": 0.6,
-    "latitude": -38.159477,
-    "longitude": 144.356048,
-    "label": "South Geelong, VIC, Australia"
-  },
-  {
-    "Suburb": "South Geelong",
-    "Site_streetaddress": "1/92 Balliang Sreet",
-    "Site_state": "VIC",
-    "Site_postcode": "3220",
-    "confidence": 0.6,
-    "latitude": -38.159477,
-    "longitude": 144.356048,
-    "label": "South Geelong, VIC, Australia"
   },
   {
     "Suburb": "Queenscliff",
