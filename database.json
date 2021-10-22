@@ -1751,6 +1751,16 @@
     "label": "42 View Street, Bendigo, VIC, Australia"
   },
   {
+    "Suburb": "Bendigo",
+    "Site_streetaddress": "137 View Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3550",
+    "confidence": 1,
+    "latitude": -36.757319,
+    "longitude": 144.275433,
+    "label": "137 View Street, Bendigo, VIC, Australia"
+  },
+  {
     "Suburb": "Bentleigh",
     "Site_streetaddress": "795 Nepean Highway",
     "Site_state": "VIC",
