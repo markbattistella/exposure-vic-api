@@ -4055,6 +4055,16 @@
     "longitude": 145.3107065
   },
   {
+    "Suburb": "Churchill",
+    "Site_streetaddress": "Shop 7/13 Georgina Place",
+    "Site_state": "VIC",
+    "Site_postcode": "3842",
+    "confidence": 0.3,
+    "latitude": -37.014348,
+    "longitude": 143.480452,
+    "label": "Victoria, Australia"
+  },
+  {
     "Suburb": "Clayton",
     "Site_streetaddress": "246 Clayton Road",
     "Site_state": "VIC",
@@ -10138,6 +10148,16 @@
     "latitude": -37.747583,
     "longitude": 145.350643,
     "label": "21 Chris Drive, Lilydale, VIC, Australia"
+  },
+  {
+    "Suburb": "Lilydale",
+    "Site_streetaddress": "474 Maroondah Highway",
+    "Site_state": "VIC",
+    "Site_postcode": "3140",
+    "confidence": 1,
+    "latitude": -37.754258,
+    "longitude": 145.36414,
+    "label": "474 Maroondah Highway, Lilydale, VIC, Australia"
   },
   {
     "Suburb": "Lilydale ",
