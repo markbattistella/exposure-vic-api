@@ -106,16 +106,6 @@
     "label": "Victoria, Australia"
   },
   {
-    "Suburb": "Halls Gap",
-    "Site_streetaddress": "Halls Gap",
-    "Site_state": "VIC",
-    "Site_postcode": "3381",
-    "confidence": 0.3,
-    "latitude": -37.014348,
-    "longitude": 143.480452,
-    "label": "Victoria, Australia"
-  },
-  {
     "Suburb": "South Ballarat",
     "Site_streetaddress": "950 Humffray Street",
     "Site_state": "VIC",
@@ -146,74 +136,44 @@
     "label": "Bendigo, VIC, Australia"
   },
   {
-    "Suburb": "Hepburn Springs",
-    "Site_streetaddress": "Mineral Springs Reserve Road",
+    "Suburb": "Bendigo",
+    "Site_streetaddress": "2/3 Abel Golden Square Street",
     "Site_state": "VIC",
-    "Site_postcode": "3461",
+    "Site_postcode": "3550",
     "confidence": 0.6,
-    "latitude": -37.316158,
-    "longitude": 144.138388,
-    "label": "Hepburn Springs, VIC, Australia"
+    "latitude": -36.757608,
+    "longitude": 144.27957,
+    "label": "Bendigo, VIC, Australia"
   },
   {
-    "Suburb": "Maiden Gully",
-    "Site_streetaddress": "Westbury Boulevard",
-    "Site_state": "VIC",
-    "Site_postcode": "3551",
-    "confidence": 0.6,
-    "latitude": -36.7525,
-    "longitude": 144.20717,
-    "label": "Maiden Gully, VIC, Australia"
-  },
-  {
-    "Suburb": "Ravenhall",
-    "Site_streetaddress": "1/265 Robinsons Road",
+    "Suburb": "Deer Park",
+    "Site_streetaddress": "Corner Neale and Station Road",
     "Site_state": "VIC",
     "Site_postcode": "3023",
     "confidence": 0.6,
-    "latitude": -37.787925,
-    "longitude": 144.744794,
-    "label": "Ravenhall, VIC, Australia"
+    "latitude": -37.770374,
+    "longitude": 144.766901,
+    "label": "Deer Park, VIC, Australia"
   },
   {
-    "Suburb": "Shepparton",
-    "Site_streetaddress": "109 Wyndham Street",
+    "Suburb": "Delacombe",
+    "Site_streetaddress": "17/315 Glenelg Highway",
     "Site_state": "VIC",
-    "Site_postcode": "3630",
+    "Site_postcode": "3351",
     "confidence": 0.6,
-    "latitude": -36.36548,
-    "longitude": 145.406836,
-    "label": "Shepparton, VIC, Australia"
+    "latitude": -37.57993,
+    "longitude": 143.806578,
+    "label": "Delacombe, VIC, Australia"
   },
   {
-    "Suburb": "South Geelong",
-    "Site_streetaddress": "1 Victoria Street",
+    "Suburb": "Essendon",
+    "Site_streetaddress": "99-101A Keilor Road",
     "Site_state": "VIC",
-    "Site_postcode": "3220",
+    "Site_postcode": "3042",
     "confidence": 0.6,
-    "latitude": -38.159477,
-    "longitude": 144.356048,
-    "label": "South Geelong, VIC, Australia"
-  },
-  {
-    "Suburb": "South Geelong",
-    "Site_streetaddress": "1/92 Balliang Sreet",
-    "Site_state": "VIC",
-    "Site_postcode": "3220",
-    "confidence": 0.6,
-    "latitude": -38.159477,
-    "longitude": 144.356048,
-    "label": "South Geelong, VIC, Australia"
-  },
-  {
-    "Suburb": "Trafalgar",
-    "Site_streetaddress": "Princes Highway",
-    "Site_state": "VIC",
-    "Site_postcode": "3824",
-    "confidence": 0.6,
-    "latitude": -38.211812,
-    "longitude": 146.154994,
-    "label": "Trafalgar, VIC, Australia"
+    "latitude": -37.7512,
+    "longitude": 144.91246,
+    "label": "Essendon, VIC, Australia"
   },
   {
     "Suburb": "Airport West",
@@ -1809,16 +1769,6 @@
     "latitude": -36.757319,
     "longitude": 144.275433,
     "label": "137 View Street, Bendigo, VIC, Australia"
-  },
-  {
-    "Suburb": "Bendigo",
-    "Site_streetaddress": "2/3 Abel Golden Square Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3550",
-    "confidence": 0.6,
-    "latitude": -36.757608,
-    "longitude": 144.27957,
-    "label": "Bendigo, VIC, Australia"
   },
   {
     "Suburb": "Bentleigh",
@@ -4065,46 +4015,6 @@
     "latitude": -37.014348,
     "longitude": 143.480452,
     "label": "Victoria, Australia"
-  },
-  {
-    "Suburb": "Deer Park",
-    "Site_streetaddress": "Corner Neale and Station Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3023",
-    "confidence": 0.6,
-    "latitude": -37.770374,
-    "longitude": 144.766901,
-    "label": "Deer Park, VIC, Australia"
-  },
-  {
-    "Suburb": "Delacombe",
-    "Site_streetaddress": "17/315 Glenelg Highway",
-    "Site_state": "VIC",
-    "Site_postcode": "3351",
-    "confidence": 0.6,
-    "latitude": -37.57993,
-    "longitude": 143.806578,
-    "label": "Delacombe, VIC, Australia"
-  },
-  {
-    "Suburb": "Essendon",
-    "Site_streetaddress": "99-101A Keilor Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3042",
-    "confidence": 0.6,
-    "latitude": -37.7512,
-    "longitude": 144.91246,
-    "label": "Essendon, VIC, Australia"
-  },
-  {
-    "Suburb": "Geelong",
-    "Site_streetaddress": "2/43 Separation Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3215",
-    "confidence": 0.6,
-    "latitude": -38.150785,
-    "longitude": 144.361579,
-    "label": "Geelong, VIC, Australia"
   },
   {
     "Suburb": "Cheltenham",
@@ -6915,6 +6825,36 @@
     "Site_postcode": "3060",
     "latitude": -37.7057885,
     "longitude": 144.9589562
+  },
+  {
+    "Suburb": "Halls Gap",
+    "Site_streetaddress": "Halls Gap",
+    "Site_state": "VIC",
+    "Site_postcode": "3381",
+    "confidence": 0.3,
+    "latitude": -37.014348,
+    "longitude": 143.480452,
+    "label": "Victoria, Australia"
+  },
+  {
+    "Suburb": "Geelong",
+    "Site_streetaddress": "2/43 Separation Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3215",
+    "confidence": 0.6,
+    "latitude": -38.150785,
+    "longitude": 144.361579,
+    "label": "Geelong, VIC, Australia"
+  },
+  {
+    "Suburb": "Hepburn Springs",
+    "Site_streetaddress": "Mineral Springs Reserve Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3461",
+    "confidence": 0.6,
+    "latitude": -37.316158,
+    "longitude": 144.138388,
+    "label": "Hepburn Springs, VIC, Australia"
   },
   {
     "Suburb": "Fawkner",
@@ -10316,6 +10256,66 @@
     "Site_postcode": "3975",
     "latitude": -38.0526509,
     "longitude": 145.254376
+  },
+  {
+    "Suburb": "Maiden Gully",
+    "Site_streetaddress": "Westbury Boulevard",
+    "Site_state": "VIC",
+    "Site_postcode": "3551",
+    "confidence": 0.6,
+    "latitude": -36.7525,
+    "longitude": 144.20717,
+    "label": "Maiden Gully, VIC, Australia"
+  },
+  {
+    "Suburb": "Ravenhall",
+    "Site_streetaddress": "1/265 Robinsons Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3023",
+    "confidence": 0.6,
+    "latitude": -37.787925,
+    "longitude": 144.744794,
+    "label": "Ravenhall, VIC, Australia"
+  },
+  {
+    "Suburb": "Shepparton",
+    "Site_streetaddress": "109 Wyndham Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3630",
+    "confidence": 0.6,
+    "latitude": -36.36548,
+    "longitude": 145.406836,
+    "label": "Shepparton, VIC, Australia"
+  },
+  {
+    "Suburb": "South Geelong",
+    "Site_streetaddress": "1 Victoria Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3220",
+    "confidence": 0.6,
+    "latitude": -38.159477,
+    "longitude": 144.356048,
+    "label": "South Geelong, VIC, Australia"
+  },
+  {
+    "Suburb": "South Geelong",
+    "Site_streetaddress": "1/92 Balliang Sreet",
+    "Site_state": "VIC",
+    "Site_postcode": "3220",
+    "confidence": 0.6,
+    "latitude": -38.159477,
+    "longitude": 144.356048,
+    "label": "South Geelong, VIC, Australia"
+  },
+  {
+    "Suburb": "Trafalgar",
+    "Site_streetaddress": "Princes Highway",
+    "Site_state": "VIC",
+    "Site_postcode": "3824",
+    "confidence": 0.6,
+    "latitude": -38.211812,
+    "longitude": 146.154994,
+    "label": "Trafalgar, VIC, Australia"
   },
   {
     "Suburb": "Lynbrook",
