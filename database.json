@@ -1413,6 +1413,36 @@
     "longitude": 146.7254344
   },
   {
+    "Suburb": "Bendigo",
+    "Site_streetaddress": "1/94 Nolan Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3550",
+    "confidence": 0.6,
+    "latitude": -36.757608,
+    "longitude": 144.27957,
+    "label": "Bendigo, VIC, Australia"
+  },
+  {
+    "Suburb": "Bendigo",
+    "Site_streetaddress": "143 Mollison Sreet",
+    "Site_state": "VIC",
+    "Site_postcode": "3550",
+    "confidence": 0.6,
+    "latitude": -36.757608,
+    "longitude": 144.27957,
+    "label": "Bendigo, VIC, Australia"
+  },
+  {
+    "Suburb": "Bendigo",
+    "Site_streetaddress": "2/3 Abel Golden Square Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3550",
+    "confidence": 0.6,
+    "latitude": -36.757608,
+    "longitude": 144.27957,
+    "label": "Bendigo, VIC, Australia"
+  },
+  {
     "Suburb": "Bayswater",
     "Site_streetaddress": "719-721 Mountain Highway",
     "Site_state": "VIC",
@@ -1539,36 +1569,6 @@
     "latitude": -36.550605,
     "longitude": 145.987446,
     "label": "123-125 Bridge Street East, Benalla, VIC, Australia"
-  },
-  {
-    "Suburb": "Bendigo",
-    "Site_streetaddress": "1/94 Nolan Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3550",
-    "confidence": 0.6,
-    "latitude": -36.757608,
-    "longitude": 144.27957,
-    "label": "Bendigo, VIC, Australia"
-  },
-  {
-    "Suburb": "Bendigo",
-    "Site_streetaddress": "143 Mollison Sreet",
-    "Site_state": "VIC",
-    "Site_postcode": "3550",
-    "confidence": 0.6,
-    "latitude": -36.757608,
-    "longitude": 144.27957,
-    "label": "Bendigo, VIC, Australia"
-  },
-  {
-    "Suburb": "Bendigo",
-    "Site_streetaddress": "2/3 Abel Golden Square Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3550",
-    "confidence": 0.6,
-    "latitude": -36.757608,
-    "longitude": 144.27957,
-    "label": "Bendigo, VIC, Australia"
   },
   {
     "Suburb": "Bendigo",
