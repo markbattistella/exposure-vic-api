@@ -15246,6 +15246,16 @@
     "label": "198B Maude Street, Shepparton, VIC, Australia"
   },
   {
+    "Suburb": "Shepparton",
+    "Site_streetaddress": "Shop 30, 110-120 Benalla Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3630",
+    "confidence": 1,
+    "latitude": -36.387796,
+    "longitude": 145.423652,
+    "label": "110-120 Benalla Road, Shepparton, VIC, Australia"
+  },
+  {
     "Suburb": "Shepparton East",
     "Site_streetaddress": "485-507 Channel Road",
     "Site_state": "VIC",
