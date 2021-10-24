@@ -8168,6 +8168,16 @@
     "label": "774 High Street Road, Glen Waverley, VIC, Australia"
   },
   {
+    "Suburb": "Glengarry",
+    "Site_streetaddress": "25 Main Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3854",
+    "confidence": 0.3,
+    "latitude": -37.014348,
+    "longitude": 143.480452,
+    "label": "Victoria, Australia"
+  },
+  {
     "Suburb": "Glenroy",
     "Site_streetaddress": "Corner of Newton Street and Farview Street",
     "Site_state": "VIC",
