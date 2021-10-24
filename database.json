@@ -12103,6 +12103,16 @@
     "label": "158 Hamilton Road, New Gisborne, VIC, Australia"
   },
   {
+    "Suburb": "Newborough",
+    "Site_streetaddress": "Corner Old Sale Road and Southwell Avenue",
+    "Site_state": "VIC",
+    "Site_postcode": "3825",
+    "confidence": 0.6,
+    "latitude": -38.170926,
+    "longitude": 146.293173,
+    "label": "Newborough, VIC, Australia"
+  },
+  {
     "Suburb": "Newcomb",
     "Site_streetaddress": "25 Bellarine Highway",
     "Site_state": "VIC",
@@ -17255,6 +17265,16 @@
     "latitude": -38.195926,
     "longitude": 146.536966,
     "label": "70 Seymour Street, Traralgon, VIC, Australia"
+  },
+  {
+    "Suburb": "Traralgon",
+    "Site_streetaddress": "68/70 Dunbar Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3844",
+    "confidence": 1,
+    "latitude": -38.206982,
+    "longitude": 146.534099,
+    "label": "70 Dunbar Road, Traralgon, VIC, Australia"
   },
   {
     "Suburb": "Traralgon East",
