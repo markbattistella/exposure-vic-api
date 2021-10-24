@@ -17287,6 +17287,16 @@
     "label": "70 Dunbar Road, Traralgon, VIC, Australia"
   },
   {
+    "Suburb": "Traralgon",
+    "Site_streetaddress": "17 Peterkin Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3844",
+    "confidence": 1,
+    "latitude": -38.193391,
+    "longitude": 146.544099,
+    "label": "17 Peterkin Street, Traralgon, VIC, Australia"
+  },
+  {
     "Suburb": "Traralgon East",
     "Site_streetaddress": "Unit 2/13-15 Standing Drive",
     "Site_state": "VIC",
