@@ -106,122 +106,14 @@
     "label": "Victoria, Australia"
   },
   {
-    "Suburb": "South Ballarat",
-    "Site_streetaddress": "950 Humffray Street",
+    "Suburb": "Glengarry",
+    "Site_streetaddress": "25 Main Street",
     "Site_state": "VIC",
-    "Site_postcode": "3350",
-    "confidence": 0.4,
-    "latitude": -37.563892,
-    "longitude": 143.852395,
-    "label": "Ballarat, VIC, Australia"
-  },
-  {
-    "Suburb": "Deer Park",
-    "Site_streetaddress": "Corner Neale and Station Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3023",
-    "confidence": 0.6,
-    "latitude": -37.770374,
-    "longitude": 144.766901,
-    "label": "Deer Park, VIC, Australia"
-  },
-  {
-    "Suburb": "Delacombe",
-    "Site_streetaddress": "17/315 Glenelg Highway",
-    "Site_state": "VIC",
-    "Site_postcode": "3351",
-    "confidence": 0.6,
-    "latitude": -37.57993,
-    "longitude": 143.806578,
-    "label": "Delacombe, VIC, Australia"
-  },
-  {
-    "Suburb": "Essendon",
-    "Site_streetaddress": "99-101A Keilor Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3042",
-    "confidence": 0.6,
-    "latitude": -37.7512,
-    "longitude": 144.91246,
-    "label": "Essendon, VIC, Australia"
-  },
-  {
-    "Suburb": "Maiden Gully",
-    "Site_streetaddress": "Westbury Boulevard",
-    "Site_state": "VIC",
-    "Site_postcode": "3551",
-    "confidence": 0.6,
-    "latitude": -36.7525,
-    "longitude": 144.20717,
-    "label": "Maiden Gully, VIC, Australia"
-  },
-  {
-    "Suburb": "Newborough",
-    "Site_streetaddress": "Corner Old Sale Road and Southwell Avenue",
-    "Site_state": "VIC",
-    "Site_postcode": "3825",
-    "confidence": 0.6,
-    "latitude": -38.170926,
-    "longitude": 146.293173,
-    "label": "Newborough, VIC, Australia"
-  },
-  {
-    "Suburb": "Ravenhall",
-    "Site_streetaddress": "1/265 Robinsons Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3023",
-    "confidence": 0.6,
-    "latitude": -37.787925,
-    "longitude": 144.744794,
-    "label": "Ravenhall, VIC, Australia"
-  },
-  {
-    "Suburb": "South Geelong",
-    "Site_streetaddress": "1 Victoria Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3220",
-    "confidence": 0.6,
-    "latitude": -38.159477,
-    "longitude": 144.356048,
-    "label": "South Geelong, VIC, Australia"
-  },
-  {
-    "Suburb": "South Geelong",
-    "Site_streetaddress": "1/92 Balliang Sreet",
-    "Site_state": "VIC",
-    "Site_postcode": "3220",
-    "confidence": 0.6,
-    "latitude": -38.159477,
-    "longitude": 144.356048,
-    "label": "South Geelong, VIC, Australia"
-  },
-  {
-    "Suburb": "South Geelong",
-    "Site_streetaddress": "138 Fyans Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3220",
-    "latitude": -38.163762,
-    "longitude": 144.3579944
-  },
-  {
-    "Suburb": "Swan Hill",
-    "Site_streetaddress": "8 Maher Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3585",
-    "confidence": 0.6,
-    "latitude": -35.341733,
-    "longitude": 143.543603,
-    "label": "Swan Hill, VIC, Australia"
-  },
-  {
-    "Suburb": "Trafalgar",
-    "Site_streetaddress": "Princes Highway",
-    "Site_state": "VIC",
-    "Site_postcode": "3824",
-    "confidence": 0.6,
-    "latitude": -38.211812,
-    "longitude": 146.154994,
-    "label": "Trafalgar, VIC, Australia"
+    "Site_postcode": "3854",
+    "confidence": 0.3,
+    "latitude": -37.014348,
+    "longitude": 143.480452,
+    "label": "Victoria, Australia"
   },
   {
     "Suburb": "Airport West",
@@ -4115,6 +4007,36 @@
     "label": "Victoria, Australia"
   },
   {
+    "Suburb": "Deer Park",
+    "Site_streetaddress": "Corner Neale and Station Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3023",
+    "confidence": 0.6,
+    "latitude": -37.770374,
+    "longitude": 144.766901,
+    "label": "Deer Park, VIC, Australia"
+  },
+  {
+    "Suburb": "Delacombe",
+    "Site_streetaddress": "17/315 Glenelg Highway",
+    "Site_state": "VIC",
+    "Site_postcode": "3351",
+    "confidence": 0.6,
+    "latitude": -37.57993,
+    "longitude": 143.806578,
+    "label": "Delacombe, VIC, Australia"
+  },
+  {
+    "Suburb": "Essendon",
+    "Site_streetaddress": "99-101A Keilor Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3042",
+    "confidence": 0.6,
+    "latitude": -37.7512,
+    "longitude": 144.91246,
+    "label": "Essendon, VIC, Australia"
+  },
+  {
     "Suburb": "Cheltenham",
     "Site_streetaddress": "1239 Nepean Highway",
     "Site_state": "VIC",
@@ -6935,16 +6857,6 @@
     "longitude": 144.9589562
   },
   {
-    "Suburb": "Glengarry",
-    "Site_streetaddress": "25 Main Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3854",
-    "confidence": 0.3,
-    "latitude": -37.014348,
-    "longitude": 143.480452,
-    "label": "Victoria, Australia"
-  },
-  {
     "Suburb": "Geelong",
     "Site_streetaddress": "2/43 Separation Street",
     "Site_state": "VIC",
@@ -7836,6 +7748,16 @@
     "label": "Hepburn Springs, VIC, Australia"
   },
   {
+    "Suburb": "Maiden Gully",
+    "Site_streetaddress": "Westbury Boulevard",
+    "Site_state": "VIC",
+    "Site_postcode": "3551",
+    "confidence": 0.6,
+    "latitude": -36.7525,
+    "longitude": 144.20717,
+    "label": "Maiden Gully, VIC, Australia"
+  },
+  {
     "Suburb": "Geelong",
     "Site_streetaddress": "116 Moorabool Street",
     "Site_state": "VIC",
@@ -8477,6 +8399,66 @@
     "Site_postcode": "3216",
     "latitude": -38.1939943,
     "longitude": 144.3418315
+  },
+  {
+    "Suburb": "South Ballarat",
+    "Site_streetaddress": "950 Humffray Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3350",
+    "confidence": 0.4,
+    "latitude": -37.563892,
+    "longitude": 143.852395,
+    "label": "Ballarat, VIC, Australia"
+  },
+  {
+    "Suburb": "Ravenhall",
+    "Site_streetaddress": "1/265 Robinsons Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3023",
+    "confidence": 0.6,
+    "latitude": -37.787925,
+    "longitude": 144.744794,
+    "label": "Ravenhall, VIC, Australia"
+  },
+  {
+    "Suburb": "Shepparton",
+    "Site_streetaddress": "109 Wyndham Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3630",
+    "confidence": 0.6,
+    "latitude": -36.36548,
+    "longitude": 145.406836,
+    "label": "Shepparton, VIC, Australia"
+  },
+  {
+    "Suburb": "South Geelong",
+    "Site_streetaddress": "1 Victoria Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3220",
+    "confidence": 0.6,
+    "latitude": -38.159477,
+    "longitude": 144.356048,
+    "label": "South Geelong, VIC, Australia"
+  },
+  {
+    "Suburb": "South Geelong",
+    "Site_streetaddress": "1/92 Balliang Sreet",
+    "Site_state": "VIC",
+    "Site_postcode": "3220",
+    "confidence": 0.6,
+    "latitude": -38.159477,
+    "longitude": 144.356048,
+    "label": "South Geelong, VIC, Australia"
+  },
+  {
+    "Suburb": "Trafalgar",
+    "Site_streetaddress": "Princes Highway",
+    "Site_state": "VIC",
+    "Site_postcode": "3824",
+    "confidence": 0.6,
+    "latitude": -38.211812,
+    "longitude": 146.154994,
+    "label": "Trafalgar, VIC, Australia"
   },
   {
     "Suburb": "Grovedale",
@@ -10374,6 +10356,16 @@
     "Site_postcode": "3975",
     "latitude": -38.0526509,
     "longitude": 145.254376
+  },
+  {
+    "Suburb": "Newborough",
+    "Site_streetaddress": "Corner Old Sale Road and Southwell Avenue",
+    "Site_state": "VIC",
+    "Site_postcode": "3825",
+    "confidence": 0.6,
+    "latitude": -38.170926,
+    "longitude": 146.293173,
+    "label": "Newborough, VIC, Australia"
   },
   {
     "Suburb": "Lynbrook",
@@ -13229,16 +13221,6 @@
     "label": "Point Wilson, VIC, Australia"
   },
   {
-    "Suburb": "Shepparton",
-    "Site_streetaddress": "109 Wyndham Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3630",
-    "confidence": 0.6,
-    "latitude": -36.36548,
-    "longitude": 145.406836,
-    "label": "Shepparton, VIC, Australia"
-  },
-  {
     "Suburb": "Port Melbourne",
     "Site_streetaddress": "477-481 Plummer Street",
     "Site_state": "VIC",
@@ -15470,6 +15452,24 @@
     "confidence": 1,
     "latitude": -37.6429474,
     "longitude": 144.9512602
+  },
+  {
+    "Suburb": "South Geelong",
+    "Site_streetaddress": "138 Fyans Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3220",
+    "latitude": -38.163762,
+    "longitude": 144.3579944
+  },
+  {
+    "Suburb": "Swan Hill",
+    "Site_streetaddress": "8 Maher Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3585",
+    "confidence": 0.6,
+    "latitude": -35.341733,
+    "longitude": 143.543603,
+    "label": "Swan Hill, VIC, Australia"
   },
   {
     "Suburb": "South Geelong",
