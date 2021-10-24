@@ -1216,28 +1216,6 @@
     "Site_streetaddress": "24 Sinclair Street",
     "Site_state": "VIC",
     "Site_postcode": "3226",
-    "Exposure_date_dtm": "2021-10-09",
-    "Exposure_date": "09/10/2021",
-    "Exposure_time": "9:00am - 4:30pm",
-    "Notes": "Case attended venue. Some individuals will be Tier 1 contacts required to quarantine for 14 days and the Department will be in contact with them directly with this advice.",
-    "Added_date_dtm": "2021-10-18",
-    "Added_date": "18/10/2021",
-    "Added_time": "16:30:00",
-    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
-    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
-    "Exposure_time_start_24": "09:00:00",
-    "Exposure_time_end_24": "16:30:00",
-    "dhid": "Z9M4",
-    "latitude": -38.250913,
-    "longitude": 144.539388
-  },
-  {
-    "_id": 59,
-    "Suburb": "Ocean Grove",
-    "Site_title": "Feed Me Bellarine, Ocean Grove",
-    "Site_streetaddress": "24 Sinclair Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3226",
     "Exposure_date_dtm": "2021-10-12",
     "Exposure_date": "12/10/2021",
     "Exposure_time": "7:30am - 11:30am",
@@ -1254,7 +1232,7 @@
     "longitude": 144.539388
   },
   {
-    "_id": 60,
+    "_id": 59,
     "Suburb": "Ocean Grove",
     "Site_title": "Feed Me Bellarine, Ocean Grove",
     "Site_streetaddress": "24 Sinclair Street",
@@ -1276,7 +1254,7 @@
     "longitude": 144.539388
   },
   {
-    "_id": 61,
+    "_id": 60,
     "Suburb": "Ocean Grove",
     "Site_title": "Feed Me Bellarine, Ocean Grove",
     "Site_streetaddress": "24 Sinclair Street",
@@ -1298,7 +1276,7 @@
     "longitude": 144.539388
   },
   {
-    "_id": 62,
+    "_id": 61,
     "Suburb": "Paynesville",
     "Site_title": "Paynesville Wine Bar",
     "Site_streetaddress": "85A Esplanade",
@@ -1320,7 +1298,7 @@
     "longitude": 147.725203
   },
   {
-    "_id": 63,
+    "_id": 62,
     "Suburb": "Paynesville",
     "Site_title": "Paynesville Wine Bar",
     "Site_streetaddress": "85A Esplanade",
@@ -1342,7 +1320,7 @@
     "longitude": 147.725203
   },
   {
-    "_id": 64,
+    "_id": 63,
     "Suburb": "Bendigo",
     "Site_title": "McQuinns Gym",
     "Site_streetaddress": "14-18 High Street",
@@ -1364,7 +1342,7 @@
     "longitude": 144.27634
   },
   {
-    "_id": 65,
+    "_id": 64,
     "Suburb": "Bendigo",
     "Site_title": "McQuinns Gym",
     "Site_streetaddress": "14-18 High Street",
@@ -1386,7 +1364,7 @@
     "longitude": 144.27634
   },
   {
-    "_id": 66,
+    "_id": 65,
     "Suburb": "Bendigo",
     "Site_title": "McQuinns Gym",
     "Site_streetaddress": "14-18 High Street",
@@ -1408,7 +1386,7 @@
     "longitude": 144.27634
   },
   {
-    "_id": 67,
+    "_id": 66,
     "Suburb": "Redan",
     "Site_title": "Anytime Fitness",
     "Site_streetaddress": "601/603 La Trobe Street",
@@ -1430,7 +1408,7 @@
     "longitude": 143.835346
   },
   {
-    "_id": 68,
+    "_id": 67,
     "Suburb": "Thomastown",
     "Site_title": "Greek Orthodox Church Of Thomastown - The Transfiguration of Our Lord",
     "Site_streetaddress": "45 Poplar Street",
@@ -1452,7 +1430,7 @@
     "longitude": 145.028475
   },
   {
-    "_id": 69,
+    "_id": 68,
     "Suburb": "Hepburn Springs",
     "Site_title": "Hepburn Bathhouse and Spa - Sanctuary Mineral Bathing Area",
     "Site_streetaddress": "Mineral Springs Reserve Road",
@@ -1474,29 +1452,7 @@
     "longitude": 144.138388
   },
   {
-    "_id": 70,
-    "Suburb": "Bendigo",
-    "Site_title": "The Dispensary",
-    "Site_streetaddress": "9 Chancery Lane",
-    "Site_state": "VIC",
-    "Site_postcode": "3550",
-    "Exposure_date_dtm": "2021-10-09",
-    "Exposure_date": "09/10/2021",
-    "Exposure_time": "10:32pm - 12:00am",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-10-16",
-    "Added_date": "16/10/2021",
-    "Added_time": "10:55:00",
-    "Advice_title": "Tier 1 – Get tested immediately and quarantine for 7 days from exposure if fully vaccinated or 14 days if not fully vaccinated",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 7 days from exposure if fully vaccinated, or 14 days from exposure if not fully vaccinated or if you live with someone who has COVID-19",
-    "Exposure_time_start_24": "22:32:00",
-    "Exposure_time_end_24": "00:00:00",
-    "dhid": "Y2H3",
-    "latitude": -36.758494,
-    "longitude": 144.281175
-  },
-  {
-    "_id": 71,
+    "_id": 69,
     "Suburb": "Maldon",
     "Site_title": "Vanilla Spice",
     "Site_streetaddress": "18 High Street",
@@ -1518,7 +1474,7 @@
     "longitude": 144.068831
   },
   {
-    "_id": 72,
+    "_id": 70,
     "Suburb": "Maldon",
     "Site_title": "The Maldon Lolly Shop",
     "Site_streetaddress": "20 High Street",
@@ -1540,29 +1496,7 @@
     "longitude": 144.068881
   },
   {
-    "_id": 73,
-    "Suburb": "Deer Park",
-    "Site_title": "Direct Chemist Outlet - Brimbank Shopping Centre",
-    "Site_streetaddress": "Corner Neale and Station Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3023",
-    "Exposure_date_dtm": "2021-10-09",
-    "Exposure_date": "09/10/2021",
-    "Exposure_time": "9:00am - 5:30pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-10-15",
-    "Added_date": "15/10/2021",
-    "Added_time": "22:10:00",
-    "Advice_title": "Tier 1 – Get tested immediately and quarantine for 7 days from exposure if fully vaccinated or 14 days if not fully vaccinated",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 7 days from exposure if fully vaccinated, or 14 days from exposure if not fully vaccinated or if you live with someone who has COVID-19",
-    "Exposure_time_start_24": "09:00:00",
-    "Exposure_time_end_24": "17:30:00",
-    "dhid": "Y6B4",
-    "latitude": -37.770374,
-    "longitude": 144.766901
-  },
-  {
-    "_id": 74,
+    "_id": 71,
     "Suburb": "Deer Park",
     "Site_title": "Direct Chemist Outlet - Brimbank Shopping Centre",
     "Site_streetaddress": "Corner Neale and Station Road",
@@ -1584,7 +1518,7 @@
     "longitude": 144.766901
   },
   {
-    "_id": 75,
+    "_id": 72,
     "Suburb": "Ballarat Central",
     "Site_title": "Oscar's Hotel and Café Bar ",
     "Site_streetaddress": "18 Doveton Street South",
@@ -1606,29 +1540,7 @@
     "longitude": 143.854049
   },
   {
-    "_id": 76,
-    "Suburb": "Point Wilson",
-    "Site_title": "Austrak Concrete Factory",
-    "Site_streetaddress": "570 Dandos Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3212",
-    "Exposure_date_dtm": "2021-10-09",
-    "Exposure_date": "09/10/2021",
-    "Exposure_time": "6:30am - 3:30pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-10-15",
-    "Added_date": "15/10/2021",
-    "Added_time": "22:10:00",
-    "Advice_title": "Tier 1 – Get tested immediately and quarantine for 7 days from exposure if fully vaccinated or 14 days if not fully vaccinated",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 7 days from exposure if fully vaccinated, or 14 days from exposure if not fully vaccinated or if you live with someone who has COVID-19",
-    "Exposure_time_start_24": "06:30:00",
-    "Exposure_time_end_24": "15:30:00",
-    "dhid": "Y7Z4",
-    "latitude": -38.002249,
-    "longitude": 144.567251
-  },
-  {
-    "_id": 77,
+    "_id": 73,
     "Suburb": "Winchelsea",
     "Site_title": "Winchelsea Hotel",
     "Site_streetaddress": "20 Willis Street",
@@ -1650,7 +1562,7 @@
     "longitude": 143.992976
   },
   {
-    "_id": 78,
+    "_id": 74,
     "Suburb": "Grovedale",
     "Site_title": "The Grovedale Hotel Gaming Room",
     "Site_streetaddress": "236-258 Torquay Road",
@@ -1672,7 +1584,7 @@
     "longitude": 144.341167
   },
   {
-    "_id": 79,
+    "_id": 75,
     "Suburb": "Soldiers Hill",
     "Site_title": "The North Star Hotel",
     "Site_streetaddress": "302 Lydiard Street North",
@@ -1694,73 +1606,7 @@
     "longitude": 143.859229
   },
   {
-    "_id": 82,
-    "Suburb": "Torquay",
-    "Site_title": "Two Sugars on The Esplanade",
-    "Site_streetaddress": "1-2/40 The Esplanade",
-    "Site_state": "VIC",
-    "Site_postcode": "3228",
-    "Exposure_date_dtm": "2021-10-09",
-    "Exposure_date": "09/10/2021",
-    "Exposure_time": "8:00pm - 10:00pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-10-14",
-    "Added_date": "14/10/2021",
-    "Added_time": "11:55:00",
-    "Advice_title": "Tier 1 – Get tested immediately and quarantine for 7 days from exposure if fully vaccinated or 14 days if not fully vaccinated",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 7 days from exposure if fully vaccinated, or 14 days from exposure if not fully vaccinated or if you live with someone who has COVID-19",
-    "Exposure_time_start_24": "20:00:00",
-    "Exposure_time_end_24": "22:00:00",
-    "dhid": "Z6P5",
-    "latitude": -38.331982,
-    "longitude": 144.326167
-  },
-  {
-    "_id": 83,
-    "Suburb": "Halls Gap",
-    "Site_title": "Livefast Cafe",
-    "Site_streetaddress": "97 Grampians Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3381",
-    "Exposure_date_dtm": "2021-10-09",
-    "Exposure_date": "09/10/2021",
-    "Exposure_time": "11:00am - 11:30am",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-10-13",
-    "Added_date": "13/10/2021",
-    "Added_time": "22:20:00",
-    "Advice_title": "Tier 1 – Get tested immediately and quarantine for 7 days from exposure if fully vaccinated or 14 days if not fully vaccinated",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 7 days from exposure if fully vaccinated, or 14 days from exposure if not fully vaccinated or if you live with someone who has COVID-19",
-    "Exposure_time_start_24": "11:00:00",
-    "Exposure_time_end_24": "11:30:00",
-    "dhid": "Z9Q9",
-    "latitude": -37.138918,
-    "longitude": 142.51941
-  },
-  {
-    "_id": 84,
-    "Suburb": "Halls Gap",
-    "Site_title": "Flame Brothers Restaurant & Bar",
-    "Site_streetaddress": "10/97 Grampians Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3381",
-    "Exposure_date_dtm": "2021-10-09",
-    "Exposure_date": "09/10/2021",
-    "Exposure_time": "6:40pm - 8:30pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-10-13",
-    "Added_date": "13/10/2021",
-    "Added_time": "22:20:00",
-    "Advice_title": "Tier 1 – Get tested immediately and quarantine for 7 days from exposure if fully vaccinated or 14 days if not fully vaccinated",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 7 days from exposure if fully vaccinated, or 14 days from exposure if not fully vaccinated or if you live with someone who has COVID-19",
-    "Exposure_time_start_24": "18:40:00",
-    "Exposure_time_end_24": "20:30:00",
-    "dhid": "Z7G4",
-    "latitude": -37.138918,
-    "longitude": 142.51941
-  },
-  {
-    "_id": 85,
+    "_id": 78,
     "Suburb": "Halls Gap",
     "Site_title": "Grampians Adventure Golf, Cafe & MOCO Gallery",
     "Site_streetaddress": "475-481 Grampians Road",
