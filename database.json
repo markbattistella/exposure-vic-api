@@ -96,6 +96,16 @@
     "longitude": 144.8847997
   },
   {
+    "Suburb": "Bendigo",
+    "Site_streetaddress": "2/3 Abel Golden Square Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3550",
+    "confidence": 0.6,
+    "latitude": -36.757608,
+    "longitude": 144.27957,
+    "label": "Bendigo, VIC, Australia"
+  },
+  {
     "Suburb": "Airport West",
     "Site_streetaddress": "64 Parer Road",
     "Site_state": "VIC",
@@ -1711,16 +1721,6 @@
     "latitude": -36.757319,
     "longitude": 144.275433,
     "label": "137 View Street, Bendigo, VIC, Australia"
-  },
-  {
-    "Suburb": "Bendigo",
-    "Site_streetaddress": "2/3 Abel Golden Square Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3550",
-    "confidence": 0.6,
-    "latitude": -36.757608,
-    "longitude": 144.27957,
-    "label": "Bendigo, VIC, Australia"
   },
   {
     "Suburb": "Bentleigh",
