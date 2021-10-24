@@ -10338,6 +10338,16 @@
     "longitude": 145.254376
   },
   {
+    "Suburb": "Newborough",
+    "Site_streetaddress": "Corner Old Sale Road and Southwell Avenue",
+    "Site_state": "VIC",
+    "Site_postcode": "3825",
+    "confidence": 0.6,
+    "latitude": -38.170926,
+    "longitude": 146.293173,
+    "label": "Newborough, VIC, Australia"
+  },
+  {
     "Suburb": "Lynbrook",
     "Site_streetaddress": "75 Lynbrook Boulevard",
     "Site_state": "VIC",
@@ -12101,16 +12111,6 @@
     "latitude": -37.455457,
     "longitude": 144.598238,
     "label": "158 Hamilton Road, New Gisborne, VIC, Australia"
-  },
-  {
-    "Suburb": "Newborough",
-    "Site_streetaddress": "Corner Old Sale Road and Southwell Avenue",
-    "Site_state": "VIC",
-    "Site_postcode": "3825",
-    "confidence": 0.6,
-    "latitude": -38.170926,
-    "longitude": 146.293173,
-    "label": "Newborough, VIC, Australia"
   },
   {
     "Suburb": "Newcomb",
