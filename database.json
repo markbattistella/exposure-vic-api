@@ -96,6 +96,16 @@
     "longitude": 144.8847997
   },
   {
+    "Suburb": "Bendigo",
+    "Site_streetaddress": "2/3 Abel Golden Square Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3550",
+    "confidence": 0.6,
+    "latitude": -36.757608,
+    "longitude": 144.27957,
+    "label": "Bendigo, VIC, Australia"
+  },
+  {
     "Suburb": "Golden Square",
     "Site_streetaddress": "2/3 Abel Street",
     "Site_state": "VIC",
@@ -104,6 +114,16 @@
     "latitude": -36.769894,
     "longitude": 144.254326,
     "label": "Golden Square, VIC, Australia"
+  },
+  {
+    "Suburb": "Wodonga",
+    "Site_streetaddress": "97-99 Melrose Drive",
+    "Site_state": "VIC",
+    "Site_postcode": "3690",
+    "confidence": 0.6,
+    "latitude": -36.127609,
+    "longitude": 146.89372,
+    "label": "Wodonga, VIC, Australia"
   },
   {
     "Suburb": "Airport West",
@@ -1447,16 +1467,6 @@
     "latitude": -36.551496,
     "longitude": 145.98361,
     "label": "27-29 Bridge Street East, Benalla, VIC, Australia"
-  },
-  {
-    "Suburb": "Bendigo",
-    "Site_streetaddress": "2/3 Abel Golden Square Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3550",
-    "confidence": 0.6,
-    "latitude": -36.757608,
-    "longitude": 144.27957,
-    "label": "Bendigo, VIC, Australia"
   },
   {
     "Suburb": "Bendigo",
@@ -19102,16 +19112,6 @@
     "latitude": -36.134923,
     "longitude": 146.903271,
     "label": "6 Chisholm Court, Wodonga, VIC, Australia"
-  },
-  {
-    "Suburb": "Wodonga",
-    "Site_streetaddress": "97-99 Melrose Drive",
-    "Site_state": "VIC",
-    "Site_postcode": "3690",
-    "confidence": 0.6,
-    "latitude": -36.127609,
-    "longitude": 146.89372,
-    "label": "Wodonga, VIC, Australia"
   },
   {
     "Suburb": "Wollert",
