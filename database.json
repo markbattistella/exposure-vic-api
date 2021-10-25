@@ -11385,6 +11385,16 @@
     "label": "119 Langtree Avenue, Mildura, VIC, Australia"
   },
   {
+    "Suburb": "Mildura",
+    "Site_streetaddress": "100-110 Deakin Avenue",
+    "Site_state": "VIC",
+    "Site_postcode": "3500",
+    "confidence": 1,
+    "latitude": -34.187533,
+    "longitude": 142.160288,
+    "label": "100-110 Deakin Avenue, Mildura, VIC, Australia"
+  },
+  {
     "Suburb": "Mill Park",
     "Site_streetaddress": "415 McDonalds Road",
     "Site_state": "VIC",
@@ -15250,6 +15260,22 @@
     "label": "110-120 Benalla Road, Shepparton, VIC, Australia"
   },
   {
+    "Suburb": "Shepparton",
+    "Site_streetaddress": "98 Fryers Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3630",
+    "confidence": 1,
+    "latitude": -36.379534,
+    "longitude": 145.402045,
+    "label": "98 Fryers Street, Shepparton, VIC, Australia"
+  },
+  {
+    "Suburb": "Shepparton",
+    "Site_streetaddress": "212-226 High Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3630"
+  },
+  {
     "Suburb": "Shepparton East",
     "Site_streetaddress": "485-507 Channel Road",
     "Site_state": "VIC",
@@ -17773,6 +17799,16 @@
     "label": "174-182 Greta Road, Wangaratta, VIC, Australia"
   },
   {
+    "Suburb": "Wangaratta",
+    "Site_streetaddress": "84 Parfitt Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3677",
+    "confidence": 1,
+    "latitude": -36.346779,
+    "longitude": 146.338665,
+    "label": "84 Parfitt Road, Wangaratta, VIC, Australia"
+  },
+  {
     "Suburb": "Warnambool",
     "Site_streetaddress": "Merri Street",
     "Site_state": "VIC",
@@ -19034,6 +19070,16 @@
     "label": "14-16 South Street, Wodonga, VIC, Australia"
   },
   {
+    "Suburb": "Wodonga",
+    "Site_streetaddress": "285 Victoria Cross Parade",
+    "Site_state": "VIC",
+    "Site_postcode": "3690",
+    "confidence": 1,
+    "latitude": -36.137642,
+    "longitude": 146.908192,
+    "label": "285 Victoria Cross Parade, Wodonga, VIC, Australia"
+  },
+  {
     "Suburb": "Wollert",
     "Site_streetaddress": "18 Matilda Avenue",
     "Site_state": "VIC",
@@ -19178,6 +19224,16 @@
     "latitude": -37.894809,
     "longitude": 144.622644,
     "label": "2 Ribblesdale Avenue, Wyndham Vale, VIC, Australia"
+  },
+  {
+    "Suburb": "Yackandandah",
+    "Site_streetaddress": "1 High Street        ",
+    "Site_state": "VIC",
+    "Site_postcode": "3749",
+    "confidence": 1,
+    "latitude": -36.31297,
+    "longitude": 146.840642,
+    "label": "1 High Street, Yackandandah, VIC, Australia"
   },
   {
     "Suburb": "Yaraville",
