@@ -8219,6 +8219,16 @@
     "label": "2/2A Thistle Street, Golden Square, VIC, Australia"
   },
   {
+    "Suburb": "Golden Square",
+    "Site_streetaddress": "2/3 Abel Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3550",
+    "confidence": 0.6,
+    "latitude": -36.769894,
+    "longitude": 144.254326,
+    "label": "Golden Square, VIC, Australia"
+  },
+  {
     "Suburb": "Goornong",
     "Site_streetaddress": "Mulcairs Lane Railway Crossing",
     "Site_state": "VIC",
