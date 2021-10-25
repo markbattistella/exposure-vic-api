@@ -106,6 +106,16 @@
     "label": "Bendigo, VIC, Australia"
   },
   {
+    "Suburb": "Golden Square",
+    "Site_streetaddress": "2/3 Abel Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3550",
+    "confidence": 0.6,
+    "latitude": -36.769894,
+    "longitude": 144.254326,
+    "label": "Golden Square, VIC, Australia"
+  },
+  {
     "Suburb": "Airport West",
     "Site_streetaddress": "64 Parer Road",
     "Site_state": "VIC",
@@ -8217,16 +8227,6 @@
     "latitude": -36.775559,
     "longitude": 144.271417,
     "label": "2/2A Thistle Street, Golden Square, VIC, Australia"
-  },
-  {
-    "Suburb": "Golden Square",
-    "Site_streetaddress": "2/3 Abel Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3550",
-    "confidence": 0.6,
-    "latitude": -36.769894,
-    "longitude": 144.254326,
-    "label": "Golden Square, VIC, Australia"
   },
   {
     "Suburb": "Goornong",
