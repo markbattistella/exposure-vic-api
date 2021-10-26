@@ -1494,6 +1494,16 @@
   },
   {
     "Suburb": "Bendigo",
+    "Site_streetaddress": "CT2 Corner Edward and Queen Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3550",
+    "confidence": 0.8,
+    "latitude": -37.789571,
+    "longitude": 144.988527,
+    "label": "Delbridge & Wellington Streets, & Queens Parade, Fitzroy North, VIC, Australia"
+  },
+  {
+    "Suburb": "Bendigo",
     "Site_streetaddress": "116-120 Mitchell Street",
     "Site_state": "VIC",
     "Site_postcode": "3550",
@@ -1751,16 +1761,6 @@
     "latitude": -36.757319,
     "longitude": 144.275433,
     "label": "137 View Street, Bendigo, VIC, Australia"
-  },
-  {
-    "Suburb": "Bendigo",
-    "Site_streetaddress": "CT2 Corner Edward and Queen Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3550",
-    "confidence": 0.8,
-    "latitude": -37.789571,
-    "longitude": 144.988527,
-    "label": "Delbridge & Wellington Streets, & Queens Parade, Fitzroy North, VIC, Australia"
   },
   {
     "Suburb": "Bentleigh",
