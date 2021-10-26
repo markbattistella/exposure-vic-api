@@ -1753,6 +1753,16 @@
     "label": "137 View Street, Bendigo, VIC, Australia"
   },
   {
+    "Suburb": "Bendigo",
+    "Site_streetaddress": "CT2 Corner Edward and Queen Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3550",
+    "confidence": 0.8,
+    "latitude": -37.789571,
+    "longitude": 144.988527,
+    "label": "Delbridge & Wellington Streets, & Queens Parade, Fitzroy North, VIC, Australia"
+  },
+  {
     "Suburb": "Bentleigh",
     "Site_streetaddress": "795 Nepean Highway",
     "Site_state": "VIC",
@@ -14201,6 +14211,16 @@
     "confidence": 1,
     "latitude": -38.1114623,
     "longitude": 147.065703
+  },
+  {
+    "Suburb": "Sale",
+    "Site_streetaddress": "207 Raymond Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3850",
+    "confidence": 1,
+    "latitude": -38.108721,
+    "longitude": 147.065374,
+    "label": "207-209 Raymond Street, Sale, VIC, Australia"
   },
   {
     "Suburb": "Seabrook",
