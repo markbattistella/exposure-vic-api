@@ -10301,6 +10301,16 @@
     "label": "23 Victoria Street, Macedon, VIC, Australia"
   },
   {
+    "Suburb": "Macedon",
+    "Site_streetaddress": "40 Victoria Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3440",
+    "confidence": 1,
+    "latitude": -37.422744,
+    "longitude": 144.564947,
+    "label": "40 Victoria Street, Macedon, VIC, Australia"
+  },
+  {
     "Suburb": "Maddingley",
     "Site_streetaddress": "33 Griffith Street",
     "Site_state": "VIC",
@@ -19239,6 +19249,26 @@
     "latitude": -37.357449,
     "longitude": 144.526854,
     "label": "69 High Street, Woodend, VIC, Australia"
+  },
+  {
+    "Suburb": "Woodend",
+    "Site_streetaddress": "112 High Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3442",
+    "confidence": 1,
+    "latitude": -37.356578,
+    "longitude": 144.52817,
+    "label": "112 High Street, Woodend, VIC, Australia"
+  },
+  {
+    "Suburb": "Woodend",
+    "Site_streetaddress": "30 Wood Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3442",
+    "confidence": 1,
+    "latitude": -37.35781,
+    "longitude": 144.532972,
+    "label": "30 Wood Street, Woodend, VIC, Australia"
   },
   {
     "Suburb": "Wyndham Vale",
