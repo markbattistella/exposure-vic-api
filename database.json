@@ -116,6 +116,16 @@
     "label": "Golden Square, VIC, Australia"
   },
   {
+    "Suburb": "Traralgon",
+    "Site_streetaddress": "106-118 Argyle Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3844",
+    "confidence": 0.6,
+    "latitude": -38.196566,
+    "longitude": 146.533757,
+    "label": "Traralgon, VIC, Australia"
+  },
+  {
     "Suburb": "Wodonga",
     "Site_streetaddress": "97-99 Melrose Drive",
     "Site_state": "VIC",
@@ -17369,16 +17379,6 @@
     "latitude": -38.186797,
     "longitude": 146.561031,
     "label": "45 Traralgon-maffra Road, Traralgon, VIC, Australia"
-  },
-  {
-    "Suburb": "Traralgon",
-    "Site_streetaddress": "106-118 Argyle Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3844",
-    "confidence": 0.6,
-    "latitude": -38.196566,
-    "longitude": 146.533757,
-    "label": "Traralgon, VIC, Australia"
   },
   {
     "Suburb": "Traralgon East",
