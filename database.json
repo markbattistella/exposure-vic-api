@@ -116,6 +116,16 @@
     "label": "Golden Square, VIC, Australia"
   },
   {
+    "Suburb": "Mildura",
+    "Site_streetaddress": "Corner Fifteenth Street and Etiwanda Avenue",
+    "Site_state": "VIC",
+    "Site_postcode": "3500",
+    "confidence": 0.6,
+    "latitude": -34.199704,
+    "longitude": 142.153732,
+    "label": "Mildura, VIC, Australia"
+  },
+  {
     "Suburb": "Wodonga",
     "Site_streetaddress": "97-99 Melrose Drive",
     "Site_state": "VIC",
@@ -11443,16 +11453,6 @@
     "latitude": -34.187533,
     "longitude": 142.160288,
     "label": "100-110 Deakin Avenue, Mildura, VIC, Australia"
-  },
-  {
-    "Suburb": "Mildura",
-    "Site_streetaddress": "Corner Fifteenth Street and Etiwanda Avenue",
-    "Site_state": "VIC",
-    "Site_postcode": "3500",
-    "confidence": 0.6,
-    "latitude": -34.199704,
-    "longitude": 142.153732,
-    "label": "Mildura, VIC, Australia"
   },
   {
     "Suburb": "Mill Park",
