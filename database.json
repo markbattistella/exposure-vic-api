@@ -116,16 +116,6 @@
     "label": "Golden Square, VIC, Australia"
   },
   {
-    "Suburb": "Mildura",
-    "Site_streetaddress": "Corner Fifteenth Street and Etiwanda Avenue",
-    "Site_state": "VIC",
-    "Site_postcode": "3500",
-    "confidence": 0.6,
-    "latitude": -34.199704,
-    "longitude": 142.153732,
-    "label": "Mildura, VIC, Australia"
-  },
-  {
     "Suburb": "Wodonga",
     "Site_streetaddress": "97-99 Melrose Drive",
     "Site_state": "VIC",
@@ -11353,6 +11343,16 @@
     "Site_postcode": "3064",
     "latitude": -37.5734206,
     "longitude": 144.8907691
+  },
+  {
+    "Suburb": "Mildura",
+    "Site_streetaddress": "Corner Fifteenth Street and Etiwanda Avenue",
+    "Site_state": "VIC",
+    "Site_postcode": "3500",
+    "confidence": 0.6,
+    "latitude": -34.199704,
+    "longitude": 142.153732,
+    "label": "Mildura, VIC, Australia"
   },
   {
     "Suburb": "Mildura",
