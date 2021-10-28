@@ -17933,6 +17933,16 @@
     "label": "84 Parfitt Road, Wangaratta, VIC, Australia"
   },
   {
+    "Suburb": "Wangaratta",
+    "Site_streetaddress": "59 Vincent Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3677",
+    "confidence": 1,
+    "latitude": -36.365409,
+    "longitude": 146.315264,
+    "label": "59 Vincent Road, Wangaratta, VIC, Australia"
+  },
+  {
     "Suburb": "Warnambool",
     "Site_streetaddress": "Merri Street",
     "Site_state": "VIC",
