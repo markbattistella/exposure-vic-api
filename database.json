@@ -11563,6 +11563,16 @@
     "label": "18-20 George Street, Yallourn, VIC, Australia"
   },
   {
+    "Suburb": "Moe",
+    "Site_streetaddress": "Waterloo Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3825",
+    "confidence": 0.6,
+    "latitude": -38.175413,
+    "longitude": 146.253707,
+    "label": "Yallourn, VIC, Australia"
+  },
+  {
     "Suburb": "Moolap",
     "Site_streetaddress": "Corner Portarlington Road and Moon Street",
     "Site_state": "VIC",
