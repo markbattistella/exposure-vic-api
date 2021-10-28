@@ -116,6 +116,16 @@
     "label": "Golden Square, VIC, Australia"
   },
   {
+    "Suburb": "Moe",
+    "Site_streetaddress": "Waterloo Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3825",
+    "confidence": 0.6,
+    "latitude": -38.175413,
+    "longitude": 146.253707,
+    "label": "Yallourn, VIC, Australia"
+  },
+  {
     "Suburb": "Wodonga",
     "Site_streetaddress": "97-99 Melrose Drive",
     "Site_state": "VIC",
@@ -11561,16 +11571,6 @@
     "latitude": -38.176255,
     "longitude": 146.263663,
     "label": "18-20 George Street, Yallourn, VIC, Australia"
-  },
-  {
-    "Suburb": "Moe",
-    "Site_streetaddress": "Waterloo Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3825",
-    "confidence": 0.6,
-    "latitude": -38.175413,
-    "longitude": 146.253707,
-    "label": "Yallourn, VIC, Australia"
   },
   {
     "Suburb": "Moolap",
