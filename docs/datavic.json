@@ -1497,28 +1497,6 @@
   },
   {
     "_id": 82,
-    "Suburb": "Southbank",
-    "Site_title": "Focus Apartment Construction Site",
-    "Site_streetaddress": "71 City Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3006",
-    "Exposure_date_dtm": "2021-10-16",
-    "Exposure_date": "16/10/2021",
-    "Exposure_time": "8:00am - 3:00pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-10-21",
-    "Added_date": "21/10/2021",
-    "Added_time": "21:20:00",
-    "Advice_title": "Tier 1 – Get tested immediately and quarantine for 7 days from exposure if fully vaccinated or 14 days if not fully vaccinated",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 7 days from exposure if fully vaccinated, or 14 days from exposure if not fully vaccinated or if you live with someone who has COVID-19",
-    "Exposure_time_start_24": "08:00:00",
-    "Exposure_time_end_24": "15:00:00",
-    "dhid": "Z9C5",
-    "latitude": -37.822243,
-    "longitude": 144.965503
-  },
-  {
-    "_id": 83,
     "Suburb": "Shepparton",
     "Site_title": "Sherbourne Hotel - Gaming Room",
     "Site_streetaddress": "109 Wyndham Street",
@@ -1540,7 +1518,7 @@
     "longitude": 145.3986468
   },
   {
-    "_id": 84,
+    "_id": 83,
     "Suburb": "Churchill",
     "Site_title": "Cafe Alfa",
     "Site_streetaddress": "Shop 7/13 Georgina Place",
@@ -1562,7 +1540,7 @@
     "longitude": 146.4188163
   },
   {
-    "_id": 85,
+    "_id": 84,
     "Suburb": "Shepparton",
     "Site_title": "The Deck",
     "Site_streetaddress": "198A Maude Street",
@@ -1584,7 +1562,7 @@
     "longitude": 145.400858
   },
   {
-    "_id": 86,
+    "_id": 85,
     "Suburb": "Shepparton",
     "Site_title": "The Deck",
     "Site_streetaddress": "198A Maude Street",
@@ -1606,7 +1584,7 @@
     "longitude": 145.400858
   },
   {
-    "_id": 87,
+    "_id": 86,
     "Suburb": "Shepparton",
     "Site_title": "The Deck",
     "Site_streetaddress": "198A Maude Street",
@@ -1628,7 +1606,7 @@
     "longitude": 145.400858
   },
   {
-    "_id": 88,
+    "_id": 87,
     "Suburb": "Bendigo",
     "Site_title": "The Rifle Brigade Hotel",
     "Site_streetaddress": "137 View Street",
@@ -1650,7 +1628,7 @@
     "longitude": 144.275433
   },
   {
-    "_id": 89,
+    "_id": 88,
     "Suburb": "Bendigo",
     "Site_title": "Cafe Essence\t",
     "Site_streetaddress": "53 Bull Street",
@@ -1672,7 +1650,7 @@
     "longitude": 144.281599
   },
   {
-    "_id": 90,
+    "_id": 89,
     "Suburb": "Bendigo",
     "Site_title": "Cafe Essence\t",
     "Site_streetaddress": "53 Bull Street",
@@ -1694,7 +1672,7 @@
     "longitude": 144.281599
   },
   {
-    "_id": 91,
+    "_id": 90,
     "Suburb": "Bendigo",
     "Site_title": "McQuinns Gym",
     "Site_streetaddress": "14-18 High Street",
@@ -1716,7 +1694,7 @@
     "longitude": 144.27634
   },
   {
-    "_id": 92,
+    "_id": 91,
     "Suburb": "Shepparton",
     "Site_title": "Wild Life Brewing Co.",
     "Site_streetaddress": "172 Maude Street",
@@ -1738,7 +1716,7 @@
     "longitude": 145.40099
   },
   {
-    "_id": 93,
+    "_id": 92,
     "Suburb": "Daylesford",
     "Site_title": "Blooms The Chemist",
     "Site_streetaddress": "39 Vincent Street",
@@ -1760,7 +1738,7 @@
     "longitude": 144.142854
   },
   {
-    "_id": 94,
+    "_id": 93,
     "Suburb": "Shepparton",
     "Site_title": "Shingo's Lounge",
     "Site_streetaddress": "173 Corio Street",
@@ -1782,7 +1760,7 @@
     "longitude": 145.403709
   },
   {
-    "_id": 95,
+    "_id": 94,
     "Suburb": "Morwell",
     "Site_title": "Wyncity Morwell",
     "Site_streetaddress": "44-48 Chickerell Street",
@@ -1804,7 +1782,7 @@
     "longitude": 146.437414
   },
   {
-    "_id": 96,
+    "_id": 95,
     "Suburb": "Bendigo",
     "Site_title": "Nude Food Breakfast Bar",
     "Site_streetaddress": "143 Mollison Sreet",
