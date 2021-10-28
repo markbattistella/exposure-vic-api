@@ -11445,6 +11445,16 @@
     "label": "100-110 Deakin Avenue, Mildura, VIC, Australia"
   },
   {
+    "Suburb": "Mildura",
+    "Site_streetaddress": "Corner Fifteenth Street and Etiwanda Avenue",
+    "Site_state": "VIC",
+    "Site_postcode": "3500",
+    "confidence": 0.6,
+    "latitude": -34.199704,
+    "longitude": 142.153732,
+    "label": "Mildura, VIC, Australia"
+  },
+  {
     "Suburb": "Mill Park",
     "Site_streetaddress": "415 McDonalds Road",
     "Site_state": "VIC",
