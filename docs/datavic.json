@@ -815,28 +815,6 @@
   },
   {
     "_id": 51,
-    "Suburb": "Quarry Hill",
-    "Site_title": "Queens Arms Hotel",
-    "Site_streetaddress": "25 Russell Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3550",
-    "Exposure_date_dtm": "2021-10-14",
-    "Exposure_date": "14/10/2021",
-    "Exposure_time": "7:30pm - 10:30pm",
-    "Notes": "Case attanded venue",
-    "Added_date_dtm": "2021-10-24",
-    "Added_date": "24/10/2021",
-    "Added_time": "21:10:00",
-    "Advice_title": "Tier 1 – Get tested immediately and quarantine for 7 days from exposure if fully vaccinated or 14 days if not fully vaccinated",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 7 days from exposure if fully vaccinated, or 14 days from exposure if not fully vaccinated or if you live with someone who has COVID-19",
-    "Exposure_time_start_24": "19:30:00",
-    "Exposure_time_end_24": "22:30:00",
-    "dhid": "Y9L3",
-    "latitude": -36.770668,
-    "longitude": 144.278497
-  },
-  {
-    "_id": 52,
     "Suburb": "Glengarry",
     "Site_title": "Glengarry Hotel & Pub",
     "Site_streetaddress": "25 Main Street",
@@ -858,7 +836,7 @@
     "longitude": 146.5711669
   },
   {
-    "_id": 53,
+    "_id": 52,
     "Suburb": "Traralgon",
     "Site_title": "Stellina        ",
     "Site_streetaddress": "17 Peterkin Street",
@@ -880,7 +858,7 @@
     "longitude": 146.544099
   },
   {
-    "_id": 54,
+    "_id": 53,
     "Suburb": "Mildura",
     "Site_title": "F45 Training Mildura\t",
     "Site_streetaddress": "38 Lime Avenue",
@@ -902,7 +880,7 @@
     "longitude": 142.161099
   },
   {
-    "_id": 55,
+    "_id": 54,
     "Suburb": "Parkville",
     "Site_title": "The Royal Children's Hospital - Level 3 Recovery Parent Waiting Room",
     "Site_streetaddress": "50 Flemington Road",
@@ -924,7 +902,7 @@
     "longitude": 144.949284
   },
   {
-    "_id": 56,
+    "_id": 55,
     "Suburb": "Traralgon",
     "Site_title": "Dunbar Road Landscape Supplies",
     "Site_streetaddress": "68/70 Dunbar Road",
@@ -946,7 +924,7 @@
     "longitude": 146.534099
   },
   {
-    "_id": 57,
+    "_id": 56,
     "Suburb": "Traralgon",
     "Site_title": "Dunbar Road Landscape Supplies",
     "Site_streetaddress": "68/70 Dunbar Road",
@@ -968,7 +946,7 @@
     "longitude": 146.534099
   },
   {
-    "_id": 58,
+    "_id": 57,
     "Suburb": "Traralgon",
     "Site_title": "Dunbar Road Landscape Supplies",
     "Site_streetaddress": "68/70 Dunbar Road",
@@ -990,7 +968,7 @@
     "longitude": 146.534099
   },
   {
-    "_id": 59,
+    "_id": 58,
     "Suburb": "Mooroopna",
     "Site_title": "Life Church ",
     "Site_streetaddress": "4 Treacy Street",
@@ -1012,29 +990,7 @@
     "longitude": 145.35703
   },
   {
-    "_id": 60,
-    "Suburb": "Coldstream",
-    "Site_title": "Red Rich Fruits",
-    "Site_streetaddress": "713 Maroondah Hwy",
-    "Site_state": "VIC",
-    "Site_postcode": "3770",
-    "Exposure_date_dtm": "2021-10-14",
-    "Exposure_date": "14/10/2021",
-    "Exposure_time": "7:00am - 5:30pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-10-24",
-    "Added_date": "24/10/2021",
-    "Added_time": "13:05:00",
-    "Advice_title": "Tier 1 – Get tested immediately and quarantine for 7 days from exposure if fully vaccinated or 14 days if not fully vaccinated",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 7 days from exposure if fully vaccinated, or 14 days from exposure if not fully vaccinated or if you live with someone who has COVID-19",
-    "Exposure_time_start_24": "07:00:00",
-    "Exposure_time_end_24": "17:30:00",
-    "dhid": "Z6Y8",
-    "latitude": -37.695892,
-    "longitude": 145.419526
-  },
-  {
-    "_id": 61,
+    "_id": 59,
     "Suburb": "Coldstream",
     "Site_title": "Red Rich Fruits",
     "Site_streetaddress": "713 Maroondah Hwy",
@@ -1056,29 +1012,7 @@
     "longitude": 145.419526
   },
   {
-    "_id": 62,
-    "Suburb": "Benalla",
-    "Site_title": "Fobia Industries Benalla",
-    "Site_streetaddress": "123-125 Bridge Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3672",
-    "Exposure_date_dtm": "2021-10-14",
-    "Exposure_date": "14/10/2021",
-    "Exposure_time": "6:00am - 4:00pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-10-23",
-    "Added_date": "23/10/2021",
-    "Added_time": "20:50:00",
-    "Advice_title": "Tier 1 – Get tested immediately and quarantine for 7 days from exposure if fully vaccinated or 14 days if not fully vaccinated",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 7 days from exposure if fully vaccinated, or 14 days from exposure if not fully vaccinated or if you live with someone who has COVID-19",
-    "Exposure_time_start_24": "06:00:00",
-    "Exposure_time_end_24": "16:00:00",
-    "dhid": "Y6V6",
-    "latitude": -36.550605,
-    "longitude": 145.987446
-  },
-  {
-    "_id": 63,
+    "_id": 60,
     "Suburb": "Benalla",
     "Site_title": "Fobia Industries Benalla",
     "Site_streetaddress": "123-125 Bridge Street",
@@ -1100,7 +1034,7 @@
     "longitude": 145.987446
   },
   {
-    "_id": 64,
+    "_id": 61,
     "Suburb": "Benalla",
     "Site_title": "Fobia Industries Benalla",
     "Site_streetaddress": "123-125 Bridge Street",
@@ -1122,7 +1056,7 @@
     "longitude": 145.987446
   },
   {
-    "_id": 65,
+    "_id": 62,
     "Suburb": "Benalla",
     "Site_title": "Fobia Industries Benalla",
     "Site_streetaddress": "123-125 Bridge Street",
@@ -1144,7 +1078,7 @@
     "longitude": 145.987446
   },
   {
-    "_id": 66,
+    "_id": 63,
     "Suburb": "Shepparton",
     "Site_title": "Telstra Shepparton Marketplace",
     "Site_streetaddress": "Shop 30, 110-120 Benalla Road",
@@ -1166,7 +1100,7 @@
     "longitude": 145.423652
   },
   {
-    "_id": 67,
+    "_id": 64,
     "Suburb": "Torquay",
     "Site_title": "9grams Torquay",
     "Site_streetaddress": "5/4-6 Gilbert Street",
@@ -1188,7 +1122,7 @@
     "longitude": 144.325537
   },
   {
-    "_id": 68,
+    "_id": 65,
     "Suburb": "Geelong",
     "Site_title": "The Deck Geelong",
     "Site_streetaddress": "2-4 Gheringhap Street",
@@ -1210,7 +1144,7 @@
     "longitude": 144.35937
   },
   {
-    "_id": 69,
+    "_id": 66,
     "Suburb": "Cobram",
     "Site_title": "Cobram Nails & Beauty",
     "Site_streetaddress": "48 Punt Road",
@@ -1232,7 +1166,7 @@
     "longitude": 145.647102
   },
   {
-    "_id": 70,
+    "_id": 67,
     "Suburb": "Cobram",
     "Site_title": "Cobram Nails & Beauty",
     "Site_streetaddress": "48 Punt Road",
@@ -1254,7 +1188,7 @@
     "longitude": 145.647102
   },
   {
-    "_id": 71,
+    "_id": 68,
     "Suburb": "Bendigo",
     "Site_title": "Golden Vine Hotel Bendigo",
     "Site_streetaddress": "135 King Street",
@@ -1276,7 +1210,7 @@
     "longitude": 144.274859
   },
   {
-    "_id": 72,
+    "_id": 69,
     "Suburb": "Quarry Hill",
     "Site_title": "Queens Arms Hotel",
     "Site_streetaddress": "25 Russell Street",
@@ -1298,7 +1232,7 @@
     "longitude": 144.278497
   },
   {
-    "_id": 73,
+    "_id": 70,
     "Suburb": "Kennington",
     "Site_title": "Kennington Tavern - Kennington Village Shopping Centre",
     "Site_streetaddress": "150 Condon Street",
@@ -1320,7 +1254,7 @@
     "longitude": 144.306919
   },
   {
-    "_id": 74,
+    "_id": 71,
     "Suburb": "Bendigo",
     "Site_title": "Fit Republic",
     "Site_streetaddress": "2/3 Abel Golden Square Street",
@@ -1342,7 +1276,7 @@
     "longitude": 144.27957
   },
   {
-    "_id": 75,
+    "_id": 72,
     "Suburb": "Bendigo",
     "Site_title": "Fit Republic",
     "Site_streetaddress": "2/3 Abel Golden Square Street",
@@ -1364,7 +1298,7 @@
     "longitude": 144.27957
   },
   {
-    "_id": 76,
+    "_id": 73,
     "Suburb": "Bendigo",
     "Site_title": "Fit Republic",
     "Site_streetaddress": "2/3 Abel Golden Square Street",
@@ -1386,7 +1320,7 @@
     "longitude": 144.27957
   },
   {
-    "_id": 77,
+    "_id": 74,
     "Suburb": "Bendigo",
     "Site_title": "Fit Republic",
     "Site_streetaddress": "2/3 Abel Golden Square Street",
@@ -1408,7 +1342,7 @@
     "longitude": 144.27957
   },
   {
-    "_id": 78,
+    "_id": 75,
     "Suburb": "Mulgrave",
     "Site_title": "Woolworths Waverley Gardens",
     "Site_streetaddress": "271 Police Road",
@@ -1430,7 +1364,7 @@
     "longitude": 145.189939
   },
   {
-    "_id": 79,
+    "_id": 76,
     "Suburb": "Clayton",
     "Site_title": "McDonalds Clayton II",
     "Site_streetaddress": "1736-1740 Dandenong Road",
@@ -1452,7 +1386,7 @@
     "longitude": 145.125299
   },
   {
-    "_id": 80,
+    "_id": 77,
     "Suburb": "Geelong",
     "Site_title": "Caffiza",
     "Site_streetaddress": "2/43 Separation Street",
@@ -1474,7 +1408,7 @@
     "longitude": 144.3431405
   },
   {
-    "_id": 81,
+    "_id": 78,
     "Suburb": "Geelong",
     "Site_title": "Malt and Shovel Taphouse Geelong",
     "Site_streetaddress": "7-12 Bellerine Street",
@@ -1496,7 +1430,7 @@
     "longitude": 144.3639897
   },
   {
-    "_id": 82,
+    "_id": 79,
     "Suburb": "Swan Hill",
     "Site_title": "Swan Hill Pet Boarding",
     "Site_streetaddress": "8 Maher Road",
@@ -1518,7 +1452,7 @@
     "longitude": 143.5711303
   },
   {
-    "_id": 83,
+    "_id": 80,
     "Suburb": "Huntly",
     "Site_title": "BelleAmi Hair and Beauty",
     "Site_streetaddress": "619 Midland Highway",
@@ -1540,7 +1474,7 @@
     "longitude": 144.331787
   },
   {
-    "_id": 84,
+    "_id": 81,
     "Suburb": "Huntly",
     "Site_title": "BelleAmi Hair and Beauty",
     "Site_streetaddress": "619 Midland Highway",
@@ -1562,7 +1496,7 @@
     "longitude": 144.331787
   },
   {
-    "_id": 85,
+    "_id": 82,
     "Suburb": "Southbank",
     "Site_title": "Focus Apartment Construction Site",
     "Site_streetaddress": "71 City Road",
@@ -1584,7 +1518,7 @@
     "longitude": 144.965503
   },
   {
-    "_id": 86,
+    "_id": 83,
     "Suburb": "Shepparton",
     "Site_title": "Sherbourne Hotel - Gaming Room",
     "Site_streetaddress": "109 Wyndham Street",
@@ -1606,7 +1540,7 @@
     "longitude": 145.3986468
   },
   {
-    "_id": 87,
+    "_id": 84,
     "Suburb": "Churchill",
     "Site_title": "Cafe Alfa",
     "Site_streetaddress": "Shop 7/13 Georgina Place",
@@ -1628,7 +1562,7 @@
     "longitude": 146.4188163
   },
   {
-    "_id": 88,
+    "_id": 85,
     "Suburb": "Shepparton",
     "Site_title": "The Deck",
     "Site_streetaddress": "198A Maude Street",
@@ -1650,7 +1584,7 @@
     "longitude": 145.400858
   },
   {
-    "_id": 89,
+    "_id": 86,
     "Suburb": "Shepparton",
     "Site_title": "The Deck",
     "Site_streetaddress": "198A Maude Street",
@@ -1672,7 +1606,7 @@
     "longitude": 145.400858
   },
   {
-    "_id": 90,
+    "_id": 87,
     "Suburb": "Shepparton",
     "Site_title": "The Deck",
     "Site_streetaddress": "198A Maude Street",
@@ -1694,7 +1628,7 @@
     "longitude": 145.400858
   },
   {
-    "_id": 91,
+    "_id": 88,
     "Suburb": "Bendigo",
     "Site_title": "The Rifle Brigade Hotel",
     "Site_streetaddress": "137 View Street",
@@ -1716,29 +1650,7 @@
     "longitude": 144.275433
   },
   {
-    "_id": 92,
-    "Suburb": "Bendigo",
-    "Site_title": "Cafe Essence        ",
-    "Site_streetaddress": "53 Bull Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3550",
-    "Exposure_date_dtm": "2021-10-14",
-    "Exposure_date": "14/10/2021",
-    "Exposure_time": "7:00am - 3:00pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-10-21",
-    "Added_date": "21/10/2021",
-    "Added_time": "08:30:00",
-    "Advice_title": "Tier 1 – Get tested immediately and quarantine for 7 days from exposure if fully vaccinated or 14 days if not fully vaccinated",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 7 days from exposure if fully vaccinated, or 14 days from exposure if not fully vaccinated or if you live with someone who has COVID-19",
-    "Exposure_time_start_24": "07:00:00",
-    "Exposure_time_end_24": "15:00:00",
-    "dhid": "Y2N7",
-    "latitude": -36.758381,
-    "longitude": 144.281599
-  },
-  {
-    "_id": 93,
+    "_id": 89,
     "Suburb": "Bendigo",
     "Site_title": "Cafe Essence\t",
     "Site_streetaddress": "53 Bull Street",
@@ -1760,7 +1672,7 @@
     "longitude": 144.281599
   },
   {
-    "_id": 94,
+    "_id": 90,
     "Suburb": "Bendigo",
     "Site_title": "Cafe Essence\t",
     "Site_streetaddress": "53 Bull Street",
@@ -1782,29 +1694,7 @@
     "longitude": 144.281599
   },
   {
-    "_id": 95,
-    "Suburb": "Kennington",
-    "Site_title": "The Massage Shop",
-    "Site_streetaddress": "157 St Aidans Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3550",
-    "Exposure_date_dtm": "2021-10-14",
-    "Exposure_date": "14/10/2021",
-    "Exposure_time": "12:55pm - 2:35pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-10-20",
-    "Added_date": "20/10/2021",
-    "Added_time": "22:00:00",
-    "Advice_title": "Tier 1 – Get tested immediately and quarantine for 7 days from exposure if fully vaccinated or 14 days if not fully vaccinated",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 7 days from exposure if fully vaccinated, or 14 days from exposure if not fully vaccinated or if you live with someone who has COVID-19",
-    "Exposure_time_start_24": "12:55:00",
-    "Exposure_time_end_24": "14:35:00",
-    "dhid": "Y8Q8",
-    "latitude": -36.764679,
-    "longitude": 144.30286
-  },
-  {
-    "_id": 96,
+    "_id": 91,
     "Suburb": "Bendigo",
     "Site_title": "McQuinns Gym",
     "Site_streetaddress": "14-18 High Street",
@@ -1826,7 +1716,7 @@
     "longitude": 144.27634
   },
   {
-    "_id": 97,
+    "_id": 92,
     "Suburb": "Shepparton",
     "Site_title": "Wild Life Brewing Co.",
     "Site_streetaddress": "172 Maude Street",
@@ -1848,7 +1738,7 @@
     "longitude": 145.40099
   },
   {
-    "_id": 98,
+    "_id": 93,
     "Suburb": "Daylesford",
     "Site_title": "Blooms The Chemist",
     "Site_streetaddress": "39 Vincent Street",
@@ -1870,7 +1760,7 @@
     "longitude": 144.142854
   },
   {
-    "_id": 99,
+    "_id": 94,
     "Suburb": "Shepparton",
     "Site_title": "Shingo's Lounge",
     "Site_streetaddress": "173 Corio Street",
@@ -1892,7 +1782,7 @@
     "longitude": 145.403709
   },
   {
-    "_id": 100,
+    "_id": 95,
     "Suburb": "Morwell",
     "Site_title": "Wyncity Morwell",
     "Site_streetaddress": "44-48 Chickerell Street",
@@ -1914,7 +1804,7 @@
     "longitude": 146.437414
   },
   {
-    "_id": 101,
+    "_id": 96,
     "Suburb": "Bendigo",
     "Site_title": "Nude Food Breakfast Bar",
     "Site_streetaddress": "143 Mollison Sreet",
@@ -1934,93 +1824,5 @@
     "dhid": "Y5X8",
     "latitude": -36.763437,
     "longitude": 144.2808871
-  },
-  {
-    "_id": 102,
-    "Suburb": "Donald",
-    "Site_title": "Donald Hotel",
-    "Site_streetaddress": "126 Woods Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3480",
-    "Exposure_date_dtm": "2021-10-14",
-    "Exposure_date": "14/10/2021",
-    "Exposure_time": "6:30pm - 9:00pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-10-19",
-    "Added_date": "19/10/2021",
-    "Added_time": "23:00:00",
-    "Advice_title": "Tier 1 – Get tested immediately and quarantine for 7 days from exposure if fully vaccinated or 14 days if not fully vaccinated",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 7 days from exposure if fully vaccinated, or 14 days from exposure if not fully vaccinated or if you live with someone who has COVID-19",
-    "Exposure_time_start_24": "18:30:00",
-    "Exposure_time_end_24": "21:00:00",
-    "dhid": "Y8K4",
-    "latitude": -36.372887,
-    "longitude": 142.984502
-  },
-  {
-    "_id": 103,
-    "Suburb": "Bendigo",
-    "Site_title": "McQuinns Gym",
-    "Site_streetaddress": "14-18 High Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3550",
-    "Exposure_date_dtm": "2021-10-14",
-    "Exposure_date": "14/10/2021",
-    "Exposure_time": "5:00am - 11:00pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-10-19",
-    "Added_date": "19/10/2021",
-    "Added_time": "16:30:00",
-    "Advice_title": "Tier 1 – Get tested immediately and quarantine for 7 days from exposure if fully vaccinated or 14 days if not fully vaccinated",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 7 days from exposure if fully vaccinated, or 14 days from exposure if not fully vaccinated or if you live with someone who has COVID-19",
-    "Exposure_time_start_24": "05:00:00",
-    "Exposure_time_end_24": "23:00:00",
-    "dhid": "Y3E7",
-    "latitude": -36.760471,
-    "longitude": 144.27634
-  },
-  {
-    "_id": 104,
-    "Suburb": "Traralgon East",
-    "Site_title": "PhysiPole Traralgon",
-    "Site_streetaddress": "Unit 2/13-15 Standing Drive",
-    "Site_state": "VIC",
-    "Site_postcode": "3844",
-    "Exposure_date_dtm": "2021-10-14",
-    "Exposure_date": "14/10/2021",
-    "Exposure_time": "5:30pm - 6:30pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-10-19",
-    "Added_date": "19/10/2021",
-    "Added_time": "16:05:00",
-    "Advice_title": "Tier 1 – Get tested immediately and quarantine for 7 days from exposure if fully vaccinated or 14 days if not fully vaccinated",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 7 days from exposure if fully vaccinated, or 14 days from exposure if not fully vaccinated or if you live with someone who has COVID-19",
-    "Exposure_time_start_24": "17:30:00",
-    "Exposure_time_end_24": "18:30:00",
-    "dhid": "Z9T7",
-    "latitude": -38.191207,
-    "longitude": 146.56416
-  },
-  {
-    "_id": 105,
-    "Suburb": "Ocean Grove",
-    "Site_title": "Feed Me Bellarine, Ocean Grove",
-    "Site_streetaddress": "24 Sinclair Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3226",
-    "Exposure_date_dtm": "2021-10-14",
-    "Exposure_date": "14/10/2021",
-    "Exposure_time": "9:00am - 4:30pm",
-    "Notes": "Case attended venue. Some individuals will be Tier 1 contacts required to quarantine for 14 days and the Department will be in contact with them directly with this advice.",
-    "Added_date_dtm": "2021-10-18",
-    "Added_date": "18/10/2021",
-    "Added_time": "16:30:00",
-    "Advice_title": "Tier 2 - Get tested urgently and isolate until you have a negative result",
-    "Advice_instruction": "Anyone who has visited this location during these times should urgently get tested, then isolate until confirmation of a negative result. Continue to monitor for symptoms, get tested again if symptoms appear.",
-    "Exposure_time_start_24": "09:00:00",
-    "Exposure_time_end_24": "16:30:00",
-    "dhid": "Z5S2",
-    "latitude": -38.250913,
-    "longitude": 144.539388
   }
 ]
