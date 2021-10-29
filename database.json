@@ -4551,6 +4551,16 @@
     "longitude": 143.579259
   },
   {
+    "Suburb": "Colac",
+    "Site_streetaddress": "10 Murray Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3250",
+    "confidence": 0.3,
+    "latitude": -37.014348,
+    "longitude": 143.480452,
+    "label": "Victoria, Australia"
+  },
+  {
     "Suburb": "Colac West",
     "Site_streetaddress": "408 Princes Highway",
     "Site_state": "VIC",
