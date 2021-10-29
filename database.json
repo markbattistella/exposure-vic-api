@@ -96,6 +96,16 @@
     "longitude": 144.8847997
   },
   {
+    "Suburb": "Colac",
+    "Site_streetaddress": "10 Murray Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3250",
+    "confidence": 0.3,
+    "latitude": -37.014348,
+    "longitude": 143.480452,
+    "label": "Victoria, Australia"
+  },
+  {
     "Suburb": "Bendigo",
     "Site_streetaddress": "2/3 Abel Golden Square Street",
     "Site_state": "VIC",
@@ -104,16 +114,6 @@
     "latitude": -36.757608,
     "longitude": 144.27957,
     "label": "Bendigo, VIC, Australia"
-  },
-  {
-    "Suburb": "Golden Square",
-    "Site_streetaddress": "2/3 Abel Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3550",
-    "confidence": 0.6,
-    "latitude": -36.769894,
-    "longitude": 144.254326,
-    "label": "Golden Square, VIC, Australia"
   },
   {
     "Suburb": "Moe",
@@ -4532,6 +4532,16 @@
     "longitude": 143.5873145
   },
   {
+    "Suburb": "Golden Square",
+    "Site_streetaddress": "2/3 Abel Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3550",
+    "confidence": 0.6,
+    "latitude": -36.769894,
+    "longitude": 144.254326,
+    "label": "Golden Square, VIC, Australia"
+  },
+  {
     "Suburb": "Colac",
     "Site_streetaddress": "Corner Bromfield & Queen Street",
     "Site_state": "VIC",
@@ -4549,16 +4559,6 @@
     "confidence": 1,
     "latitude": -38.3388568,
     "longitude": 143.579259
-  },
-  {
-    "Suburb": "Colac",
-    "Site_streetaddress": "10 Murray Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3250",
-    "confidence": 0.3,
-    "latitude": -37.014348,
-    "longitude": 143.480452,
-    "label": "Victoria, Australia"
   },
   {
     "Suburb": "Colac West",
