@@ -9920,6 +9920,16 @@
     "label": "44 High Street, Kyneton, VIC, Australia"
   },
   {
+    "Suburb": "Kyneton",
+    "Site_streetaddress": "60 Mollison Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3444",
+    "confidence": 1,
+    "latitude": -37.250326,
+    "longitude": 144.453218,
+    "label": "60 Mollison Street, Kyneton, VIC, Australia"
+  },
+  {
     "Suburb": "Lake Boga",
     "Site_streetaddress": "9 Marraboor Street",
     "Site_state": "VIC",
@@ -18004,6 +18014,16 @@
     "latitude": -38.163341,
     "longitude": 145.93065,
     "label": "71 Queen Street, Warragul, VIC, Australia"
+  },
+  {
+    "Suburb": "Warragul",
+    "Site_streetaddress": "6 Normanby Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3820",
+    "confidence": 1,
+    "latitude": -38.164926,
+    "longitude": 145.93905,
+    "label": "6 Normanby Street, Warragul, VIC, Australia"
   },
   {
     "Suburb": "Warrnambool",
