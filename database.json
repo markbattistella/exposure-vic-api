@@ -11620,6 +11620,16 @@
     "label": "211 Lloyd Street, Yallourn, VIC, Australia"
   },
   {
+    "Suburb": "Moe",
+    "Site_streetaddress": "11-15 Kirk Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3825",
+    "confidence": 1,
+    "latitude": -38.175934,
+    "longitude": 146.263573,
+    "label": "11-15 Kirk Street, Yallourn, VIC, Australia"
+  },
+  {
     "Suburb": "Moolap",
     "Site_streetaddress": "Corner Portarlington Road and Moon Street",
     "Site_state": "VIC",
