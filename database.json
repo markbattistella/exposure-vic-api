@@ -1315,6 +1315,16 @@
     "label": "18 Doveton Street South, Ballarat Central, VIC, Australia"
   },
   {
+    "Suburb": "Ballarat Central",
+    "Site_streetaddress": "102 Lydiard Street North",
+    "Site_state": "VIC",
+    "Site_postcode": "3350",
+    "confidence": 1,
+    "latitude": -37.559487,
+    "longitude": 143.858476,
+    "label": "102 Lydiard Street North, Ballarat Central, VIC, Australia"
+  },
+  {
     "Suburb": "Ballarat West",
     "Site_streetaddress": "1221 Sturt Street",
     "Site_state": "VIC",
