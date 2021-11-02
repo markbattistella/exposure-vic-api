@@ -106,6 +106,16 @@
     "label": "Victoria, Australia"
   },
   {
+    "Suburb": "Kangaroo",
+    "Site_streetaddress": "9 Browning Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3555",
+    "confidence": 0.3,
+    "latitude": -37.014348,
+    "longitude": 143.480452,
+    "label": "Victoria, Australia"
+  },
+  {
     "Suburb": "Bendigo",
     "Site_streetaddress": "2/3 Abel Golden Square Street",
     "Site_state": "VIC",
@@ -124,6 +134,16 @@
     "latitude": -38.175413,
     "longitude": 146.253707,
     "label": "Yallourn, VIC, Australia"
+  },
+  {
+    "Suburb": "Wodonga",
+    "Site_streetaddress": "97-99 Melrose Drive",
+    "Site_state": "VIC",
+    "Site_postcode": "3690",
+    "confidence": 0.6,
+    "latitude": -36.127609,
+    "longitude": 146.89372,
+    "label": "Wodonga, VIC, Australia"
   },
   {
     "Suburb": "Airport West",
@@ -1501,16 +1521,6 @@
     "Site_postcode": "3550",
     "latitude": -36.759902,
     "longitude": 144.2784825
-  },
-  {
-    "Suburb": "Wodonga",
-    "Site_streetaddress": "97-99 Melrose Drive",
-    "Site_state": "VIC",
-    "Site_postcode": "3690",
-    "confidence": 0.6,
-    "latitude": -36.127609,
-    "longitude": 146.89372,
-    "label": "Wodonga, VIC, Australia"
   },
   {
     "Suburb": "Bendigo",
@@ -9288,16 +9298,6 @@
     "latitude": -36.755577,
     "longitude": 144.264749,
     "label": "46 Eaglehawk Road, Ironbark, VIC, Australia"
-  },
-  {
-    "Suburb": "Kangaroo",
-    "Site_streetaddress": "9 Browning Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3555",
-    "confidence": 0.3,
-    "latitude": -37.014348,
-    "longitude": 143.480452,
-    "label": "Victoria, Australia"
   },
   {
     "Suburb": "Kangaroo Flat",
