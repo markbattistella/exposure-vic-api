@@ -126,16 +126,6 @@
     "label": "Yallourn, VIC, Australia"
   },
   {
-    "Suburb": "Wodonga",
-    "Site_streetaddress": "97-99 Melrose Drive",
-    "Site_state": "VIC",
-    "Site_postcode": "3690",
-    "confidence": 0.6,
-    "latitude": -36.127609,
-    "longitude": 146.89372,
-    "label": "Wodonga, VIC, Australia"
-  },
-  {
     "Suburb": "Airport West",
     "Site_streetaddress": "64 Parer Road",
     "Site_state": "VIC",
@@ -1511,6 +1501,16 @@
     "Site_postcode": "3550",
     "latitude": -36.759902,
     "longitude": 144.2784825
+  },
+  {
+    "Suburb": "Wodonga",
+    "Site_streetaddress": "97-99 Melrose Drive",
+    "Site_state": "VIC",
+    "Site_postcode": "3690",
+    "confidence": 0.6,
+    "latitude": -36.127609,
+    "longitude": 146.89372,
+    "label": "Wodonga, VIC, Australia"
   },
   {
     "Suburb": "Bendigo",
@@ -9288,6 +9288,16 @@
     "latitude": -36.755577,
     "longitude": 144.264749,
     "label": "46 Eaglehawk Road, Ironbark, VIC, Australia"
+  },
+  {
+    "Suburb": "Kangaroo",
+    "Site_streetaddress": "9 Browning Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3555",
+    "confidence": 0.3,
+    "latitude": -37.014348,
+    "longitude": 143.480452,
+    "label": "Victoria, Australia"
   },
   {
     "Suburb": "Kangaroo Flat",
@@ -18038,6 +18048,16 @@
     "latitude": -36.365409,
     "longitude": 146.315264,
     "label": "59 Vincent Road, Wangaratta, VIC, Australia"
+  },
+  {
+    "Suburb": "Wangaratta",
+    "Site_streetaddress": "90A Murphy Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3677",
+    "confidence": 1,
+    "latitude": -36.354873,
+    "longitude": 146.327657,
+    "label": "90 Murphy Street, Wangaratta, VIC, Australia"
   },
   {
     "Suburb": "Warnambool",
