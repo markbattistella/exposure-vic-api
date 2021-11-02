@@ -6759,6 +6759,16 @@
     "label": "25-29 Rose Street, Essendon, VIC, Australia"
   },
   {
+    "Suburb": "Essendon",
+    "Site_streetaddress": "1 Keilor Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3040",
+    "confidence": 1,
+    "latitude": -37.744543,
+    "longitude": 144.909807,
+    "label": "1 Keilor Road, Essendon, VIC, Australia"
+  },
+  {
     "Suburb": "Essendon Fields",
     "Site_streetaddress": "15 Vaughen Street",
     "Site_state": "VIC",
@@ -17496,6 +17506,16 @@
     "latitude": -38.186797,
     "longitude": 146.561031,
     "label": "45 Traralgon-maffra Road, Traralgon, VIC, Australia"
+  },
+  {
+    "Suburb": "Traralgon",
+    "Site_streetaddress": "114 Franklin Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3844",
+    "confidence": 1,
+    "latitude": -38.195733,
+    "longitude": 146.53831,
+    "label": "114 Franklin Street, Traralgon, VIC, Australia"
   },
   {
     "Suburb": "Traralgon East",

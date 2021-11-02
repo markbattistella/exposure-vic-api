@@ -1,6 +1,116 @@
 [
   {
     "_id": 1,
+    "Suburb": "Traralgon",
+    "Site_title": "Missen Link Burgers",
+    "Site_streetaddress": "114 Franklin Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3844",
+    "Exposure_date_dtm": "2021-10-22",
+    "Exposure_date": "22/10/2021",
+    "Exposure_time": "10:00am - 9:00pm",
+    "Notes": "Case attended venue",
+    "Added_date_dtm": "2021-11-02",
+    "Added_date": "02/11/2021",
+    "Added_time": "18:50:00",
+    "Advice_title": "Tier 1 – Get tested immediately and quarantine for 7 days from exposure if fully vaccinated or 14 days if not fully vaccinated",
+    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 7 days from exposure if fully vaccinated, or 14 days from exposure if not fully vaccinated or if you live with someone who has COVID-19",
+    "Exposure_time_start_24": "10:00:00",
+    "Exposure_time_end_24": "21:00:00",
+    "dhid": "Z4F3",
+    "latitude": -38.195733,
+    "longitude": 146.53831
+  },
+  {
+    "_id": 2,
+    "Suburb": "Traralgon",
+    "Site_title": "Missen Link Burgers",
+    "Site_streetaddress": "114 Franklin Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3844",
+    "Exposure_date_dtm": "2021-10-23",
+    "Exposure_date": "23/10/2021",
+    "Exposure_time": "10:00am - 9:00pm",
+    "Notes": "Case attended venue",
+    "Added_date_dtm": "2021-11-02",
+    "Added_date": "02/11/2021",
+    "Added_time": "18:50:00",
+    "Advice_title": "Tier 1 – Get tested immediately and quarantine for 7 days from exposure if fully vaccinated or 14 days if not fully vaccinated",
+    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 7 days from exposure if fully vaccinated, or 14 days from exposure if not fully vaccinated or if you live with someone who has COVID-19",
+    "Exposure_time_start_24": "10:00:00",
+    "Exposure_time_end_24": "21:00:00",
+    "dhid": "Y6T4",
+    "latitude": -38.195733,
+    "longitude": 146.53831
+  },
+  {
+    "_id": 3,
+    "Suburb": "Traralgon",
+    "Site_title": "Missen Link Burgers",
+    "Site_streetaddress": "114 Franklin Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3844",
+    "Exposure_date_dtm": "2021-10-24",
+    "Exposure_date": "24/10/2021",
+    "Exposure_time": "10:00am - 9:00pm",
+    "Notes": "Case attended venue",
+    "Added_date_dtm": "2021-11-02",
+    "Added_date": "02/11/2021",
+    "Added_time": "18:50:00",
+    "Advice_title": "Tier 1 – Get tested immediately and quarantine for 7 days from exposure if fully vaccinated or 14 days if not fully vaccinated",
+    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 7 days from exposure if fully vaccinated, or 14 days from exposure if not fully vaccinated or if you live with someone who has COVID-19",
+    "Exposure_time_start_24": "10:00:00",
+    "Exposure_time_end_24": "21:00:00",
+    "dhid": "Z6K2",
+    "latitude": -38.195733,
+    "longitude": 146.53831
+  },
+  {
+    "_id": 4,
+    "Suburb": "Traralgon",
+    "Site_title": "Missen Link Burgers",
+    "Site_streetaddress": "114 Franklin Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3844",
+    "Exposure_date_dtm": "2021-10-26",
+    "Exposure_date": "26/10/2021",
+    "Exposure_time": "11:00am - 9:00pm",
+    "Notes": "Case attended venue",
+    "Added_date_dtm": "2021-11-02",
+    "Added_date": "02/11/2021",
+    "Added_time": "18:50:00",
+    "Advice_title": "Tier 1 – Get tested immediately and quarantine for 7 days from exposure if fully vaccinated or 14 days if not fully vaccinated",
+    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 7 days from exposure if fully vaccinated, or 14 days from exposure if not fully vaccinated or if you live with someone who has COVID-19",
+    "Exposure_time_start_24": "11:00:00",
+    "Exposure_time_end_24": "21:00:00",
+    "dhid": "Z8R7",
+    "latitude": -38.195733,
+    "longitude": 146.53831
+  },
+  {
+    "_id": 5,
+    "Suburb": "Essendon",
+    "Site_title": "Lincolnshire ARMS Hotel",
+    "Site_streetaddress": "1 Keilor Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3040",
+    "Exposure_date_dtm": "2021-10-28",
+    "Exposure_date": "28/10/2021",
+    "Exposure_time": "1:00pm - 2:30pm",
+    "Notes": "Case attended venue",
+    "Added_date_dtm": "2021-11-02",
+    "Added_date": "02/11/2021",
+    "Added_time": "18:50:00",
+    "Advice_title": "Tier 1 – Get tested immediately and quarantine for 7 days from exposure if fully vaccinated or 14 days if not fully vaccinated",
+    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 7 days from exposure if fully vaccinated, or 14 days from exposure if not fully vaccinated or if you live with someone who has COVID-19",
+    "Exposure_time_start_24": "13:00:00",
+    "Exposure_time_end_24": "14:30:00",
+    "dhid": "Z8R5",
+    "latitude": -37.744543,
+    "longitude": 144.909807
+  },
+  {
+    "_id": 6,
     "Suburb": "Geelong",
     "Site_title": "Shiraaz Indian Restaurant",
     "Site_streetaddress": "48 Malop Street",
@@ -22,7 +132,7 @@
     "longitude": 144.360089
   },
   {
-    "_id": 2,
+    "_id": 7,
     "Suburb": "Ballarat Central",
     "Site_title": "Fernwood Ballarat",
     "Site_streetaddress": "102 Lydiard Street North",
@@ -44,7 +154,7 @@
     "longitude": 143.858476
   },
   {
-    "_id": 4,
+    "_id": 9,
     "Suburb": "Moe",
     "Site_title": "Old Gippstown - Gippsland's Heritage Park",
     "Site_streetaddress": "211 Lloyd Street",
@@ -66,7 +176,7 @@
     "longitude": 146.236466
   },
   {
-    "_id": 6,
+    "_id": 11,
     "Suburb": "Warragul",
     "Site_title": "Industry Studios",
     "Site_streetaddress": "6 Normanby Street",
@@ -88,7 +198,7 @@
     "longitude": 145.93905
   },
   {
-    "_id": 7,
+    "_id": 12,
     "Suburb": "Kyneton",
     "Site_title": "Kyneton Caring Community",
     "Site_streetaddress": "60 Mollison Street",
@@ -110,7 +220,7 @@
     "longitude": 144.453218
   },
   {
-    "_id": 8,
+    "_id": 13,
     "Suburb": "Kyneton",
     "Site_title": "Kyneton Caring Community",
     "Site_streetaddress": "60 Mollison Street",
@@ -132,7 +242,7 @@
     "longitude": 144.453218
   },
   {
-    "_id": 9,
+    "_id": 14,
     "Suburb": "Epping",
     "Site_title": "Taste of India",
     "Site_streetaddress": "65/67 Coulstock Street",
@@ -154,7 +264,7 @@
     "longitude": 145.024087
   },
   {
-    "_id": 10,
+    "_id": 15,
     "Suburb": "Deer Park",
     "Site_title": "Nando's - Brimbank Central Shopping Centre",
     "Site_streetaddress": "Corner Neale and Station Roads",
@@ -174,7 +284,7 @@
     "dhid": "Y5M9"
   },
   {
-    "_id": 11,
+    "_id": 16,
     "Suburb": "Wangaratta",
     "Site_title": "D'Amicos Italian Restaurant",
     "Site_streetaddress": "59 Vincent Road",
@@ -196,7 +306,7 @@
     "longitude": 146.315264
   },
   {
-    "_id": 12,
+    "_id": 17,
     "Suburb": "Moe",
     "Site_title": "Turfside Bar and Grill - Moe Racing Club",
     "Site_streetaddress": "Waterloo Road",
@@ -218,7 +328,7 @@
     "longitude": 146.253707
   },
   {
-    "_id": 13,
+    "_id": 18,
     "Suburb": "Moe",
     "Site_title": "Indulge Yourself Beauty Therapy Spa & Laser Clinic",
     "Site_streetaddress": "18-20 George Street",
@@ -240,7 +350,7 @@
     "longitude": 146.263663
   },
   {
-    "_id": 14,
+    "_id": 19,
     "Suburb": "Moe",
     "Site_title": "Indulge Yourself Beauty Therapy Spa & Laser Clinic",
     "Site_streetaddress": "18-20 George Street",
@@ -262,7 +372,7 @@
     "longitude": 146.263663
   },
   {
-    "_id": 15,
+    "_id": 20,
     "Suburb": "Moe",
     "Site_title": "Indulge Yourself Beauty Therapy Spa & Laser Clinic",
     "Site_streetaddress": "18-20 George Street",
@@ -284,7 +394,7 @@
     "longitude": 146.263663
   },
   {
-    "_id": 16,
+    "_id": 21,
     "Suburb": "Grovedale",
     "Site_title": "BOUNCEinc Geelong",
     "Site_streetaddress": "174 Torquay Road",
@@ -306,7 +416,7 @@
     "longitude": 144.342408
   },
   {
-    "_id": 17,
+    "_id": 22,
     "Suburb": "Traralgon",
     "Site_title": "Snap Fitness 24/7",
     "Site_streetaddress": "106-118 Argyle Street",
@@ -328,7 +438,7 @@
     "longitude": 146.533757
   },
   {
-    "_id": 19,
+    "_id": 24,
     "Suburb": "Glengarry",
     "Site_title": "Glengarry Hotel & Pub",
     "Site_streetaddress": "25 Main Street",
@@ -350,7 +460,7 @@
     "longitude": 146.5711669
   },
   {
-    "_id": 20,
+    "_id": 25,
     "Suburb": "Woodend",
     "Site_title": "Paysanne Cafe",
     "Site_streetaddress": "112 High Street",
@@ -372,7 +482,7 @@
     "longitude": 144.52817
   },
   {
-    "_id": 21,
+    "_id": 26,
     "Suburb": "Woodend",
     "Site_title": "Woodend Health and Fitness",
     "Site_streetaddress": "30 Wood Street",
@@ -394,7 +504,7 @@
     "longitude": 144.532972
   },
   {
-    "_id": 22,
+    "_id": 27,
     "Suburb": "Woodend",
     "Site_title": "Woodend Health and Fitness",
     "Site_streetaddress": "30 Wood Street",
@@ -416,7 +526,7 @@
     "longitude": 144.532972
   },
   {
-    "_id": 23,
+    "_id": 28,
     "Suburb": "Woodend",
     "Site_title": "Woodend Health and Fitness",
     "Site_streetaddress": "30 Wood Street",
@@ -438,7 +548,7 @@
     "longitude": 144.532972
   },
   {
-    "_id": 24,
+    "_id": 29,
     "Suburb": "Macedon",
     "Site_title": "The Macedon Lounge",
     "Site_streetaddress": "40 Victoria Street",
@@ -460,7 +570,7 @@
     "longitude": 144.564947
   },
   {
-    "_id": 26,
+    "_id": 31,
     "Suburb": "Sale",
     "Site_title": "Pastry and Pieces Bakery",
     "Site_streetaddress": "207 Raymond Street",
@@ -482,7 +592,7 @@
     "longitude": 147.065374
   },
   {
-    "_id": 27,
+    "_id": 32,
     "Suburb": "Traralgon",
     "Site_title": "Kiah Schoen Beauty",
     "Site_streetaddress": "45 Traralgon Maffra Road",
@@ -504,7 +614,7 @@
     "longitude": 146.561031
   },
   {
-    "_id": 28,
+    "_id": 33,
     "Suburb": "Traralgon",
     "Site_title": "Kiah Schoen Beauty",
     "Site_streetaddress": "45 Traralgon Maffra Road",
@@ -526,7 +636,7 @@
     "longitude": 146.561031
   },
   {
-    "_id": 29,
+    "_id": 34,
     "Suburb": "Traralgon",
     "Site_title": "Kiah Schoen Beauty",
     "Site_streetaddress": "45 Traralgon Maffra Road",
@@ -548,7 +658,7 @@
     "longitude": 146.561031
   },
   {
-    "_id": 30,
+    "_id": 35,
     "Suburb": "Traralgon",
     "Site_title": "Lovism Hair",
     "Site_streetaddress": "45 Traralgon Maffra Road",
@@ -570,7 +680,7 @@
     "longitude": 146.561031
   },
   {
-    "_id": 31,
+    "_id": 36,
     "Suburb": "Traralgon",
     "Site_title": "Lovism Hair",
     "Site_streetaddress": "45 Traralgon Maffra Road",
@@ -592,7 +702,7 @@
     "longitude": 146.561031
   },
   {
-    "_id": 32,
+    "_id": 37,
     "Suburb": "Traralgon",
     "Site_title": "Lovism Hair",
     "Site_streetaddress": "45 Traralgon Maffra Road",
@@ -614,7 +724,7 @@
     "longitude": 146.561031
   },
   {
-    "_id": 42,
+    "_id": 47,
     "Suburb": "Golden Square",
     "Site_title": "Fit Republic",
     "Site_streetaddress": "2/3 Abel Street",
@@ -636,7 +746,7 @@
     "longitude": 144.254326
   },
   {
-    "_id": 43,
+    "_id": 48,
     "Suburb": "Golden Square",
     "Site_title": "Fit Republic",
     "Site_streetaddress": "2/3 Abel Street",
@@ -658,7 +768,7 @@
     "longitude": 144.254326
   },
   {
-    "_id": 44,
+    "_id": 49,
     "Suburb": "Mildura",
     "Site_title": "PRD Real Estate Mildura",
     "Site_streetaddress": "119 Langtree Avenue",
@@ -680,7 +790,7 @@
     "longitude": 142.158121
   },
   {
-    "_id": 45,
+    "_id": 50,
     "Suburb": "Mildura",
     "Site_title": "PRD Real Estate Mildura",
     "Site_streetaddress": "119 Langtree Avenue",
@@ -702,7 +812,7 @@
     "longitude": 142.158121
   },
   {
-    "_id": 46,
+    "_id": 51,
     "Suburb": "Mildura",
     "Site_title": "PRD Real Estate Mildura",
     "Site_streetaddress": "119 Langtree Avenue",
@@ -724,7 +834,7 @@
     "longitude": 142.158121
   },
   {
-    "_id": 47,
+    "_id": 52,
     "Suburb": "Mildura",
     "Site_title": "PRD Real Estate Mildura",
     "Site_streetaddress": "119 Langtree Avenue",
@@ -746,7 +856,7 @@
     "longitude": 142.158121
   },
   {
-    "_id": 48,
+    "_id": 53,
     "Suburb": "Glengarry",
     "Site_title": "Glengarry Hotel & Pub",
     "Site_streetaddress": "25 Main Street",
@@ -768,7 +878,7 @@
     "longitude": 146.5711669
   },
   {
-    "_id": 49,
+    "_id": 54,
     "Suburb": "Mildura",
     "Site_title": "F45 Training Mildura\t",
     "Site_streetaddress": "38 Lime Avenue",
@@ -790,7 +900,7 @@
     "longitude": 142.161099
   },
   {
-    "_id": 50,
+    "_id": 55,
     "Suburb": "Traralgon",
     "Site_title": "Dunbar Road Landscape Supplies",
     "Site_streetaddress": "68/70 Dunbar Road",
@@ -812,7 +922,7 @@
     "longitude": 146.534099
   },
   {
-    "_id": 51,
+    "_id": 56,
     "Suburb": "Traralgon",
     "Site_title": "Dunbar Road Landscape Supplies",
     "Site_streetaddress": "68/70 Dunbar Road",
@@ -834,7 +944,7 @@
     "longitude": 146.534099
   },
   {
-    "_id": 52,
+    "_id": 57,
     "Suburb": "Benalla",
     "Site_title": "Fobia Industries Benalla",
     "Site_streetaddress": "123-125 Bridge Street",
@@ -856,7 +966,7 @@
     "longitude": 145.987446
   },
   {
-    "_id": 53,
+    "_id": 58,
     "Suburb": "Torquay",
     "Site_title": "9grams Torquay",
     "Site_streetaddress": "5/4-6 Gilbert Street",
@@ -878,7 +988,7 @@
     "longitude": 144.325537
   },
   {
-    "_id": 54,
+    "_id": 59,
     "Suburb": "Bendigo",
     "Site_title": "Fit Republic",
     "Site_streetaddress": "2/3 Abel Golden Square Street",
@@ -900,7 +1010,7 @@
     "longitude": 144.27957
   },
   {
-    "_id": 55,
+    "_id": 60,
     "Suburb": "Huntly",
     "Site_title": "BelleAmi Hair and Beauty",
     "Site_streetaddress": "619 Midland Highway",
@@ -922,7 +1032,7 @@
     "longitude": 144.331787
   },
   {
-    "_id": 56,
+    "_id": 61,
     "Suburb": "Shepparton",
     "Site_title": "The Deck",
     "Site_streetaddress": "198A Maude Street",
@@ -944,7 +1054,7 @@
     "longitude": 145.400858
   },
   {
-    "_id": 57,
+    "_id": 62,
     "Suburb": "Daylesford",
     "Site_title": "Blooms The Chemist",
     "Site_streetaddress": "39 Vincent Street",
