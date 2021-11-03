@@ -446,28 +446,6 @@
     "Site_streetaddress": "18-20 George Street",
     "Site_state": "VIC",
     "Site_postcode": "3825",
-    "Exposure_date_dtm": "2021-10-20",
-    "Exposure_date": "20/10/2021",
-    "Exposure_time": "8:30am - 4:00pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-10-28",
-    "Added_date": "28/10/2021",
-    "Added_time": "14:35:00",
-    "Advice_title": "Tier 1 – Get tested immediately and quarantine for 7 days from exposure if fully vaccinated or 14 days if not fully vaccinated",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 7 days from exposure if fully vaccinated, or 14 days from exposure if not fully vaccinated or if you live with someone who has COVID-19",
-    "Exposure_time_start_24": "08:30:00",
-    "Exposure_time_end_24": "16:00:00",
-    "dhid": "Z2Z6",
-    "latitude": -38.176255,
-    "longitude": 146.263663
-  },
-  {
-    "_id": 24,
-    "Suburb": "Moe",
-    "Site_title": "Indulge Yourself Beauty Therapy Spa & Laser Clinic",
-    "Site_streetaddress": "18-20 George Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3825",
     "Exposure_date_dtm": "2021-10-21",
     "Exposure_date": "21/10/2021",
     "Exposure_time": "10:00am - 8:30pm",
@@ -484,7 +462,7 @@
     "longitude": 146.263663
   },
   {
-    "_id": 25,
+    "_id": 24,
     "Suburb": "Moe",
     "Site_title": "Indulge Yourself Beauty Therapy Spa & Laser Clinic",
     "Site_streetaddress": "18-20 George Street",
@@ -506,7 +484,7 @@
     "longitude": 146.263663
   },
   {
-    "_id": 26,
+    "_id": 25,
     "Suburb": "Grovedale",
     "Site_title": "BOUNCEinc Geelong",
     "Site_streetaddress": "174 Torquay Road",
@@ -528,7 +506,7 @@
     "longitude": 144.342408
   },
   {
-    "_id": 27,
+    "_id": 26,
     "Suburb": "Traralgon",
     "Site_title": "Snap Fitness 24/7",
     "Site_streetaddress": "106-118 Argyle Street",
@@ -550,7 +528,7 @@
     "longitude": 146.533757
   },
   {
-    "_id": 29,
+    "_id": 27,
     "Suburb": "Woodend",
     "Site_title": "Paysanne Cafe",
     "Site_streetaddress": "112 High Street",
@@ -572,29 +550,7 @@
     "longitude": 144.52817
   },
   {
-    "_id": 30,
-    "Suburb": "Woodend",
-    "Site_title": "Woodend Health and Fitness",
-    "Site_streetaddress": "30 Wood Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3442",
-    "Exposure_date_dtm": "2021-10-20",
-    "Exposure_date": "20/10/2021",
-    "Exposure_time": "5:45am - 8:00am",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-10-27",
-    "Added_date": "27/10/2021",
-    "Added_time": "11:25:00",
-    "Advice_title": "Tier 1 – Get tested immediately and quarantine for 7 days from exposure if fully vaccinated or 14 days if not fully vaccinated",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 7 days from exposure if fully vaccinated, or 14 days from exposure if not fully vaccinated or if you live with someone who has COVID-19",
-    "Exposure_time_start_24": "05:45:00",
-    "Exposure_time_end_24": "08:00:00",
-    "dhid": "Z2E2",
-    "latitude": -37.35781,
-    "longitude": 144.532972
-  },
-  {
-    "_id": 31,
+    "_id": 28,
     "Suburb": "Woodend",
     "Site_title": "Woodend Health and Fitness",
     "Site_streetaddress": "30 Wood Street",
@@ -616,7 +572,7 @@
     "longitude": 144.532972
   },
   {
-    "_id": 32,
+    "_id": 29,
     "Suburb": "Woodend",
     "Site_title": "Woodend Health and Fitness",
     "Site_streetaddress": "30 Wood Street",
@@ -638,7 +594,7 @@
     "longitude": 144.532972
   },
   {
-    "_id": 33,
+    "_id": 30,
     "Suburb": "Macedon",
     "Site_title": "The Macedon Lounge",
     "Site_streetaddress": "40 Victoria Street",
@@ -660,29 +616,7 @@
     "longitude": 144.564947
   },
   {
-    "_id": 35,
-    "Suburb": "Traralgon",
-    "Site_title": "Kiah Schoen Beauty",
-    "Site_streetaddress": "45 Traralgon Maffra Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3844",
-    "Exposure_date_dtm": "2021-10-20",
-    "Exposure_date": "20/10/2021",
-    "Exposure_time": "9:30am - 1:00pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-10-26",
-    "Added_date": "26/10/2021",
-    "Added_time": "16:30:00",
-    "Advice_title": "Tier 1 – Get tested immediately and quarantine for 7 days from exposure if fully vaccinated or 14 days if not fully vaccinated",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 7 days from exposure if fully vaccinated, or 14 days from exposure if not fully vaccinated or if you live with someone who has COVID-19",
-    "Exposure_time_start_24": "09:30:00",
-    "Exposure_time_end_24": "13:00:00",
-    "dhid": "Z2G6",
-    "latitude": -38.186797,
-    "longitude": 146.561031
-  },
-  {
-    "_id": 36,
+    "_id": 31,
     "Suburb": "Traralgon",
     "Site_title": "Kiah Schoen Beauty",
     "Site_streetaddress": "45 Traralgon Maffra Road",
@@ -704,7 +638,7 @@
     "longitude": 146.561031
   },
   {
-    "_id": 37,
+    "_id": 32,
     "Suburb": "Traralgon",
     "Site_title": "Kiah Schoen Beauty",
     "Site_streetaddress": "45 Traralgon Maffra Road",
@@ -726,29 +660,7 @@
     "longitude": 146.561031
   },
   {
-    "_id": 38,
-    "Suburb": "Traralgon",
-    "Site_title": "Lovism Hair",
-    "Site_streetaddress": "45 Traralgon Maffra Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3844",
-    "Exposure_date_dtm": "2021-10-20",
-    "Exposure_date": "20/10/2021",
-    "Exposure_time": "9:30am - 1:00pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-10-26",
-    "Added_date": "26/10/2021",
-    "Added_time": "16:30:00",
-    "Advice_title": "Tier 1 – Get tested immediately and quarantine for 7 days from exposure if fully vaccinated or 14 days if not fully vaccinated",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 7 days from exposure if fully vaccinated, or 14 days from exposure if not fully vaccinated or if you live with someone who has COVID-19",
-    "Exposure_time_start_24": "09:30:00",
-    "Exposure_time_end_24": "13:00:00",
-    "dhid": "Y9G7",
-    "latitude": -38.186797,
-    "longitude": 146.561031
-  },
-  {
-    "_id": 39,
+    "_id": 33,
     "Suburb": "Traralgon",
     "Site_title": "Lovism Hair",
     "Site_streetaddress": "45 Traralgon Maffra Road",
@@ -770,7 +682,7 @@
     "longitude": 146.561031
   },
   {
-    "_id": 40,
+    "_id": 34,
     "Suburb": "Traralgon",
     "Site_title": "Lovism Hair",
     "Site_streetaddress": "45 Traralgon Maffra Road",
@@ -792,29 +704,7 @@
     "longitude": 146.561031
   },
   {
-    "_id": 47,
-    "Suburb": "Golden Square",
-    "Site_title": "Fit Republic",
-    "Site_streetaddress": "2/3 Abel Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3550",
-    "Exposure_date_dtm": "2021-10-20",
-    "Exposure_date": "20/10/2021",
-    "Exposure_time": "6:05pm - 7:45pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-10-25",
-    "Added_date": "25/10/2021",
-    "Added_time": "17:35:00",
-    "Advice_title": "Tier 1 – Get tested immediately and quarantine for 7 days from exposure if fully vaccinated or 14 days if not fully vaccinated",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 7 days from exposure if fully vaccinated, or 14 days from exposure if not fully vaccinated or if you live with someone who has COVID-19",
-    "Exposure_time_start_24": "18:05:00",
-    "Exposure_time_end_24": "19:45:00",
-    "dhid": "Y9H3",
-    "latitude": -36.769894,
-    "longitude": 144.254326
-  },
-  {
-    "_id": 48,
+    "_id": 37,
     "Suburb": "Mildura",
     "Site_title": "PRD Real Estate Mildura",
     "Site_streetaddress": "119 Langtree Avenue",
@@ -836,7 +726,7 @@
     "longitude": 142.158121
   },
   {
-    "_id": 49,
+    "_id": 38,
     "Suburb": "Mildura",
     "Site_title": "PRD Real Estate Mildura",
     "Site_streetaddress": "119 Langtree Avenue",
@@ -858,7 +748,7 @@
     "longitude": 142.158121
   },
   {
-    "_id": 50,
+    "_id": 39,
     "Suburb": "Glengarry",
     "Site_title": "Glengarry Hotel & Pub",
     "Site_streetaddress": "25 Main Street",
@@ -880,7 +770,7 @@
     "longitude": 146.5711669
   },
   {
-    "_id": 51,
+    "_id": 40,
     "Suburb": "Mildura",
     "Site_title": "F45 Training Mildura\t",
     "Site_streetaddress": "38 Lime Avenue",
@@ -902,51 +792,7 @@
     "longitude": 142.161099
   },
   {
-    "_id": 52,
-    "Suburb": "Traralgon",
-    "Site_title": "Dunbar Road Landscape Supplies",
-    "Site_streetaddress": "68/70 Dunbar Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3844",
-    "Exposure_date_dtm": "2021-10-20",
-    "Exposure_date": "20/10/2021",
-    "Exposure_time": "6:45am - 3:45pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-10-24",
-    "Added_date": "24/10/2021",
-    "Added_time": "16:10:00",
-    "Advice_title": "Tier 1 – Get tested immediately and quarantine for 7 days from exposure if fully vaccinated or 14 days if not fully vaccinated",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 7 days from exposure if fully vaccinated, or 14 days from exposure if not fully vaccinated or if you live with someone who has COVID-19",
-    "Exposure_time_start_24": "06:45:00",
-    "Exposure_time_end_24": "15:45:00",
-    "dhid": "Y3Y9",
-    "latitude": -38.206982,
-    "longitude": 146.534099
-  },
-  {
-    "_id": 53,
-    "Suburb": "Torquay",
-    "Site_title": "9grams Torquay",
-    "Site_streetaddress": "5/4-6 Gilbert Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3228",
-    "Exposure_date_dtm": "2021-10-20",
-    "Exposure_date": "20/10/2021",
-    "Exposure_time": "1:00pm - 2:30pm",
-    "Notes": "Case attended venue",
-    "Added_date_dtm": "2021-10-23",
-    "Added_date": "23/10/2021",
-    "Added_time": "11:00:00",
-    "Advice_title": "Tier 1 – Get tested immediately and quarantine for 7 days from exposure if fully vaccinated or 14 days if not fully vaccinated",
-    "Advice_instruction": "Anyone who has visited this location during these times must get tested immediately and quarantine for 7 days from exposure if fully vaccinated, or 14 days from exposure if not fully vaccinated or if you live with someone who has COVID-19",
-    "Exposure_time_start_24": "13:00:00",
-    "Exposure_time_end_24": "14:30:00",
-    "dhid": "Z5Q8",
-    "latitude": -38.332109,
-    "longitude": 144.325537
-  },
-  {
-    "_id": 54,
+    "_id": 41,
     "Suburb": "Bendigo",
     "Site_title": "Fit Republic",
     "Site_streetaddress": "2/3 Abel Golden Square Street",
