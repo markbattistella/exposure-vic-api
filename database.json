@@ -1479,6 +1479,16 @@
     "label": "145 High Street, Belmont, VIC, Australia"
   },
   {
+    "Suburb": "Belmont",
+    "Site_streetaddress": "19 Reynolds Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3216",
+    "confidence": 1,
+    "latitude": -38.188296,
+    "longitude": 144.325458,
+    "label": "19 Reynolds Road, Belmont, VIC, Australia"
+  },
+  {
     "Suburb": "Benalla",
     "Site_streetaddress": "123-125 Bridge Street",
     "Site_state": "VIC",
