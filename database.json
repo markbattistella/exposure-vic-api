@@ -9319,6 +9319,16 @@
     "label": "267 High Street, Kangaroo Flat, VIC, Australia"
   },
   {
+    "Suburb": "Kangaroo Flat",
+    "Site_streetaddress": "9 Browning Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3555",
+    "confidence": 1,
+    "latitude": -36.789993,
+    "longitude": 144.242594,
+    "label": "9 Browning Street, Kangaroo Flat, VIC, Australia"
+  },
+  {
     "Suburb": "Keilor",
     "Site_streetaddress": "25 Kennedy Street",
     "Site_state": "VIC",
