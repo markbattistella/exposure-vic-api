@@ -7949,6 +7949,16 @@
     "label": "76 Preston Street, Geelong West, VIC, Australia"
   },
   {
+    "Suburb": "Geelong West",
+    "Site_streetaddress": "80A Hope Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3218",
+    "confidence": 1,
+    "latitude": -38.142085,
+    "longitude": 144.348505,
+    "label": "80 Hope Street, Geelong West, VIC, Australia"
+  },
+  {
     "Suburb": "Geelong West ",
     "Site_streetaddress": "3/95-103 Pakington Street",
     "Site_state": "VIC",
