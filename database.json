@@ -3566,6 +3566,16 @@
     "label": "36 Merri Concourse, Campbellfield, VIC, Australia"
   },
   {
+    "Suburb": "Campbellfield",
+    "Site_streetaddress": "24 Malcolm Place",
+    "Site_state": "VIC",
+    "Site_postcode": "3061",
+    "confidence": 1,
+    "latitude": -37.672243,
+    "longitude": 144.971999,
+    "label": "24 Malcolm Place, Campbellfield, VIC, Australia"
+  },
+  {
     "Suburb": "Campbellfiled",
     "Site_streetaddress": "1434 Sydney Road",
     "Site_state": "VIC",
