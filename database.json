@@ -96,30 +96,6 @@
     "longitude": 144.8847997
   },
   {
-    "Suburb": "Colac",
-    "Site_streetaddress": "10 Murray Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3250",
-    "latitude": -38.3399519,
-    "longitude": 143.5889004
-  },
-  {
-    "Suburb": "Kangaroo",
-    "Site_streetaddress": "9 Browning Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3555",
-    "latitude": -36.7902425,
-    "longitude": 144.2404897
-  },
-  {
-    "Suburb": "Wodonga",
-    "Site_streetaddress": "97-99 Melrose Drive",
-    "Site_state": "VIC",
-    "Site_postcode": "3690",
-    "latitude": -36.1278213,
-    "longitude": 146.8619359
-  },
-  {
     "Suburb": "Airport West",
     "Site_streetaddress": "64 Parer Road",
     "Site_state": "VIC",
@@ -4537,19 +4513,19 @@
   },
   {
     "Suburb": "Colac",
+    "Site_streetaddress": "10 Murray Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3250",
+    "latitude": -38.3399519,
+    "longitude": 143.5889004
+  },
+  {
+    "Suburb": "Colac",
     "Site_streetaddress": "47-49 Hesse Street",
     "Site_state": "VIC",
     "Site_postcode": "3250",
     "latitude": -38.3402566,
     "longitude": 143.5873145
-  },
-  {
-    "Suburb": "Golden Square",
-    "Site_streetaddress": "2/3 Abel Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3550",
-    "latitude": -36.7725062,
-    "longitude": 144.2716776
   },
   {
     "Suburb": "Colac",
@@ -8300,6 +8276,14 @@
   },
   {
     "Suburb": "Golden Square",
+    "Site_streetaddress": "2/3 Abel Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3550",
+    "latitude": -36.7725062,
+    "longitude": 144.2716776
+  },
+  {
+    "Suburb": "Golden Square",
     "Site_streetaddress": "2F Thistle Street",
     "Site_state": "VIC",
     "Site_postcode": "3555",
@@ -9291,6 +9275,14 @@
     "latitude": -36.755577,
     "longitude": 144.264749,
     "label": "46 Eaglehawk Road, Ironbark, VIC, Australia"
+  },
+  {
+    "Suburb": "Kangaroo",
+    "Site_streetaddress": "9 Browning Street",
+    "Site_state": "VIC",
+    "Site_postcode": "3555",
+    "latitude": -36.7902425,
+    "longitude": 144.2404897
   },
   {
     "Suburb": "Kangaroo Flat",
@@ -11440,7 +11432,7 @@
     "Site_state": "VIC",
     "Site_postcode": "3500",
     "latitude": -34.215103,
-    "longitude": 142.146250
+    "longitude": 142.14625
   },
   {
     "Suburb": "Mildura",
@@ -19201,6 +19193,14 @@
     "confidence": 1,
     "latitude": -37.583651,
     "longitude": 143.798469
+  },
+  {
+    "Suburb": "Wodonga",
+    "Site_streetaddress": "97-99 Melrose Drive",
+    "Site_state": "VIC",
+    "Site_postcode": "3690",
+    "latitude": -36.1278213,
+    "longitude": 146.8619359
   },
   {
     "Suburb": "Wodonga",
