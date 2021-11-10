@@ -100,50 +100,24 @@
     "Site_streetaddress": "10 Murray Street",
     "Site_state": "VIC",
     "Site_postcode": "3250",
-    "confidence": 0.3,
-    "latitude": -37.014348,
-    "longitude": 143.480452,
-    "label": "Victoria, Australia"
+    "latitude": -38.3399519,
+    "longitude": 143.5889004
   },
   {
     "Suburb": "Kangaroo",
     "Site_streetaddress": "9 Browning Street",
     "Site_state": "VIC",
     "Site_postcode": "3555",
-    "confidence": 0.3,
-    "latitude": -37.014348,
-    "longitude": 143.480452,
-    "label": "Victoria, Australia"
-  },
-  {
-    "Suburb": "Bendigo",
-    "Site_streetaddress": "2/3 Abel Golden Square Street",
-    "Site_state": "VIC",
-    "Site_postcode": "3550",
-    "confidence": 0.6,
-    "latitude": -36.757608,
-    "longitude": 144.27957,
-    "label": "Bendigo, VIC, Australia"
-  },
-  {
-    "Suburb": "Moe",
-    "Site_streetaddress": "Waterloo Road",
-    "Site_state": "VIC",
-    "Site_postcode": "3825",
-    "confidence": 0.6,
-    "latitude": -38.175413,
-    "longitude": 146.253707,
-    "label": "Yallourn, VIC, Australia"
+    "latitude": -36.7902425,
+    "longitude": 144.2404897
   },
   {
     "Suburb": "Wodonga",
     "Site_streetaddress": "97-99 Melrose Drive",
     "Site_state": "VIC",
     "Site_postcode": "3690",
-    "confidence": 0.6,
-    "latitude": -36.127609,
-    "longitude": 146.89372,
-    "label": "Wodonga, VIC, Australia"
+    "latitude": -36.1278213,
+    "longitude": 146.8619359
   },
   {
     "Suburb": "Airport West",
@@ -1537,10 +1511,8 @@
     "Site_streetaddress": "CT2 Corner Edward and Queen Street",
     "Site_state": "VIC",
     "Site_postcode": "3550",
-    "confidence": 0.8,
-    "latitude": -37.789571,
-    "longitude": 144.988527,
-    "label": "Delbridge & Wellington Streets, & Queens Parade, Fitzroy North, VIC, Australia"
+    "latitude": -36.7628604,
+    "longitude": 144.2764101
   },
   {
     "Suburb": "Bendigo",
@@ -4576,10 +4548,8 @@
     "Site_streetaddress": "2/3 Abel Street",
     "Site_state": "VIC",
     "Site_postcode": "3550",
-    "confidence": 0.6,
-    "latitude": -36.769894,
-    "longitude": 144.254326,
-    "label": "Golden Square, VIC, Australia"
+    "latitude": -36.7725062,
+    "longitude": 144.2716776
   },
   {
     "Suburb": "Colac",
@@ -5744,13 +5714,6 @@
     "latitude": -37.770533,
     "longitude": 144.774018,
     "label": "803-805 Ballarat Road, Deer Park, VIC, Australia"
-  },
-  {
-    "Suburb": "Deer Park",
-    "Site_streetaddress": "Corner Neale and Station Roads",
-    "Site_state": "VIC",
-    "Site_postcode": "3023",
-    "skip": true
   },
   {
     "Suburb": "Delacombe",
@@ -11476,30 +11439,24 @@
     "Site_streetaddress": "Corner Fifteenth Street and Etiwanda Avenue",
     "Site_state": "VIC",
     "Site_postcode": "3500",
-    "confidence": 0.6,
-    "latitude": -34.199704,
-    "longitude": 142.153732,
-    "label": "Mildura, VIC, Australia"
+    "latitude": -34.215103,
+    "longitude": 142.146250
   },
   {
     "Suburb": "Mildura",
     "Site_streetaddress": "809-825 Fifteenth Street",
     "Site_state": "VIC",
     "Site_postcode": "3500",
-    "confidence": 1,
-    "latitude": -34.2092808,
-    "longitude": 142.1390258,
-    "label": "Mildura, VIC, Australia"
+    "latitude": -34.2092853,
+    "longitude": 142.1390258
   },
   {
     "Suburb": "Mildura",
     "Site_streetaddress": "17 Rita Drive",
     "Site_state": "VIC",
     "Site_postcode": "3500",
-    "confidence": 1,
     "latitude": -34.20383,
-    "longitude": 142.116933,
-    "label": "17 Rita Drive, Mildura, VIC, Australia"
+    "longitude": 142.116933
   },
   {
     "Suburb": "Mildura",
@@ -17398,10 +17355,8 @@
     "Site_streetaddress": "106-118 Argyle Street",
     "Site_state": "VIC",
     "Site_postcode": "3844",
-    "confidence": 0.6,
-    "latitude": -38.196566,
-    "longitude": 146.533757,
-    "label": "Traralgon, VIC, Australia"
+    "latitude": -38.1920604,
+    "longitude": 146.5492277
   },
   {
     "Suburb": "Traralgon",
