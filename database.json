@@ -15592,6 +15592,16 @@
     "longitude": 143.8809575
   },
   {
+    "Suburb": "South Dudley",
+    "Site_streetaddress": "307 White Road",
+    "Site_state": "VIC",
+    "Site_postcode": "3995",
+    "confidence": 0.3,
+    "latitude": -37.014348,
+    "longitude": 143.480452,
+    "label": "Victoria, Australia"
+  },
+  {
     "Suburb": "South Geelong",
     "Site_streetaddress": "1 Victoria Street",
     "Site_state": "VIC",
