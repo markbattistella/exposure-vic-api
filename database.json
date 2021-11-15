@@ -17355,6 +17355,16 @@
     "label": "39 Baines Crescent, Torquay, VIC, Australia"
   },
   {
+    "Suburb": "Torquay",
+    "Site_streetaddress": "39 Baines Crescent",
+    "Site_state": "VIC",
+    "Site_postcode": "3228",
+    "confidence": 1,
+    "latitude": -38.326901,
+    "longitude": 144.312921,
+    "label": "39 Baines Crescent, Torquay, VIC, Australia"
+  },
+  {
     "Suburb": "Tottenham",
     "Site_streetaddress": "Unit 1C/427-451 Somerville Road",
     "Site_state": "VIC",
